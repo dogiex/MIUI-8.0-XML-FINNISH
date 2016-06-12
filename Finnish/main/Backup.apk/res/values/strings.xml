@@ -314,35 +314,35 @@ Samanlaiset tiedostot uudella laitteella korvataan"</string>
   <string name="trans_sender">"Olen lähettäjä"</string>
   <string name="trans_sender_connectting">Varmista uudella laitteella</string>
   <string name="trans_sender_searching">Etsitään uusia laitteita</string>
-  <string name="trans_sender_searching_ensurance">"Make sure the old device is on
-Waiting for the old device to connect…"</string>
-  <string name="trans_sender_time_remained">"%s remaining.
-Don't turn off WLAN.
-Keep devices close to each other."</string>
-  <string name="trans_sending_completed">Sent successfully</string>
-  <string name="trans_show_qr_code_label">Connect old device</string>
-  <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
-  <string name="trans_start_failed_title">"Couldn't start transfer"</string>
-  <string name="trans_time_format_second">Less than 1 minute</string>
+  <string name="trans_sender_searching_ensurance">"Varmista, että vanha laite on päällä
+Odotetaan vanhan laitteen yhdistämistä…"</string>
+  <string name="trans_sender_time_remained">"%s jäljellä.
+Älä sammuta WLANia.
+Pidä laitteet lähellä toisiaan."</string>
+  <string name="trans_sending_completed">Lähetetty onnistuneesti</string>
+  <string name="trans_show_qr_code_label">Yhdistä vanha laite</string>
+  <string name="trans_show_qr_code_tips">Skannaa QR koodi vanhalla laitteella</string>
+  <string name="trans_start_failed_message">"Lähetystä ei voitu aloittaa, kokeile uudelleen tai käynnistä laite uudelleen."</string>
+  <string name="trans_start_failed_title">"Lähetystä ei voitu aloittaa"</string>
+  <string name="trans_time_format_second">Vähemmän kuin 1 minuutti</string>
   <string name="trans_time_spent">"
-Time spent: %s"</string>
-  <string name="trans_wait_trans_data">"Connected to the old device.
-Waiting for the transfer…"</string>
-  <string name="trans_waiting_ensurance">"Make sure the old device is on
-and Mi Mover is on"</string>
-  <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
+Aikaa käytetty: %s"</string>
+  <string name="trans_wait_trans_data">"Yhdistetty vanhaan laitteeseen.
+Odotetaan lähetystä…"</string>
+  <string name="trans_waiting_ensurance">"Varmista, että vanha laite on päällä
+ja Mi Mover on päällä"</string>
+  <string name="trans_waiting_for_sender">Odotetaan vanhan laitteen yhdistämistä…</string>
   <string name="unit_byte">B</string>
-  <string name="unit_piece">" items"</string>
-  <string name="unknown_hint">Unknown</string>
-  <string name="user_notice_declaration_ignore">"Don't show again"</string>
-  <string name="user_notice_message">Some features require internet connection to work normally.</string>
-  <string name="user_notice_title">Attention</string>
-  <string name="wifi_title">WLAN settings</string>
+  <string name="unit_piece">" tiedostoa"</string>
+  <string name="unknown_hint">Tuntematon</string>
+  <string name="user_notice_declaration_ignore">"Älä näytä uudestaan"</string>
+  <string name="user_notice_message">Jotkut toiminnot tarvitsevat internet yhteyden toimiakseen normaalisti.</string>
+  <string name="user_notice_title">Huomio</string>
+  <string name="wifi_title">WLAN asetukset</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_external_storage_unavailable">Taltio ei ole käytettävissä, tarkista SD kortti.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
@@ -351,5 +351,5 @@ and Mi Mover is on"</string>
 Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">New version available!</string>
+  <string name="xiaomi_update_dialog_title">Uusi versio saatavilla!</string>
 </resources>
