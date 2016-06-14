@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ble_profile_mi_band">
-        <item>Vibrate when ringing</item>
-        <item>Vibrate when receiving message</item>
-        <item>Vibrate when alarm</item>
+        <item>Värise kun laite soi</item>
+        <item>Värise kun viesti saapuu</item>
+        <item>Värise kun hälytys</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
-        <item>Take photo</item>
-        <item>Find phone</item>
-        <item>Find Mi-key</item>
+        <item>Ota kuva</item>
+        <item>Etsi puhelin</item>
+        <item>Etsi Mi-avain</item>
     </string-array>
     <string-array name="ble_packages">
         <item></item>

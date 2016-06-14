@@ -341,15 +341,15 @@ ja Mi Mover on päällä"</string>
   <string name="wifi_title">WLAN asetukset</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_connect_download_manager_fail">Yhdistäminen Download Manageriin epäonnistui, tarkasta Download Managerin tila sovellusten hallinnasta.</string>
   <string name="xiaomi_external_storage_unavailable">Taltio ei ole käytettävissä, tarkista SD kortti.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message">"Esittelyssä versio %1$s
+Koko: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Esittelyssä versio %1$s
+Delta päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Uusi versio saatavilla!</string>
 </resources>
