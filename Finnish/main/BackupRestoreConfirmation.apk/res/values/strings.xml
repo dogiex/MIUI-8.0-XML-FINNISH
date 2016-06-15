@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="allow_backup_button_label">Varmuuskopioi tiedot</string>
-  <string name="allow_restore_button_label">Palauta tiedit</string>
-  <string name="backup_confirm_text">"Yhdistetystä tietokoneesta on l�hetetty pyynt� ottaa t�ysi varmuuskopio. Sallitaanko t�m�?
+  <string name="allow_restore_button_label">Palauta tiedot</string>
+  <string name="backup_confirm_text">"Yhdistetystä tietokoneesta on lähetetty pyyntö ottaa täysi varmuuskopio. Sallitaanko tämä?
 
-Jos et itse tehnyt varmuuskopion pyynt��, �l� salli operaation edet�."</string>
-  <string name="backup_confirm_title">T�ysi varmuuskopio</string>
-  <string name="backup_enc_password_optional">Jos haluat salata koko varmuuskopion tiedot, sy�t� salasana alle:</string>
-  <string name="backup_enc_password_required">Koska laitteesi on salattu, sinun t�ytyy my�s salata varmuuskopio. Sy�t� salasana alle:</string>
-  <string name="backup_enc_password_text">Sy�t� salasana varmuuskopion salausta varten. Jos t�m� j�tet��n tyhj�ksi, sinun nykyist� varmuuskopion salasanaa k�ytet��n salasanana:</string>
-  <string name="current_password_text">Ole hyv� ja sy�t� nykyisen varmuuskopion salasana alle:</string>
-  <string name="deny_backup_button_label">�l� varmuuskopioi nyt</string>
-  <string name="deny_restore_button_label">�l� palauta</string>
-  <string name="device_encryption_backup_text">Ole hyv� ja sy�t� laitteesi salauksen salasana alle. T�t� k�ytet��n my�s varmuuskopion arkistoon.</string>
-  <string name="device_encryption_restore_text">Ole hyv� ja sy�t� laitteesi salauksen salasana alle.</string>
-  <string name="restore_confirm_text">"Yhdistetyst� tietokoneesta on l�hetetty pyynt� palauttaa t�yden varmuuskopion tiedot. Haluatko sallia t�m�n?
+Jos et itse tehnyt varmuuskopion pyyntöä, älä salli operaation edetä."</string>
+  <string name="backup_confirm_title">Täysi varmuuskopio</string>
+  <string name="backup_enc_password_optional">Jos haluat salata koko varmuuskopion tiedot, syötä salasana alle:</string>
+  <string name="backup_enc_password_required">Koska laitteesi on salattu, sinun täytyy myös salata varmuuskopio. Syötä salasana alle:</string>
+  <string name="backup_enc_password_text">Syötä salasana varmuuskopion salausta varten. Jos tämä jätetään tyhjäksi, sinun nykyistä varmuuskopion salasanaa käytetään salasanana:</string>
+  <string name="current_password_text">Ole hyvä ja syötä nykyisen varmuuskopion salasana alle:</string>
+  <string name="deny_backup_button_label">Älä varmuuskopioi nyt</string>
+  <string name="deny_restore_button_label">Älä palauta</string>
+  <string name="device_encryption_backup_text">Ole hyvä ja syötä laitteesi salauksen salasana alle. Tätä käytetään myös varmuuskopion arkistoon.</string>
+  <string name="device_encryption_restore_text">Ole hyvä ja syötä laitteesi salauksen salasana alle.</string>
+  <string name="restore_confirm_text">"Yhdistetystä tietokoneesta on lähetetty pyyntö palauttaa täyden varmuuskopion tiedot. Haluatko sallia tämän?
 
-Jos et itse tehnyt palautuksen pyynt��, �l� salli operaation edet�. T�m� korvaa kaikki t�ll� hetkell� olevat tiedot laitteessa!"</string>
-  <string name="restore_confirm_title">T�ysi palautus</string>
-  <string name="restore_enc_password_text">Jos palautuksen tiedot on salattu, sy�t� salasana alle:</string>
+Jos et itse tehnyt palautuksen pyyntöä, älä salli operaation edetä. Tämä korvaa kaikki tällä hetkellä olevat tiedot laitteessa!"</string>
+  <string name="restore_confirm_title">Täysi palautus</string>
+  <string name="restore_enc_password_text">Jos palautuksen tiedot on salattu, syötä salasana alle:</string>
   <string name="toast_backup_ended">Varmuuskopiointi valmis</string>
   <string name="toast_backup_started">Varmuuskopiointi aloitetaan...</string>
   <string name="toast_restore_ended">Palautus valmis</string>

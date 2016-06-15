@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ble_profile_mi_band">
-        <item>V‰rise kun laite soi</item>
-        <item>V‰rise kun viesti saapuu</item>
-        <item>V‰rise kun h‰lytys</item>
+        <item>V√§rise kun laite soi</item>
+        <item>V√§rise kun viesti saapuu</item>
+        <item>V√§rise kun h√§lytys</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
         <item>Ota kuva</item>
