@@ -2,23 +2,23 @@
 <resources>
   <string name="allow_backup_button_label">Varmuuskopioi tiedot</string>
   <string name="allow_restore_button_label">Palauta tiedit</string>
-  <string name="backup_confirm_text">"Yhdistetystä tietokoneesta on lähetetty pyyntö ottaa täysi varmuuskopio. Sallitaanko tämä?
+  <string name="backup_confirm_text">"YhdistetystÃ¤ tietokoneesta on lï¿½hetetty pyyntï¿½ ottaa tï¿½ysi varmuuskopio. Sallitaanko tï¿½mï¿½?
 
-Jos et itse tehnyt varmuuskopion pyyntöä, älä salli operaation edetä."</string>
-  <string name="backup_confirm_title">Täysi varmuuskopio</string>
-  <string name="backup_enc_password_optional">Jos haluat salata koko varmuuskopion tiedot, syötä salasana alle:</string>
-  <string name="backup_enc_password_required">Koska laitteesi on salattu, sinun täytyy myös salata varmuuskopio. Syötä salasana alle:</string>
-  <string name="backup_enc_password_text">Syötä salasana varmuuskopion salausta varten. Jos tämä jätetään tyhjäksi, sinun nykyistä varmuuskopion salasanaa käytetään salasanana:</string>
-  <string name="current_password_text">Ole hyvä ja syötä nykyisen varmuuskopion salasana alle:</string>
-  <string name="deny_backup_button_label">Älä varmuuskopioi nyt</string>
-  <string name="deny_restore_button_label">Älä palauta</string>
-  <string name="device_encryption_backup_text">Ole hyvä ja syötä laitteesi salauksen salasana alle. Tätä käytetään myös varmuuskopion arkistoon.</string>
-  <string name="device_encryption_restore_text">Ole hyvä ja syötä laitteesi salauksen salasana alle.</string>
-  <string name="restore_confirm_text">"Yhdistetystä tietokoneesta on lähetetty pyyntö palauttaa täyden varmuuskopion tiedot. Haluatko sallia tämän?
+Jos et itse tehnyt varmuuskopion pyyntï¿½ï¿½, ï¿½lï¿½ salli operaation edetï¿½."</string>
+  <string name="backup_confirm_title">Tï¿½ysi varmuuskopio</string>
+  <string name="backup_enc_password_optional">Jos haluat salata koko varmuuskopion tiedot, syï¿½tï¿½ salasana alle:</string>
+  <string name="backup_enc_password_required">Koska laitteesi on salattu, sinun tï¿½ytyy myï¿½s salata varmuuskopio. Syï¿½tï¿½ salasana alle:</string>
+  <string name="backup_enc_password_text">Syï¿½tï¿½ salasana varmuuskopion salausta varten. Jos tï¿½mï¿½ jï¿½tetï¿½ï¿½n tyhjï¿½ksi, sinun nykyistï¿½ varmuuskopion salasanaa kï¿½ytetï¿½ï¿½n salasanana:</string>
+  <string name="current_password_text">Ole hyvï¿½ ja syï¿½tï¿½ nykyisen varmuuskopion salasana alle:</string>
+  <string name="deny_backup_button_label">ï¿½lï¿½ varmuuskopioi nyt</string>
+  <string name="deny_restore_button_label">ï¿½lï¿½ palauta</string>
+  <string name="device_encryption_backup_text">Ole hyvï¿½ ja syï¿½tï¿½ laitteesi salauksen salasana alle. Tï¿½tï¿½ kï¿½ytetï¿½ï¿½n myï¿½s varmuuskopion arkistoon.</string>
+  <string name="device_encryption_restore_text">Ole hyvï¿½ ja syï¿½tï¿½ laitteesi salauksen salasana alle.</string>
+  <string name="restore_confirm_text">"Yhdistetystï¿½ tietokoneesta on lï¿½hetetty pyyntï¿½ palauttaa tï¿½yden varmuuskopion tiedot. Haluatko sallia tï¿½mï¿½n?
 
-Jos et itse tehnyt palautuksen pyyntöä, älä salli operaation edetä. Tämä korvaa kaikki tällä hetkellä olevat tiedot laitteessa!"</string>
-  <string name="restore_confirm_title">Täysi palautus</string>
-  <string name="restore_enc_password_text">Jos palautuksen tiedot on salattu, syötä salasana alle:</string>
+Jos et itse tehnyt palautuksen pyyntï¿½ï¿½, ï¿½lï¿½ salli operaation edetï¿½. Tï¿½mï¿½ korvaa kaikki tï¿½llï¿½ hetkellï¿½ olevat tiedot laitteessa!"</string>
+  <string name="restore_confirm_title">Tï¿½ysi palautus</string>
+  <string name="restore_enc_password_text">Jos palautuksen tiedot on salattu, syï¿½tï¿½ salasana alle:</string>
   <string name="toast_backup_ended">Varmuuskopiointi valmis</string>
   <string name="toast_backup_started">Varmuuskopiointi aloitetaan...</string>
   <string name="toast_restore_ended">Palautus valmis</string>
