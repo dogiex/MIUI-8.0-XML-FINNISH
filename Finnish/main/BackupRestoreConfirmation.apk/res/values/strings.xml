@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="allow_backup_button_label">Varmuuskopioi tiedot</string>
-  <string name="allow_restore_button_label">Palauta tiedot</string>
-  <string name="backup_confirm_text">"Yhdistetystä tietokoneesta on lähetetty pyyntö ottaa täysi varmuuskopio. Sallitaanko tämä?
+  <string name="allow_backup_button_label">Varmuuskopioi omat tiedot</string>
+  <string name="allow_restore_button_label">Palauta omat tiedot</string>
+  <string name="backup_confirm_text">"Kytketyn tietokoneen kaikista tiedoista on pyydetty täydellistä varmuuskopiota. Haluatko sallia tämän?
 
-Jos et itse tehnyt varmuuskopion pyyntöä, älä salli operaation edetä."</string>
-  <string name="backup_confirm_title">Täysi varmuuskopio</string>
-  <string name="backup_enc_password_optional">Jos haluat salata koko varmuuskopion tiedot, syötä salasana alle:</string>
-  <string name="backup_enc_password_required">Koska laitteesi on salattu, sinun täytyy myös salata varmuuskopio. Syötä salasana alle:</string>
-  <string name="backup_enc_password_text">Syötä salasana varmuuskopion salausta varten. Jos tämä jätetään tyhjäksi, sinun nykyistä varmuuskopion salasanaa käytetään salasanana:</string>
-  <string name="current_password_text">Ole hyvä ja syötä nykyisen varmuuskopion salasana alle:</string>
-  <string name="deny_backup_button_label">Älä varmuuskopioi nyt</string>
+Jos et ole itse pyytänyt varmuuskopiota, älä salli toimintoa."</string>
+  <string name="backup_confirm_title">Täysi varmuuskopiointi</string>
+  <string name="backup_enc_password_optional">Jos haluat salata kaikki varmuuskopiotiedot, kirjoita salasana alle:</string>
+  <string name="backup_enc_password_required">Koska laite on salattu, myös varmuuskopiointi on salattava. Kirjoita salasana alle:</string>
+  <string name="backup_enc_password_text">Anna salasana kaikkien varmuuskopiotietojen salaamiseksi. Jos tämä jätetään tyhjäksi, nykyistä varmuuskopioinnin salasanaa käytetään:</string>
+  <string name="current_password_text">Kirjoita nykyinen varmuuskopioinnin salasana alla:</string>
+  <string name="deny_backup_button_label">Älä varmuuskopioi</string>
   <string name="deny_restore_button_label">Älä palauta</string>
-  <string name="device_encryption_backup_text">Ole hyvä ja syötä laitteesi salauksen salasana alle. Tätä käytetään myös varmuuskopion arkistoon.</string>
-  <string name="device_encryption_restore_text">Ole hyvä ja syötä laitteesi salauksen salasana alle.</string>
-  <string name="restore_confirm_text">"Yhdistetystä tietokoneesta on lähetetty pyyntö palauttaa täyden varmuuskopion tiedot. Haluatko sallia tämän?
+  <string name="device_encryption_backup_text">Kirjoita laitteen salauksen salasana alle. Salasanaa käytetään myös varmuuskopioarkiston salaamiseen.</string>
+  <string name="device_encryption_restore_text">Kirjoita laitteen salauksen salasana alle.</string>
+  <string name="restore_confirm_text">"Täydellinen varmuuskopio kytketyn tietokoneen kaikista tiedoista on pyydetty. Haluatko sallia tämän?
 
-Jos et itse tehnyt palautuksen pyyntöä, älä salli operaation edetä. Tämä korvaa kaikki tällä hetkellä olevat tiedot laitteessa!"</string>
+Jos et ole itse pyytänyt varmuuskopiota, älä salli toimintoa. Tämä korvaa laitteesi kaikki nykyiset tiedot!"</string>
   <string name="restore_confirm_title">Täysi palautus</string>
-  <string name="restore_enc_password_text">Jos palautuksen tiedot on salattu, syötä salasana alle:</string>
+  <string name="restore_enc_password_text">Jos palautustiedot on salattu, anna salasana alla:</string>
   <string name="toast_backup_ended">Varmuuskopiointi valmis</string>
-  <string name="toast_backup_started">Varmuuskopiointi aloitetaan...</string>
-  <string name="toast_restore_ended">Palautus valmis</string>
-  <string name="toast_restore_started">Palautus aloitetaan...</string>
-  <string name="toast_timeout">Operaatio aikakatkaistiin</string>
+  <string name="toast_backup_started">Varmuuskopiointi alkaa...</string>
+  <string name="toast_restore_ended">Palautus päättyi</string>
+  <string name="toast_restore_started">Palautus alkaa...</string>
+  <string name="toast_timeout">Toiminnon aikakatkaisu</string>
 </resources>
