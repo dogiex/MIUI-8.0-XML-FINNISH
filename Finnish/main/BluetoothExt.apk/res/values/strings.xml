@@ -14,7 +14,7 @@
   <string name="dun_notif_message">Kosketa yhdistääksesi \"%1$s\".</string>
   <string name="dun_notif_ticker">Bluetooth DUN pyyntö</string>
   <string name="dun_notif_title">DUN Session Avain Pyyntö</string>
-  <string name="ftp_acceptance_dialog_header">Phone Folder Access</string>
+  <string name="ftp_acceptance_dialog_header">Puhelimen kansioiden pääsy</string>
   <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
   <string name="ftp_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
   <string name="ftp_authentication_timeout_message">There was time out to input session key with %1$s</string>
