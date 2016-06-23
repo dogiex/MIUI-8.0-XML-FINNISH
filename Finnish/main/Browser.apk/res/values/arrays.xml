@@ -361,32 +361,32 @@
         <item>0xffdbacb6</item>
     </integer-array>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
+        <item>Valkoinen</item>
+        <item>Keltainen</item>
+        <item>Harmaa</item>
+        <item>Ruskea</item>
+        <item>Vihreä</item>
+        <item>Sininen</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Desktop</item>
+        <item>Pöytäkone</item>
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
-        <item>Custom</item>
+        <item>Oletussivu</item>
+        <item>Muu</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Hyvin pieni</item>
+        <item>Pieni</item>
+        <item>Normaali</item>
+        <item>Suuri</item>
+        <item>Hyvin suuri</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
-        <item>Phone</item>
-        <item>Pad</item>
+        <item>Puhelin</item>
+        <item>Tabletti</item>
     </string-array>
 </resources>
