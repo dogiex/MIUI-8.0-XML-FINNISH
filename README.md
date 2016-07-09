@@ -1,7 +1,25 @@
-# MIUI-8.0-XML-FINNISH
+<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
 
-This is a Finnish translation for Xiaomi.eu multirom MIUI 8 brought to you by Dogiex.
 
-If you are interested in helping me, feel free to do so.
 
-I will translate it all the time when I have spare time.
+
+#MIUI 8 Finnish translation XML strings for xiaomi.eu
+
+MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+Strings are under a 
+- [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+Based on a work at http://miui.com
+
+For more info visit:
+- [Multilang MIUI Support](http://xiaomi.eu) 
+
+Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
+
+If you want to help me translate this, feel free to fork this repository and let's translate!
+- [Github Fork Guide](https://help.github.com/articles/fork-a-repo/)
+
+
+#####Credits:
+- Dogiex
