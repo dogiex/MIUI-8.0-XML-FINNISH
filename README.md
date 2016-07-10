@@ -23,3 +23,23 @@ If you want to help me translate this, feel free to fork this repository and let
 
 #####Credits:
 - Dogiex
+
+#####Already translated strings:
+- AntiSpam.apk
+- ApplicationsProvider.apk
+- AuthManager.apk
+- Backup.apk
+- BackupRestoreConfirmation.apk
+- Bluetooth.apk
+- BluetoothExt.apk
+- Browser.apk
+- BugReport.apk
+- Calculator.apk (not 100% done, can be used)
+- Calendar.apk
+- CalendarProvider.apk
+- CaptivePortalLogin.apk
+- CellBroadcastReceiver.apk
+- CertInstaller.apk
+
+#####Currently work in progress:
+- Contacts.apk (143/1288 done)
