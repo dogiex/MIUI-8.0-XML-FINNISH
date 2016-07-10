@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="calendar_default_name">Default</string>
-  <string name="calendar_info">Calendar info</string>
-  <string name="calendar_info_error">Error</string>
-  <string name="calendar_info_events">Events: %1$d</string>
-  <string name="calendar_info_events_dirty">Events: %1$d, Unsaved: %2$d</string>
-  <string name="calendar_info_no_calendars">No calendars</string>
-  <string name="calendar_storage">Calendar Storage</string>
-  <string name="debug_tool_delete_button">Delete now</string>
-  <string name="debug_tool_email_body">Attached is my Calendar database with all my appointments and personal information. Handle with care.</string>
-  <string name="debug_tool_email_sender_picker">Choose a program to send your file</string>
-  <string name="debug_tool_email_subject">Calendar Db attached</string>
-  <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-  <string name="debug_tool_start_button">Start</string>
-  <string name="holiday_data_no_network">"Can't connect to the network. Check your data connection and try again."</string>
-  <string name="holiday_data_update_failed">"Couldn't update. Check your data connection and try again."</string>
-  <string name="holiday_data_update_succeed">Update finished</string>
-  <string name="holiday_data_updating">Updating…</string>
-  <string name="holiday_update_summary">Tap to update calendar info.</string>
-  <string name="holiday_update_title">Update available</string>
-  <string name="provider_label">Calendar</string>
-  <string name="upgrade_msg">Upgrading Calendar database.</string>
+  <string name="calendar_default_name">Oletus</string>
+  <string name="calendar_info">Kalenteritiedot</string>
+  <string name="calendar_info_error">Virhe</string>
+  <string name="calendar_info_events">Tapahtumat: %1$d</string>
+  <string name="calendar_info_events_dirty">Tapahtumia: %1$d, Tallentamatta: %2$d</string>
+  <string name="calendar_info_no_calendars">Ei kalentereita</string>
+  <string name="calendar_storage">Kalenterin tallennus</string>
+  <string name="debug_tool_delete_button">Poista nyt</string>
+  <string name="debug_tool_email_body">Liitteenä kalenteritietokantani, joka sisältää kaikki tapaamiseni ja henkilötietoni. Käsiteltävä varoen.</string>
+  <string name="debug_tool_email_sender_picker">Valitse ohjelma tiedoston lähettämiseen</string>
+  <string name="debug_tool_email_subject">Kalenterin vianetsintä liitteenä</string>
+  <string name="debug_tool_message">Olet 1) tekemässä kopiota kalenteritietokannastasi SD-kortille/USB-tallennusvälineelle, joka on kaikkien sovelluksien luettavissa, ja 2) lähettämässä tietokantaa sähköpostitse. Muista poistaa tietokanta kopioituasi sen laitteelta tai saatuasi sähköpostin.</string>
+  <string name="debug_tool_start_button">Aloita</string>
+  <string name="holiday_data_no_network">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteys ja yritä uudestaan.</string>
+  <string name="holiday_data_update_failed">Päivitys epäonnistui. Tarkasta verkkoyhteys ja yritä uudestaan.</string>
+  <string name="holiday_data_update_succeed">Päivitys valmis</string>
+  <string name="holiday_data_updating">Päivitetään…</string>
+  <string name="holiday_update_summary">Päivitä kalenteritiedot napauttamalla.</string>
+  <string name="holiday_update_title">Päivitys saatavilla</string>
+  <string name="provider_label">Kalenteri</string>
+  <string name="upgrade_msg">Päivitetään Kalenteritietokantaa.</string>
 </resources>
