@@ -30,7 +30,7 @@ Let's translate together!
 - Dogiex
 
 #####Currently work in progress:
-- Contacts.apk (302/1288 done)
+- Contacts.apk (520/1288 done)
 
 #####Already translated strings:
 - AntiSpam.apk
