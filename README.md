@@ -18,19 +18,26 @@ For more info visit:
 Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
 If you want to help me translate this, feel free to:
+- Create a github account
 - Fork this repo
-- Translate strings
-- Make a pull request here
+- Translate strings (make changes to your files)
+- Make a pull request
 
 Let's translate together!
 
 [Github Fork Guide](https://help.github.com/articles/fork-a-repo/)
 
-#####Credits:
+[Github Dekstop Client](https://desktop.github.com/)
+
+##Good Text Editors:
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Sublime Text](https://www.sublimetext.com/)
+
+###Credits:
 - Dogiex
 - haippii
 
-#####Currently work in progress:
+####Currently work in progress:
 - Contacts.apk (762/1288 done)
 
 #####Already translated strings:
