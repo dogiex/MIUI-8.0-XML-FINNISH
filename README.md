@@ -31,7 +31,7 @@ Let's translate together!
 - haippii
 
 #####Currently work in progress:
-- Contacts.apk (520/1288 done)
+- Contacts.apk (762/1288 done)
 
 #####Already translated strings:
 - AntiSpam.apk
