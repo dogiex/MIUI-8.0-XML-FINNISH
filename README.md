@@ -21,12 +21,16 @@ If you want to help me translate this, feel free to:
 - Fork this repo
 - Translate strings
 - Make a pull request here
+
 Let's translate together!
 
 [Github Fork Guide](https://help.github.com/articles/fork-a-repo/)
 
 #####Credits:
 - Dogiex
+
+#####Currently work in progress:
+- Contacts.apk (520/1288 done)
 
 #####Already translated strings:
 - AntiSpam.apk
@@ -44,6 +48,3 @@ Let's translate together!
 - CaptivePortalLogin.apk
 - CellBroadcastReceiver.apk
 - CertInstaller.apk
-
-#####Currently work in progress:
-- Contacts.apk (143/1288 done)
