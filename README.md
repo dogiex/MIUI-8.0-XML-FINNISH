@@ -28,6 +28,7 @@ Let's translate together!
 
 #####Credits:
 - Dogiex
+- haippii
 
 #####Currently work in progress:
 - Contacts.apk (520/1288 done)
