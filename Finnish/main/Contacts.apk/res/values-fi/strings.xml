@@ -1280,6 +1280,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
   <string name="yellowpage_search_the_yellowpage">Search Yellow Pages</string>
-  <string name="yellowpage_user_profile">Profile</string>
+  <string name="yellowpage_user_profile">Profiili</string>
   <string name="zero_items_selected">Select items</string>
 </resources>
