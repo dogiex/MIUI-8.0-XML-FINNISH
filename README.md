@@ -39,7 +39,6 @@ Let's translate together!
 
 ####Currently work in progress:
 - Cit.apk
-- CleanMaster.apk
 
 #####Already translated strings:
 - AntiSpam.apk
@@ -58,3 +57,4 @@ Let's translate together!
 - CellBroadcastReceiver.apk
 - CertInstaller.apk
 - Contacts.apk
+- CleanMaster.apk
