@@ -38,7 +38,9 @@ Let's translate together!
 - haippii
 
 ####Currently work in progress:
-- Contacts.apk (762/1288 done)
+- Cit.apk
+- CleanMaster.apk
+--strings.xml
 
 #####Already translated strings:
 - AntiSpam.apk
@@ -56,3 +58,7 @@ Let's translate together!
 - CaptivePortalLogin.apk
 - CellBroadcastReceiver.apk
 - CertInstaller.apk
+- Contacts.apk
+- CleanMaster.apk
+-- arrays.xml
+-- prurals.xml
