@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
-  <string name="cit_OTG_plugin_check_title">OTG (detection)</string>
-  <string name="cit_OTG_plugout_check_summary">When OTG device is removed, the text \"USB OTG device removed\" should be displayed below.</string>
-  <string name="cit_OTG_plugout_check_title">OTG (removal)</string>
-  <string name="cit_OTG_waiting_in">Connect USB OTG device now</string>
-  <string name="cit_OTG_waiting_out">Disconnect USB OTG device now</string>
-  <string name="cit_ac_charger_in">Charging via AC</string>
-  <string name="cit_ac_charger_out">AC charger disconnected</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
-Before you calibrate the device, place it on a flat surface."</string>
-  <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
-  <string name="cit_aud_current_state">Current State:</string>
+  <string name="cit_OTG_plugin_check_summary">Kun OTG-laite on yhdistettynä, teksti \"USB OTG-laite havaittu\" pitäisi näkyä alla.</string>
+  <string name="cit_OTG_plugin_check_title">OTG (tunnistus)</string>
+  <string name="cit_OTG_plugout_check_summary">Kun OTG-laite poistetaan käytöstä, teksti \"USB OTG-laite poistettu\" pitäisi näkyä alla.</string>
+  <string name="cit_OTG_plugout_check_title">OTG (poisto)</string>
+  <string name="cit_OTG_waiting_in">Yhdistä USB OTG-laite nyt</string>
+  <string name="cit_OTG_waiting_out">Katkaise yhteys USB OTG-laitteeseen nyt</string>
+  <string name="cit_ac_charger_in">Ladataan käyttäen AC</string>
+  <string name="cit_ac_charger_out">AC-latausjohto on irroitettu</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Liikuta laitetta nopeasti yhteen suuntaan. X，Y，Z koordinaattien arvot näkyvät alla. (kun puhelin liikkuu: X tarkoittaa vasen/oikea, y tarkoittaa eteen/taakse, z tarkoittaa ylös ja alas).
+Ennen kuin kalibroit laitteen, laita se tasaiselle tasolle."</string>
+  <string name="cit_accelermeter_sensor_check_title">Kiihtyvyysanturi</string>
+  <string name="cit_aud_current_state">Nykyinen Tila:</string>
   <string name="cit_aud_spk_l">spk_L</string>
   <string name="cit_aud_spk_r">spk_R</string>
-  <string name="cit_aud_spk_vendor">Speaker Vendor:</string>
-  <string name="cit_aud_spkcal">Calibrate</string>
-  <string name="cit_aud_test_result">Test Result:</string>
+  <string name="cit_aud_spk_vendor">Kaiuttimen Myyjä:</string>
+  <string name="cit_aud_spkcal">Kalibroi</string>
+  <string name="cit_aud_test_result">Testin Tulokset:</string>
   <string name="cit_audio_cali_TEMP">Temp:</string>
-  <string name="cit_audio_cali_done">Calibration Done!</string>
-  <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
-  <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
-  <string name="cit_audio_cali_playing">Check Calibrated Data</string>
+  <string name="cit_audio_cali_done">Kalibrointi Valmis!</string>
+  <string name="cit_audio_cali_failed">Kalibrointi Epäonnistui, yritä uudelleen!</string>
+  <string name="cit_audio_cali_file_existed">Musiikkitiedostoa ei ole olemassa, kalibrointia ei voi jatkaa!</string>
+  <string name="cit_audio_cali_playing">Tarkasta Kalibrointitiedot</string>
   <string name="cit_audio_cali_q">Q:</string>
-  <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
+  <string name="cit_audio_cali_summary">Kalibroi Kaiutin PA</string>
   <string name="cit_audio_cali_t0">T0:</string>
-  <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
+  <string name="cit_audio_cali_title">Kaiutin PA Kalibrointitesti</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
-  <string name="cit_audio_calibrating">Calibration is ongoing...</string>
-  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
-  <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
+  <string name="cit_audio_calibrating">Kalibrointi on käynnissä...</string>
+  <string name="cit_audio_get_temp_fail">Väliaikaisten tiedostojen saanti epäonnistui!</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Takamikrofonin kaiuttimen testi</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Etumikrofonin kaiuttimen testi</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Päämikrofonin kaiuttimen testi</string>
+  <string name="cit_audio_lb_phonecall_title">Puhelun soittosimulaatiotesti</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
 Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>

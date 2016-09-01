@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cache_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>Koko</item>
+        <item>Nimi</item>
     </string-array>
     <string-array name="large_file_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>Koko</item>
+        <item>Nimi</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Most used</item>
-        <item>Size</item>
+        <item>Käytetyimmät</item>
+        <item>Koko</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Every day</item>
-        <item>Every 3 days</item>
-        <item>Every 7 days</item>
+        <item>Joka päivä</item>
+        <item>Joka 3 päivä</item>
+        <item>Joka 7 päivä</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -24,43 +24,43 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Show</item>
-        <item>"Don't show"</item>
-        <item>Show after</item>
+        <item>Näytä</item>
+        <item>Älä näytä</item>
+        <item>Näytä jälkeen</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
+        <item>Puhdista tämä tiedosto</item>
+        <item>Näytä tiedoston sijainti</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
+        <item>Puhdista tämä tiedosto</item>
+        <item>Näytä tiedoston sijainti</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Clean up this file</item>
-        <item>Open</item>
+        <item>Puhdista tämä tiedosto</item>
+        <item>Avaa</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
-        <item>Clean up</item>
+        <item>Puhdista</item>
     </string-array>
     <string-array name="apk_clean_menu">
-        <item>Clean up</item>
-        <item>Install this app</item>
-        <item>View in folder</item>
+        <item>Puhdista</item>
+        <item>Asenna tämä sovellus</item>
+        <item>Näytä kohteen kansio</item>
     </string-array>
     <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
+        <item>Lisää poikkeuksiin</item>
     </string-array>
     <string-array name="long_add_app_menu">
-        <item>Add app to exceptions</item>
+        <item>Lisää sovellus poikkeuksiin</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Uninstall</item>
+        <item>Poista sovellus</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
-        <item>Every 7 days</item>
-        <item>Every 15 days</item>
-        <item>Every 30 days</item>
+        <item>7 päivän välein</item>
+        <item>15 päivän välein</item>
+        <item>30 päivän välein</item>
     </string-array>
     <string-array name="scan_engine">
         <item>Clean Master</item>
