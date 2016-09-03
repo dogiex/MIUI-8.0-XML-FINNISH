@@ -58,3 +58,4 @@ Let's translate together!
 - CertInstaller.apk
 - Contacts.apk
 - CleanMaster.apk
+- CloudBackup.apk
