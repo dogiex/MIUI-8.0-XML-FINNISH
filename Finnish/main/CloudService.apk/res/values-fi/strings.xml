@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_denied">Access denied</string>
-  <string name="account">Account</string>
-  <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
-  <string name="activate">Activate</string>
-  <string name="activate_finddevice">Connect to the network to activate device</string>
-  <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
-  <string name="activating">Activating…</string>
-  <string name="antispam_sync">Do Not Disturb settings</string>
-  <string name="app_name">Mi Cloud</string>
+  <string name="access_denied">Pääsy kielletty</string>
+  <string name="account">Tili</string>
+  <string name="account_related">Laitteesi on kytkettynä jo olemassa olevaan Mi Tiliin(%s). Yhdistä verkkoon ja todenna laitteesi.</string>
+  <string name="activate">Aktivoi</string>
+  <string name="activate_finddevice">Yhdistä verkkoon ja aktivoi laitteesi</string>
+  <string name="activate_number_change_dialog_message">Valitse puhelinnumero, joka näytetään muille laitteille, kun käytät VoIP-puheluita.</string>
+  <string name="activating">Aktivoidaan…</string>
+  <string name="antispam_sync">Älä Häiritse asetukset</string>
+  <string name="app_name">Mi Pilvi</string>
   <string name="apple_10gb">20GB</string>
-  <string name="apple_cloud">Apple Cloud Service</string>
+  <string name="apple_cloud">Apple Pilvipalvelu</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">About RMB 72 per year</string>
   <string name="bad_authentication">Invalid account or password</string>
@@ -476,6 +476,6 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service">Mi Pilvi</string>
   <string name="xmpp_server_addr"/>
 </resources>

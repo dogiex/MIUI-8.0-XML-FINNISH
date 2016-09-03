@@ -39,6 +39,7 @@ Let's translate together!
 
 ####Currently work in progress:
 - Cit.apk
+- CloudService.apk
 
 #####Already translated strings:
 - AntiSpam.apk
@@ -57,5 +58,7 @@ Let's translate together!
 - CellBroadcastReceiver.apk
 - CertInstaller.apk
 - Contacts.apk
+- ContactsProvider.apk
 - CleanMaster.apk
 - CloudBackup.apk
+- DeskClock.apk
