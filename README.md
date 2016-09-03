@@ -62,3 +62,4 @@ Let's translate together!
 - CleanMaster.apk
 - CloudBackup.apk
 - DeskClock.apk
+- DocumentsUI.apk
