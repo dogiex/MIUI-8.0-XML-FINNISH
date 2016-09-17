@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d new messages</item>
-        <item quantity="one">%1$d new message</item>
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Archive %1$d conversations?</item>
-        <item quantity="one">Archive %1$d conversation?</item>
+        <item quantity="other">Arkistoidaanko nämä %1$d keskustelua?</item>
+        <item quantity="one">Arkistoidaanko tämä keskustelu?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete %1$d conversations?</item>
-        <item quantity="one">Delete %1$d conversation?</item>
+        <item quantity="other">Poistetaanko nämä %1$d keskustelua?</item>
+        <item quantity="one">Poistetaanko tämä keskustelu?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Conversation contains multiple messages, delete anyway?</item>
-        <item quantity="one">Conversation contains multiple messages, delete anyway?</item>
+        <item quantity="other">Keskustelu sisältää usean viestin, poistetaanko siitä huolimatta?</item>
+        <item quantity="one">Keskustelu sisältää usean viestin, poistetaanko siitä huolimatta?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Valittuna %d kohdetta</item>
+        <item quantity="one">Valittuna %d kohde</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Archived %1$d conversations.</item>
-        <item quantity="one">Archived %1$d conversation.</item>
+        <item quantity="other">Arkistoitu %1$d keskustelua.</item>
+        <item quantity="one">Arkistoitu %1$d keskustelu.</item>
     </plurals>
     <plurals name="conversation_deleted">
         <item quantity="other">Deleted %1$d conversations.</item>

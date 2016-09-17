@@ -40,6 +40,7 @@ Let's translate together!
 ####Currently work in progress:
 - Cit.apk
 - CloudService.apk
+- Email.apk
 
 #####Already translated strings:
 - AntiSpam.apk

@@ -112,16 +112,19 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+        <item>Å</item>
+        <item>Ä</item>
+        <item>Ö</item>
         <item>\#</item>
         <item>∅</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
-        <item>Tonight</item>
-        <item>Tomorrow</item>
-        <item>Weekend</item>
-        <item>Next week</item>
-        <item>Next month</item>
-        <item>Pick date</item>
+        <item>Tänäyönä</item>
+        <item>Huomenna</item>
+        <item>Viikonloppuna</item>
+        <item>Ensiviikolla</item>
+        <item>Ensikuussa</item>
+        <item>Valitse päivä</item>
     </string-array>
     <array name="combined_view_account_colors">
         <item>@color/combined_view_account_color_1</item>
@@ -135,9 +138,9 @@
         <item>@color/combined_view_account_color_9</item>
     </array>
     <string-array name="compose_modes">
-        <item>Reply</item>
-        <item>Reply all</item>
-        <item>Forward</item>
+        <item>Vastaa</item>
+        <item>Vastaa kaikille</item>
+        <item>Lähetä edelleen</item>
     </string-array>
     <string-array name="contact_edit_set_black_list_array">
         <item>@string/contact_edit_set_black_list_from</item>
@@ -191,40 +194,40 @@
         <item>@string/general_preference_text_zoom_huge</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Pikkuruinen</item>
+        <item>Pieni</item>
+        <item>Normaali</item>
+        <item>Suuri</item>
+        <item>Valtava</item>
     </string-array>
     <string-array name="general_preference_text_zoom_values">
-        <item>tiny</item>
-        <item>small</item>
-        <item>normal</item>
-        <item>large</item>
-        <item>huge</item>
+        <item>pikkuruinen</item>
+        <item>pieni</item>
+        <item>normaali</item>
+        <item>suuri</item>
+        <item>valtava</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recently viewed</item>
-        <item>Format</item>
-        <item>Name</item>
-        <item>Sender</item>
-        <item>Date received</item>
+        <item>Viimeksi katsottu</item>
+        <item>Formaatti</item>
+        <item>Nimi</item>
+        <item>Lähettäjä</item>
+        <item>Saapuneen päiväyksen</item>
     </string-array>
     <string-array name="moveto_folder_sections">
-        <item>System</item>
-        <item>Frequently Used</item>
-        <item>All Folders</item>
+        <item>Järjestelmä</item>
+        <item>Usein Käytetyt</item>
+        <item>Kaikki Kansiot</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Newer message</item>
-        <item>Older message</item>
-        <item>Inbox</item>
+        <item>Uudemmat</item>
+        <item>Vanhemmat</item>
+        <item>Keskusteluluettelo</item>
     </string-array>
     <string-array name="prefValues_autoAdvance">
-        <item>newer</item>
-        <item>older</item>
-        <item>list</item>
+        <item>uudemmat</item>
+        <item>vanhemmat</item>
+        <item>luettelo</item>
     </string-array>
     <string-array name="quote_devider_text_array">
         <item>@string/quote_divider_apple</item>
@@ -265,50 +268,50 @@
         <item>25</item>
     </integer-array>
     <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Site:</item>
-        <item>Email:</item>
-        <item>mobile:</item>
-        <item>Phone:</item>
+        <item>Blogi:</item>
+        <item>Sivusto:</item>
+        <item>Sähköpostiosoite:</item>
+        <item>Matkapuhelin:</item>
+        <item>Puhelin:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
         <item>E:</item>
-        <item>E-mail:</item>
-        <item>Tel:</item>
+        <item>Sähköpostiosoite:</item>
+        <item>Puh:</item>
         <item>Fax:</item>
         <item>Mail:</item>
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
-        <item>Tel:</item>
-        <item>Name:</item>
-        <item>Email:</item>
-        <item>Mobile:</item>
+        <item>Osoite:</item>
+        <item>Puh:</item>
+        <item>Nimi:</item>
+        <item>Sähköpostiosoite:</item>
+        <item>Matkapuhelin:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>Postinumero:</item>
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Disclaimer:</item>
         <item>Email Disclaimer</item>
         <item>Sent via WPSMail</item>
-        <item>Sent from</item>
-        <item>Sent with</item>
-        <item>Thanks,</item>
-        <item>Best Regards</item>
+        <item>Lähetetty laitteesti</item>
+        <item>Lähetetty</item>
+        <item>Kiitos,</item>
+        <item>Ystävällisin Terveisin</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
+        <item>Kiitos,</item>
+        <item>Ystävällisin Terveisin</item>
+        <item>Lähetetty minun</item>
+        <item>Alkuperäinen sähköposti</item>
+        <item>Lähetetty minun</item>
+        <item>Lähetetty minun</item>
+        <item>Lähettäjä</item>
+        <item>Tämä sähköposti</item>
         <item>Disclaimer</item>
         <item>Email Disclaimer</item>
     </string-array>
