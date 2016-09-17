@@ -63,3 +63,4 @@ Let's translate together!
 - CloudBackup.apk
 - DeskClock.apk
 - DocumentsUI.apk
+- DownloadProvider.apk
