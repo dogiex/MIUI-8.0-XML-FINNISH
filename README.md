@@ -35,12 +35,14 @@ Let's translate together!
 
 ###Credits:
 - Dogiex
-- haippii
 
 ####Currently work in progress:
 - Cit.apk
 - CloudService.apk
 - Email.apk
+- framework-ext-res.apk
+- FindDevice.apk
+- Settings.apk
 
 #####Already translated strings:
 - AntiSpam.apk
@@ -66,3 +68,16 @@ Let's translate together!
 - DocumentsUI.apk
 - DownloadProvider.apk
 - DownloadProviderUi.apk
+- ExternalStorageProvider.apk
+- framework-res.apk
+- FusedLocation.apk
+- HTMLViewer.apk
+- InputDevices.apk
+- KeyChain.apk
+- LiveWallpapersPicker.apk
+- ManagedProvisioning.apk
+- MediaProvider.apk
+- NfcNci.apk
+- PackageInstaller.apk
+- PrintSpooler.apk
+- ProxyHandler.apk

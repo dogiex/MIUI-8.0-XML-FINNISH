@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="allow_button">Allow</string>
-  <string name="app_name">Key Chain</string>
-  <string name="deny_button">Deny</string>
-  <string name="install_new_cert_button_label">Install</string>
-  <string name="install_new_cert_message">You can install certificates from a PKCS#12 file with a %1$s or a %2$s extension located in external storage.</string>
-  <string name="requesting_application">The app %s has requested a certificate. Choosing a certificate will let the app use this identity with servers now and in the future.</string>
-  <string name="requesting_server">The app has identified the requesting server as %s, but you should only give the app access to the certificate if you trust the app.</string>
-  <string name="title_no_certs">No certificates found</string>
-  <string name="title_select_cert">Choose certificate</string>
+  <string name="allow_button">Salli</string>
+  <string name="app_name">Avainketju</string>
+  <string name="deny_button">Hylkää</string>
+  <string name="install_new_cert_button_label">Asenna</string>
+  <string name="install_new_cert_message">Voit asentaa varmenteita PKCS#12-tiedostosta, jos ulkoisessa tallennustilassa on %1$s tai %2$s-laajennus.</string>
+  <string name="requesting_application">Sovellus %s pyysi varmennetta. Jos valitset varmenteen, annat sovellukselle oikeuden käyttää kyseistä identiteettiä palvelimilla nyt ja myöhemmin.</string>
+  <string name="requesting_server">Sovellus määritti pyytävän palvelimen olevan %s, mutta suosittelemme antamaan sovellukselle varmenteen käyttöoikeuden vain, jos luotat sovellukseen.</string>
+  <string name="title_no_certs">Varmenteita ei löytynyt</string>
+  <string name="title_select_cert">Valitse varmenne</string>
 </resources>

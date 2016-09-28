@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">HTML Viewer</string>
-  <string name="app_name_which_call">Application:%s</string>
-  <string name="app_version_which_call">Application version:%s</string>
-  <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
-go to %s"</string>
-  <string name="loading">Loading…</string>
-  <string name="mibi_license">Mi Credit Terms of Service</string>
-  <string name="open_wifi_connect_summary">Tap to view details.</string>
-  <string name="open_wifi_connect_title">Connect to %1$s</string>
-  <string name="policy_name">Policy:%s</string>
-  <string name="settings_license_activity_loading">Loading…</string>
-  <string name="settings_license_activity_title">Open source licenses</string>
-  <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
-  <string name="settings_safetylegal_activity_loading">Loading…</string>
-  <string name="settings_safetylegal_activity_title">Safety information</string>
-  <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
-  <string name="settings_safetylegal_title">Safety information</string>
+  <string name="app_label">HTML-lukija</string>
+  <string name="app_name_which_call">Sovellus:%s</string>
+  <string name="app_version_which_call">Sovellusversio:%s</string>
+  <string name="license_host_unreachable">"Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon heti, mene %s"</string>
+  <string name="loading">Ladataan…</string>
+  <string name="mibi_license">Mi Krediitti Käyttöehdot</string>
+  <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
+  <string name="open_wifi_connect_title">Yhdistä kohteeseen %1$s</string>
+  <string name="policy_name">Käytäntö:%s</string>
+  <string name="settings_license_activity_loading">Ladataan…</string>
+  <string name="settings_license_activity_title">Vapaan lähdekoodin lisenssit</string>
+  <string name="settings_license_activity_unavailable">Lisenssien lataamisessa on ongelma.</string>
+  <string name="settings_safetylegal_activity_loading">Ladataan…</string>
+  <string name="settings_safetylegal_activity_title">Turvallisuustieto</string>
+  <string name="settings_safetylegal_activity_unreachable">"Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon heti, mene %s millä tahansa tietokoneella, jossa on Internet-yhteys."</string>
+  <string name="settings_safetylegal_title">Turvallisuustieto</string>
 </resources>

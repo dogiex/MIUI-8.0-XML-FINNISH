@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Sähköposti (koti)</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,25 +17,25 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Koti</item>
+        <item>Mobiili</item>
+        <item>Työ</item>
+        <item>Faksi (työ)</item>
+        <item>Faksi (koti)</item>
+        <item>Hakulaite</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Koti</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
     </string-array>
     <array name="config_keySystemUuidMapping" />
     <array name="preloaded_drawables">
@@ -629,10 +629,10 @@
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Pikaviestin (koti)</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
     </string-array>
     <array name="carrier_properties" />
     <integer-array name="config_manualBrightnessRemapIn">

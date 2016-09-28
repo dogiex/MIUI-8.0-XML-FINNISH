@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Accounts_settings_title">Accounts</string>
+  <string name="Accounts_settings_title">Tilit</string>
   <string name="aaid_info">"
 Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
 
 If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
-  <string name="about_settings">About phone</string>
-  <string name="about_settings_summary">View legal info, status, software version</string>
+  <string name="about_settings">Tietoja puhelimesta</string>
+  <string name="about_settings_summary">Näytä lakitiedot, tila, ohjelmiston versio</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
   <string name="ac_set_apps_title">Choose apps to lock</string>
-  <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_title">Auto-rotate screen</string>
+  <string name="accelerometer_summary_off">Vaihda suuntaa automaattisesti, kun puhelinta käännetään</string>
+  <string name="accelerometer_summary_on">Vaihda suuntaa automaattisesti, kun puhelinta käännetään</string>
+  <string name="accelerometer_title">Näytön automaattinen kierto</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
   <string name="access_control_need_password">"%s has been protected
@@ -24,90 +24,90 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="access_control_password_title">Password</string>
   <string name="access_control_recording_intro_header">Draw an unlock pattern:</string>
   <string name="access_control_reset_by_account">Sign in to your Mi Account to reset password</string>
-  <string name="access_point_names">Access point names</string>
-  <string name="accessibility_captioning_title">Captions</string>
-  <string name="accessibility_category_personal">Personal profile accounts</string>
-  <string name="accessibility_category_work">Work profile accounts - %s</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
-  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) May affect performance</string>
-  <string name="accessibility_display_inversion_preference_title">Color inversion</string>
-  <string name="accessibility_display_title">Display</string>
-  <string name="accessibility_enable">Accessibility</string>
-  <string name="accessibility_feature_or_input_method_not_allowed">Not allowed by your organization</string>
-  <string name="accessibility_feature_state_off">Off</string>
-  <string name="accessibility_feature_state_on">On</string>
-  <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+  <string name="access_point_names">Tukiasemien nimet</string>
+  <string name="accessibility_captioning_title">Tekstitykset</string>
+  <string name="accessibility_category_personal">Henkilökohtaiset profiilit</string>
+  <string name="accessibility_category_work">Työprofiilit – %s</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Tämä ominaisuus on kokeellinen ja voi vaikuttaa suorituskykyyn.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Värikorjaus</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Kokeellinen) Voi vaikuttaa suorituskykyyn</string>
+  <string name="accessibility_display_inversion_preference_title">Käänteiset värit</string>
+  <string name="accessibility_display_title">Näyttö</string>
+  <string name="accessibility_enable">Esteettömyys</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">Ei sallita organisaatiossasi</string>
+  <string name="accessibility_feature_state_off">Ei käyt.</string>
+  <string name="accessibility_feature_state_on">Käytössä</string>
+  <string name="accessibility_global_gesture_preference_description">"Kun tämä ominaisuus on käytössä, voit ottaa esteettömyystoiminnot käyttöön nopeasti kahden vaiheen kautta.
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Vaihe 1: paina virtapainiketta, kunnes kuulet äänen tai tunnet värinän.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Vaihe 2: kosketa kahdella sormella, kunnes kuulet äänivahvistuksen.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-  <string name="accessibility_global_gesture_preference_summary_on">On</string>
-  <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-  <string name="accessibility_lock_screen_progress">%1$d of %2$d characters used</string>
-  <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
-  <string name="accessibility_menu_item_settings">Settings</string>
-  <string name="accessibility_no_services_installed">No services installed</string>
+Jos laitteella on useita käyttäjiä, tämän pikanäppäimen käyttö lukitusnäytössä ottaa esteettömyystilan käyttöön väliaikaisesti, kunnes laitteen lukitus poistetaan."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Pois käytöstä</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Käytössä</string>
+  <string name="accessibility_global_gesture_preference_title">Esteettömyystilan pikakuvake</string>
+  <string name="accessibility_lock_screen_progress">%1$d/%2$d merkkiä käytössä</string>
+  <string name="accessibility_long_press_timeout_preference_title">Pitkäkestoisen kosketuksen viive</string>
+  <string name="accessibility_menu_item_settings">Asetukset</string>
+  <string name="accessibility_no_services_installed">Ei asennettuja palveluita</string>
   <string name="accessibility_no_wifi">Wifi disconnected.</string>
-  <string name="accessibility_personal_account_title">Personal account - %s</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
+  <string name="accessibility_personal_account_title">Henkilökohtainen tili – %s</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Puhelun katkaisu virtapainikkeella</string>
   <string name="accessibility_screen_magnification_enable">Magnification gestures</string>
-  <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+  <string name="accessibility_screen_magnification_summary">"Kun tämä ominaisuus on käytössä, voit lähentää ja loitontaa kolmoisnapauttamalla näyttöä.
 
-While zoomed in, you can:
-"&lt;li&gt;&lt;ul&gt;"Pan: Drag two or more fingers across the screen.
-"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+Lähennetyssä tilassa voit
+"&lt;li&gt;&lt;ul&gt;"panoroida vet&amp;#228;m&amp;#228;ll&amp;#228; v&amp;#228;hint&amp;#228;&amp;#228;n kahta sormea n&amp;#228;yt&amp;#246;n poikki
+"&lt;li&gt;s&amp;#228;&amp;#228;t&amp;#228;&amp;#228; l&amp;#228;hennyksen tasoa nipist&amp;#228;m&amp;#228;ll&amp;#228; v&amp;#228;hint&amp;#228;&amp;#228;n kaksi sormea yhteen tai levitt&amp;#228;m&amp;#228;ll&amp;#228; ne erilleen.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-You can also temporarily magnify what&amp;#8217;s under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+Voit my&amp;#246;s suurentaa sormesi alla olevan kohteen v&amp;#228;liaikaisesti kolmoisnapauttamalla ja pit&amp;#228;m&amp;#228;ll&amp;#228; viimeisen napautuksen n&amp;#228;yt&amp;#246;ll&amp;#228;. Suurennetussa tilassa voit tutkia n&amp;#228;yt&amp;#246;n eri osia sormella vet&amp;#228;m&amp;#228;ll&amp;#228;. Nostamalla sormen p&amp;#228;&amp;#228;set takaisin edelliseen tilaan.
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
-  <string name="accessibility_screen_magnification_title">Magnification gestures</string>
-  <string name="accessibility_service_default_description">No description provided.</string>
-  <string name="accessibility_services_title">Services</string>
-  <string name="accessibility_settings">Accessibility</string>
-  <string name="accessibility_settings_title">Accessibility settings</string>
-  <string name="accessibility_sync_disabled">Sync disabled</string>
-  <string name="accessibility_sync_enabled">Sync enabled</string>
-  <string name="accessibility_sync_error">Sync error.</string>
-  <string name="accessibility_sync_in_progress">Syncing now</string>
-  <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_high_text_contrast_preference_title">High contrast text</string>
-  <string name="accessibility_toggle_large_text_preference_title">Large text</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
-  <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
-  <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
+Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&amp;#228;imist&amp;#246;ss&amp;#228; ja siirtymispalkissa."</string>
+  <string name="accessibility_screen_magnification_title">Suurennuseleet</string>
+  <string name="accessibility_service_default_description">Ei kuvausta.</string>
+  <string name="accessibility_services_title">Palvelut</string>
+  <string name="accessibility_settings">Esteettömyys</string>
+  <string name="accessibility_settings_title">Esteettömyysasetukset</string>
+  <string name="accessibility_sync_disabled">Synkronointi pois käytöstä</string>
+  <string name="accessibility_sync_enabled">Synkronointi käytössä</string>
+  <string name="accessibility_sync_error">Synkronointivirhe.</string>
+  <string name="accessibility_sync_in_progress">Synkronoidaan nyt</string>
+  <string name="accessibility_system_title">Järjestelmä</string>
+  <string name="accessibility_toggle_high_text_contrast_preference_title">Suurikontrastinen teksti</string>
+  <string name="accessibility_toggle_large_text_preference_title">Suuri teksti</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Päivitä näytön suurennus sovellussiirtymissä</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Päivitä näytön suurennus automaatt.</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Näytön suurennus</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Puhu salasanat</string>
   <string name="accessibility_wifi_off">Wifi off.</string>
   <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
   <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
   <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
   <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
-  <string name="accessibility_work_account_title">Work account - %s</string>
+  <string name="accessibility_work_account_title">Työtili – %s</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
   <string name="account_list">Other accounts</string>
-  <string name="account_settings">Accounts</string>
-  <string name="account_settings_menu_auto_sync">Auto-sync data</string>
-  <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
-  <string name="account_settings_menu_auto_sync_work">Auto-sync work data</string>
-  <string name="account_settings_title">Accounts</string>
-  <string name="account_sync_settings_title">Sync</string>
+  <string name="account_settings">Tilit</string>
+  <string name="account_settings_menu_auto_sync">Tietojen autom. synkronointi</string>
+  <string name="account_settings_menu_auto_sync_personal">Omien tietojen autom. synkron.</string>
+  <string name="account_settings_menu_auto_sync_work">Työtietojen autom. synkron.</string>
+  <string name="account_settings_title">Tilit</string>
+  <string name="account_sync_settings_title">Synkronointi</string>
   <string name="activating">Activating…</string>
-  <string name="active_device_admin_msg">Device administrator</string>
-  <string name="active_input_method_subtypes">Active input methods</string>
-  <string name="activity_not_found">Application is not installed on your phone.</string>
-  <string name="activity_picker_label">Choose activity</string>
+  <string name="active_device_admin_msg">Laitteen järjestelmänvalvoja</string>
+  <string name="active_input_method_subtypes">Aktiiviset syöttötavat</string>
+  <string name="activity_not_found">Sovellusta ei ole asennettu puhelimeesi.</string>
+  <string name="activity_picker_label">Valitse toiminto</string>
   <string name="ad_service">Ad services</string>
-  <string name="adb_keys_warning_message">Revoke access to USB debugging from all computers you’ve previously authorized?</string>
-  <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
-  <string name="adb_warning_title">Allow USB debugging?</string>
-  <string name="add_account_label">Add account</string>
+  <string name="adb_keys_warning_message">Haluatko peruuttaa USB-vianetsinnän käyttöoikeuden kaikilta tietokoneilta, joille olet antanut luvan aiemmin?</string>
+  <string name="adb_warning_message">USB-vianetsintä on tarkoitettu vain kehittäjien käyttöön. Sen avulla voidaan kopioida tietoja tietokoneesi ja laitteesi välillä, asentaa laitteeseesi sovelluksia ilmoittamatta siitä sinulle ja lukea lokitietoja.</string>
+  <string name="adb_warning_title">Sallitaanko USB-vianetsintä?</string>
+  <string name="add_account_label">Lisää tili</string>
   <string name="add_auto_startup_application">Add autostart apps</string>
-  <string name="add_device_admin">Activate</string>
-  <string name="add_device_admin_msg">Activate device administrator?</string>
+  <string name="add_device_admin">Ota käyttöön</string>
+  <string name="add_device_admin_msg">Otetaanko laitteen järjestelmänvalvoja käyttöön?</string>
   <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
@@ -120,100 +120,102 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
-  <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
+  <string name="adding_profile_owner_warning">"Jatkamalla hyväksyt, että järjestelmänvalvoja voi hallinnoida käyttäjää ja tallentaa käyttäjään liittyviä tietoja, kuten henkilökohtaisia tietoja.
 
-Your Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device’s location information."</string>
-  <string name="additional_permissions">Additional permissions</string>
-  <string name="additional_permissions_more">%1$d more</string>
+Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksia, käyttöoikeuksia, sovelluksia ja tähän käyttäjään liittyviä tietoja, kuten verkon käyttöä ja laitteen sijaintitietoja."</string>
+  <string name="additional_permissions">Lisäkäyttöoikeudet</string>
+  <string name="additional_permissions_more">%1$d lisää</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
-  <string name="additional_system_update_settings_list_item_title">Additional system updates</string>
+  <string name="additional_system_update_settings_list_item_title">Järjestelmän lisäpäivitykset</string>
   <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
-  <string name="advanced_apps">Advanced</string>
-  <string name="advanced_section_header">Advanced</string>
-  <string name="advanced_security_title">Advanced</string>
-  <string name="advanced_settings">Advanced settings</string>
-  <string name="advanced_settings_summary">Enable more settings options</string>
+  <string name="advanced_apps">Lisäasetukset</string>
+  <string name="advanced_section_header">Lisäasetukset</string>
+  <string name="advanced_security_title">Lisäasetukset</string>
+  <string name="advanced_settings">Lisäasetukset</string>
+  <string name="advanced_settings_summary">Ota lisää asetuksia käyttöön.</string>
   <string name="agps_roaming">A-GPS when roaming</string>
   <string name="agps_roaming_dia">"Using A-GPS while roaming may increase your mobile data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="agps_roaming_dia_title">Use A-GPS when roaming</string>
   <string name="agps_roaming_summary">Use mobile data to assist GPS while roaming</string>
-  <string name="airplane_mode">Airplane mode</string>
+  <string name="airplane_mode">Lentokonetila</string>
   <string name="alarm_sound_dialog_title">Choose alarm sound</string>
   <string name="alarm_sound_title">Alarm sound</string>
-  <string name="alarm_volume_option_title">Alarm volume</string>
-  <string name="alarm_volume_title">Alarm</string>
-  <string name="all_volume_title">Volumes</string>
-  <string name="allow">Allow</string>
-  <string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all data it displays.</string>
-  <string name="allow_bind_app_widget_activity_allow_bind_title">Create widget and allow access?</string>
-  <string name="allow_bind_app_widget_activity_always_allow_bind">Always allow %1$s to create widgets and access their data</string>
-  <string name="allow_data_usage_title">Allow data usage when roaming</string>
-  <string name="allow_mock_location">Allow mock locations</string>
-  <string name="allow_mock_location_summary">Allow mock locations</string>
-  <string name="allow_overlay_description">This permission allows an app to display on top of other apps you’re using and may interfere with your use of the interface in other applications, or change what you think you are seeing in other applications.</string>
+  <string name="alarm_volume_option_title">Hälytyksen voimakkuus</string>
+  <string name="alarm_volume_title">Hälytys</string>
+  <string name="all_volume_title">Äänenvoimakkuudet</string>
+  <string name="allow">Salli</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">Kun olet luonut widgetin, %1$s voi käyttää kaikkia sen näyttämiä tietoja.</string>
+  <string name="allow_bind_app_widget_activity_allow_bind_title">Luo widget ja salli käyttö?</string>
+  <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s saa luoda widgetejä ja käyttää niiden tietoja</string>
+  <string name="allow_data_usage_title">Salli roaming-tiedonsiirto</string>
+  <string name="allow_mock_location">Salli sijaintien imitointi</string>
+  <string name="allow_mock_location_summary">Salli sijaintien imitointi</string>
+  <string name="allow_overlay_description">Tämä käyttöoikeus antaa sovelluksen näkyä muiden sovelluksien päällä. Luvan saaneet sovellukset voivat häiritä muiden sovelluksien käyttöliittymien käyttöä tai muuttaa muiden sovelluksien osiksi luulemiasi näkymiä.</string>
   <string name="alpha_build">" | Alpha"</string>
-  <string name="always_allow_bind_appwidgets_text">You’ve chosen to allow this app to create widgets and access their data.</string>
-  <string name="always_running">Always running (%s)</string>
-  <string name="amber_alerts_summary">Receive bulletins about child abductions</string>
-  <string name="amber_alerts_title">AMBER alerts</string>
-  <string name="android_beam_disabled_summary">To use this feature, turn on NFC</string>
-  <string name="android_beam_explained">You can beam a webpage, a video, or other content from your screen to another device, by touching the devices together (typically back to back).</string>
+  <string name="always_allow_bind_appwidgets_text">Olet antanut sovellukselle oikeuden luoda widgetejä ja käyttää niiden tietoja.</string>
+  <string name="always_running">Aina käynnissä (%s)</string>
+  <string name="amber_alerts_summary">Vastaanota tiedotteita kaapatuista lapsista</string>
+  <string name="amber_alerts_title">AMBER-hälytykset</string>
+  <string name="android_beam_disabled_summary">Ei käytettävissä, koska NFC on poistettu käytöstä</string>
+  <string name="android_beam_explained">"Kun tämä ominaisuus on käytössä, voit lähettää sovellusten sisältöä toiseen NFC-yhteensopivaan laitteeseen pitämällä laitteita lähekkäin. Voit lähettää esimerkiksi selaimen sivuja, YouTube-videoita ja yhteystietoja.
+
+Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. Sovellus määrittää lähetettävät tiedot."</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">NFC content sharing is off</string>
-  <string name="android_beam_on_summary">NFC content sharing is on</string>
+  <string name="android_beam_off_summary">Pois käytöstä</string>
+  <string name="android_beam_on_summary">Valmis lähettämään sovelluksen sisältöä NFC:n kautta</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
-  <string name="animator_duration_scale_title">Animator duration scale</string>
+  <string name="animator_duration_scale_title">Animaattori</string>
   <string name="anti_spam">Blocklist</string>
   <string name="apn_apn">APN</string>
-  <string name="apn_auth_type">Authentication type</string>
+  <string name="apn_auth_type">Todennustyyppi</string>
   <string name="apn_auth_type_chap">CHAP</string>
-  <string name="apn_auth_type_none">None</string>
+  <string name="apn_auth_type_none">Ei mitään</string>
   <string name="apn_auth_type_pap">PAP</string>
-  <string name="apn_auth_type_pap_chap">PAP or CHAP</string>
+  <string name="apn_auth_type_pap_chap">PAP tai CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
   <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
-  <string name="apn_edit">Edit access point</string>
+  <string name="apn_edit">Muokkaa tukiasemaa</string>
   <string name="apn_general">General</string>
-  <string name="apn_http_port">Port</string>
-  <string name="apn_http_proxy">Proxy</string>
+  <string name="apn_http_port">Portti</string>
+  <string name="apn_http_proxy">Välityspalvelin</string>
   <string name="apn_mcc">MCC</string>
   <string name="apn_mms">MMS</string>
-  <string name="apn_mms_port">MMS port</string>
-  <string name="apn_mms_proxy">MMS proxy</string>
+  <string name="apn_mms_port">Multimediaviestien portti</string>
+  <string name="apn_mms_proxy">Multimediaviestien välityspalvelin</string>
   <string name="apn_mmsc">MMSC</string>
   <string name="apn_mnc">MNC</string>
-  <string name="apn_name">Name</string>
+  <string name="apn_name">Nimi</string>
   <string name="apn_new">New Access Point</string>
-  <string name="apn_not_set">Not set</string>
-  <string name="apn_password">Password</string>
+  <string name="apn_not_set">Ei asetettu</string>
+  <string name="apn_password">Salasana</string>
   <string name="apn_ppp_number">APN PPP phone number</string>
-  <string name="apn_protocol">APN protocol</string>
-  <string name="apn_roaming_protocol">APN roaming protocol</string>
+  <string name="apn_protocol">APN-protokolla</string>
+  <string name="apn_roaming_protocol">APN roaming -protokolla</string>
   <string name="apn_save">Save changes?</string>
   <string name="apn_save_msg">Save changes to APN?</string>
-  <string name="apn_server">Server</string>
-  <string name="apn_settings">APNs</string>
-  <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
-  <string name="apn_type">APN type</string>
-  <string name="apn_user">Username</string>
+  <string name="apn_server">Palvelin</string>
+  <string name="apn_settings">APN:t</string>
+  <string name="apn_settings_not_available">Tämä käyttäjä ei voi käyttää APN-asetuksia</string>
+  <string name="apn_type">APN-tyyppi</string>
+  <string name="apn_user">Käyttäjätunnus</string>
   <string name="app_backup">Backup</string>
-  <string name="app_data_usage">App data usage</string>
-  <string name="app_disable_dlg_positive">Disable app</string>
-  <string name="app_disable_dlg_text">If you disable this app, other apps may no longer function as intended.</string>
-  <string name="app_disable_dlg_title">Disable built-in app?</string>
-  <string name="app_disable_notifications_dlg_text">If you turn off notifications for this app, you may miss important alerts and updates.</string>
-  <string name="app_disable_notifications_dlg_title">Turn off notifications?</string>
-  <string name="app_factory_reset">Uninstall updates</string>
-  <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
-  <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
+  <string name="app_data_usage">Sovelluksen tiedonsiirto</string>
+  <string name="app_disable_dlg_positive">Poista sovellus käytöstä</string>
+  <string name="app_disable_dlg_text">Jos poistat sovelluksen käytöstä, muut sovellukset eivät välttämättä enää toimi oikein.</string>
+  <string name="app_disable_dlg_title">Poista sis. sovellus käytöstä?</string>
+  <string name="app_disable_notifications_dlg_text">Jos poistat tämän sovelluksen ilmoitukset käytöstä, et välttämättä näe tärkeitä ilmoituksia ja päivityksiä.</string>
+  <string name="app_disable_notifications_dlg_title">Poista ilmoitukset käytöstä?</string>
+  <string name="app_factory_reset">Poista päivitykset</string>
+  <string name="app_factory_reset_dlg_text">Kaikki tämän Android-järjestelmäsovelluksen päivitykset poistetaan.</string>
+  <string name="app_factory_reset_dlg_title">Poistetaanko päivitykset?</string>
   <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
   <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
-  <string name="app_forward_locked">App is copy-protected.</string>
-  <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
-  <string name="app_install_location_title">Preferred install location</string>
+  <string name="app_forward_locked">Sovellus on kopiosuojattu.</string>
+  <string name="app_install_location_summary">Vaihda uusien sovelluksien ensisijaista asennussijaintia.</string>
+  <string name="app_install_location_title">Ensisijainen asennussijainti</string>
   <string name="app_invisible">App Invisible</string>
   <string name="app_launch_domain_links_title">App links</string>
   <string name="app_launch_open_domain_urls_summary">Open without asking</string>
