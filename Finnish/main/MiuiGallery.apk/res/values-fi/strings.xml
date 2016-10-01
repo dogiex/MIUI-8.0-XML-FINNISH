@@ -14,11 +14,11 @@
   <string name="__leak_canary_share_with">Share with…</string>
   <string name="__leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
   <string name="abandon">Cancel</string>
-  <string name="accept">Accept</string>
-  <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
+  <string name="accept">Hyväksy</string>
+  <string name="accept_or_deny">%1$s jakoi albumin %2$s kanssasi.</string>
   <string name="add_automatically_alert_msg">Add photos from \"%1$s\" to this album automatically?</string>
   <string name="add_automatically_alert_title">Add photos automatically</string>
-  <string name="add_sharer">Add member</string>
+  <string name="add_sharer">Lisää jakaja</string>
   <string name="add_to_album">Add to album</string>
   <string name="add_to_album_bulk_result">Error (%d)</string>
   <string name="add_to_album_exist">This photo already exists</string>
@@ -46,8 +46,8 @@
   <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
   <string name="album_detail_page_empty">No photos or videos</string>
   <string name="album_faces_name">People</string>
-  <string name="album_member">Album members %s</string>
-  <string name="album_name">Album name</string>
+  <string name="album_member">Albumin jäsenet %s</string>
+  <string name="album_name">Albumin nimi</string>
   <string name="album_others_share_baby_info_format">Baby album from %s</string>
   <string name="album_others_share_info_format">From %s</string>
   <string name="album_owner_share">Shared</string>
