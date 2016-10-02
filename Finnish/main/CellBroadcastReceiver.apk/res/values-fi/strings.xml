@@ -48,7 +48,7 @@
   <string name="cmas_response_none">Ei mitään</string>
   <string name="cmas_response_prepare">Valmistaudu</string>
   <string name="cmas_response_shelter">Suojaudu</string>
-  <string name="cmas_severe_alert">Hätätilannevaroitus: Vakava</string>
+  <string name="cmas_severe_alert">Hätätilannevaroitus: vakava</string>
   <string name="cmas_severity_extreme">Äärimmäinen</string>
   <string name="cmas_severity_heading">Vakavuus:</string>
   <string name="cmas_severity_severe">Vakava</string>

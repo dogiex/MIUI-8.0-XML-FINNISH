@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_message_delete_record">Delete selected recordings?</string>
   <string name="alert_message_delete_record_title">Delete recording?</string>
-  <string name="app_name">Recorder</string>
+  <string name="app_name">Ääninauhuri</string>
   <string name="back">Back</string>
   <string name="button_queue_for_wifi">Wait</string>
   <string name="button_start_now">Download</string>
@@ -26,12 +26,12 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
-  <string name="error_app_internal">Check if another app is currently using the recording feature.</string>
+  <string name="error_app_internal">Sisäinen sovellusvirhe.</string>
   <string name="error_app_internal_title">Sound recorder error</string>
   <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
   <string name="error_filename_illegal_char">Filename contains invalid characters.</string>
   <string name="error_filename_too_long">Filename is too long.</string>
-  <string name="error_sdcard_access">"Can't access storage"</string>
+  <string name="error_sdcard_access">USB-tallennustilaa ei voi käyttää.</string>
   <string name="error_sdcard_unmounted">Insert SD card now</string>
   <string name="export_to_note">Export Note</string>
   <string name="fm_record">Radio recordings (%d)</string>

@@ -140,7 +140,7 @@
   <string name="camera_black_white">Black &amp;White</string>
   <string name="camera_needs_auto_backup_tip">Camera album must be backed up</string>
   <string name="camera_path">/DCIM/Camera</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Peruuta</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Switch to default Lock screen wallpaper?</string>
   <string name="cancel_hint">Operation canceled</string>
   <string name="cannot_remove_creator">"Can't remove creator"</string>
@@ -559,7 +559,7 @@
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
   <string name="context_menu_copy_notice">Copied to clipboard</string>
-  <string name="contrast">Contrast</string>
+  <string name="contrast">Kontrasti</string>
   <string name="contrast_abbr">C</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Cool</string>
@@ -572,10 +572,10 @@
   <string name="create_new_face">New person</string>
   <string name="create_quick_icon_on_desk">Create shortcut</string>
   <string name="creating_baby_album">Creating album…</string>
-  <string name="crop">Crop</string>
+  <string name="crop">Rajaa</string>
   <string name="crop_label">Cropped photos</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
-  <string name="crop_save_text">Save</string>
+  <string name="crop_save_text">OK</string>
   <string name="crop_tooltip">Drag markers to crop</string>
   <string name="crossprocess">Cross-process</string>
   <string name="custom_select_title_deselect_all">Deselect</string>

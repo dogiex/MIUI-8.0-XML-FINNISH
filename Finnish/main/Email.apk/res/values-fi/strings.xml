@@ -64,7 +64,7 @@
   <string name="account_setup_basics_email_label">Sähköpostiosoite</string>
   <string name="account_setup_basics_manual_setup_action">Manuaalinen määritys</string>
   <string name="account_setup_basics_password_label">SALASANA</string>
-  <string name="account_setup_basics_title">Lisää tili</string>
+  <string name="account_setup_basics_title">Tilin asetukset</string>
   <string name="account_setup_check_settings_check_incoming_msg">Vahvistetaan palvelimen asetuksia...</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Vahvistetaan SMTP-asetuksia...</string>
   <string name="account_setup_check_settings_retr_info_msg">Noudetaan tilin tietoja…</string>
@@ -98,7 +98,7 @@
   <string name="account_setup_failed_security_policies_unsupported">Tämä palvelin edellyttää turvaominaisuuksia, joita Android-laitteesi ei tue, kuten: %s</string>
   <string name="account_setup_failed_tls_required">TLS vaaditaan, mutta palvelin ei tue sitä.</string>
   <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Kun poistan viestin Roskakorista</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Kun poistan viestin postilaatikosta</string>
   <string name="account_setup_incoming_delete_policy_never_label">Ei koskaan</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Valinnainen</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP-polun etuliite</string>
@@ -139,7 +139,7 @@
   <string name="account_setup_security_required_title">Suojauksen etähallinta</string>
   <string name="account_setup_server_acc_manager_title">Accounts</string>
   <string name="account_setup_username_password_toast">Anna kelvollinen sähköpostiosoite ja salasana.</string>
-  <string name="account_sync_off">Tilin synkronointi on pois käytöstä.</string>
+  <string name="account_sync_off">"Tilin synkronointi on pois käytöstä. Ota se käyttöön &lt;a href='http://www.esimerkki.fi'&gt;tilin asetuksista.&lt;/a&gt;"</string>
   <string name="account_waiting_for_folders_msg">Ladataan kansioluetteloa...</string>
   <string name="actionbar_large_unread_count">%1$d+ unread</string>
   <string name="activity_folder_selection">Valitse kansio</string>
@@ -329,7 +329,7 @@
   <string name="disable_admin_warning">VAROITUS: jos poistat sähköpostisovellukselta oikeuden hallinnoida laitettasi, myös kaikki sovellukseen liittyvät sähköpostitilit sekä niiden sähköpostit, yhteystiedot, kalenteritapahtumat ja muut tiedot poistetaan.</string>
   <string name="discard">Hylkää</string>
   <string name="discard_drafts">Discard drafts</string>
-  <string name="dismiss_tip_hover_text">Dismiss tip</string>
+  <string name="dismiss_tip_hover_text">Hylkää vinkki</string>
   <string name="disturb_switch">Do not disturb</string>
   <string name="done">Valmis</string>
   <string name="done_action">Valmis</string>
@@ -475,7 +475,7 @@
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Reply all</string>
-  <string name="imap_name">IMAP</string>
+  <string name="imap_name">Omat (IMAP)</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
   <string name="info_actionbar_normal_detail">Details</string>
   <string name="info_actionbar_subscribe">News feed</string>
@@ -741,7 +741,7 @@
   <string name="policy_require_smime">Require SMIME messages</string>
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava ruutu</string>
   <string name="policy_text_truncation">Restrict text email size</string>
-  <string name="pop3_name">POP3</string>
+  <string name="pop3_name">Omat (POP3)</string>
   <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_imap_tips"/>

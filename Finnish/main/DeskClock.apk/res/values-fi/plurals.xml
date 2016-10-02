@@ -29,8 +29,8 @@
         <item quantity="one">Torkutetaan %d minuutti.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Herätys hiljennetään %d minuutin jälkeen</item>
-        <item quantity="one">Herätys hiljennetään %d minuutin jälkeen</item>
+        <item quantity="other">%s minuuttia</item>
+        <item quantity="one">1 minuutti</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Poistetaanko valitut herätykset?</item>

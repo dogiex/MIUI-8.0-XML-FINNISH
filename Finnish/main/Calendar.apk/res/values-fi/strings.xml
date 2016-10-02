@@ -19,12 +19,12 @@
   <string name="accessibility_sync_cal">Synkronoi Kalenteri</string>
   <string name="account_and_calendar">Tilit</string>
   <string name="account_and_calendar_to_display">Kalenterin tapahtumat</string>
-  <string name="accounts">Tilit &amp; synkronointi</string>
+  <string name="accounts">Tilit ja synkronointi</string>
   <string name="acct_not_synced">Tätä tiliä ei synkronoida. Kalenterisi eivät välttämättä ole ajan tasalla.</string>
   <string name="acessibility_cal_notification">Kalenteri-ilmoitus</string>
   <string name="acessibility_selected_marker_description">Valittu tapahtuma</string>
   <string name="acessibility_snooze_notification">Torkuta ilmoitus</string>
-  <string name="action_label">Palaa</string>
+  <string name="action_label">Enter</string>
   <string name="action_text_new_event">Uusi tapahtuma</string>
   <string name="action_text_online">管理订阅内容</string>
   <string name="action_text_today">Tänään</string>
@@ -46,7 +46,7 @@
   <string name="agenda_today">TÄNÄÄN, %1$s</string>
   <string name="agenda_tomorrow">HUOMENNA, %1$s</string>
   <string name="agenda_view">Tapahtumat</string>
-  <string name="agenda_yesterday">EILEN, %1$s</string>
+  <string name="agenda_yesterday">Eilen, %1$s</string>
   <string name="alarm_label">Unohda</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Vanhentunut</string>
@@ -54,7 +54,7 @@
   <string name="anniversary_metric"/>
   <string name="anniversary_term">vuosipäivä</string>
   <string name="app_label">Kalenteri</string>
-  <string name="attendees_label">Vieraat</string>
+  <string name="attendees_label">Osallistujat</string>
   <string name="birthday_calendar_display_name">Syntymäpäivän muistutus</string>
   <string name="birthday_event_description">"Tänään on %1$s's %4$s!"</string>
   <string name="birthday_event_description_a_week_ago">Viimeviikolla</string>
@@ -113,8 +113,8 @@
 
 • Käytä kalenteriasi millä tahansa selaimella
 • Varmuuskopioi tapahtumasi turvallisesti"</string>
-  <string name="creating_event">Tapahtuma luotu</string>
-  <string name="creating_event_with_guest">Kutsut lähetetään</string>
+  <string name="creating_event">Tapahtuma luotu.</string>
+  <string name="creating_event_with_guest">Kutsut lähetetään.</string>
   <string name="credit">信用卡</string>
   <string name="credit_card_amount_label">账单金额：</string>
   <string name="credit_card_date_label">还款日：</string>
@@ -139,11 +139,11 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Päivä</string>
-  <string name="day_view_new_event_hint">Uusi tapahtuma</string>
+  <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
   <string name="default_reminder_mode">Muistutukset</string>
   <string name="delete_calendar">退订</string>
   <string name="delete_label">Poista</string>
-  <string name="delete_recurring_event_title">Poista %s?</string>
+  <string name="delete_recurring_event_title">Poistetaanko %s?</string>
   <string name="delete_this_event_title">Poistetaanko tämä tapahtuma?</string>
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
   <string name="delete_topic_success">退订\"%s\"成功</string>
@@ -153,7 +153,7 @@
   <string name="directory_searching_fmt">Haetaan %s…</string>
   <string name="discard_label">Peruuta</string>
   <string name="dismiss_all_label">Ohita kaikki</string>
-  <string name="do_not_check">Älä valitse -&gt;</string>
+  <string name="do_not_check">ÄLÄ valitse -&gt;</string>
   <string name="does_not_repeat">Yksittäinen tapahtuma</string>
   <string name="download">Lataa</string>
   <string name="download_finished">下载完成</string>
@@ -292,7 +292,7 @@
   <string name="monthly">Kuukausittain</string>
   <string name="monthly_on_day">Kuukausittain (%s. päivänä)</string>
   <string name="monthly_on_day_count">Kuukausittain (%1$s %2$s)</string>
-  <string name="more_string">+%1$d</string>
+  <string name="more_string">yli %1$d</string>
   <string name="movable_list_header_label">简介</string>
   <string name="my_subscribe_events">我的订阅</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
@@ -346,7 +346,7 @@
   <string name="preferences_reminder_title">Ilmoitukset &amp; muistutukset</string>
   <string name="preferences_show_week_num_title">Näytä viikon numero</string>
   <string name="preferences_solar_terms">Näytä aurinkopäivät</string>
-  <string name="preferences_title">Kalenteri</string>
+  <string name="preferences_title">Asetukset</string>
   <string name="preferences_use_home_tz_descrip">Näyttää kalenterit ja tapahtumien ajat oman aikavyöhykkeesi ajassa matkustaessasi</string>
   <string name="preferences_use_home_tz_title">Käytä kotiaikavyöhykettä</string>
   <string name="preferences_week_start_day_default">-1</string>
@@ -359,8 +359,8 @@
   <string name="quick_response_email_failed">Sähköpostiohjelmia ei löytynyt</string>
   <string name="quick_response_settings">Pikavastaukset</string>
   <string name="quick_response_settings_edit_title">Pikavastaus</string>
-  <string name="quick_response_settings_summary">Muokkaa oletusvastausta, kun lähetät vieraille sähköpostia</string>
-  <string name="quick_response_settings_title">Muokkaa oletusvastausta</string>
+  <string name="quick_response_settings_summary">Muokkaa pikavast.</string>
+  <string name="quick_response_settings_title">Muokkaa pikavast.</string>
   <string name="refresh">刷新</string>
   <string name="reminders_label">Lisää muistutus</string>
   <string name="repeat_activity_label">Toisto</string>
@@ -393,11 +393,11 @@
   <string name="response_yes">Kyllä</string>
   <string name="rest_day_indication">: )</string>
   <string name="save_label">Valmis</string>
-  <string name="saving_event">Tapahtuma tallennettu</string>
-  <string name="saving_event_with_guest">Päivitykset lähetetään</string>
+  <string name="saving_event">Tapahtuma tallennettu.</string>
+  <string name="saving_event_with_guest">Päivitykset lähetetään.</string>
   <string name="search">Haku</string>
   <string name="search_calendar">Kalenteri;Agenda;Muistutus</string>
-  <string name="search_history_cleared">Hakuhistoria tyhjennetty</string>
+  <string name="search_history_cleared">Hakuhistoria tyhjennetty.</string>
   <string name="search_title">Haku omista kalentereista</string>
   <string name="select_date">Siirry päivämäärään</string>
   <string name="select_synced_calendars_button">Synkronoitavat kalenterit</string>
@@ -514,7 +514,7 @@
   <string name="wuxing">五行</string>
   <string name="xiaomi_calendar_display_name">Mi Tilin Kalenteri</string>
   <string name="xingxiu">星宿</string>
-  <string name="yearly">Vuosittain (joka %s)</string>
+  <string name="yearly">Vuosittain (%s)</string>
   <string name="yearly_plain">Vuosittain</string>
   <string name="zhushen">诸神</string>
 </resources>

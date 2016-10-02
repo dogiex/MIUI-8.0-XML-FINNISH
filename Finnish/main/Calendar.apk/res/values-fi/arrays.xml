@@ -37,7 +37,7 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Ei muistutusta</item>
+        <item>Ei mitään</item>
         <item>0 minuuttia</item>
         <item>5 minuuttia</item>
         <item>10 minuuttia</item>
@@ -261,7 +261,7 @@
     </string-array>
     <string-array name="ordinal_labels">
         <item>ensimmäinen</item>
-        <item>toinen</item>
+        <item>sekunti</item>
         <item>kolmas</item>
         <item>neljäs</item>
         <item>viimeinen</item>
@@ -283,7 +283,7 @@
         <item>2</item>
     </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Tämä &amp; tulevat tapahtumat</item>
+        <item>Tämä ja tulevat tapahtumat</item>
         <item>Kaikki tapahtumat</item>
     </string-array>
     <string-array name="change_response_labels">

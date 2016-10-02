@@ -11,7 +11,7 @@
   <string name="credential_password">Hae varmenteet kirjoittamalla salasana.</string>
   <string name="credential_usage_label">Käyttöoikeustietojen käyttö:</string>
   <string name="done_label">VALMIS</string>
-  <string name="extracting_pkcs12">Haetaan…</string>
+  <string name="extracting_pkcs12">Haetaan...</string>
   <string name="install_done">Kohteen %1$s kirjautumistiedot on lisätty tallennettuihin Wi-Fi-verkkoihin.</string>
   <string name="install_done_title">Kirjautumistiedot on asennettu.</string>
   <string name="invalid_cert">Varmenne on virheellinen.</string>
@@ -23,7 +23,7 @@
   <string name="no_cert_to_saved">Ei asennettavaa varmennetta.</string>
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
-  <string name="one_userkey">yhden käyttäjän avain</string>
+  <string name="one_userkey">yhden käyttäjän näppäin</string>
   <string name="only_primary_user_allowed">Vain tämän laitteen omistaja voi asentaa varmenteita.</string>
   <string name="p12_description">Varmenteet PKCS12-avaintallenteessa.</string>
   <string name="password_empty_error">Kirjoita salasana.</string>

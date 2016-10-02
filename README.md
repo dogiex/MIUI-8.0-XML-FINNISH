@@ -81,3 +81,12 @@ Let's translate together!
 - PackageInstaller.apk
 - PrintSpooler.apk
 - ProxyHandler.apk
+- SettingsProvider.apk
+- Shell.apk
+- Stk.apk
+- Tag.apk
+- Telecom.apk
+- TelephonyProvider.apk
+- UserDictionaryProvider.apk
+- WallpaperCropper.apk
+- VpnDialogs.apk

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="crop_wallpaper">Crop wallpaper</string>
-  <string name="wallpaper_instructions">Set wallpaper</string>
-  <string name="wallpaper_load_fail">"Couldn't load image as wallpaper"</string>
+  <string name="crop_wallpaper">Rajaa taustakuva</string>
+  <string name="wallpaper_instructions">Aseta taustakuva</string>
+  <string name="wallpaper_load_fail">Kuvaa ei voitu ladata taustakuvaksi</string>
 </resources>

@@ -530,10 +530,10 @@
   <string name="send_to">To:</string>
   <string name="send_to_count">Sent %1$s messages</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
-  <string name="sent_label">"Sent: "</string>
-  <string name="service_message_not_found">Message expired or unavailable</string>
-  <string name="service_network_problem">"Couldn't send due to network problem"</string>
-  <string name="service_not_activated">Service not activated on network</string>
+  <string name="sent_label">"Lähetetty: "</string>
+  <string name="service_message_not_found">Viesti on vanhentunut tai ei ole käytettävissä</string>
+  <string name="service_network_problem">Ei voitu lähettää verkkovian takia</string>
+  <string name="service_not_activated">Palvelua ei ole aktivoitu verkossa</string>
   <string name="service_unavailiable">Service unavailable</string>
   <string name="set">Set</string>
   <string name="share_img">Share</string>
