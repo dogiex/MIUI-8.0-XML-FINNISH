@@ -78,6 +78,7 @@ Let's translate together!
 - ManagedProvisioning.apk
 - MediaProvider.apk
 - miui.apk
+- miuisystem.apk
 - NfcNci.apk
 - PackageInstaller.apk
 - PrintSpooler.apk
