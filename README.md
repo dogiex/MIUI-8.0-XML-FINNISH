@@ -77,6 +77,7 @@ Let's translate together!
 - LiveWallpapersPicker.apk
 - ManagedProvisioning.apk
 - MediaProvider.apk
+- miui.apk
 - NfcNci.apk
 - PackageInstaller.apk
 - PrintSpooler.apk
