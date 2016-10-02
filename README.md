@@ -43,6 +43,7 @@ Let's translate together!
 - framework-ext-res.apk
 - FindDevice.apk
 - Settings.apk
+- MiuiSystemUi.apk
 
 #####Already translated strings:
 - AntiSpam.apk

@@ -2,31 +2,31 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään…</item>
+        <item>Varmennetaan…</item>
+        <item>Haetaan IP-osoite…</item>
+        <item>Yhdistetty</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan…</item>
+        <item>Katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään väliaikaisesti heikkoa yhteyttä</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään kohteeseen %1$s…</item>
+        <item>Varmennetaan kohdetta %1$s…</item>
+        <item>Haetaan IP-osoitetta kohteelta %1$s…</item>
+        <item>Yhditetty kohteeseen %1$s</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan yhteyttä kohteesta %1$s…</item>
+        <item>Katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään väliaikaisesti heikkoa yhteyttä</item>
     </string-array>
     <integer-array name="vibration_torch_on">
         <item>0</item>
@@ -94,6 +94,7 @@
         <item>com.miui.securitycenter</item>
         <item>com.miui.cloudappbackup</item>
         <item>com.miui.fmradio</item>
+        <item>com.android.systemui</item>
     </string-array>
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>
@@ -173,32 +174,32 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
+        <item>Aurinkoinen</item>
+        <item>Pilvinen</item>
+        <item>Pilvinen</item>
+        <item>Sumuinen</item>
+        <item>Kova Rankkasade</item>
+        <item>Kaatosade</item>
+        <item>Rankkasade</item>
+        <item>Ukonilma</item>
+        <item>Vesisade</item>
+        <item>Kova sademäärä</item>
+        <item>Keskinkertainen sade</item>
+        <item>Kevyt sade</item>
+        <item>Loska</item>
+        <item>Lumimyrsky</item>
+        <item>Lumisade</item>
+        <item>Rankka lumisade</item>
+        <item>Keskinkertainen lumisade</item>
+        <item>Kevyt lumisade</item>
+        <item>Kova hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Hiekka</item>
+        <item>Tuulinen</item>
+        <item>Rakeita</item>
+        <item>Pöly</item>
+        <item>Usva</item>
+        <item>Jäätävä vesisade</item>
         <item></item>
     </string-array>
 </resources>
