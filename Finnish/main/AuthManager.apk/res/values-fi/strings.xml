@@ -285,6 +285,5 @@
   <string name="screen_overlay_button">Avaa asetukset</string>
   <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöluvan, laita ensin näytön overlay pois päältä asetuksista Asetukset &gt; Sovellukset</string>
   <string name="screen_overlay_title">Näytön overlay tunnistettu</string>
-  <string name="static_cache_db_md5">a091ed54ebb50d2485bc3138234b205b</string>
   <string name="wakepath_confirm_start_activity">Salli %1$s:n avata %2$s?</string>
 </resources>
