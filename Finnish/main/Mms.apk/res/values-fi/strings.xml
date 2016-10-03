@@ -501,7 +501,7 @@
   <string name="second_mms_notice">only display second message</string>
   <string name="second_mms_switch">switch user</string>
   <string name="secs">secs</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn\'t in your contacts.
  "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Report this number</string>
   <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>

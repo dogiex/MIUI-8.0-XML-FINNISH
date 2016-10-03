@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="cache_sort_type">
         <item>Koko</item>
@@ -9,13 +9,13 @@
         <item>Nimi</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>K‰ytetyimm‰t</item>
+        <item>K√§ytetyimm√§t</item>
         <item>Koko</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Joka p‰iv‰</item>
-        <item>Joka 3 p‰iv‰</item>
-        <item>Joka 7 p‰iv‰</item>
+        <item>Joka p√§iv√§</item>
+        <item>Joka 3 p√§iv√§</item>
+        <item>Joka 7 p√§iv√§</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -24,20 +24,20 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>N‰yt‰</item>
-        <item>ƒl‰ n‰yt‰</item>
-        <item>N‰yt‰ j‰lkeen</item>
+        <item>N√§yt√§</item>
+        <item>√Ñl√§ n√§yt√§</item>
+        <item>N√§yt√§ j√§lkeen</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Puhdista t‰m‰ tiedosto</item>
-        <item>N‰yt‰ tiedoston sijainti</item>
+        <item>Puhdista t√§m√§ tiedosto</item>
+        <item>N√§yt√§ tiedoston sijainti</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Puhdista t‰m‰ tiedosto</item>
-        <item>N‰yt‰ tiedoston sijainti</item>
+        <item>Puhdista t√§m√§ tiedosto</item>
+        <item>N√§yt√§ tiedoston sijainti</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Puhdista t‰m‰ tiedosto</item>
+        <item>Puhdista t√§m√§ tiedosto</item>
         <item>Avaa</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
@@ -45,22 +45,22 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Puhdista</item>
-        <item>Asenna t‰m‰ sovellus</item>
-        <item>N‰yt‰ kohteen kansio</item>
+        <item>Asenna t√§m√§ sovellus</item>
+        <item>N√§yt√§ kohteen kansio</item>
     </string-array>
     <string-array name="long_add_menu">
-        <item>Lis‰‰ poikkeuksiin</item>
+        <item>Lis√§√§ poikkeuksiin</item>
     </string-array>
     <string-array name="long_add_app_menu">
-        <item>Lis‰‰ sovellus poikkeuksiin</item>
+        <item>Lis√§√§ sovellus poikkeuksiin</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Poista sovellus</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
-        <item>7 p‰iv‰n v‰lein</item>
-        <item>15 p‰iv‰n v‰lein</item>
-        <item>30 p‰iv‰n v‰lein</item>
+        <item>7 p√§iv√§n v√§lein</item>
+        <item>15 p√§iv√§n v√§lein</item>
+        <item>30 p√§iv√§n v√§lein</item>
     </string-array>
     <string-array name="scan_engine">
         <item>Clean Master</item>
