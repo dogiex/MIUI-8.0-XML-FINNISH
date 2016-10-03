@@ -126,7 +126,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Puhdistajan moottori on korruptoitunut.</string>
   <string name="dialog_msg_stop_scan">Pysäytetäänkö puhdistuksen skannaus?</string>
   <string name="dialog_msg_uninstall_apps">Poistetaanko nämä sovellukset?</string>
-  <string name="dialog_ok_add_white_list_error">Got it</string>
+  <string name="dialog_ok_add_white_list_error">Selvä</string>
   <string name="dialog_title_add_white_list_error">Huomio</string>
   <string name="dialog_title_backup_and_uninstall_apps">Varmuuskopioi ja poista asennus</string>
   <string name="dialog_title_check_all">Valitse kaikki</string>
