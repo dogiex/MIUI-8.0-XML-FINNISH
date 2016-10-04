@@ -295,14 +295,14 @@
   <string name="conversation_photo_welcome_text">Valitse keskustelu koskettamalla lähettäjän kuvaa.</string>
   <string name="conversation_view">Conversation view</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
-  <string name="copied">Copied</string>
+  <string name="copied">Kopioitu</string>
   <string name="copy_email">Kopioi sähköpostiosoite</string>
   <string name="copy_number">Kopioi puhelinnumero</string>
   <string name="create_action">Luo uusi</string>
   <string name="custom_from_account_label">Send mail as:</string>
-  <string name="date_heading">"Date: "</string>
+  <string name="date_heading">"Päiväys: "</string>
   <string name="date_message_received">%1$s %2$s</string>
-  <string name="date_message_received_today">Today, %1$s</string>
+  <string name="date_message_received_today">Tänään, %1$s</string>
   <string name="default_">DEFAULT</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -310,7 +310,7 @@
   <string name="default_setup">DEFAULT SETTINGS</string>
   <string name="default_signature">Sent from my Mi phone</string>
   <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Poista</string>
   <string name="delete_message_flow">Delete message flow</string>
   <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
   <string name="deleted">Poistettu</string>
@@ -465,7 +465,6 @@
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="header_category_account">Accounts</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Feedback</string>
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
@@ -497,7 +496,6 @@
   <string name="invalid_recipient_title">Recipient Error</string>
   <string name="kilobytes">%s Kt</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_from_remote">Search mailbox on server</string>
   <string name="load_more">Lataa lisää</string>
   <string name="loading_conversation">Ladataan…</string>
@@ -810,8 +808,6 @@
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Lisää lainattu teksti</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Quote text</string>
   <string name="re_download_message_button">Tap to download again</string>
   <string name="re_download_message_info">"Couldn't download email"</string>
@@ -832,12 +828,7 @@
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Vastaa kaikille</string>
   <string name="reply_attribution" formatted="false">%s kirjoitti %s:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Report phishing</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Ilmoita roskapostista</string>
   <string name="request_entity_large">File is too big</string>
   <string name="request_permission_activity">Permission Request</string>
@@ -977,11 +968,9 @@
   <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Settings&lt;/b&gt; to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
-  <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wipe_account_fail_description">Allow</string>
   <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
   <string name="wrong_password">The password you entered is incorrect</string>
