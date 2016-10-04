@@ -3,7 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille %s.</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -288,7 +287,6 @@
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_sms_dot">Tekstiviesti...</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
@@ -365,7 +363,6 @@
   <string name="email_setting">Email Setting</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
   <string name="empty_spam">Tyhjennä roskaposti</string>
@@ -445,7 +442,6 @@
   <string name="forward_attribution_no_headers">---------- Edelleenlähetetty viesti ----------</string>
   <string name="forward_download_failed_ticker">Vähintään yhden liitteen edelleenlähettäminen epäonnistui.</string>
   <string name="forward_download_failed_title">Liitettä ei lähetetty edelleen</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">Lähettäjä:</string>
   <string name="general_preference_confirm_delete_label">Confirm before deleting</string>
   <string name="general_preference_confirm_send_label">Confirm before sending</string>
@@ -521,14 +517,6 @@
   <string name="mailbox_name_display_starred">Tähdelliset</string>
   <string name="mailbox_name_display_trash">Roskakori</string>
   <string name="mailbox_name_display_unread">Lukemattomat</string>
-  <string name="mailbox_name_server_all_unread">Unread</string>
-  <string name="mailbox_name_server_drafts">Drafts</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Outbox</string>
-  <string name="mailbox_name_server_sent">Sent</string>
-  <string name="mailbox_name_server_starred">Starred</string>
-  <string name="mailbox_name_server_trash">Trash</string>
   <string name="mailbox_settings_activity_title">Synkronointiasetukset</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synkronointiasetukset (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synkronoitavat päivät</string>
@@ -740,7 +728,6 @@
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava ruutu</string>
   <string name="policy_text_truncation">Restrict text email size</string>
   <string name="pop3_name">Omat (POP3)</string>
-  <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
