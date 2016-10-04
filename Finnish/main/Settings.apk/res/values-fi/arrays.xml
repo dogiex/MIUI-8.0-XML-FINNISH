@@ -32,19 +32,6 @@
         <item>Single page</item>
         <item>Dual page</item>
     </string-array>
-    <string-array name="status_bar_style_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="timezone_filters">
-        <item>Amerikka</item>
-        <item>Eurooppa</item>
-        <item>Afrikka</item>
-        <item>Aasia</item>
-        <item>Australia</item>
-        <item>Tyynimeri</item>
-        <item>Kaikki</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 sekuntia</item>
         <item>30 sekuntia</item>
@@ -53,15 +40,6 @@
         <item>5 minuuttia</item>
         <item>10 minuuttia</item>
         <item>Ei koskaan</item>
-    </string-array>
-    <string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>2147483647</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Ei koskaan</item>
@@ -73,16 +51,6 @@
         <item>10 minuuttia</item>
         <item>30 minuuttia</item>
     </string-array>
-    <string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Heti</item>
         <item>5 sekuntia</item>
@@ -93,17 +61,6 @@
         <item>5 minuuttia</item>
         <item>10 minuuttia</item>
         <item>30 minuuttia</item>
-    </string-array>
-    <string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Pieni</item>
@@ -130,85 +87,12 @@
         <item>Erittäin nopea</item>
         <item>Nopein</item>
     </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Hyvin matala</item>
         <item>Matala</item>
         <item>Normaali</item>
         <item>Korkea</item>
         <item>Hyvin korkea</item>
-    </string-array>
-    <string-array name="tts_pitch_values">
-        <item>50</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>150</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_full">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_2G_only">
-        <item>@string/wifi_ap_choose_2G</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Paina painiketta</item>
@@ -258,11 +142,6 @@
         <item>Vain 5 GHz</item>
         <item>Vain 2,4 GHz</item>
     </string-array>
-    <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Käyttöaika</item>
         <item>Viimeinen käyttöaika</item>
@@ -294,76 +173,6 @@
         <item>Ei mitään</item>
         <item>Manuaalinen</item>
         <item>Välitysp. autom. määritys</item>
-    </string-array>
-    <string-array name="apn_auth_entries">
-        <item>Ei mitään</item>
-        <item>PAP</item>
-        <item>CHAP</item>
-        <item>PAP tai CHAP</item>
-    </string-array>
-    <string-array name="apn_auth_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
-    </string-array>
-    <string-array name="bearer_entries">
-        <item>Määrittelemätön</item>
-        <item>LTE</item>
-        <item>HSPAP</item>
-        <item>HSPA</item>
-        <item>HSUPA</item>
-        <item>HSDPA</item>
-        <item>UMTS</item>
-        <item>EDGE</item>
-        <item>GPRS</item>
-        <item>eHRPD</item>
-        <item>EVDO_B</item>
-        <item>EVDO_A</item>
-        <item>EVDO_0</item>
-        <item>1xRTT</item>
-        <item>IS95B</item>
-        <item>IS95A</item>
-    </string-array>
-    <string-array name="bearer_values">
-        <item>0</item>
-        <item>14</item>
-        <item>15</item>
-        <item>11</item>
-        <item>10</item>
-        <item>9</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-        <item>13</item>
-        <item>12</item>
-        <item>8</item>
-        <item>7</item>
-        <item>6</item>
-        <item>5</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Ei mitään</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
-    </string-array>
-    <string-array name="mvno_type_values">
-        <item></item>
-        <item>spn</item>
-        <item>imsi</item>
-        <item>gid</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Laitteen sisäinen tallennustila</item>
@@ -491,33 +300,6 @@
         <item>Keskipitkä</item>
         <item>Pitkä</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-    </string-array>
-    <string-array name="captioning_typeface_selector_titles">
-        <item>Oletus</item>
-        <item>Sans Serif</item>
-        <item>Sans Serif, tiivistetty</item>
-        <item>Sans Serif Monospace</item>
-        <item>Serif</item>
-        <item>Serif Monospace</item>
-        <item>Casual</item>
-        <item>Kursiivi</item>
-        <item>Isot kirjaimet</item>
-    </string-array>
-    <string-array name="captioning_typeface_selector_values">
-        <item></item>
-        <item>sans-serif</item>
-        <item>sans-serif-condensed</item>
-        <item>sans-serif-monospace</item>
-        <item>serif</item>
-        <item>serif-monospace</item>
-        <item>casual</item>
-        <item>cursive</item>
-        <item>sans-serif-smallcaps</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Hyvin pieni</item>
         <item>Pieni</item>
@@ -540,92 +322,6 @@
         <item>Korotettu</item>
         <item>Laskettu</item>
     </string-array>
-    <integer-array name="captioning_edge_type_selector_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <string-array name="captioning_color_selector_titles">
-        <item>@string/color_unspecified</item>
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
-    </string-array>
-    <integer-array name="captioning_color_selector_values">
-        <item>0xffffff</item>
-        <item>0xffffffff</item>
-        <item>0xff000000</item>
-        <item>0xffff0000</item>
-        <item>0xffffff00</item>
-        <item>0xff00ff00</item>
-        <item>0xff00ffff</item>
-        <item>0xff0000ff</item>
-        <item>0xffff00ff</item>
-        <item>0xff000055</item>
-        <item>0xff0000aa</item>
-        <item>0xff005500</item>
-        <item>0xff005555</item>
-        <item>0xff0055aa</item>
-        <item>0xff0055ff</item>
-        <item>0xff00aa00</item>
-        <item>0xff00aa55</item>
-        <item>0xff00aaaa</item>
-        <item>0xff00aaff</item>
-        <item>0xff00ff55</item>
-        <item>0xff00ffaa</item>
-        <item>0xff550000</item>
-        <item>0xff550055</item>
-        <item>0xff5500aa</item>
-        <item>0xff5500ff</item>
-        <item>0xff555500</item>
-        <item>0xff555555</item>
-        <item>0xff5555aa</item>
-        <item>0xff5555ff</item>
-        <item>0xff55aa00</item>
-        <item>0xff55aa55</item>
-        <item>0xff55aaaa</item>
-        <item>0xff55aaff</item>
-        <item>0xff55ff00</item>
-        <item>0xff55ff55</item>
-        <item>0xff55ffaa</item>
-        <item>0xff55ffff</item>
-        <item>0xffaa0000</item>
-        <item>0xffaa0055</item>
-        <item>0xffaa00aa</item>
-        <item>0xffaa00ff</item>
-        <item>0xffaa5500</item>
-        <item>0xffaa5555</item>
-        <item>0xffaa55aa</item>
-        <item>0xffaa55ff</item>
-        <item>0xffaaaa00</item>
-        <item>0xffaaaa55</item>
-        <item>0xffaaaaaa</item>
-        <item>0xffaaaaff</item>
-        <item>0xffaaff00</item>
-        <item>0xffaaff55</item>
-        <item>0xffaaffaa</item>
-        <item>0xffaaffff</item>
-        <item>0xffff0055</item>
-        <item>0xffff00aa</item>
-        <item>0xffff5500</item>
-        <item>0xffff5555</item>
-        <item>0xffff55aa</item>
-        <item>0xffff55ff</item>
-        <item>0xffffaa00</item>
-        <item>0xffffaa55</item>
-        <item>0xffffaaaa</item>
-        <item>0xffffaaff</item>
-        <item>0xffffff55</item>
-        <item>0xffffffaa</item>
-    </integer-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25 %</item>
         <item>50 %</item>
@@ -722,15 +418,6 @@
         <item>Animaatioasteikko 5-kertainen</item>
         <item>Animaatioasteikko 10-kertainen</item>
     </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animaatio pois käytöstä</item>
         <item>Animaatioasteikko 0,5-kertainen</item>
@@ -740,74 +427,21 @@
         <item>Animaatioasteikko 5-kertainen</item>
         <item>Animaatioasteikko 10-kertainen</item>
     </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Ei mitään</item>
-        <item>480p</item>
-        <item>480p (turvallinen)</item>
-        <item>720p</item>
-        <item>720p (turvallinen)</item>
-        <item>1080p</item>
-        <item>1080p (turvallinen)</item>
-        <item>4K</item>
-        <item>4K (turvallinen)</item>
-        <item>4K (skaalattu)</item>
-        <item>4K (skaalattu, turvallinen)</item>
-        <item>720p, 1080p (kaksoisnäyttö)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ei mitään</item>
         <item>Logcat</item>
         <item>Systrace (grafiikka)</item>
         <item>Kutsu pinoa, jos glGetError tapaht.</item>
     </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Pois</item>
         <item>Piirrä ei-suorakulm. leikealue sinisellä</item>
         <item>Korosta testatut piirtokom. vihreällä</item>
     </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Pois käytöstä</item>
         <item>Ruudulla palkkeina</item>
         <item>Adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Ei käytössä</item>
@@ -826,14 +460,6 @@
         <item>Enintään 2 prosessia</item>
         <item>Enintään 3 prosessia</item>
         <item>Enintään 4 prosessia</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -866,13 +492,6 @@
         <item>Chimp</item>
         <item>Monkey</item>
     </string-array>
-    <string-array name="user_content_ratings_values">
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Kysy</item>
         <item>Älä salli koskaan</item>
@@ -885,41 +504,6 @@
         <item>Kriittinen</item>
         <item>\?</item>
     </string-array>
-    <array name="ram_colors">
-        <item>@color/memory_normal</item>
-        <item>@color/memory_moderate</item>
-        <item>@color/memory_low</item>
-        <item>@color/memory_critical</item>
-    </array>
-    <string-array name="daltonizer_type_entries">
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="daltonizer_type_values">
-        <item>12</item>
-        <item>11</item>
-        <item>13</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
-    </string-array>
-    <integer-array name="battery_saver_trigger_values">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-    </integer-array>
     <string-array name="proc_stats_memory_states">
         <item>Normaali</item>
         <item>Keskitaso</item>
@@ -966,33 +550,9 @@
         <item>audio_source</item>
         <item>midi</item>
     </string-array>
-    <string-array name="night_mode_entries">
-        <item>@string/night_mode_no</item>
-        <item>@string/night_mode_yes</item>
-        <item>@string/night_mode_auto</item>
-    </string-array>
-    <string-array name="night_mode_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi ensisijainen</item>
         <item>Matkapuhelinverkko ensisijainen</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Pois käytöstä</item>
@@ -1000,41 +560,20 @@
         <item>Keskiverto</item>
         <item>Kova</item>
     </string-array>
-    <string-array name="haptic_feedback_level_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Kova</item>
         <item>Keskiverto</item>
         <item>Kevyt</item>
-    </string-array>
-    <string-array name="media_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graafinen</item>
         <item>Prosentti</item>
         <item>Yläpalkki</item>
     </string-array>
-    <string-array name="battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Kysy yhdistettäessä</item>
         <item>Vain lataus</item>
         <item>Kytke SD-kortti</item>
-    </string-array>
-    <string-array name="usb_connection_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 seconds</item>
