@@ -26,9 +26,6 @@ Ennen kuin kalibroit laitteen, laita se tasaiselle tasolle."</string>
   <string name="cit_audio_cali_summary">Kalibroi Kaiutin PA</string>
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Kaiutin PA Kalibrointitesti</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Ref_diff:</string>
-  <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">Kalibrointi on käynnissä...</string>
   <string name="cit_audio_get_temp_fail">Väliaikaisten tiedostojen saanti epäonnistui!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Takamikrofonin kaiuttimen testi</string>

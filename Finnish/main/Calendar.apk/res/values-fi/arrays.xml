@@ -18,18 +18,6 @@
         <item>2 päivää</item>
         <item>1 viikko</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Ei mitään</item>
-        <item>0 minuuttia</item>
-        <item>5 minuuttia</item>
-        <item>10 minuuttia</item>
-        <item>15 minuuttia</item>
-        <item>30 minuuttia</item>
-        <item>1 tunti</item>
-        <item>1 päivä</item>
-        <item>2 päivää</item>
-        <item>1 viikko</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Oletussijainti</item>
         <item>Lauantai</item>
@@ -78,12 +66,6 @@
         <item>Kuukausi</item>
         <item>Tapahtumat</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Myöhästyn muutaman minuutin.</item>
-        <item>Olen paikalla noin 10 minuutin kuluttua.</item>
-        <item>Voitte aloittaa ilman minua.</item>
-        <item>En pääse paikalle. Sovitaanko uusi aika?</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Aina</item>
         <item>Vain kun puhelin on äänettömällä</item>
@@ -96,18 +78,6 @@
     <string-array name="miui_reminder_minutes_labels">
         <item>Ei muistutusta</item>
         <item>Tapahtuma alkaa</item>
-        <item>5 minuuttia ennen</item>
-        <item>10 minuuttia ennen</item>
-        <item>15 minuuttia ennen</item>
-        <item>30 minuuttia ennen</item>
-        <item>1 tuntia ennen</item>
-        <item>1 päivää ennen</item>
-        <item>2 päivää ennen</item>
-        <item>1 viikkoa ennen</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>No reminder</item>
-        <item>At event time</item>
         <item>5 minuuttia ennen</item>
         <item>10 minuuttia ennen</item>
         <item>15 minuuttia ennen</item>
