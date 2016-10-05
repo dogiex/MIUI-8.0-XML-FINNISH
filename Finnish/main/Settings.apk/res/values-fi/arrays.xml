@@ -29,8 +29,8 @@
         <item>Vältetään huonoa yhteyttä tilapäisesti</item>
     </string-array>
     <string-array name="status_bar_style_entries">
-        <item>Single page</item>
-        <item>Dual page</item>
+        <item>Yhdellä sivulla</item>
+        <item>Kahdella sivulla</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 sekuntia</item>
@@ -817,9 +817,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Standardi</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimize contrast for available light</item>
-        <item>"Increase display's contrast"</item>
-        <item>Contrast will remain constant</item>
+        <item>Optimoi näytön kontrastia valoisuuden mukaan</item>
+        <item>Nosta näytön kontrastia</item>
+        <item>Kontrasti pysyy muuttumattomana</item>
     </string-array>
     <string-array name="perms_hips_values">
         <item>2</item>
