@@ -22,7 +22,6 @@
   <string name="convertion_unit_weight">Painon muunnin</string>
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Päivitetty %s</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
@@ -41,7 +40,6 @@
   <string name="dotDesc">piste</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler's number"</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">yhtäkuin</string>
@@ -72,10 +70,8 @@
   <string name="leftParenDesc">vasen sulku</string>
   <string name="lg">log</string>
   <string name="lgDesc">logarithm</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">natural logarithm</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Commercial loans</string>
   <string name="loan_edittext_hint_commercial_combined">Commercial loans</string>
   <string name="loan_edittext_hint_fund">Provident fund loans</string>
@@ -134,12 +130,10 @@
   <string name="rightParenDesc">oikea sulku</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sine</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">neliöjuuri</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangent</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Accumulation fund</string>
   <string name="tax_annual_bonus_hint">Enter your bonus before tax</string>
   <string name="tax_birth">Syntymä</string>
