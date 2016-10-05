@@ -16,7 +16,7 @@
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Choose apps</string>
   <string name="app_list_total">%d apps</string>
-  <string name="app_name">Battery saver</string>
+  <string name="app_name">Akun säästäjä</string>
   <string name="background">App is running in background</string>
   <string name="config_description">"MIUI can identify apps with specific background processes (e.g., messaging and navigation apps, media players), and apply Battery saver in a way that won't influence important background activity."</string>
   <string name="config_mode_title">Background settings</string>
@@ -43,7 +43,6 @@ Battery saver will treat important apps selectively."</string>
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
   <string name="high">Performance</string>
   <string name="hints_loading_text">Just a sec…</string>
-  <string name="invalid_size_value">"Couldn't get package size."</string>
   <string name="location_disable_description">Apps in the background can only access location services for a brief period of time while continuous access is restricted</string>
   <string name="location_disable_title">Restrict</string>
   <string name="location_enable_description">Apps can use location services in the background</string>

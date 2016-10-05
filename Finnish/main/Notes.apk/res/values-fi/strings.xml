@@ -11,11 +11,11 @@
   <string name="alert_title_delete">Delete note?</string>
   <string name="alert_title_edit_anyway">This note contains unsupported contents</string>
   <string name="all_terms">%1$s and %2$s</string>
-  <string name="app_name">Notes</string>
-  <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Camera</string>
-  <string name="attachment_contact">Contacts</string>
-  <string name="attachment_gallery">Gallery</string>
+  <string name="app_name">Muistio</string>
+  <string name="app_widget">Muistio</string>
+  <string name="attachment_camera">Kamera</string>
+  <string name="attachment_contact">Yhteystiedot</string>
+  <string name="attachment_gallery">Galleria</string>
   <string name="button_new_note">New</string>
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">Unnamed folder</string>
@@ -91,7 +91,6 @@ Click add button to create folder"</string>
   <string name="search_label">Searching…</string>
   <string name="search_path_notes">Settings/System apps/Notes</string>
   <string name="search_setting_description">Search text in your notes</string>
-  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Sync notes</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>

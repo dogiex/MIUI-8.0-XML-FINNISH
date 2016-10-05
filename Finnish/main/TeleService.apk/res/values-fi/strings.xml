@@ -16,7 +16,6 @@
   <string name="administrative_disable">Järjestelmänhallinta pois käytöstä</string>
   <string name="administrative_enable">Järjestelmänhallinta käytössä</string>
   <string name="advanced_settings">Lisäasetukset</string>
-  <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Piilota kaikki koskettamalla</string>
   <string name="advanced_settings_show">▷ Näytä kaikki koskettamalla</string>
   <string name="advertisements_disable">Mainokset pois käytöstä</string>
@@ -46,7 +45,6 @@
   <string name="audio_mode_earpiece">Puhelimen kuuloke</string>
   <string name="audio_mode_speaker">Kaiutin</string>
   <string name="audio_mode_wired_headset">Langalliset kuulokkeet</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Käyttäjänimeä käytetään todennukseen</string>
   <string name="auth_username_title">Todennuksessa käytettävä käyttäjänimi</string>
   <string name="auto_answer_delay_entries_delay_10s">10 seconds</string>
@@ -322,9 +320,7 @@
   <string name="default_area_code_setting">Default area code</string>
   <string name="default_areacode">Default area code</string>
   <string name="default_notification_description">Oletusääni (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ei asetettu&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Delete</string>
   <string name="deleteAllSimEntries">Delete all SIM contacts</string>
   <string name="deleteSimContacts">Deleting SIM contacts</string>
@@ -391,11 +387,9 @@
   <string name="disable_fdn_ok">Ota sallitut numerot käyttöön</string>
   <string name="disable_pin_ok">PIN-koodi tyhjennetty</string>
   <string name="disable_sim_pin">Tyhjennä SIM-kortin PIN-koodi</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Sama kuin käyttäjänimi&gt;</string>
   <string name="display_name_title">Näyttönimi</string>
   <string name="do_not_ask">"Don't ask again"</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Palvelin</string>
   <string name="domestic_calls">Only domestic</string>
   <string name="doneButton">Valmis</string>
@@ -804,7 +798,6 @@ Using preferred network instead."</string>
   <string name="operator_first_title">Operator first</string>
   <string name="operator_mins_first">"Give priority to carrier's plan"</string>
   <string name="operator_remain_mins">Operator package minutes</string>
-  <string name="operator_remain_mins_value">%1$s minutes</string>
   <string name="optional_summary">&lt;Valinnainen&gt;</string>
   <string name="order_error_network">Loading failed, network unavailable.</string>
   <string name="order_error_retry">Retry</string>
@@ -842,7 +835,6 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="other_settings">Muut puheluasetukset</string>
   <string name="other_settings_category">Other</string>
   <string name="overseas_roaming_setting">Data roaming</string>
-  <string name="password">Password</string>
   <string name="password_changed">Password changed</string>
   <string name="password_title">Salasana</string>
   <string name="path_answer_state_setting_title">System apps/Phone/Incoming call settings</string>
@@ -924,7 +916,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="please_connect_network_message">Please conntect network</string>
   <string name="please_connect_network_title">No network</string>
   <string name="please_login_mi_accout">Login</string>
-  <string name="port">Port</string>
   <string name="port_title">Porttinumero</string>
   <string name="preference_auto_ip_summary_disable">Off</string>
   <string name="preference_category_ringtone">Soittoääni ja värinä</string>
@@ -1116,10 +1107,8 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Lähetä</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Lähetä tarkistusviesti</string>
   <string name="send_order_failed">"Couldn't send order"</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Used for outbound calls</string>
   <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
@@ -1150,10 +1139,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_accounts">SIP-tilit</string>
   <string name="sip_accounts_title">Tilit</string>
   <string name="sip_add_account_tip_text">To use internet calling, add an SIP account</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Lähetä aina</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Kaikki puhelut, kun verkko on käytettävissä</string>
   <string name="sip_call_options_entry_2">Vain SIP-puhelut</string>
   <string name="sip_call_options_entry_3">Ask for each call</string>
@@ -1265,7 +1251,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="time_start_hour">time start hour</string>
   <string name="time_start_minute">time start minute</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Siirtotyyppi</string>
   <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">TTY-tilan muutoksia ei sallita videopuhelun aikana.</string>
@@ -1289,7 +1274,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="use_history">Activity</string>
   <string name="use_history_duration_min">%1$s mins</string>
   <string name="use_range">Range</string>
-  <string name="username">UserName</string>
   <string name="username_title">Käyttäjätunnus</string>
   <string name="ussdRunning">USSD-koodi käytössä...</string>
   <string name="ussd_dialog_sep">----------</string>

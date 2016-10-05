@@ -28,8 +28,8 @@
   <string name="alert_dlg_cancel_button">Cancel</string>
   <string name="alert_dlg_ok_button">OK</string>
   <string name="already_followed">"You're already following this number"</string>
-  <string name="app_label">Messaging</string>
-  <string name="app_name">Devices</string>
+  <string name="app_label">Viestit</string>
+  <string name="app_name">Laitteet</string>
   <string name="attach_image">Pictures</string>
   <string name="attach_record_sound">Record audio</string>
   <string name="attach_record_video">Capture video</string>

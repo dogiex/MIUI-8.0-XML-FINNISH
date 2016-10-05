@@ -421,7 +421,6 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="battery_stats_duration">%1$s laturin irrottamisen jälkeen</string>
   <string name="battery_stats_flashlight_on_label">Taskulamppu käytössä</string>
   <string name="battery_stats_gps_on_label">GPS käytössä</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s akkuvirralla</string>
   <string name="battery_stats_phone_signal_label">Matkapuhelinverkon signaali</string>
   <string name="battery_stats_screen_on_label">Näyttö päällä</string>
@@ -565,8 +564,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_pb_remember_choice">Älä kysy uudestaan</string>
   <string name="bluetooth_permission_request">Bluetooth-yhteyspyyntö</string>
   <string name="bluetooth_phonebook_request">PBAP-pyyntö</string>
-  <string name="bluetooth_pin_values_hint">Yleensä 0000 tai 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Oltava 16 numeroa</string>
   <string name="bluetooth_preference_connected_devices">Yhdistetyt laitteet</string>
   <string name="bluetooth_preference_device_settings">Laiteasetukset</string>
   <string name="bluetooth_preference_found_devices">Saatavilla olevat laitteet</string>
@@ -1549,12 +1546,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="input_method">Syöttötapa</string>
   <string name="input_method_selector">Syöttötavan valinta</string>
   <string name="input_method_selector_always_hide_title">Piilota aina</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Näytä aina</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automaattinen</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Asetukset</string>
   <string name="input_method_settings_button">Asetukset</string>
   <string name="input_methods_and_subtype_enabler_title">Valitse aktiiviset syöttötavat</string>
@@ -1588,7 +1581,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="internal_storage">Sisäinen tallennustila</string>
   <string name="internal_storage_sentence">sisäinen tallennustila</string>
   <string name="invalid_location">Asennussijainti on virheellinen.</string>
-  <string name="invalid_size_value">Paketin koon laskeminen epäonnistui.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ja %2$s</string>
@@ -4070,11 +4062,9 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wait_for_debugger_summary">Sovellus odottaa vianetsinnän lisäämistä, ja käynnistyy sen jälkeen.</string>
   <string name="wakeup_for_keyguard_notification_title">Wake lock screen for notifications</string>
   <string name="wallpaper_attributions">Taustakuvat</string>
-  <string name="wallpaper_attributions_values">"Satelliittikuvat:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
-  <string name="wallpaper_desktop">Home screen</string>
-  <string name="wallpaper_live">Live wallpaper</string>
-  <string name="wallpaper_lockscreen">Lock screen</string>
+  <string name="wallpaper_desktop">Kotinäyttö</string>
+  <string name="wallpaper_live">Vaihtuva taustakuva</string>
+  <string name="wallpaper_lockscreen">Lukitusruutu</string>
   <string name="wallpaper_settings_fragment_title">Valitse taustakuva</string>
   <string name="wallpaper_settings_title">Taustakuva</string>
   <string name="webview_license_title">WebView-järjestelmälisenssi</string>
@@ -4305,11 +4295,9 @@ Annetaanko tämä lupa kaikille sovelluksille, jotka haluavat etsiä verkkoja?"<
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

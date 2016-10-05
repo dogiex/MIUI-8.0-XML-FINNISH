@@ -91,9 +91,9 @@ or enter App lock password"</string>
   <string name="app_detail">Details</string>
   <string name="app_install_intercept">Block installation</string>
   <string name="app_mobile">Mobile</string>
-  <string name="app_name">App lock</string>
+  <string name="app_name">Sovelluslukko</string>
   <string name="app_name_na">Data usage</string>
-  <string name="app_name_securitycenter">Security</string>
+  <string name="app_name_securitycenter">Turvallisuus</string>
   <string name="app_not_installed_toast">"App isn't installed on your device."</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
@@ -215,14 +215,11 @@ or enter App lock password"</string>
   <string name="button_text_view">Optimize</string>
   <string name="button_text_view_power">View</string>
   <string name="byteShort">B</string>
-  <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">Calls and Contacts</string>
   <string name="cancal_to_setting_fingerprint">Cancel</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_button">Cancel</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="chat_number">10 hours</string>
   <string name="chat_uint">" hours"</string>
@@ -516,7 +513,6 @@ For more info check the message you received from your carrier"</string>
   <string name="lock_screen_warning_category">Lock screen notifications</string>
   <string name="lock_screen_warning_switch_summary">Show warning on lock screen when data usage exceeds a certain amount</string>
   <string name="lock_screen_warning_switch_title">Show warnings on lock screen</string>
-  <string name="lock_screen_warning_value">Data usage warning</string>
   <string name="lock_settings_title">Lock screen and password</string>
   <string name="lockpassword_confirm_your_password_header">Confirm password</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirm pattern</string>
@@ -1023,7 +1019,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_traffic_saving_whitelist">Exceptions</string>
   <string name="pref_traffic_saving_whitelist_hint">"Don't limit data usage for selected apps"</string>
   <string name="pref_version">Version %s</string>
-  <string name="pref_warning_values">Data usage warning level</string>
   <string name="pref_whitelist_setting">Data roaming exceptions</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
   <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
@@ -1094,9 +1089,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="quick_optimize_no_issue_subtitle">Everything looks good</string>
   <string name="quick_optimize_no_issue_title">"Couldn't find battery issues"</string>
   <string name="quick_optimize_sub_summary_text">Added %s to battery life</string>
-  <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data saver.</string>
-  <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
