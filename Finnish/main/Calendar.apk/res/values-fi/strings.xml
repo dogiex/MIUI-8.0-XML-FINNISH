@@ -306,7 +306,7 @@
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">ei synkronoitu</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
-  <string name="path_calendar">Järjestelmäsovellukset/Kalenteri/Asetukset</string>
+  <string name="path_calendar">System apps/Calendar/Settings</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDialogTitle_vibrateWhen">Värinä</string>
   <string name="pref_error_no_ringtone_select">Ei valittu</string>

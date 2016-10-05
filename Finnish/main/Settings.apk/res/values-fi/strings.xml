@@ -7,7 +7,7 @@ Advertising identifier is a permanent ID unique to your device. Vendors use it t
 If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
   <string name="about_settings">Tietoja puhelimesta</string>
   <string name="about_settings_summary">Näytä lakitiedot, tila, ohjelmiston versio</string>
-  <string name="ac_enable_summary">Set a password for individual apps</string>
+  <string name="ac_enable_summary">Aseta sovellukselle salasana</string>
   <string name="ac_enable_title">Sovelluslukko</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Salasana</string>
@@ -20,9 +20,9 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="access_control_need_password">"%s on suojattu
 "</string>
   <string name="access_control_need_to_unlock">Salasana vaaditaan:</string>
-  <string name="access_control_no_back_footer">Touch [icon] to exit</string>
-  <string name="access_control_password_title">Password</string>
-  <string name="access_control_recording_intro_header">Draw an unlock pattern:</string>
+  <string name="access_control_no_back_footer">Napauta [icon] poistuaksesi</string>
+  <string name="access_control_password_title">Salasana</string>
+  <string name="access_control_recording_intro_header">Piirrä kuvio avataksesi:</string>
   <string name="access_control_reset_by_account">Sign in to your Mi Account to reset password</string>
   <string name="access_point_names">Tukiasemien nimet</string>
   <string name="accessibility_captioning_title">Tekstitykset</string>
@@ -2219,9 +2219,9 @@ Select your operating system:"</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
-  <string name="other_advanced_settings">Additional settings</string>
-  <string name="other_device_info">Others</string>
-  <string name="other_personal_settings">Personal settings</string>
+  <string name="other_advanced_settings">Lisäasetukset</string>
+  <string name="other_device_info">Muut</string>
+  <string name="other_personal_settings">Henkilökohtaiset asetukset</string>
   <string name="other_relative">Other</string>
   <string name="other_sound_settings">Muut äänet</string>
   <string name="overlay_display_devices_title">Simuloi toissijaiset näytöt</string>
@@ -3606,8 +3606,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="system_alert_window_on">Kyllä</string>
   <string name="system_alert_window_settings">Piirrä muihin sovelluksiin</string>
   <string name="system_alert_window_summary" formatted="false">%d/%d sovelluksella on oikeus piirtää muihin sovelluksiin.</string>
-  <string name="system_and_device_section_title">System &amp; device</string>
-  <string name="system_app_settings">System apps</string>
+  <string name="system_and_device_section_title">Järjestelmä &amp; laite</string>
+  <string name="system_app_settings">Järjestelmänsovellukset</string>
   <string name="system_backup_section_title">Backup</string>
   <string name="system_package">Järjestelmäpäivityksiä ei voi asentaa ulkoiseen mediaan.</string>
   <string name="system_storage">System storage</string>
@@ -3696,10 +3696,10 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="tts_engine_network_required">Tämä kieli vaatii verkkoyhteyden, jotta tekstistä puheeksi muuntaminen toimii.</string>
   <string name="tts_engine_preference_section_title">Ensisijainen kone</string>
   <string name="tts_engine_security_warning">Tämä puhesynteesimoottori saattaa kerätä kaiken puhutun tekstin, mukaan lukien henkilökohtaiset tiedot kuten salasanat ja luottokorttinumerot. Se on lähtöisin moottorista %s. Haluatko ottaa tämän puhesynteesimoottorin käyttöön?</string>
-  <string name="tts_engine_settings_button">Käynnistä moottorin asetukset</string>
+  <string name="tts_engine_settings_button">Käynnistä koneen asetukset</string>
   <string name="tts_engine_settings_section">Koneen asetukset</string>
   <string name="tts_engine_settings_title">Asetukset: %s</string>
-  <string name="tts_engines_section">Moottorit</string>
+  <string name="tts_engines_section">Koneet</string>
   <string name="tts_general_section_title">Yleiset</string>
   <string name="tts_install_data_summary">Asenna puhesynteesiin tarvittavat äänitiedot</string>
   <string name="tts_install_data_title">Asenna äänitiedot</string>
