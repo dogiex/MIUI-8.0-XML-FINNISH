@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s apps can't show notifications"</item>
-        <item quantity="one">"1 app can't show notifications"</item>
+        <item quantity="other">"%s sovellusta ei voi näyttää ilmoituksia"</item>
+        <item quantity="one">"1 sovellus ei voi näyttää ilmoituksia"</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s apps can show notifications</item>
-        <item quantity="one">1 app can show notifications</item>
+        <item quantity="other">%s sovellusta voi näyttää ilmoituksia</item>
+        <item quantity="one">1 sovellus voi näyttää ilmoituksia</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Enää %1$d vaihetta, niin sinusta tulee kehittäjä.</item>
@@ -82,15 +82,15 @@
         <item quantity="one">viimeiset %2$s: 1 sovellus käytti muistia</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d steps away from entering phone info."</item>
-        <item quantity="one">"You're %1$d step away from entering phone info."</item>
+        <item quantity="other">Olet %1$d askeleen päässä puhelimen tiedoista.</item>
+        <item quantity="one">Olet %1$d askeleen päässä puhelimen tiedoista.</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
-        <item quantity="one">"You're %1$d step away from entering CIT."</item>
+        <item quantity="other">Olet %1$d askeleen päässä CIT:stä.</item>
+        <item quantity="one">Olet %1$d askeleen päässä CIT:stä.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"You're %1$d steps away from reporting bug."</item>
-        <item quantity="one">"You're %1$d step away from reporting bug."</item>
+        <item quantity="other">Olet %1$d askeleen päässä bugiraportista.</item>
+        <item quantity="one">Olet %1$d askeleen päässä bugiraportista.</item>
     </plurals>
 </resources>
