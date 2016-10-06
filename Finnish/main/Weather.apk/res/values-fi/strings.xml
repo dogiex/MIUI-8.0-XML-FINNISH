@@ -27,7 +27,7 @@
   <string name="ads_extension"/>
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
-  <string name="app_name">Weather</string>
+  <string name="app_name">Sää</string>
   <string name="aqi_data_source">powered by Caiyun Weather</string>
   <string name="aqi_desc">Air Quality Index</string>
   <string name="aqi_detail_24_hours">Hourly Forecast</string>

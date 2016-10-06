@@ -208,7 +208,7 @@ or enter App lock password"</string>
   <string name="button_text_quick_clean">Optimize</string>
   <string name="button_text_reject">Reject</string>
   <string name="button_text_reject_timer">Reject (%d)</string>
-  <string name="button_text_security">Security</string>
+  <string name="button_text_security">Turvallisuus</string>
   <string name="button_text_start_optimize">Check</string>
   <string name="button_text_uninstall_shortcut">Remove shortcut from Home screen</string>
   <string name="button_text_update_now">Update</string>

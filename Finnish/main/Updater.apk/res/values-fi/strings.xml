@@ -4,7 +4,7 @@
   <string name="active_xiaomi_account">Active</string>
   <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Activate Mi Account</string>
-  <string name="app_name">Updater</string>
+  <string name="app_name">Päivittäjä</string>
   <string name="apply_title">Updating (%s)</string>
   <string name="apply_update_dialog_cancel_button">Cancel</string>
   <string name="apply_update_dialog_update_button">Update</string>

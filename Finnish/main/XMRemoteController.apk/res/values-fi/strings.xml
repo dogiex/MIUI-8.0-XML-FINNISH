@@ -60,7 +60,7 @@
   <string name="app_local">本地</string>
   <string name="app_manager_get_data_failed">"Couldn't get app info"</string>
   <string name="app_manager_no_data">No apps found</string>
-  <string name="app_name">Mi Remote</string>
+  <string name="app_name">Mi Kaukosäädin</string>
   <string name="app_name_for_airkan">投屏神器</string>
   <string name="app_open">Open</string>
   <string name="app_open_inbox">Open using Mi Box</string>
