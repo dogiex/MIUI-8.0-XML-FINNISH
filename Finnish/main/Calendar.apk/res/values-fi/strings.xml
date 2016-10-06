@@ -159,10 +159,8 @@
   <string name="downloaded">已下载</string>
   <string name="downloading">下载中</string>
   <string name="downloading_wallpaper">原图下载中</string>
-  <string name="drop_down_list_footer_default_text">更多</string>
   <string name="drop_down_list_footer_loading_text">加载中…</string>
   <string name="drop_down_list_footer_no_more_text">没有更多了</string>
-  <string name="drop_down_list_header_default_text">点击可以刷新</string>
   <string name="drop_down_list_header_loading_text">加载中…</string>
   <string name="drop_down_list_header_pull_text">下拉可以刷新</string>
   <string name="drop_down_list_header_release_text">松开可以刷新</string>
@@ -225,7 +223,6 @@
   <string name="fortune_name">称呼</string>
   <string name="fortune_name_hint">请输入</string>
   <string name="fortune_no_name">请填写称呼</string>
-  <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
   <string name="from_google_group_calendar">Google kalenteri</string>
   <string name="gadget_no_events">Ei tulevia kalenteritapahtumia</string>
   <string name="gadget_title">Kalenteri</string>
@@ -417,9 +414,6 @@
   <string name="str_hour_of_next">下一次%s</string>
   <string name="subscribe">订阅</string>
   <string name="subscribe_all">全部订阅</string>
-  <string name="subscribe_card_more_default_text">更多</string>
-  <string name="subscribe_card_recommend_default_text">推荐订阅</string>
-  <string name="subscribe_description_card_default_title">订阅简介</string>
   <string name="subscribe_description_card_more_cut">收起</string>
   <string name="subscribe_description_card_more_launch">展开</string>
   <string name="subscribe_detail_title">订阅详情</string>
@@ -500,7 +494,6 @@
   <string name="widget_events">Seuraava tapahtuma</string>
   <string name="widget_no_events">Ei tapahtumia</string>
   <string name="widget_select_style">Valitse tyyli</string>
-  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">五行</string>
   <string name="xiaomi_calendar_display_name">Mi Tilin Kalenteri</string>
