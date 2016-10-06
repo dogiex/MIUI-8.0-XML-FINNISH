@@ -56,7 +56,6 @@
   <string name="bt_toast_6">Tiedoston lähettäminen vastaanottajalle %1$s pysäytetty</string>
   <string name="btopp_live_folder">Bluetooth, vastaanotettu</string>
   <string name="defaultname">Autosarja</string>
-  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Poista kaikki tiedot</string>
   <string name="delete_record">Poista tiedot</string>
   <string name="device_picker">Bluetooth laiteasetukset</string>

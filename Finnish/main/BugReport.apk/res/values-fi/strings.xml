@@ -4,7 +4,7 @@
   <string name="action_submit">Lähetä</string>
   <string name="announcement">Huomio</string>
   <string name="app_empty">Et ole ladannut yhtään sovellusta</string>
-  <string name="app_label">Palauta</string>
+  <string name="app_label">Palaute</string>
   <string name="app_name">Palaute</string>
   <string name="btn_send">Lähetä</string>
   <string name="bugreport_dump_complete_notification_summary">Napauta katsoaksesi.</string>
@@ -17,7 +17,6 @@
   <string name="cta_dialog_content">Tämä sovellus tarvitsee internet yhteyden toimiakseen normaalisti.</string>
   <string name="cta_dialog_title">Internet yhteys</string>
   <string name="cta_not_show_again">Älä näytä uudestaan</string>
-  <string name="default_text_view">TextView</string>
   <string name="description">Kuvaile ongelma</string>
   <string name="dialog_ask_delete">Poista</string>
   <string name="dialog_ask_quit">Poistu</string>
