@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Wallpaper Carousel</string>
+  <string name="app_name">Taustakuvan Karuselli</string>
   <string name="at_least_one">Choose at least one category</string>
   <string name="auto_interval">Auto</string>
   <string name="cancel">Cancel</string>

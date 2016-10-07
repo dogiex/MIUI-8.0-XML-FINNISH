@@ -15,7 +15,7 @@
   <string name="TestSender">Test Sender</string>
   <string name="Unregister">unregister</string>
   <string name="action_settings">Settings</string>
-  <string name="app_name">Mi Drop</string>
+  <string name="app_name">Mi Pudotus</string>
   <string name="cancel_confirm">Cancel</string>
   <string name="cancel_confirm_title">"Transfer isn't complete, cancel now?"</string>
   <string name="cancel_receive_confirm">Cancel</string>
@@ -24,7 +24,7 @@
   <string name="file_not_support">"This file type isn't supported"</string>
   <string name="help">help</string>
   <string name="i_know">Got it</string>
-  <string name="intro_midrop">Mi Drop</string>
+  <string name="intro_midrop">Mi Pudotus</string>
   <string name="intro_page1_text1">Share files with nearby devices</string>
   <string name="intro_page1_text2">"Now it's easier than ever"</string>
   <string name="intro_page2_choose_files">Choose files and tap \"Send\"</string>
