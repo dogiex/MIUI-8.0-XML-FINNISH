@@ -18,10 +18,10 @@
         <item>Joka 7 päivä</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100 MB</item>
-        <item>300 MB</item>
-        <item>500 MB</item>
-        <item>1 GB</item>
+        <item>100 Mt</item>
+        <item>300 Mt</item>
+        <item>500 Mt</item>
+        <item>1 Gt</item>
     </string-array>
     <string-array name="auto_process_mode">
         <item>Näytä</item>
