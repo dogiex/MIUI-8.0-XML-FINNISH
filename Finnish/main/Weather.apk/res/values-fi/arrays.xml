@@ -26,13 +26,13 @@
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
     </string-array>
     <string-array name="aqi_title_append">
         <item>%1$s</item>
@@ -53,46 +53,46 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Rain</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
+        <item>Aurinkoinen</item>
+        <item>Puolipilvinen</item>
+        <item>Pilvinen</item>
+        <item>Sumuinen</item>
+        <item>Iso rankkasade</item>
+        <item>Kaatosade</item>
+        <item>Rankkasade</item>
+        <item>Ukkosmyrsky</item>
+        <item>Vesisade</item>
+        <item>Suuri sademäärä</item>
+        <item>Kohtalainen sade</item>
+        <item>Kevyt sade</item>
+        <item>Loska</item>
+        <item>Lumimyrsky</item>
+        <item>Lumisade</item>
+        <item>Rankka lumisade</item>
+        <item>Kohtalainen lumisade</item>
+        <item>Kevyt lumisade</item>
+        <item>Kova hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Hiekkainen</item>
+        <item>Tuulinen</item>
+        <item>Rakeita</item>
+        <item>Pölyttää</item>
+        <item>Usva</item>
+        <item>Jäätävä tihku</item>
         <item></item>
     </string-array>
     <string-array name="indices_uv_level">
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
+        <item>Heikko</item>
+        <item>Keskinkertainen</item>
+        <item>Voimakas</item>
     </string-array>
     <string-array name="indices_sport">
-        <item>Suitable</item>
-        <item>Improper</item>
+        <item>Sopiva</item>
+        <item>Sopimaton</item>
     </string-array>
     <string-array name="indices_car_wash">
-        <item>Suitable</item>
-        <item>Improper</item>
+        <item>Sopiva</item>
+        <item>Sopimaton</item>
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>

@@ -92,4 +92,5 @@ Let's translate together!
 - TelephonyProvider.apk
 - UserDictionaryProvider.apk
 - WallpaperCropper.apk
+- Weather.apk
 - VpnDialogs.apk
