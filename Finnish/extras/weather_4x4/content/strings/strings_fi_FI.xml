@@ -1,7 +1,7 @@
 <resources>
-    <string name="date_format">EEEE, MMMM d</string>
-    <string name="today">Today</string>
-    <string name="tomorrow">Tomorrow</string>
+    <string name="date_format">"EEEE, d. MMMM'ta'"</string>
+    <string name="today">T‰n‰‰n</string>
+    <string name="tomorrow">Huomenna</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
     <string name="aqi_good">'AQI '+#weather_aqilevel</string>
     <string name="aqi_moderate">'AQI '+#weather_aqilevel</string>
@@ -11,8 +11,8 @@
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
     <string name="weather_type_null">'No data'</string>
-	<string name="weather_type_0">Clear</string>
-    <string name="weather_type_1">Cloudy</string>
+	<string name="weather_type_0">Selke‰‰</string>
+    <string name="weather_type_1">Puolipilvist‰</string>
     <string name="weather_type_2">Hazy</string>
     <string name="weather_type_3">Foggy</string>
     <string name="weather_type_4">Severe rainstorm</string>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
-    <string name="date_time">EEEE, MMMM d</string>
-    <string name="language">en</string>
-    <string name="desc_date_format">EEEE, MMMM d</string>
+    <string name="date_time">"EEEE, d. MMMM'ta'"</string>
+    <string name="language">fi</string>
+    <string name="desc_date_format">"EEEE, d. MMMM'ta'"</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
-    <string name="weather_type_0">Clear</string>
-    <string name="weather_type_1">Cloudy</string>
+    <string name="weather_type_0">Selke‰‰</string>
+    <string name="weather_type_1">Puolipilvist‰</string>
     <string name="weather_type_2">Hazy</string>
     <string name="weather_type_3">Foggy</string>
     <string name="weather_type_4">Severe rainstorm</string>
