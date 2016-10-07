@@ -416,7 +416,7 @@
   <string name="white_list_ad_header">Mainos-tiedostot: %d</string>
   <string name="white_list_apk_header">Asennuspaketit: %d</string>
   <string name="white_list_cache_header">Välimuistitiedostot: %d</string>
-  <string name="white_list_large_file_header">Suuret tiedotot ja videot: %d</string>
+  <string name="white_list_large_file_header">Suuret tiedostot ja videot: %d</string>
   <string name="white_list_residual_header">Jäljet: %d</string>
   <string name="white_list_title">Poikkeukset</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
