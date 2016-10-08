@@ -262,7 +262,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="app_sees_restricted_accounts_and_controlled_by">Tämä sovellus voi käyttää tilejäsi. Hallinnoija: %1$s</string>
   <string name="app_special_disable_dlg_text">Jos poistat sovelluksen käytöstä, muut sovellukset eivät välttämättä enää toimi oikein. Lisäksi tietosi poistetaan.</string>
   <string name="app_special_disable_dlg_title">Poistetaanko tiedot ja poistetaanko sovellus käytöstä?</string>
-  <string name="app_switch_key">Viimeiset</string>
+  <string name="app_switch_key">Viimeaikaiset sovellukset</string>
   <string name="app_usage_preference">Sovellusten käyttöoikeusasetukset</string>
   <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
   <string name="application_info_label">Sovelluksen tiedot</string>
@@ -695,8 +695,8 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="cache_header_label">Välimuisti</string>
   <string name="cache_size_label">Välimuisti</string>
   <string name="cached">Välimuistissa oleva taustaprosessi</string>
-  <string name="calendar_sound_dialog_title">Choose calendar sound</string>
-  <string name="calendar_sound_title">Calendar sound</string>
+  <string name="calendar_sound_dialog_title">Valitse kalenterin oletusääni</string>
+  <string name="calendar_sound_title">Kalenterin oletusääni</string>
   <string name="call_manager_enable_summary">Anna palvelun hallinnoida puheluita.</string>
   <string name="call_manager_enable_title">Ota Call Manager käyttöön</string>
   <string name="call_manager_summary">%1$s</string>
@@ -2374,7 +2374,7 @@ Select your operating system:"</string>
   <string name="path_accessibility_display_daltonizer_preference_title">Asetukset/Lisäasetukset/Esteettömyys/Värikorjaus</string>
   <string name="path_accessibility_global_gesture_preference_title">Asetukset/Lisäasetukset/Esteettömyys/Esteettömyystilan oikotie</string>
   <string name="path_accessibility_long_press_timeout_preference_title">Asetukset/Lisäasetukset/Esteettömyys/Pitkäkestoisen kosketuksen viive</string>
-  <string name="path_accessibility_screen_magnification_title">Asetukset/Lisäasetukset/Esteettömyys/Magnification gestures</string>
+  <string name="path_accessibility_screen_magnification_title">Asetukset/Lisäasetukset/Esteettömyys/Suurennuseleet</string>
   <string name="path_accessibility_settings">Asetukset/Lisäasetukset/Esteettömyys</string>
   <string name="path_account_list">Asetukset/Muut tilit</string>
   <string name="path_advanced_settings">Asetukset/Wi-Fi/Lisäasetukset</string>
@@ -2384,7 +2384,7 @@ Select your operating system:"</string>
   <string name="path_apn_settings">Asetukset/Matkapuhelinverkot/Tukiasemien nimet</string>
   <string name="path_app_invisible">Asetukset/Additional/Beta features/App Invisible</string>
   <string name="path_app_permission">Asetukset/Käyttöoikeudet</string>
-  <string name="path_app_switch_key">Asetukset/Lisäasetukset/Painikkeet/Viimeiset</string>
+  <string name="path_app_switch_key">Asetukset/Lisäasetukset/Painikkeet/Viimeaikaiset sovellukset</string>
   <string name="path_application_lock">Asetukset/Sovelluslukko</string>
   <string name="path_applications_settings">Asetukset/Asennetut sovellukset</string>
   <string name="path_back_key">Asetukset/Lisäasetukset/Painikkeet/Takaisin</string>
@@ -2394,9 +2394,9 @@ Select your operating system:"</string>
   <string name="path_bluetooth_device_searchable">Asetukset/Bluetooth/Discoverable</string>
   <string name="path_bluetooth_enable">Asetukset/Bluetooth/Bluetooth enable</string>
   <string name="path_bluetooth_settings">Asetukset/Bluetooth</string>
-  <string name="path_brightness_settings">Asetukset/Näyttö/Brightness</string>
+  <string name="path_brightness_settings">Asetukset/Näyttö/Kirkkaustaso</string>
   <string name="path_button_light_timeout">Asetukset/Lisäasetukset/Painikkeet/Keep button lights on</string>
-  <string name="path_calendar_sound_title">Asetukset/Ääni &amp; värinä/Calendar sound</string>
+  <string name="path_calendar_sound_title">Asetukset/Ääni &amp; värinä/Kalenterin oletusääni</string>
   <string name="path_children_mode_settings">Asetukset/Lisäasetukset/Child mode</string>
   <string name="path_choose_timezone">Asetukset/Lisäasetukset/Date &amp; time/Choose time zone</string>
   <string name="path_cloud_backup_settings_section_title">Asetukset/Lisäasetukset/Backup &amp; reset/Backup settings</string>
@@ -3067,7 +3067,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_apn_settings">APN;Access Point Names</string>
   <string name="search_app_invisible">App Invisible</string>
   <string name="search_app_permission">Permissions;ROOT access</string>
-  <string name="search_app_switch_key">Viimeiset</string>
+  <string name="search_app_switch_key">Viimeaikaiset sovellukset</string>
   <string name="search_application_lock">Sovelluslukko</string>
   <string name="search_application_settings">Asennetut sovellukset</string>
   <string name="search_back_key">Back</string>
@@ -3079,7 +3079,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_bluetooth_enable">Bluetooth</string>
   <string name="search_brightness">Brightness</string>
   <string name="search_button_light_timeout">Keep button lights on</string>
-  <string name="search_calendar_sound_title">Calendar sound</string>
+  <string name="search_calendar_sound_title">Kalenterin oletusääni</string>
   <string name="search_children_mode_settings">Lapsi-tila;Lock sms</string>
   <string name="search_children_mode_title">Lapsi-tila</string>
   <string name="search_choose_timezone">Choose time zone</string>

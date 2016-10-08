@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">"EEEE, d. MMMM'ta'"</string>
+    <string name="date_format">EEEE, d. MMMM'ta'</string>
     <string name="today">Tänään</string>
     <string name="tomorrow">Huomenna</string>
     <string name="aqi_pure">'ILI '+#weather_aqilevel</string>

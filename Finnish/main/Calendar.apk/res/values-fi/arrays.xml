@@ -149,18 +149,18 @@
         <item>Su</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Tam</item>
-        <item>Hel</item>
-        <item>Maa</item>
-        <item>Huh</item>
-        <item>Tou</item>
-        <item>Kes</item>
-        <item>Hei</item>
+        <item>Tammi</item>
+        <item>Helmi</item>
+        <item>Maalis</item>
+        <item>Huhti</item>
+        <item>Touko</item>
+        <item>Kesä</item>
+        <item>Heinä</item>
         <item>Elo</item>
-        <item>Syy</item>
-        <item>Lok</item>
-        <item>Mar</item>
-        <item>Jou</item>
+        <item>Syys</item>
+        <item>Loka</item>
+        <item>Marras</item>
+        <item>Joulu</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>ensimmäinen</item>
