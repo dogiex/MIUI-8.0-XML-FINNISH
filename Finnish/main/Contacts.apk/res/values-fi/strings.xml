@@ -308,8 +308,8 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="description_image_button_four">neljä</string>
   <string name="description_image_button_nine">yhdeksän</string>
   <string name="description_image_button_one">yksi</string>
-  <string name="description_image_button_plus">plus</string>
-  <string name="description_image_button_pound">Pound</string>
+  <string name="description_image_button_plus">plussa</string>
+  <string name="description_image_button_pound">ruutu</string>
   <string name="description_image_button_seven">seitsemän</string>
   <string name="description_image_button_sim1_dial">Soita käyttäen SIM1:stä</string>
   <string name="description_image_button_sim2_dial">Soita käyttäen SIM2:sta</string>
@@ -319,7 +319,7 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="description_image_button_two">kaksi</string>
   <string name="description_image_button_zero">nolla</string>
   <string name="description_minus_button">poista</string>
-  <string name="description_plus_button">plus</string>
+  <string name="description_plus_button">plussa</string>
   <string name="description_quick_contact_for">Pikayhteys henkilöön %1$s</string>
   <string name="description_search_button">Etsi</string>
   <string name="description_send_message">Lähetä viesti kohteelle %1$s</string>
