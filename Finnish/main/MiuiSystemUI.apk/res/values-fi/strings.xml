@@ -242,8 +242,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="saved_network">Tallentaja %1$s</string>
   <string name="screen_button_notification_text">Kytkeäksesi ne päälle, paina Koti ja Virta-painiketta samaan aikaan.</string>
   <string name="screen_button_notification_title">Navigointi-painikkeet on pois päältä</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys koskettamalla pohjaan Koti- ja Virtapainiketta yhtäaikaan.</string>
+  <string name="screen_pinning_description_accessible">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys koskettamalla pohjaan Koti- ja Virtapainiketta yhtäaikaan.</string>
   <string name="screen_pinning_negative">Ei kiitos</string>
   <string name="screen_pinning_positive">Selvä</string>
   <string name="screen_pinning_title">Näyttö on kiinnitetty</string>
@@ -268,11 +268,9 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="settings_toggle_position_divider_page">%1$d nappulat tämän palkin yläpuolella ovat aktiivisia</string>
   <string name="settings_toggle_position_reset">Aseta nappulat uudelleen</string>
   <string name="share">Jaa</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-  <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
-  <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
+  <string name="status_bar_clock_date_format">"EEEE, d. MMMM'ta'"</string>
+  <string name="status_bar_date_format">"EEEE, d. MMMM'ta'"</string>
+  <string name="status_bar_date_format_12">"EEEE, d. MMMM'ta'"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Tänään: %1$s   Jäljellä: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Raja ylitetty: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -286,7 +284,7 @@ d MMMM"</string>
 Liu'uta alas lukitaksesi"</string>
   <string name="status_bar_recent_guide_bottom">Liu\'uta alas lukitaksesi</string>
   <string name="status_bar_recent_guide_top">Liu\'uta ylös sulkeaksesi</string>
-  <string name="status_bar_recent_memory_info1">%1$sB/%2$sB jäljellä</string>
+  <string name="status_bar_recent_memory_info1">%1$st/%2$st jäljellä</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Palaa takaisin Ääninauhuriin</string>
   <string name="status_bar_recording_pause">Nauhoitus pysäytetty</string>
@@ -337,29 +335,29 @@ Liu'uta alas lukitaksesi"</string>
   <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
   <string name="usb_storage_stop_title">USB-muisti on käytössä</string>
   <string name="usb_storage_title">USB yhdistetty</string>
-  <string name="user_guide_for_notification">Swipe down with one finger to pull down the notification shade</string>
-  <string name="user_guide_for_toggle">The toggle list can be scrolled horizontally</string>
+  <string name="user_guide_for_notification">"Liu'uta sormella alas vetääksesi ilmoitusalueen esiin"</string>
+  <string name="user_guide_for_toggle">Nappuloiden listaa voi liikuttaa vaakatasossa</string>
   <string name="user_guide_for_toggle_list">Hallitse nappuloita</string>
   <string name="vpn_text">Näytä asetukset napauttamalla.</string>
-  <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
-  <string name="vpn_title">VPN activated</string>
-  <string name="vpn_title_long">Connecting to VPN using %s</string>
+  <string name="vpn_text_long">Yhdistetty kohteeseen %s. Napauta nähdäksesi tiedot.</string>
+  <string name="vpn_title">VPN aktivoitu</string>
+  <string name="vpn_title_long">Yhdistetään VPN-palvelimeen käyttäen %s</string>
   <string name="weather_description">%1$s | %2$s &gt;</string>
   <string name="weather_description_no_aqi">%1$s &gt;</string>
-  <string name="weather_publish_time">Updated %1$s</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
-  <string name="wifi_disabled_generic">Disabled</string>
-  <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
-  <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
-  <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
-  <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
-  <string name="wifi_not_in_range">Not in range</string>
-  <string name="wifi_remembered">Saved</string>
+  <string name="weather_publish_time">Päivitetty %1$s</string>
+  <string name="wifi_connected_no_internet">Yhdistetty, ei Internetiä</string>
+  <string name="wifi_disabled_generic">Pois päältä</string>
+  <string name="wifi_disabled_network_failure">Vika IP Määrityksessä</string>
+  <string name="wifi_disabled_password_failure">Varmennusongelma</string>
+  <string name="wifi_disabled_wifi_failure">Vika Wi-Fi Yhteydessä</string>
+  <string name="wifi_fail_to_scan">Verkkojen etsintää ei voi suorittaa</string>
+  <string name="wifi_no_internet">Internet-yhteyttä ei tunnistettu, ei uudelleenyhdistetä automaattisesti.</string>
+  <string name="wifi_not_in_range">Kantama ei riitä</string>
+  <string name="wifi_remembered">Tallennettu</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
-  <string name="wifi_security_none">None</string>
+  <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
