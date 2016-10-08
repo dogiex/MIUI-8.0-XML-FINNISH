@@ -779,16 +779,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Näytä järjestelmän animaatiot</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Speeds up device's performance"</item>
-        <item>"May slow down device's performance"</item>
+        <item>Nopeuttaa laitteen suorituskykyä</item>
+        <item>Saattaa hidastaa laitteen suorituskykyä</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
+        <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
+        <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
     </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>
-        <item>Normal (720p)</item>
+        <item>Normaali (720p)</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
@@ -844,10 +844,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>com_miui_applicatinlock_use_fingerprint_state</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Lock screen</item>
-        <item>Child mode</item>
-        <item>File Explorer</item>
-        <item>App lock</item>
+        <item>Lukitusruutu</item>
+        <item>Lapsi-tila</item>
+        <item>Tiedostoselain</item>
+        <item>Sovelluslukko</item>
     </string-array>
     <string-array name="description_primary">
         <item></item>
