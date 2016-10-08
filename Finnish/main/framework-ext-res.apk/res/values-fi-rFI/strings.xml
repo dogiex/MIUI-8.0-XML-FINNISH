@@ -123,7 +123,6 @@
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
   <string name="turn_off">Turn off</string>

@@ -1480,7 +1480,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>

@@ -59,13 +59,10 @@
   <string name="current_preview">Esikatselu</string>
   <string name="current_wallpaper">Nykyinen</string>
   <string name="custom_wallpaper_picker">Selaa</string>
-  <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Pelit</string>
   <string name="default_folder_title_recommend">Lisää sovelluksia</string>
   <string name="default_folder_title_security">Järjestelmä</string>
-  <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Työkalut</string>
-  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Poista</string>
   <string name="delete_screen">Poista ruutu</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>

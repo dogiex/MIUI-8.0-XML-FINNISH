@@ -348,7 +348,6 @@
   <string name="dial_emergency_error">Puhelua ei voi soittaa. %s ei ole hätänumero.</string>
   <string name="dial_related_setting_catory">Dialer</string>
   <string name="dialerKeyboardHintText">Valitse numero näppäimistöstä</string>
-  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_network_priority_title">Priority network</string>
   <string name="dialog_no">No</string>
   <string name="dialog_yes">Yes</string>
@@ -691,7 +690,6 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="msim_not_set_summary">Not set</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Dial</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC card error</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Can't set during call"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM card error</string>
@@ -1258,7 +1256,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="tty_mode_option_title">TTY-tila</string>
   <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ringer</string>
   <string name="turnover_mute_title">Flip to silence ringer</string>
-  <string name="ui_default_package">com.android.dialer</string>
   <string name="undefined">None</string>
   <string name="unknown">Tuntematon</string>
   <string name="unlock_failed">Verkon lukituksen poistopyyntö epäonnistui.</string>
@@ -1295,7 +1292,6 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voicemail_notification_ringtone_title">Ääni</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Värinä</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-  <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">Värinä</string>
   <string name="voicemail_number_not_set">&lt;Ei asetettu&gt;</string>
   <string name="voicemail_provider">Palveluntarjoaja</string>

@@ -20,7 +20,7 @@
   <string name="agree_to_turn_on">Agree</string>
   <string name="all_services">All</string>
   <string name="allow">Allow</string>
-  <string name="app_label">Yellow pages</string>
+  <string name="app_label">Keltaiset sivut</string>
   <string name="app_recommendation_install">Install</string>
   <string name="average_price">Average %d RMB</string>
   <string name="back">Back</string>
@@ -279,7 +279,6 @@ Check your tracking number."</string>
   <string name="more_express_numbers">More courier numbers</string>
   <string name="navigation_search_all_cities">All cities</string>
   <string name="navigation_search_automatically_positioned_city">Current city</string>
-  <string name="navigation_search_default_hint">Search locations</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">"Didn't find anything"</string>
   <string name="navigation_search_positioning">Locating…</string>

@@ -11,8 +11,6 @@
   <string name="continue_provisioning_notify_text">Siirry työprofiilin asetuksiin koskettamalla</string>
   <string name="continue_provisioning_notify_title">Salaus on valmis</string>
   <string name="copying_certs">Määritetään CA-varmenteita</string>
-  <string name="default_managed_profile_name">Työprofiili</string>
-  <string name="default_owned_device_username">Työpaikan laitteen käyttäjä</string>
   <string name="delete_profile">POISTA</string>
   <string name="delete_profile_title">Poistetaanko työprofiili?</string>
   <string name="device_owner_cancel_cancel">PERUUTA</string>
