@@ -288,7 +288,7 @@ käyttäen numeroa %s"</string>
   <string name="factorytest_not_system">FACTORY_TEST-toimintoa tuetaan vain paketeille, jotka on tallennettu kansioon /system/app.</string>
   <string name="factorytest_reboot">Käynnistä uudelleen</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"</string>
   <string name="fcComplete">Ominaisuuskoodi valmis.</string>
   <string name="fcError">Yhteysongelma tai virheellinen ominaisuuskoodi.</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
