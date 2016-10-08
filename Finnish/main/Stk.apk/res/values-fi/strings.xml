@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alphabet">Aakkoset</string>
-  <string name="app_name">SIM Toolkit</string>
+  <string name="app_name">SIM Työkalu</string>
   <string name="button_cancel">Peruuta</string>
   <string name="button_no">Ei</string>
   <string name="button_ok">OK</string>
@@ -19,15 +19,15 @@
   <string name="help">Ohje</string>
   <string name="menu_back">Takaisin</string>
   <string name="menu_end_session">Lopeta käyttökerta</string>
-  <string name="no_sim_card_inserted">Käynnistä SIM Toolkit lisäämällä SIM-kortti.</string>
+  <string name="no_sim_card_inserted">Käynnistä SIM Työkalu lisäämällä SIM-kortti.</string>
   <string name="service_name">Palvelun nimi</string>
-  <string name="sim_type_sim_name">SIM Toolkit</string>
-  <string name="sim_type_uim_name">UIM Toolkit</string>
-  <string name="sim_type_usim_name">USIM Toolkit</string>
+  <string name="sim_type_sim_name">SIM Työkalu</string>
+  <string name="sim_type_uim_name">UIM Työkalu</string>
+  <string name="sim_type_usim_name">USIM Työkalu</string>
   <string name="stk_app_state">Sovelluksen tila</string>
   <string name="stk_dialog_accept">KYLLÄ</string>
   <string name="stk_dialog_reject">EI</string>
-  <string name="stk_dialog_title">SIM Toolkit</string>
+  <string name="stk_dialog_title">SIM Työkalu</string>
   <string name="stk_intent_permission">Salli STK Aikomukset</string>
   <string name="stk_no_service">Palvelu ei käytettävissä</string>
 </resources>

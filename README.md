@@ -91,6 +91,7 @@ Let's translate together!
 - Telecom.apk
 - TelephonyProvider.apk
 - UserDictionaryProvider.apk
+- VpnDialogs.apk
 - WallpaperCropper.apk
 - Weather.apk
-- VpnDialogs.apk
+- WeatherProvider.apk
