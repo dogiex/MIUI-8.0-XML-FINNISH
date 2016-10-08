@@ -133,13 +133,13 @@
         <item>40497</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
+        <item>ILI %1$s</item>
     </string-array>
     <string-array name="aqi_title_append">
         <item>%1$s</item>
@@ -161,7 +161,7 @@
     </string-array>
     <string-array name="weather_type">
         <item>Aurinkoinen</item>
-        <item>Pilvinen</item>
+        <item>Puolipilvinen</item>
         <item>Pilvinen</item>
         <item>Sumuinen</item>
         <item>Kova Rankkasade</item>
