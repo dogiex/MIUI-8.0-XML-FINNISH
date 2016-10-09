@@ -5,7 +5,7 @@
 Mainostuksen tunnistus on pysyvä yksilöllinen ID-tunnus laitteellesi. Myyjät käyttävät sitä tarjoakseen juuri sinulle hyödyllisiä ja kiinnostavia mainoksia.
 
 Jos valitset, ettet halua sinuun kohdistuneita mainoksia, mainosten määrä ei vähene, vaan juuri sinulle hyödylliset ja kiinnostavat mainokset vähenevät radikaalisesti."</string>
-  <string name="about_settings">Tietoja puhelimesta</string>
+  <string name="about_settings">Tietoa laitteesta</string>
   <string name="about_settings_summary">Näytä lakitiedot, tila, ohjelmiston versio</string>
   <string name="ac_enable_summary">Aseta sovellukselle salasana</string>
   <string name="ac_enable_title">Sovelluslukko</string>
@@ -2362,7 +2362,7 @@ Select your operating system:"</string>
   <string name="passwordIncorrect">Syöttämäsi salasana on väärä</string>
   <string name="password_entrance_title">Ruudunlukitus</string>
   <string name="password_guard">Salasana</string>
-  <string name="path_about_about_settings">Asetukset/Tietoja puhelimesta</string>
+  <string name="path_about_about_settings">Asetukset/Tietoa laitteesta</string>
   <string name="path_accelerometer_settings">Asetukset/Näyttö/Näytön automaattinen kierto</string>
   <string name="path_access_control_settings">Asetukset/Lisäasetukset/Yksityisyys/Yksityisyysasetukset</string>
   <string name="path_accessibility_captioning_title">Asetukset/Lisäasetukset/Esteettömyys/Tekstitykset</string>
@@ -2396,13 +2396,13 @@ Select your operating system:"</string>
   <string name="path_choose_timezone">Asetukset/Lisäasetukset/Date &amp; time/Choose time zone</string>
   <string name="path_cloud_backup_settings_section_title">Asetukset/Lisäasetukset/Backup &amp; reset/Backup settings</string>
   <string name="path_cloud_restore_section_title">Asetukset/Lisäasetukset/Backup &amp; reset/Restore from Mi Cloud</string>
-  <string name="path_copyright">Asetukset/Tietoja puhelimesta/Legal information/Copyright</string>
+  <string name="path_copyright">Asetukset/Tietoa laitteesta/Legal information/Copyright</string>
   <string name="path_credentials_install">Asetukset/Lisäasetukset/System Security/Install from storage</string>
   <string name="path_date_time_settings">Asetukset/Lisäasetukset/Date &amp; time</string>
   <string name="path_development_settings">Asetukset/Lisäasetukset/Developer options</string>
   <string name="path_device_info_memory">Asetukset/Storage</string>
-  <string name="path_device_name">Asetukset/Tietoja puhelimesta/Device name</string>
-  <string name="path_device_status">Asetukset/Tietoja puhelimesta/Status</string>
+  <string name="path_device_name">Asetukset/Tietoa laitteesta/Device name</string>
+  <string name="path_device_status">Asetukset/Tietoa laitteesta/Status</string>
   <string name="path_display_settings">Asetukset/Näyttö</string>
   <string name="path_dndm_alarm_content">Asetukset/Do not disturb/Exceptions</string>
   <string name="path_dndm_auto_button_title">Asetukset/Do not disturb/Set time</string>
@@ -2427,8 +2427,8 @@ Select your operating system:"</string>
   <string name="path_language_picker_title">Asetukset/Lisäasetukset/Language &amp; input/Language</string>
   <string name="path_language_settings">Asetukset/Lisäasetukset/Language &amp; input</string>
   <string name="path_led_settings">Asetukset/Lisäasetukset/Notification light</string>
-  <string name="path_legal_information">Asetukset/Tietoja puhelimesta/Legal information</string>
-  <string name="path_legal_user_agreement">Asetukset/Tietoja puhelimesta/Legal information/Terms of Service</string>
+  <string name="path_legal_information">Asetukset/Tietoa laitteesta/Legal information</string>
+  <string name="path_legal_user_agreement">Asetukset/Tietoa laitteesta/Legal information/Terms of Service</string>
   <string name="path_local_auto_backup_section_title">Asetukset/Lisäasetukset/Backup &amp; reset/Auto backups</string>
   <string name="path_local_backup_section_title">Asetukset/Lisäasetukset/Backup &amp; reset/Local backups</string>
   <string name="path_location_settings_title">Asetukset/Lisäasetukset/System Security/Location</string>
@@ -2450,7 +2450,7 @@ Select your operating system:"</string>
   <string name="path_ntts_settings_title">Asetukset/Lisäasetukset/Esteettömyys/tts_settings_title</string>
   <string name="path_oldman_mode">Asetukset/Lite Mode</string>
   <string name="path_onekey_migrate">Asetukset/Lisäasetukset/Transfer</string>
-  <string name="path_other_advanced_settings">Asetukset/Additional settings</string>
+  <string name="path_other_advanced_settings">Asetukset/Lisäasetukset</string>
   <string name="path_owner_info_settings">Asetukset/Lock screen/Owner info</string>
   <string name="path_page_layout_settings">Asetukset/Näyttö/Text size</string>
   <string name="path_pointer_speed">Asetukset/Lisäasetukset/Language &amp; input/Pointer speed</string>
@@ -2460,7 +2460,7 @@ Select your operating system:"</string>
   <string name="path_power_optimize">Asetukset/Additional/Beta features/Battery saver</string>
   <string name="path_pref_volume_wake_title">Asetukset/Lock screen &amp; password/Wake with Volume buttons</string>
   <string name="path_preferred_network_type_settings">Asetukset/Matkapuhelinverkot/Preferred network type</string>
-  <string name="path_privacy_policy">Asetukset/Tietoja puhelimesta/Legal information/Privacy Policy</string>
+  <string name="path_privacy_policy">Asetukset/Tietoa laitteesta/Legal information/Privacy Policy</string>
   <string name="path_privacy_settings">Asetukset/Lisäasetukset/Backup &amp; reset</string>
   <string name="path_ringer_volume_settings">Asetukset/Ääni &amp; värinä/Volumes/Ringtone &amp; notifications</string>
   <string name="path_ringtone_settings">Asetukset/Ääni &amp; värinä/Phone ringtone</string>
@@ -2476,7 +2476,7 @@ Select your operating system:"</string>
   <string name="path_security_encryption_title">Asetukset/Lisäasetukset/System Security/Encrypt device using lock screen password</string>
   <string name="path_security_passwords_title">Asetukset/Lock screen &amp; password/Password</string>
   <string name="path_security_settings">Asetukset/Lisäasetukset/Privacy</string>
-  <string name="path_slot_status_title">Asetukset/Tietoja puhelimesta/IMEI information</string>
+  <string name="path_slot_status_title">Asetukset/Tietoa laitteesta/IMEI information</string>
   <string name="path_sms_delivered_sound_title">Asetukset/Ääni &amp; värinä/Message delivered</string>
   <string name="path_sms_received_settings">Asetukset/Ääni &amp; värinä/Message reveived</string>
   <string name="path_sound_effects_enable_title">Asetukset/Ääni &amp; värinä/Touch sounds</string>
@@ -2490,10 +2490,10 @@ Select your operating system:"</string>
   <string name="path_status_bar_settings_show_screenshot_notification">Asetukset/Notifications/Show screenshot notification</string>
   <string name="path_status_bar_settings_style">Asetukset/Notifications/Statusbar style</string>
   <string name="path_status_bar_settings_toggle_collapse_after_clicked">Asetukset/Notifications/Collapse after touch</string>
-  <string name="path_status_sim">Asetukset/Tietoja puhelimesta/SIM status</string>
+  <string name="path_status_sim">Asetukset/Tietoa laitteesta/SIM status</string>
   <string name="path_storage_settings">Asetukset/Storage/Cleaner</string>
   <string name="path_sync_settings">Asetukset/Sync</string>
-  <string name="path_system_app_settings">Asetukset/System apps</string>
+  <string name="path_system_app_settings">Asetukset/Järjestelmäsovellukset</string>
   <string name="path_tether_restriction_nfc_enable_title">Asetukset/Lisää/NFC</string>
   <string name="path_tether_settings">Asetukset/Portable hotspot</string>
   <string name="path_tether_settings_title_bluetooth">Asetukset/Lisää/Bluetooth tethering</string>
@@ -3762,7 +3762,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="system_alert_window_settings">Piirrä muihin sovelluksiin</string>
   <string name="system_alert_window_summary" formatted="false">%d/%d sovelluksella on oikeus piirtää muihin sovelluksiin.</string>
   <string name="system_and_device_section_title">Järjestelmä &amp; laite</string>
-  <string name="system_app_settings">Järjestelmänsovellukset</string>
+  <string name="system_app_settings">Järjestelmäsovellukset</string>
   <string name="system_backup_section_title">Backup</string>
   <string name="system_package">Järjestelmäpäivityksiä ei voi asentaa ulkoiseen mediaan.</string>
   <string name="system_storage">System storage</string>

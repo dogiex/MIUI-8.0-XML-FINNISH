@@ -334,7 +334,7 @@
   <string name="preferences_reminder_title">Ilmoitukset &amp; muistutukset</string>
   <string name="preferences_show_week_num_title">Näytä viikon numero</string>
   <string name="preferences_solar_terms">Näytä aurinkopäivät</string>
-  <string name="preferences_title">Asetukset</string>
+  <string name="preferences_title">Kalenteri</string>
   <string name="preferences_use_home_tz_descrip">Näyttää kalenterit ja tapahtumien ajat oman aikavyöhykkeesi ajassa matkustaessasi</string>
   <string name="preferences_use_home_tz_title">Käytä kotiaikavyöhykettä</string>
   <string name="preferences_week_start_day_default">-1</string>

@@ -78,6 +78,7 @@ Let's translate together!
 - LiveWallpapersPicker.apk
 - ManagedProvisioning.apk
 - MediaProvider.apk
+- MiuiHome.apk
 - miui.apk
 - miuisystem.apk
 - MiuiSystemUi.apk

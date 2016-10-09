@@ -33,28 +33,28 @@
         <item>1.0</item>
     </array>
     <string-array name="transformation_entries">
-        <item>Overslide</item>
-        <item>Slide</item>
-        <item>Crossfade</item>
-        <item>Tumble</item>
-        <item>Page</item>
-        <item>Cascade</item>
-        <item>Rotate</item>
-        <item>Cube</item>
+        <item>Päältäliuku</item>
+        <item>Liuku</item>
+        <item>Häivytä</item>
+        <item>Pyöri</item>
+        <item>Sivu</item>
+        <item>Sarja</item>
+        <item>Kierrä</item>
+        <item>Kuutio</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Theme default</item>
-        <item>Center</item>
-        <item>Left</item>
-        <item>Right</item>
+        <item>Teeman oletus</item>
+        <item>Keskellä</item>
+        <item>Vasen</item>
+        <item>Oikea</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>Default</item>
-        <item>Classic</item>
+        <item>Oletus</item>
+        <item>Klassinen</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Clear</item>
@@ -84,9 +84,9 @@
         <item>Haze</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Move apps</item>
-        <item>Widgets</item>
-        <item>Wallpaper</item>
-        <item>Effects</item>
+        <item>Siirrä sovelluksia</item>
+        <item>Widgetit</item>
+        <item>Taustakuva</item>
+        <item>Efektit</item>
     </string-array>
 </resources>
