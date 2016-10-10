@@ -79,6 +79,7 @@ Let's translate together!
 - ManagedProvisioning.apk
 - MediaProvider.apk
 - MiuiHome.apk
+- MiuiKeyguard
 - miui.apk
 - miuisystem.apk
 - MiuiSystemUi.apk
