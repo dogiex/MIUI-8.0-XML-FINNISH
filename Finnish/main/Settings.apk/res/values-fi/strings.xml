@@ -4215,8 +4215,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
 	<string name="wait_for_debugger_summary">Sovellus odottaa vianetsinnän lisäämistä, ja käynnistyy sen jälkeen.</string>
 	<string name="wakeup_for_keyguard_notification_title">Herätä lukitusruutu ilmoituksista</string>
 	<string name="wallpaper_attributions">Taustakuvat</string>
-	<string name="wallpaper_attributions_values">"Satellite imagery providers:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
 	<string name="wallpaper_desktop">Kotinäyttö</string>
 	<string name="wallpaper_live">Vaihtuva taustakuva</string>
 	<string name="wallpaper_lockscreen">Lukitusruutu</string>
