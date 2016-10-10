@@ -262,7 +262,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="app_sees_restricted_accounts_and_controlled_by">Tämä sovellus voi käyttää tilejäsi. Hallinnoija: %1$s</string>
   <string name="app_special_disable_dlg_text">Jos poistat sovelluksen käytöstä, muut sovellukset eivät välttämättä enää toimi oikein. Lisäksi tietosi poistetaan.</string>
   <string name="app_special_disable_dlg_title">Poistetaanko tiedot ja poistetaanko sovellus käytöstä?</string>
-  <string name="app_switch_key">Viimeaikaiset sovellukset</string>
+  <string name="app_switch_key">Avoimet sovellukset</string>
   <string name="app_usage_preference">Sovellusten käyttöoikeusasetukset</string>
   <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
   <string name="application_info_label">Sovelluksen tiedot</string>
@@ -824,7 +824,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Add</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
-  <string name="confirm_enable_multi_window_text">Varoitus: Tämä on kokeellinen ominaisuus, joka mahdollistaa useiden toimintojen näyttämisen ruudulla Viimeaikaiset sovellukset -käyttöliittymän avulla. Jotkin sovellukset voivat kaatua tai toimia virheellisesti.</string>
+  <string name="confirm_enable_multi_window_text">Varoitus: Tämä on kokeellinen ominaisuus, joka mahdollistaa useiden toimintojen näyttämisen ruudulla Avoimet sovellukset -käyttöliittymän avulla. Jotkin sovellukset voivat kaatua tai toimia virheellisesti.</string>
   <string name="confirm_enable_multi_window_title">Otetaanko usean ikkunan tila käyttöön?</string>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
@@ -2379,7 +2379,7 @@ Select your operating system:"</string>
   <string name="path_apn_settings">Asetukset/Matkapuhelinverkot/Tukiasemien nimet</string>
   <string name="path_app_invisible">Asetukset/Additional/Beta features/App Invisible</string>
   <string name="path_app_permission">Asetukset/Käyttöoikeudet</string>
-  <string name="path_app_switch_key">Asetukset/Lisäasetukset/Painikkeet/Viimeaikaiset sovellukset</string>
+  <string name="path_app_switch_key">Asetukset/Lisäasetukset/Painikkeet/Avoimet sovellukset</string>
   <string name="path_application_lock">Asetukset/Sovelluslukko</string>
   <string name="path_applications_settings">Asetukset/Asennetut sovellukset</string>
   <string name="path_back_key">Asetukset/Lisäasetukset/Painikkeet/Takaisin</string>
@@ -3062,7 +3062,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_apn_settings">APN;Access Point Names</string>
   <string name="search_app_invisible">App Invisible</string>
   <string name="search_app_permission">Permissions;ROOT access</string>
-  <string name="search_app_switch_key">Viimeaikaiset sovellukset</string>
+  <string name="search_app_switch_key">Avoimet sovellukset</string>
   <string name="search_application_lock">Sovelluslukko</string>
   <string name="search_application_settings">Asennetut sovellukset</string>
   <string name="search_back_key">Back</string>
