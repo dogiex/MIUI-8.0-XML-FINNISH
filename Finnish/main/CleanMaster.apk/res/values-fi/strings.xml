@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Mainokset</string>
   <string name="activity_title_apk">Paketit</string>
   <string name="activity_title_brightness_image">Under and overexposed</string>
@@ -8,7 +9,7 @@
   <string name="activity_title_deep_apk">Poista sovelluspaketit</string>
   <string name="activity_title_deep_clean">Syväpuhdistus</string>
   <string name="activity_title_garbage_cleanup">Puhdistaja</string>
-  <string name="activity_title_ignored_image">Ignored</string>
+  <string name="activity_title_ignored_image">Sivuutettu</string>
   <string name="activity_title_image_gallery">Poista samankaltaiset</string>
   <string name="activity_title_large_file">Suuret tiedostot</string>
   <string name="activity_title_main">Puhdistaja</string>
@@ -24,11 +25,17 @@
   <string name="activity_title_uninstall_apps">Sovellukset</string>
   <string name="activity_title_video">Poista videoita</string>
   <string name="activity_title_white_list">Poikkeukset</string>
+  <string name="ad_install_success_dialog_lunch">Avaa</string>
+  <string name="ad_install_success_dialog_title">Asennettiin %1$s onnistuneesti. Avataanko nyt?</string>
   <string name="apk_status_damage">Korruptoituneet</string>
   <string name="apk_status_duplicate">Kaksoiskappale</string>
   <string name="apk_status_install">Asennettu</string>
   <string name="apk_status_installed_old">Vanha versio</string>
   <string name="apk_status_uninstalled">Ei asennettu</string>
+  <string name="apk_title_alipay_plugin">支付宝插件</string>
+  <string name="app_install_tips_go_to">Avaa</string>
+  <string name="app_install_tips_install_success">%1$s asennus valmis</string>
+  <string name="app_name">JunkEngine</string>
   <string name="apps_sort_type_item_size">Koko</string>
   <string name="apps_sort_type_item_time">Viimeksi käytetyt</string>
   <string name="apps_sort_type_title">Lajittele</string>
@@ -37,8 +44,14 @@
   <string name="auto_clean_switch_on">Päällä</string>
   <string name="auto_cleaner_open">Kytke päälle</string>
   <string name="back">Takaisin</string>
+  <string name="browser_scan_history_desc">Selainhistoria</string>
+  <string name="browser_search_history_desc">Etsityt kohteet</string>
   <string name="btn_text_done">Valmis</string>
   <string name="btn_text_quick_cleanup">Puhdista</string>
+  <string name="btn_text_quick_cleanup_apk">Poista valitut APKt %1$s</string>
+  <string name="btn_text_quick_cleanup_appdata">Poista valitut sovellustiedot %1$s</string>
+  <string name="btn_text_quick_cleanup_large_file">Poista valitut tiedostot %1$s</string>
+  <string name="btn_text_quick_cleanup_video">Poista valitut videot %1$s</string>
   <string name="btn_text_quick_scan">Skannaa</string>
   <string name="btn_text_stop">Pysäytä</string>
   <string name="button_optimizer">OK</string>
@@ -68,6 +81,7 @@
   <string name="button_text_unselect_pic">Poista valinta</string>
   <string name="button_text_view_detail">Tiedot</string>
   <string name="button_text_view_file">Tiedosto</string>
+  <string name="buy_a_new_phone">Tallennustilan Päivitys</string>
   <string name="buy_immediately">Osta</string>
   <string name="buy_traffic_pack">Osta lisää dataa</string>
   <string name="byteShort">t</string>
@@ -75,6 +89,7 @@
   <string name="cache_title_empty_folder2">Tyhjä kansio</string>
   <string name="cache_title_system_cache">Järjestelmän välimuisti</string>
   <string name="cached_garbage">Välimuisti</string>
+  <string name="call_log">Puhelulokit</string>
   <string name="cancel">Peruuta</string>
   <string name="clean_content_all">Kaikki</string>
   <string name="clean_content_one">1 asia</string>
@@ -84,11 +99,17 @@
   <string name="clear_bigfiles">Poista suuret tiedostot, kuvien kaksoiskappaleet ja muut tarpeettomat asiat</string>
   <string name="clear_immediately">Puhdista nyt</string>
   <string name="clear_safe_notify">Turvallisuuden ilmoituspalkki</string>
+  <string name="clip_board_history_desc">Kopioidut/leikatut sisällöt</string>
+  <string name="clipboard">Leikepöytä</string>
   <string name="close">Sulje</string>
-  <string name="close_debug_mode">Paina %1$d laittaaksesi debug-tilan pois päältä</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Verkkoyhteyden Turvallisuus</string>
   <string name="connecting">Yhdistetään…</string>
+  <string name="deep_clean_completed_tips">Puhdistus valmis</string>
+  <string name="deep_clean_data_path_clean_title">Tyhjennä välimuisti</string>
+  <string name="deep_clean_normal_clean_progress_desc">Poistettiin %1$s tiedostoa</string>
+  <string name="deep_clean_uninstall_completed_tips">Poisto valmis</string>
+  <string name="deepclean_1_k_clean">Nopea putsaus</string>
   <string name="deepclean_apk_content">Poista APKt tai tarpeettomat sovellukset</string>
   <string name="deepclean_apk_summary_empty">Kaikki näyttää hyvältä, ei poistettavia APK-tiedostoja</string>
   <string name="deepclean_apk_version_error">Tuntematon</string>
@@ -97,6 +118,8 @@
   <string name="deepclean_cache_content">Tyhjennä sovelluksien luomat väliaikaiset tiedostot</string>
   <string name="deepclean_cache_header_left">Data tiedostot: %d</string>
   <string name="deepclean_cache_summary_empty">Kaikki näyttää hyvältä, ei poistettavia väliaikaistiedostoja</string>
+  <string name="deepclean_empty">Kaikki näyttää hyvältä</string>
+  <string name="deepclean_install_info_desc2">Poista sovelluksia tallennustilan vapauttamiseksi</string>
   <string name="deepclean_large_content">Poista 10Mt suuremmat tiedostot</string>
   <string name="deepclean_large_summary_empty">Kaikki näyttää hyvältä, ei poistettavia tiedostoja</string>
   <string name="deepclean_list_item_from_app">Sovellus Kauppa</string>
@@ -106,18 +129,22 @@
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Musiikki</string>
   <string name="deepclean_list_item_from_sdcard">SD-kortti</string>
+  <string name="deepclean_normal_item_desc1">Roskatiedostot</string>
+  <string name="deepclean_normal_item_desc2">Puhdistajan"Cleaner's activity won't influence system performance"</string>
+  <string name="deepclean_normal_item_summary_empty">Kaikki näyttää hyvältä, ei putsattavaa</string>
+  <string name="deepclean_normal_title">Puhdista automaattisesti</string>
   <string name="deepclean_similar_ignore">Älä välitä</string>
   <string name="deepclean_similar_summary_empty">Kaikki näyttää hyvältä, ei poistettavia kuvia</string>
   <string name="deepclean_size_summary_less">Tallennustilaa on liian vähän</string>
   <string name="deepclean_size_summary_more">Tallennustilaa on tarpeeksi</string>
   <string name="deepclean_size_summary_normal">Tallennustilaa jäljellä</string>
+  <string name="deepclean_size_summary_not_enough">Ei tarpeeksi tilaa</string>
   <string name="deepclean_title_large_file">Poista suuret tiedostot</string>
   <string name="deepclean_title_uninstall_apps">Harvoin käytetyt sovellukset</string>
   <string name="deepclean_video_content">Poista jo katsotut tai tarpeettomat videot</string>
   <string name="deepclean_video_summary_empty">Kaikki näyttää hyvältä</string>
   <string name="default_cache_type">Data Tiedostot</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Poista kuvat myös Mi Pilvestä</string>
-  <string name="dialog_content_delete_image_confirm">Poistetaanko %d kuvaa?</string>
   <string name="dialog_content_select_all_confirm">Säilytetäänkö tämän kuvan kopio?</string>
   <string name="dialog_msg_add_white_list_error">Tiedosto ei tue poikkeuksiin lisäämistä</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Varmuuskopioidaanko ja poistetaanko valittujen sovelluksien asennus?</string>
@@ -160,7 +187,6 @@
   <string name="grabage_rank_title">Puhdistettu tänään</string>
   <string name="harass_detail">Estetty %1$d SMS viestejä ja %2$d puhelua</string>
   <string name="header_optimizer">Käyttäessäsi tätä toimintoa, hyväksyt %s.</string>
-  <string name="hint_bar_select_image">%d valittu</string>
   <string name="hint_clean_select_similar_image">Poistetaan kaksoiskappaleet…</string>
   <string name="hints_ad_header_left">Mainostiedostot</string>
   <string name="hints_apk_header_left">Paketit</string>
@@ -212,6 +238,7 @@
   <string name="hints_quick_prepare">Valmistaudutaan…</string>
   <string name="hints_quick_scanning">Skannataan…</string>
   <string name="hints_residual_header_left">Jäljet</string>
+  <string name="hints_scan_has_finish">Puhdistus on valmis</string>
   <string name="hints_scanfinish">Ei roskia</string>
   <string name="hints_storage_clean_size">Vapautettiin %s sisäistä muistia</string>
   <string name="hints_storage_free">Vapaana</string>
@@ -223,9 +250,80 @@
   <string name="hot">Suosittu</string>
   <string name="hot_today">Suosittu tänään</string>
   <string name="information_setting">Uutis-syötteen asetukset</string>
+  <string name="install_sucess">%s asennettiin onnistuneesti</string>
   <string name="installed">Asennettu</string>
   <string name="installing">Asennetaan</string>
-  <string name="item_title_process_mode">Valitse toiminta</string>
+  <string name="item_title_process_mode">Valitse toiminto</string>
+  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
+  <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
+  <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
+  <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
+  <string name="junk_tag_RF_DemoVideo_Samsung">三星手机演示用视频</string>
+  <string name="junk_tag_RF_DemoVideo_Sony">索尼手机演示用视频</string>
+  <string name="junk_tag_RF_EmptyFolders">空文件夹</string>
+  <string name="junk_tag_RF_ImageThumbnails">相册的预览图</string>
+  <string name="junk_tag_RF_LibsDirFiles">无用的数据文件</string>
+  <string name="junk_tag_RF_LogFiles">日志文件</string>
+  <string name="junk_tag_RF_LostDirFiles">无用的系统文件</string>
+  <string name="junk_tag_RF_MFCacheDirFiles">无用的缓存文件</string>
+  <string name="junk_tag_RF_TaobaoLogFiles">手机淘宝的日志文件</string>
+  <string name="junk_tag_RF_TempFiles">临时文件</string>
+  <string name="junk_tag_RF_WechatDownload">微信下载表情时的临时文件</string>
+  <string name="junk_tag_big_file_from_name_album">相册</string>
+  <string name="junk_tag_big_file_from_name_baidu">百度地图</string>
+  <string name="junk_tag_big_file_from_name_baofeng">暴风影音</string>
+  <string name="junk_tag_big_file_from_name_bluetoothfiles">蓝牙目录</string>
+  <string name="junk_tag_big_file_from_name_camerafiles">系统相册目录</string>
+  <string name="junk_tag_big_file_from_name_downloads">下载目录</string>
+  <string name="junk_tag_big_file_from_name_fmt">来自%s</string>
+  <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
+  <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
+  <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
+  <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 &gt;清理后文件会被删除&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 &gt;清理后将无法查看&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 &gt;清理后将无法使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 &gt;清理后需要联网重新下载才能离线使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 &gt;清理后下载的 地图会被删除，需要联网重新下载&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 &gt;清理后可离线阅读的小说会被删除&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_vk">它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 &gt;清理后不能离线收听&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_yandex">它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 &gt;清理后不能离线使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_name_aura">下载的地图(Sygic)</string>
+  <string name="junk_tag_big_file_mergedfile_name_downloader">下载的文件(Downloader)</string>
+  <string name="junk_tag_big_file_mergedfile_name_duokan">我的书架书籍(多看)</string>
+  <string name="junk_tag_big_file_mergedfile_name_goapk">下载的安装包(安智市场)</string>
+  <string name="junk_tag_big_file_mergedfile_name_googletransfer">下载的离线语言包(Google 翻译)</string>
+  <string name="junk_tag_big_file_mergedfile_name_navitel">下载的地图(Navitel)</string>
+  <string name="junk_tag_big_file_mergedfile_name_sygic">下载的地图(Sygic)</string>
+  <string name="junk_tag_big_file_mergedfile_name_ucbrowser">可离线阅读的小说(UC浏览器)</string>
+  <string name="junk_tag_big_file_mergedfile_name_vk">保存的语音文件(VK播放)</string>
+  <string name="junk_tag_big_file_mergedfile_name_yandex">下载的地图(Yandex)</string>
+  <string name="junk_tag_big_file_type_apk">%1$s安装包(V%2$s)</string>
+  <string name="junk_tag_big_file_type_font">[字体]%1$s</string>
+  <string name="junk_tag_big_file_type_gamedata_obb">%1$s的数据包</string>
+  <string name="junk_tag_big_file_type_map_baidu">%1$s离线地图</string>
+  <string name="junk_tag_junk_android_data_2nd_card_left_overs">软件卸载后残留文件</string>
+  <string name="junk_tag_junk_big_name_android_data_google_file">翻译数据文件</string>
+  <string name="junk_tag_junk_big_name_c_thumbnails">相册缩略图</string>
+  <string name="junk_tag_junk_big_name_d_100media">录制的视频</string>
+  <string name="junk_tag_junk_big_name_d_thumbnails">相册缩略图</string>
+  <string name="junk_tag_junk_big_name_demovideo">功能演示视频</string>
+  <string name="junk_tag_junk_big_name_downloadmanager">下载的文件</string>
+  <string name="junk_tag_junk_big_name_llogs">系统无用日志文件</string>
+  <string name="junk_tag_junk_big_name_mi_userbook">小米功能新手引导</string>
+  <string name="junk_tag_junk_big_name_miui_gallerydemovideo">小米功能演示视频</string>
+  <string name="junk_tag_junk_big_name_s_dic">三星字典的词库</string>
+  <string name="junk_tag_junk_big_name_s_movie">三星自带视频</string>
+  <string name="junk_tag_junk_big_name_samsung_video">三星自带视频</string>
+  <string name="junk_tag_junk_big_name_smt">语音识别数据文件</string>
+  <string name="junk_tag_junk_big_name_sys_rom">系统包软件</string>
+  <string name="junk_tag_junk_big_name_tencent_qqfile">QQ接收的文件</string>
+  <string name="junk_tag_junk_big_name_thumbnails">手机图片缩略图</string>
+  <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp视频文件</string>
+  <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
   <string name="just_now">Juuri nyt</string>
   <string name="kilobyteShort">Kt</string>
   <string name="label_image_list_none">Ei mikään</string>
@@ -235,11 +333,18 @@
   <string name="login_immediately">Kirjaudu sisään</string>
   <string name="long_click_dialog_summary">Paina pitkään lisätäksesi poikkeuksiin.</string>
   <string name="long_click_dialog_title">Ilmoitus</string>
+  <string name="low_memory_clean_dialog_msg">Poista ensin ainakin 100 Mt edestä tiedostoja</string>
+  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
+  <string name="low_memory_warning_dialog_cancel_button">Peruuta</string>
+  <string name="low_memory_warning_dialog_msg">Jatka vapauttamalla tilaa laitteeltasi</string>
+  <string name="low_memory_warning_dialog_ok_button">Poista</string>
+  <string name="low_memory_warning_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
   <string name="mainbtn_text_quick_cleanup">Puhdista %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>
   <string name="megabyteShort">Mt</string>
   <string name="memeory_check_content">%1$d sovellusta, muisti %2$s</string>
-  <string name="month_day_format">dd MMM</string>
+  <string name="month_day_format">"d. MMMM'ta'"</string>
   <string name="msg_cleanup_db_update_checking">Tarkastetaan päivityksiä…</string>
   <string name="msg_cleanup_db_update_time_unknown">Viimeisin päivitys tuntematon</string>
   <string name="msg_update_error_code_already_running">Päivitetään…</string>
@@ -262,11 +367,12 @@
   <string name="notify_when">Saa ilmoitus, kun roskien koko yltää 100Mt</string>
   <string name="ok">OK</string>
   <string name="open">Kytke päälle</string>
+  <string name="open_app">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
-  <string name="open_debug_mode">Paina %1$d avataksesi virheenkorjaus-tilan</string>
   <string name="optimizecenter_data_support_cm">Tarjoaja Clean Master</string>
   <string name="optimizecenter_data_support_tc">Tarjoaja Tencent</string>
   <string name="petabyteShort">Pt</string>
+  <string name="phone_search">Google Haku</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Puhdista automaattisesti</string>
   <string name="pref_category_title_auto_update_cleanup_db">Lisäasetukset</string>
@@ -275,7 +381,6 @@
   <string name="pref_category_title_garbage_cleanup_check">Ilmoitukset</string>
   <string name="pref_category_title_other_clean_settings">Lisäasetukset</string>
   <string name="pref_content_cleanup_white_list_none">Ei mitään</string>
-  <string name="pref_section_auto_clean_and_alert">Puhdista automaattisesti</string>
   <string name="pref_summary_auto_clean_and_alert">Ajasta puhdistajan käynnistyä automaattisesti</string>
   <string name="pref_summary_auto_update_cleanup_db">Viimeksi päivitetty %s</string>
   <string name="pref_summary_cleanup_white_list">Estä valittuja sovelluksia joutumasta siivotuksi</string>
@@ -286,32 +391,24 @@
   <string name="pref_summary_garbage_process_mode">Aseta ilmoitus kun puhdistaja käynnistyy</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Lähetä ja vertaa tuntemattomien tiedostojen nimiä verkossa oleviin virustunnisteisiin</string>
   <string name="pref_title_apps_cleanup_size">Kun välimuistin koko saavuttaa</string>
-  <string name="pref_title_auto_clean_and_alert">Puhdista automaattisesti</string>
   <string name="pref_title_auto_clean_content_choose">Valitse puhdistettavat asiat</string>
   <string name="pref_title_auto_update_cleanup_db">Päivitä automaattisesti</string>
   <string name="pref_title_choose_engine">Virustunnisteet</string>
+  <string name="pref_title_clean_alert">Puhdista automaattisesti</string>
   <string name="pref_title_cleanup_white_list">Poikkeukset</string>
   <string name="pref_title_expand_cache_group">Näytä välimuistissa olevat</string>
-  <string name="pref_title_garbage_auto_clean_content">Puhdistettavat asiat</string>
   <string name="pref_title_garbage_cleanup_check_size">Roskien koon raja</string>
   <string name="pref_title_garbage_cleanup_check_time">Ajasta</string>
   <string name="pref_title_garbage_cleanup_size">Roskien koon raja</string>
-  <string name="pref_title_garbage_process_mode">Ilmoitukset</string>
   <string name="pref_title_manual_check_cleanup_db_update">Tarkasta päivitykset</string>
   <string name="pref_title_open_optimizer_cloud_scan">Lähetä tiedostonimet</string>
   <string name="pref_title_open_optimizer_memory_scan">Skannaa sovellusten muisti</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
-  <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
-  <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
-  <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
-  <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-  <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
-  <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
-  <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
-  <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
+  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
+  <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
@@ -324,6 +421,7 @@
   <string name="privacy_app_desc_message">Tili, salasanat, ja viestit</string>
   <string name="privacy_app_desc_search">Tili, salasanat, ja hakuhistoria</string>
   <string name="privacy_app_desc_setting">Tili, salasanat, ja asetukset</string>
+  <string name="privacy_appdata_chrome_history_des">Käydyt verkkosivut</string>
   <string name="privacy_browser_desc">Etsityt asiat</string>
   <string name="privacy_cache_desc">Tili, salasana, historia, asetukset, ja muuta</string>
   <string name="privacy_cache_empty">Ei yksityisiä tietoja</string>
@@ -337,10 +435,14 @@
   <string name="recommend_news">Suositellut lähteet</string>
   <string name="recommend_the_following">Tee seuraavat toiminnot, jotta saat laitteestasi kaiken irti</string>
   <string name="recommended">Suosittua</string>
+  <string name="remain_item_name_n7p"/>
+  <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d kertaa, ansaittu %2$d pistettä</string>
   <string name="safety_rank">%d%% MIUI käyttäjää edellä turvallisuudessa</string>
   <string name="sc_allow_network_dialog_button">Hyväksy</string>
   <string name="sc_allow_network_dialog_message">Sallitaanko tämän sovelluksen ottaa yhteyttä internetiin saadakseen päivityksiä?</string>
+  <string name="scanning">Skannataan…</string>
+  <string name="search_history">Hakuhistoria</string>
   <string name="see_more">Lisää</string>
   <string name="set_immediately">Aseta</string>
   <string name="seton_immediately">Kytke päälle</string>
@@ -349,14 +451,17 @@
   <string name="similar_image_empty">Kaksoiskappaleita ei löytynyt</string>
   <string name="similar_image_scaning">Tarkastetaan…</string>
   <string name="similar_image_title">Kuvat</string>
+  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponsoroitu</string>
+  <string name="start_downloading_app">Aloitetaan latausta: %1$s</string>
   <string name="start_install">Asenna nyt</string>
   <string name="summary_auto_cleaner">Puhdistetaanko järjestelmäsi automaattisesti joka 3 päivä?</string>
   <string name="summary_delete_apk">Poistetaanko valitut APKt pysyvästi?</string>
   <string name="summary_delete_cache">Poistetaanko valittujen sovelluksien välimuisti?</string>
   <string name="summary_delete_large_file">Poistetaanko valitut tiedostot pysyvästi?</string>
-  <string name="summary_delete_video">&gt;Poistetaanko valitut videot pysyvästi?</string>
+  <string name="summary_delete_video">Poistetaanko valitut videot pysyvästi?</string>
   <string name="summary_optimizer">Tämä toiminto lähettää kansioiden nimet Cheetah Mobilen palvelimelle ja tarvitsee laitteesi ID-numeron.</string>
+  <string name="sys_cache_on_sdcard_item_name">缓存</string>
   <string name="terabyteShort">Tt</string>
   <string name="text_optimizer">Lähetä kansioiden nimet</string>
   <string name="there_is_no">Kaikki näyttää hyvältä, tule myöhemmin uudelleen</string>
@@ -411,14 +516,15 @@
   <string name="total_clean_text">Tyhjennä</string>
   <string name="traffic_top">TOP 5 dataa vievää sovellusta</string>
   <string name="unlike">Ei kiitos</string>
-  <string name="update_date_format">dd-MM-yyyy</string>
+  <string name="update_date_format">d.MM.yyyy</string>
   <string name="virus_scan">Virus skanneri</string>
+  <string name="vungle_ad_name">Vungle广告</string>
   <string name="white_list_ad_header">Mainos-tiedostot: %d</string>
   <string name="white_list_apk_header">Asennuspaketit: %d</string>
   <string name="white_list_cache_header">Välimuistitiedostot: %d</string>
   <string name="white_list_large_file_header">Suuret tiedostot ja videot: %d</string>
   <string name="white_list_residual_header">Jäljet: %d</string>
   <string name="white_list_title">Poikkeukset</string>
-  <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="year_month_day_format">"d. MMM'ta' yyyy"</string>
   <string name="yesterday">Eilen</string>
 </resources>

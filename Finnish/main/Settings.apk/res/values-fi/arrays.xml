@@ -32,6 +32,19 @@
         <item>Yhdellä sivulla</item>
         <item>Kahdella sivulla</item>
     </string-array>
+    <string-array name="status_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Amerikka</item>
+        <item>Eurooppa</item>
+        <item>Afrikka</item>
+        <item>Aasia</item>
+        <item>Austraalia</item>
+        <item>Tyyni valtameri</item>
+        <item>Kaikki</item>
+    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 sekuntia</item>
         <item>30 sekuntia</item>
@@ -468,6 +481,12 @@
         <item>Wi-Fi ensisijainen</item>
         <item>Matkapuhelinverkko ensisijainen</item>
     </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>Pois</item>
+        <item>Kevyt</item>
+        <item>Kohtalainen</item>
+        <item>Voimakas</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Pois käytöstä</item>
         <item>Kevyt</item>
@@ -541,14 +560,15 @@
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Näytä taustasovellukset</item>
-        <item>Näytä menu-valikko</item>
+        <item>Näytä valikko</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ei mitään</item>
-        <item>Näytä viimeiset sovellukset</item>
+        <item>Näytä avoimet sovellukset</item>
         <item>Käynnistä Assistentti</item>
         <item>Käynnistä Google now</item>
         <item>Sulje nykyinen sovellus</item>
+        <item>Käynnistä nopea haku</item>
         <item>Näytä menu-valikko</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -848,22 +868,17 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Lapsi-tila</item>
         <item>Tiedostoselain</item>
         <item>Sovelluslukko</item>
+        <item>Second space</item>
     </string-array>
-    <string-array name="description_primary">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+    <string-array name="anr_record_interval_entries">
+        <item>10 sek</item>
+        <item>20 sek</item>
+        <item>30 sek</item>
+        <item>1 min</item>
     </string-array>
-    <string-array name="description_secondary">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+    <string-array name="screen_button_style">
+        <item>Vasemman käden tyyli</item>
+        <item>Oikea käden tyyli</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Joka päivä</item>
@@ -874,5 +889,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Joka päivä</item>
         <item>Arkipäivät</item>
         <item>Muokattu</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Viestit</item>
+        <item>Kuvat</item>
+        <item>Tiedostot</item>
+        <item>Muistiot</item>
+        <item>Sovelluslukko</item>
+        <item>Lapsi-tila</item>
     </string-array>
 </resources>
