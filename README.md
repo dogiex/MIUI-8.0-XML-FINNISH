@@ -79,6 +79,8 @@ Let's translate together!
 - LiveWallpapersPicker.apk
 - ManagedProvisioning.apk
 - MediaProvider.apk
+- Metok.apk
+- MiDrop.apk
 - MiuiHome.apk
 - MiuiKeyguard
 - miui.apk
