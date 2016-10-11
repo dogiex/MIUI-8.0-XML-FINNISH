@@ -560,12 +560,12 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ei mitään</item>
-        <item>Näytä avoimet sovellukset</item>
+        <item>Näytä taustasovellukset</item>
         <item>Käynnistä Assistentti</item>
         <item>Käynnistä Google now</item>
         <item>Sulje nykyinen sovellus</item>
         <item>Käynnistä nopea haku</item>
-        <item>Näytä menu-valikko</item>
+        <item>Näytä valikko</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekuntia</item>
