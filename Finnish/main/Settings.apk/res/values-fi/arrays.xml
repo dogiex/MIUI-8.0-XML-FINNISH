@@ -405,15 +405,7 @@
         <item>Enintään 3 prosessia</item>
         <item>Enintään 4 prosessia</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
-    <string-array name="vpn_types_long">
+     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>Esijaettuun avaimeen perustuva L2TP-/IPSec-VPN-verkko</item>
         <item>L2TP/IPSec-suojattu VPN-verkko varmenteilla</item>
@@ -531,25 +523,6 @@
         <item>Valkoinen</item>
         <item>Violetti</item>
     </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
-    </string-array>
     <string-array name="screen_key_position_action">
         <item>Overview button on the left, Back button on the right</item>
         <item>Back button on the left, Overview button on the right</item>
@@ -581,12 +554,6 @@
         <item>20 sekuntia</item>
         <item>Aina</item>
     </string-array>
-    <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-    </integer-array>
     <string-array name="wfd_status">
         <item>Starting session…</item>
         <item>Session started</item>
@@ -692,53 +659,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Sähköposti</item>
         <item>Video</item>
     </string-array>
-    <string-array name="permission_risk_privacy">
-        <item>android.permission.ACCESS_COARSE_LOCATION</item>
-        <item>android.permission.ACCESS_FINE_LOCATION</item>
-        <item>android.permission.DUMP</item>
-        <item>android.permission.GET_TASKS</item>
-        <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
-        <item>android.permission.READ_CALENDAR</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_SOCIAL_STREAM</item>
-        <item>android.permission.RECEIVE_MMS</item>
-        <item>android.permission.RECEIVE_SMS</item>
-        <item>android.permission.RECEIVE_WAP_PUSH</item>
-        <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
-    </string-array>
-    <string-array name="permission_risk_security">
-        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
-        <item>android.permission.ACCESS_MOCK_LOCATION</item>
-        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
-        <item>android.permission.BROADCAST_SMS</item>
-        <item>android.permission.BROADCAST_STICKY</item>
-        <item>android.permission.BROADCAST_WAP_PUSH</item>
-        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
-        <item>android.permission.DELETE_PACKAGES</item>
-        <item>android.permission.INJECT_EVENTS</item>
-        <item>android.permission.INSTALL_PACKAGES</item>
-        <item>android.permission.INTERNET</item>
-        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
-        <item>android.permission.MODIFY_PHONE_STATE</item>
-        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
-        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
-        <item>android.permission.REMOVE_TASKS</item>
-        <item>android.permission.REORDER_TASKS</item>
-        <item>android.permission.SET_ACTIVITY_WATCHER</item>
-        <item>android.permission.SET_DEBUG_APP</item>
-        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
-        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
-        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
-        <item>android.permission.WRITE_APN_SETTINGS</item>
-        <item>android.permission.WRITE_CALENDAR</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission.WRITE_SETTINGS</item>
-        <item>android.permission.WRITE_SMS</item>
-        <item>android.permission.WRITE_SOCIAL_STREAM</item>
-        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
-    </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Network is slow due to too much traffic</item>
         <item>Network is slow due to weak signal strength</item>
@@ -764,19 +684,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="agps_network_entries">
         <item>Kotiverkko</item>
         <item>Kaikki verkot</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>KUUMA</item>
-        <item>LÄMMIN</item>
-        <item>KYLMÄ</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 tuumaa</item>
@@ -805,59 +712,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>
         <item>Normaali (720p)</item>
-    </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
-    </string-array>
-    <string-array name="broadcast_locales">
-        <item>AE</item>
-        <item>AG</item>
-        <item>AR</item>
-        <item>BH</item>
-        <item>BO</item>
-        <item>BS</item>
-        <item>BB</item>
-        <item>BZ</item>
-        <item>BR</item>
-        <item>CL</item>
-        <item>CO</item>
-        <item>EC</item>
-        <item>EG</item>
-        <item>GF</item>
-        <item>GD</item>
-        <item>GY</item>
-        <item>IN</item>
-        <item>IL</item>
-        <item>IR</item>
-        <item>JO</item>
-        <item>KW</item>
-        <item>OM</item>
-        <item>PY</item>
-        <item>PE</item>
-        <item>QA</item>
-        <item>SA</item>
-        <item>SR</item>
-        <item>KN</item>
-        <item>LC</item>
-        <item>VC</item>
-        <item>TW</item>
-        <item>TT</item>
-        <item>UY</item>
-        <item>VE</item>
-    </string-array>
-    <string-array name="ncc_locales">
-        <item>TW</item>
-    </string-array>
-    <string-array name="common_password_business_keys">
-        <item>miui_keyguard</item>
-        <item>childrenmode</item>
-        <item>file_explorer</item>
-        <item>com_miui_applicatinlock_use_fingerprint_state</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Lukitusruutu</item>
