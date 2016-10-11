@@ -87,6 +87,7 @@ Let's translate together!
 - PackageInstaller.apk
 - PrintSpooler.apk
 - ProxyHandler.apk
+- QuickSearchBox.apk
 - SettingsProvider.apk
 - Shell.apk
 - Stk.apk
