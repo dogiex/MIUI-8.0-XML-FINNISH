@@ -57,7 +57,7 @@
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="activity_not_found_notice">"Can't find the application"</string>
   <string name="add_account">Connect account</string>
-  <string name="app_name">Mi Account</string>
+  <string name="app_name">Mi Tili</string>
   <string name="authorize_title">Authorization</string>
   <string name="barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Connect your Facebook Account</string>
@@ -74,7 +74,7 @@
   <string name="change_password">Change password</string>
   <string name="change_phone_number">Change phone number</string>
   <string name="checking_phone_num_availible">Verifying phone…</string>
-  <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service">Mi Pilvi</string>
   <string name="completed">All set!</string>
   <string name="confirm_activate_email">Verified</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
