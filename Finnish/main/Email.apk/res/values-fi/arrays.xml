@@ -14,7 +14,7 @@
         <item>Lähetä edelleen</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Pikkuruinen</item>
+        <item>Tosi pieni</item>
         <item>Pieni</item>
         <item>Normaali</item>
         <item>Suuri</item>
@@ -68,7 +68,7 @@
         <item>Disclaimer:</item>
         <item>Email Disclaimer</item>
         <item>Sent via WPSMail</item>
-        <item>Lähetetty laitteesti</item>
+        <item>Lähetetty laitteesta</item>
         <item>Lähetetty</item>
         <item>Kiitos,</item>
         <item>Ystävällisin Terveisin</item>
