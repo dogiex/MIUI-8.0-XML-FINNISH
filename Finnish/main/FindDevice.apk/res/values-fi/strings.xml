@@ -9,13 +9,13 @@
   <string name="default_lock_msg_words_with_phone">Hei! Hukkasin puhelimeni. Voisitko ottaa minuun yhteyttä? Kiitos!</string>
   <string name="device_locked">Tämä laite on lukittu</string>
   <string name="device_lost">Tämä laite on hukattu</string>
-  <string name="disable_find_device_error">Etsi laitetta ei voida sammuttaa. %1$s</string>
-  <string name="disable_find_device_success">Etsi laite on pois päältä</string>
+  <string name="disable_find_device_error">Etsi laite-toimintoa ei voida sammuttaa. %1$s</string>
+  <string name="disable_find_device_success">Etsi laite-toiminto on pois päältä</string>
   <string name="doing_extra_login_steps">Varmistetaan kirjautumista…</string>
-  <string name="enable_find_device_error">Etsi laitetta ei voida kytkeä päälle. %1$s</string>
-  <string name="enable_find_device_success">Etsi laite on päällä</string>
+  <string name="enable_find_device_error">Etsi laite-toimintoa ei voida kytkeä päälle. %1$s</string>
+  <string name="enable_find_device_success">Etsi laite-toiminto on päällä</string>
   <string name="find_device">Etsi laite</string>
-  <string name="find_device_crash">Etsi laite sulkeutui odottamattomasti.</string>
+  <string name="find_device_crash">Etsi laite-toiminto sulkeutui odottamattomasti.</string>
   <string name="find_device_error_account_sys_timeout">Mi Tiliin ei saada yhteyttä. </string>
   <string name="find_device_error_account_unknown_error">Mi Tili virhe (%s).</string>
   <string name="find_device_error_network">Verkkovirhe.</string>
@@ -28,50 +28,50 @@
   <string name="find_device_notice_p3">"paikantaaksesi, lukitaksesi tai palauttaaksesi laite tehdasasetuksille.
   Jos vaihdat SIM-kortteja, uusi tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi."</string>
   <string name="find_device_stop_noise">Hiljentääksesi napauta OK</string>
-  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
-  <string name="find_device_success_title">Find device</string>
+  <string name="find_device_storage_corrupted">Laitteen tallennustila on korruptoitunut. Laitteesi ei ole nyt turvassa.</string>
+  <string name="find_device_success_title">Etsi laite</string>
   <string name="i_know">OK</string>
-  <string name="lock_msg_phone">Contact information: %s</string>
-  <string name="login_extra_steps">Sign in verification</string>
-  <string name="login_failed">"Couldn't sign in. %s."</string>
-  <string name="passport_checking_vcode">Checking password…</string>
-  <string name="passport_error_empty_vcode">Enter verification code</string>
-  <string name="passport_notification_need_unlock_again">Try to unlock again</string>
-  <string name="passport_notification_processing">Processing…</string>
-  <string name="passport_trust_device">Trust this device</string>
-  <string name="passport_vcode_prompt_long">Enter verification code</string>
-  <string name="passport_verify">Verify</string>
-  <string name="password">Password</string>
-  <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
-  <string name="stop_on_empty_captcha">"Captcha can't be blank"</string>
-  <string name="stop_on_empty_password">"Password can't be blank"</string>
-  <string name="time_correction_failure">"Can't correct time. %s"</string>
-  <string name="time_correction_success">Time corrected</string>
-  <string name="unlock">Activate</string>
-  <string name="unlock_access_denied">Access denied</string>
-  <string name="unlock_bad_authentication">Invalid username or password</string>
-  <string name="unlock_error_abort">Canceled by user</string>
-  <string name="unlock_error_device_id">"Can't get device ID"</string>
-  <string name="unlock_error_interrupted">Interrupted</string>
-  <string name="unlock_error_network">"Can't connect to network"</string>
-  <string name="unlock_error_passport_sdk_timeout">"Mi Account SDK isn't responding"</string>
-  <string name="unlock_error_rpc">RPC error</string>
-  <string name="unlock_error_server">Server error</string>
-  <string name="unlock_error_ssl_hand_shake">"Couldn't connect to server, try setting date and time manually."</string>
-  <string name="unlock_error_unknown">"Can't sign in"</string>
-  <string name="unlock_error_user_name">Invalid username</string>
-  <string name="unlock_error_wrong_vcode">The code you entered is incorrect</string>
-  <string name="unlock_help">"Stay connected to the network
-Make sure you've installed a working SIM card, and your device is not connected to an ineffective WLAN network
+  <string name="lock_msg_phone">Kontaktin tiedot: %s</string>
+  <string name="login_extra_steps">Kirjautumisen varmennus</string>
+  <string name="login_failed">Kirjautuminen epäonnistui. %s.</string>
+  <string name="passport_checking_vcode">Tarkastetaan salasanaa…</string>
+  <string name="passport_error_empty_vcode">Syötä varmennus-koodi</string>
+  <string name="passport_notification_need_unlock_again">Yritä avata lukitus uudelleen</string>
+  <string name="passport_notification_processing">Käsitellään…</string>
+  <string name="passport_trust_device">Luota tähän laitteeseen</string>
+  <string name="passport_vcode_prompt_long">Syötä varmennus-koodi</string>
+  <string name="passport_verify">Varmenna</string>
+  <string name="password">Salasana</string>
+  <string name="phone_locked">Tämä laite on jo linkitettynä olemassaolevaan Mi Tiliin (%s). Kirjaudu sisään aktivoidaksesi tämän laitteen.</string>
+  <string name="stop_on_empty_captcha">Captcha ei voi olla tyhjä</string>
+  <string name="stop_on_empty_password">Salasana ei voi olla tyhjä</string>
+  <string name="time_correction_failure">Aikaa ei voi korjata. %s</string>
+  <string name="time_correction_success">Aika korjattu</string>
+  <string name="unlock">Aktivoi</string>
+  <string name="unlock_access_denied">Pääsy kielletty</string>
+  <string name="unlock_bad_authentication">Väärä käyttäjänimi tai salasana</string>
+  <string name="unlock_error_abort">Peruutettu käyttäjän toimesta</string>
+  <string name="unlock_error_device_id">Laitteen ID-numeroa ei saatu</string>
+  <string name="unlock_error_interrupted">Keskeytetty</string>
+  <string name="unlock_error_network">Verkkoon ei saada yhteyttä</string>
+  <string name="unlock_error_passport_sdk_timeout">Mi Tilin SDK ei vastaa</string>
+  <string name="unlock_error_rpc">RPC virhe</string>
+  <string name="unlock_error_server">Palvelinvirhe</string>
+  <string name="unlock_error_ssl_hand_shake">Palvelimeen ei saada yhteyttä, yritä asettaa päiväys ja aika manuaalisesti.</string>
+  <string name="unlock_error_unknown">Kirjautuminen epäonnistui</string>
+  <string name="unlock_error_user_name">Väärä käyttäjänimi</string>
+  <string name="unlock_error_wrong_vcode">Koodi, jonka syötit on väärin</string>
+  <string name="unlock_help">"Pysy yhteydessä verkkoon
+Pidä huolta, että olet asentanut toimivan SIM-kortin, ja että laitteesi ei ole yhteydessä heikkoon Wi-Fi -verkkoon
 
-Forgot password?
-Go to id.mi.com to reset your password
+Unohtuiko salasana?
+Mene id.mi.com palauttaaksesi salasanasi
 
-Other reasons
-Sign in to i.mi.com and try unlocking your device from there"</string>
-  <string name="unlock_help_title">Unlock help:</string>
-  <string name="unlock_wrong_captcha">The code you entered is incorrect</string>
-  <string name="unlocking">Activating…</string>
-  <string name="verifing_account">Verifying password…</string>
-  <string name="verify_password_failed">"Couldn't verify Mi Account ID. %s."</string>
+Muut syyt
+Kirjaudu sisään osoitteessa i.mi.com ja yritä avata laitteesi lukitus sieltä"</string>
+  <string name="unlock_help_title">Apua avaamiseen:</string>
+  <string name="unlock_wrong_captcha">Koodi, jonka syötit on väärin</string>
+  <string name="unlocking">Aktivoidaan…</string>
+  <string name="verifing_account">Varmennetaan salasanaa…</string>
+  <string name="verify_password_failed">Mi Tilin ID-numeron varmennus epäonnistui. %s.</string>
 </resources>

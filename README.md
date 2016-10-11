@@ -69,6 +69,7 @@ Let's translate together!
 - DownloadProvider.apk
 - DownloadProviderUi.apk
 - ExternalStorageProvider.apk
+- FindDevice.apk
 - framework-res.apk
 - FusedLocation.apk
 - HTMLViewer.apk
