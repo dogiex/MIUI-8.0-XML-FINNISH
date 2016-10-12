@@ -15,7 +15,7 @@
   <string name="TestSender">Kokeile lähettämistä</string>
   <string name="Unregister">Peru rekisteröinti</string>
   <string name="action_settings">Asetukset</string>
-  <string name="app_name">Mi Drop</string>
+  <string name="app_name">Mi Siirtäjä</string>
   <string name="cancel_confirm">Peruuta</string>
   <string name="cancel_confirm_title">Lähetys ei ole valmis, peruutetaanko silti?</string>
   <string name="cancel_receive_confirm">Peruuta</string>
@@ -24,12 +24,12 @@
   <string name="file_not_support">Tämä tiedostotyyppi ei ole tuettu</string>
   <string name="help">Apua</string>
   <string name="i_know">Selvä</string>
-  <string name="intro_midrop">Mi Drop</string>
+  <string name="intro_midrop">Mi Siirtäjä</string>
   <string name="intro_page1_text1">Jaa tiedostoja lähellä olevien laitteiden kanssa</string>
   <string name="intro_page1_text2">Nyt se on helpompaa, kuin koskaan</string>
   <string name="intro_page2_choose_files">Valitse tiedostot ja napauta \"Lähetä\"</string>
   <string name="intro_page2_click_to_send">Napauta \"Lähetä\"</string>
-  <string name="intro_page3_choose_midrop">Valitse \"Mi Drop\"</string>
+  <string name="intro_page3_choose_midrop">Valitse \"Mi Siirtäjä\"</string>
   <string name="intro_page3_choose_midrop2">Tiedostot lähetetään heti!</string>
   <string name="newText">Uusi Teksti</string>
   <string name="notif_receive_cancel">%1$s tiedostoa ei lähetetty</string>
@@ -57,7 +57,7 @@
   <string name="receiver_insufficient_storage_cannot_send">Ei voi lähettää: muistia ei ole tarpeeksi</string>
   <string name="receiver_interrupt_summary">Älä katkaise Wi-Fi-yhteyttä tiedostojen vastaanoton aikana</string>
   <string name="receiver_interrupt_summary_v21">Älä katkaise Wi-Fi-hotspottia tiedostojen vastaanoton aikana</string>
-  <string name="receiver_notification_turn_on">Vastaanottajan on laitettava Mi Drop päälle</string>
+  <string name="receiver_notification_turn_on">Vastaanottajan on laitettava Mi Siirtäjä päälle</string>
   <string name="receiver_notification_turn_on_help">Laita päälle löytääksesi laitteesi ja lähettääksesi tiedostoja.</string>
   <string name="receiver_pic_file_current">Vastaanotetaan %2$d kuvaa lähettäjältä %1$s</string>
   <string name="receiver_pic_file_num">%2$d kuvaa lähettäjältä %1$s</string>
@@ -67,7 +67,7 @@
   <string name="receiver_transfer_interrupt">Lähetys keskeytyi, älä laita Wi-Fi-hotspottia pois päältä lähetyksen aikana</string>
   <string name="receiver_video_file_current">Vastaanotetaan %2$d​ videota lähettäjältä %1$s</string>
   <string name="receiver_video_file_num">%2$d​ videota lähettäjältä %1$s</string>
-  <string name="runtime_permission_ungranted">Mi Droppia ei voi käyttää käyttöoikeuksien puutoksen takia</string>
+  <string name="runtime_permission_ungranted">Mi Siirtäjää ei voi käyttää käyttöoikeuksien puuttumisen takia</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">Älä lähetä</string>
