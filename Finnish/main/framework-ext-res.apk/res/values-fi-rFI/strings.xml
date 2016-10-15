@@ -105,8 +105,9 @@
   <string name="start_security_permission_verify_text">Varmenna käyttöoikeudet Mi Tiliä käyttäen</string>
   <string name="status_bar_toggle_auto_brightness">Kirkkaus</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_cast">Kuvan lähetys</string>
+  <string name="status_bar_toggle_cast">Ruudun jako</string>
   <string name="status_bar_toggle_data">Mobiilidata</string>
+  <string name="status_bar_toggle_edit">Lisää</string>
   <string name="status_bar_toggle_flight_mode">Lentokone</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Lukko</string>
