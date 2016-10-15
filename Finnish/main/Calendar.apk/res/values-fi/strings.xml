@@ -229,7 +229,7 @@
   <string name="goto_today">Tämä päivä</string>
   <string name="guide_card_hint_text">Avaa Mi Pilvi napauttamalla</string>
   <string name="hide_controls">Piilota toiminnot</string>
-  <string name="hint_attendees">Vieraat</string>
+  <string name="hint_attendees">Osallistujat</string>
   <string name="hint_description">Kuvaus</string>
   <string name="hint_what">Tapahtuman nimi</string>
   <string name="hint_where">Sijainti</string>
