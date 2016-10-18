@@ -36,7 +36,7 @@
     </string-array>
     <string-array name="ordinal_labels">
         <item>ensimmäinen</item>
-        <item>sekunti</item>
+        <item>toinen</item>
         <item>kolmas</item>
         <item>neljäs</item>
         <item>viimeinen</item>

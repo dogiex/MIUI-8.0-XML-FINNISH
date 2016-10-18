@@ -40,7 +40,6 @@ Let's translate together!
 - Cit.apk
 - CloudService.apk
 - Email.apk
-- framework-ext-res.apk
 - FindDevice.apk
 - Settings.apk
 
@@ -71,6 +70,7 @@ Let's translate together!
 - ExternalStorageProvider.apk
 - FindDevice.apk
 - framework-res.apk
+- framework-ext-res.apk
 - FusedLocation.apk
 - HTMLViewer.apk
 - InCallUi.apk
