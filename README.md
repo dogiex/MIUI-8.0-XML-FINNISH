@@ -40,7 +40,6 @@ Let's translate together!
 - Cit.apk
 - CloudService.apk
 - Email.apk
-- FindDevice.apk
 - Settings.apk
 
 #####Already translated strings:
