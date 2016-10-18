@@ -41,6 +41,7 @@ Let's translate together!
 - CloudService.apk
 - Email.apk
 - framework-ext-res.apk
+- FindDevice.apk
 - Settings.apk
 
 #####Already translated strings:
