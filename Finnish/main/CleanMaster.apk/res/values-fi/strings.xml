@@ -196,7 +196,7 @@
   <string name="hints_cache_msd_desc">Delta päivitysten poistaminen ei vaikuta sovelluksien käyttökokemukseen</string>
   <string name="hints_cache_msd_title">Delta päivitys</string>
   <string name="hints_cleanfinish">Puhdistus valmis</string>
-  <string name="hints_deepclean_list_item_from">Keneltä %s</string>
+  <string name="hints_deepclean_list_item_from">Mistä: %s</string>
   <string name="hints_deepclean_scanning">Skannataan %s</string>
   <string name="hints_finish_quick_cleanup">Valmis</string>
   <string name="hints_finish_quick_cleanup_title">Puhdista %s roskat</string>
