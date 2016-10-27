@@ -3,7 +3,7 @@
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Mainokset</string>
   <string name="activity_title_apk">Paketit</string>
-  <string name="activity_title_brightness_image">Under and overexposed</string>
+  <string name="activity_title_brightness_image">Ali- ja ylivaloittuneet</string>
   <string name="activity_title_cache">Välimuisti</string>
   <string name="activity_title_cache_data">Sovellusdata</string>
   <string name="activity_title_deep_apk">Poista sovelluspaketit</string>
