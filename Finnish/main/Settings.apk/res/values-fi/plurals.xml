@@ -81,6 +81,10 @@
         <item quantity="other">viimeiset %2$s: %1$d sovellusta käytti muistia</item>
         <item quantity="one">viimeiset %2$s: 1 sovellus käytti muistia</item>
     </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d laitetta</item>
+        <item quantity="one">%d laite</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Olet %1$d askeleen päässä puhelimen tiedoista.</item>
         <item quantity="one">Olet %1$d askeleen päässä puhelimen tiedoista.</item>
@@ -92,5 +96,13 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Olet %1$d askeleen päässä bugiraportista.</item>
         <item quantity="one">Olet %1$d askeleen päässä bugiraportista.</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Aina pois käytöstä %d sovellukselle</item>
+        <item quantity="one">Aina pois käytöstä yhdelle sovellukselle</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Älä ota pois käytöstä %d sovellukselle</item>
+        <item quantity="one">Älä ota pois käytöstä yhdelle sovellukselle</item>
     </plurals>
 </resources>

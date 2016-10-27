@@ -715,6 +715,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Lukitusruutu</item>
+        <item>Yksityisyyden salasana</item>
         <item>Lapsi-tila</item>
         <item>Tiedostoselain</item>
         <item>Sovelluslukko</item>
