@@ -53,7 +53,7 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Aurinkoinen</item>
+        <item>Selkeä</item>
         <item>Puolipilvinen</item>
         <item>Pilvinen</item>
         <item>Sumuinen</item>
