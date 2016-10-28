@@ -40,7 +40,7 @@ Let's translate together!
 - Cit.apk
 - CloudService.apk
 - Email.apk
-- Settings.apk
+- Settings.apk (paths, search and minor things still unstranslated)
 
 #####Already translated strings:
 - AntiSpam.apk
