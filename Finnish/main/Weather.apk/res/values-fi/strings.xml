@@ -59,7 +59,7 @@
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Pieni hetki…</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
-  <string name="daily_forcast_drawer_on_top">%1$s Päivän Ennustus</string>
+  <string name="daily_forcast_drawer_on_top">%1$s päivän ennustus</string>
   <string name="daily_forcast_no_stable_direction">Ei tuulta</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -81,7 +81,7 @@
   <string name="hide_topic">Piilota</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Nyt</string>
-  <string name="hourly_forecast_title">Tuntikohtainen Ennustus</string>
+  <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
   <string name="index_item_install_now">Asenna nyt</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Tuntuu kuin %1$s°C</string>
@@ -119,7 +119,7 @@
 Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="location_management">Sijainnit</string>
   <string name="location_tag">Paikanna</string>
-  <string name="menu_add_city">Lisää tai Poista kaupunki</string>
+  <string name="menu_add_city">Lisää tai poista kaupunki</string>
   <string name="menu_location">Sijainnit</string>
   <string name="more_details">Lisää tietoa</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
