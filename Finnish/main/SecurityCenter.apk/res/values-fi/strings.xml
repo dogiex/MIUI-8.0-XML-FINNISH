@@ -332,14 +332,11 @@ or enter App lock password"</string>
   <string name="card_main_private_space_summary">Using Second space is like having 2 devices</string>
   <string name="card_main_private_space_title">Second space</string>
   <string name="card_main_sectool_title">Tools</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Connection speed</string>
   <string name="card_main_speeddetailt_summary">View connection speed for individual apps</string>
   <string name="card_main_xspace_action">Create</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">Dual apps</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
@@ -981,7 +978,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_mode_ontime_enabled">Schedule time to switch between modes</string>
   <string name="power_save_mode_start_time">Start</string>
   <string name="power_save_mode_summary" formatted="false">Monitor background processes, and turn off sync. Battery saver will turn off automatically when battery is 60% or 100% charged.</string>
-  <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_summary_text">"Turn on Battery saver to reduce apps' background activity, stop sync, and minimize system animations."</string>
@@ -1083,7 +1079,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
   <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
@@ -1378,9 +1373,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Done</string>
-  <string name="tc_diagnostic_fragment_default">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
   <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
   <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>
