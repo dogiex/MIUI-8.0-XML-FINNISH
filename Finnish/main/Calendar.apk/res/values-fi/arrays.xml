@@ -191,9 +191,4 @@
         <item>Aika</item>
         <item>Toistokerta</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Aina</item>
-        <item>Vain äänettömällä</item>
-        <item>Ei koskaan</item>
-    </string-array>
 </resources>
