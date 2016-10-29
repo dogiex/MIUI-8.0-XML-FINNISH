@@ -3,7 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille %s.</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -288,7 +287,6 @@
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_sms_dot">Tekstiviesti...</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
   <string name="conversation_item_mark_read">Luettu</string>
   <string name="conversation_item_mark_unread">Lukematon</string>
@@ -304,9 +302,6 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Tänään, %1$s</string>
   <string name="default_">DEFAULT</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">OLETUSASETUKSET</string>
   <string name="default_signature">Lähetetty Xiaomi puhelimestani</string>
   <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
@@ -511,7 +506,7 @@
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">Yhdistetty näkymä</string>
-  <string name="mailbox_name_display_ad">Ads &amp; notifications</string>
+  <string name="mailbox_name_display_ad">Mainokset &amp; ilmoitukset</string>
   <string name="mailbox_name_display_drafts">Luonnokset</string>
   <string name="mailbox_name_display_inbox">Postilaatikko</string>
   <string name="mailbox_name_display_junk">Roskaposti</string>
@@ -520,14 +515,6 @@
   <string name="mailbox_name_display_starred">Tähdelliset</string>
   <string name="mailbox_name_display_trash">Roskakori</string>
   <string name="mailbox_name_display_unread">Lukemattomat</string>
-  <string name="mailbox_name_server_all_unread">Lukemattomat</string>
-  <string name="mailbox_name_server_drafts">Luonnokset</string>
-  <string name="mailbox_name_server_inbox">Postilaatikko</string>
-  <string name="mailbox_name_server_junk">Roskaposti</string>
-  <string name="mailbox_name_server_outbox">Lähtevät</string>
-  <string name="mailbox_name_server_sent">Lähetetyt</string>
-  <string name="mailbox_name_server_starred">Tähdelliset</string>
-  <string name="mailbox_name_server_trash">Roskakori</string>
   <string name="mailbox_settings_activity_title">Synkronointiasetukset</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synkronointiasetukset (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synkronoitavat päivät</string>
@@ -739,7 +726,6 @@
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava ruutu</string>
   <string name="policy_text_truncation">Restrict text email size</string>
   <string name="pop3_name">Omat (POP3)</string>
-  <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
@@ -828,12 +814,7 @@
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Vastaa kaikille</string>
   <string name="reply_attribution" formatted="false">%s kirjoitti %s:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Ilmoita kalastelusta</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Ilmoita roskapostista</string>
   <string name="request_entity_large">File is too big</string>
   <string name="request_permission_activity">Permission Request</string>
@@ -984,7 +965,6 @@
   <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Settings&lt;/b&gt; to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
-  <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
