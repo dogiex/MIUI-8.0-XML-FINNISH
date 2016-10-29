@@ -5,12 +5,12 @@
         <item quantity="one">%1$d uusi viesti</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Arkistoidaanko nämä %1$d keskustelua?</item>
-        <item quantity="one">Arkistoidaanko tämä keskustelu?</item>
+        <item quantity="other">Arkistoidaanko %1$d keskustelua?</item>
+        <item quantity="one">Arkistoidaanko %1$d keskustelu?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Poistetaanko nämä %1$d keskustelua?</item>
-        <item quantity="one">Poistetaanko tämä keskustelu?</item>
+        <item quantity="other">Poistetaanko %1$d keskustelua?</item>
+        <item quantity="one">Poistetaanko %1$d keskustelu?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Keskustelu sisältää usean viestin, poistetaanko siitä huolimatta?</item>
@@ -21,59 +21,59 @@
         <item quantity="one">Valittuna %d kohde</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Arkistoitu %1$d keskustelua.</item>
-        <item quantity="one">Arkistoitu %1$d keskustelu.</item>
+        <item quantity="other">Arkistoitiin %1$d keskustelua.</item>
+        <item quantity="one">Arkistoitiin %1$d keskustelu.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Deleted %1$d conversations.</item>
-        <item quantity="one">Deleted %1$d conversation.</item>
+        <item quantity="other">Poistettiin %1$d keskustelua.</item>
+        <item quantity="one">Poistettiin %1$d keskustelu.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">Changed folders</item>
-        <item quantity="one">Changed folder.</item>
+        <item quantity="other">Vaihdettiin kansioita.</item>
+        <item quantity="one">Vaihdettiin kansio.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Ignored %1$d conversations.</item>
-        <item quantity="one">Ignored %1$d conversation.</item>
+        <item quantity="other">%1$d keskustelua ei huomioida.</item>
+        <item quantity="one">%1$d keskustelua ei huomioida.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Unmarked %1$d conversations as important.</item>
-        <item quantity="one">Unmarked %1$d conversation as important.</item>
+        <item quantity="other">Tärkeä-merkintä poistettiin %1$d keskustelusta.</item>
+        <item quantity="one">Tärkeä-merkintä poistettiin %1$d keskustelusta.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Unmarked %1$d conversations as spam</item>
-        <item quantity="one">Unmarked %1$d conversation as spam</item>
+        <item quantity="other">Roskaposti-merkintä poistettiin %1$d keskustelusta</item>
+        <item quantity="one">Roskaposti-merkintä poistettiin %1$d keskustelusta</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Reported %1$d conversations as fraud.</item>
-        <item quantity="one">Reported %1$d conversation as fraud.</item>
+        <item quantity="other">Ilmoitettiin %1$d keskustelua huijaukseksi.</item>
+        <item quantity="one">Ilmoitettiin %1$d keskustelu huijaukseksi.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Reported %1$d conversations as spam.</item>
-        <item quantity="one">Reported %1$d conversation as spam.</item>
+        <item quantity="other">Ilmoitettiin %1$d keskustelua roskapostiksi.</item>
+        <item quantity="one">Ilmoitettiin %1$d keskustelu roskapostiksi.</item>
     </plurals>
     <plurals name="draft">
-        <item quantity="other">Drafts</item>
-        <item quantity="one">Draft</item>
+        <item quantity="other">Luonnokset</item>
+        <item quantity="one">Luonnos</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d messages will be permanently deleted.</item>
-        <item quantity="one">%1$d message will be permanently deleted.</item>
+        <item quantity="other">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="one">%1$d viesti poistetaan pysyvästi.</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Move %1$d conversations</item>
-        <item quantity="one">Move %1$d conversation</item>
+        <item quantity="other">Siirrä %1$d keskustelua</item>
+        <item quantity="one">Siirrä %1$d keskustelu</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d new messages</item>
-        <item quantity="one">%1$d new message</item>
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Valittuna %d kohdetta</item>
+        <item quantity="one">Valittuna %d kohde</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d older messages</item>
-        <item quantity="one">%1$d older message</item>
+        <item quantity="other">%1$d vanhaa viestiä</item>
+        <item quantity="one">%1$d vanha viesti</item>
     </plurals>
 </resources>

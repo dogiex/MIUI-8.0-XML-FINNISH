@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="calendar_remind_string_array">
-        <item>Tänäyönä</item>
+        <item>Tänä yönä</item>
         <item>Huomenna</item>
         <item>Viikonloppuna</item>
-        <item>Ensiviikolla</item>
-        <item>Ensikuussa</item>
+        <item>Ensi viikolla</item>
+        <item>Ensi kuussa</item>
         <item>Valitse päivä</item>
     </string-array>
     <string-array name="compose_modes">
@@ -67,7 +67,7 @@
     <string-array name="signature_special_string_array">
         <item>Disclaimer:</item>
         <item>Email Disclaimer</item>
-        <item>Sent via WPSMail</item>
+        <item>Lähetetty käyttäen WPSMailia</item>
         <item>Lähetetty laitteesta</item>
         <item>Lähetetty</item>
         <item>Kiitos,</item>
