@@ -964,7 +964,6 @@
   <string name="unselected_lable">More</string>
   <string name="unsent_messages_in_outbox">%2$s: %1$s lähettämätöntä viestiä</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
-  <string name="update_date_format_templete">"HH:mm, d. MMMM'ta'"</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="upload_log">Upload logs</string>
   <string name="upload_log_failed">"Couldn't send logs"</string>
