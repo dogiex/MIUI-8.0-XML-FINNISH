@@ -1259,6 +1259,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
+  <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_clear_search_history">Tyhjennä historia</string>
   <string name="yellowpage_navigation_more_items">Lisää</string>
   <string name="yellowpage_navigation_more_items_title">Lisää palveluita</string>

@@ -5,6 +5,7 @@
 Mainostuksen tunnistus on pysyvä yksilöllinen ID-tunnus laitteellesi. Myyjät käyttävät sitä tarjoakseen juuri sinulle hyödyllisiä ja kiinnostavia mainoksia.
 
 Jos valitset, ettet halua sinuun kohdistuneita mainoksia, mainosten määrä ei vähene, vaan juuri sinulle hyödylliset ja kiinnostavat mainokset vähenevät radikaalisesti."</string>
+	<string name="about_phone_enter_xiaomi_net">Opi lisää</string>
 	<string name="about_settings">Tietoa laitteesta</string>
 	<string name="about_settings_summary">Näytä lakitiedot, tila, ohjelmiston versio</string>
 	<string name="ac_enable_summary">Aseta sovellukselle salasana</string>
@@ -792,6 +793,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 	<string name="close_gesture">Sulje käyttäen elettä</string>
 	<string name="close_miui_optimization_title">Laita MIUI:n optimointi pois päältä</string>
 	<string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
+	<string name="cmcc_hardware_version">Laitteistoversio</string>
 	<string name="color_black">Musta</string>
 	<string name="color_blue">Sininen</string>
 	<string name="color_calibration_none">Natiivi</string>
@@ -810,6 +812,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 	<string name="color_white">Valkoinen</string>
 	<string name="color_yellow">Keltainen</string>
 	<string name="common_settings">Asetukset</string>
+	<string name="complete_parameters">Kaikki tiedot</string>
 	<string name="complete_settings">Yleiset asetukset</string>
 	<string name="computing_size">Lasketaan...</string>
 	<string name="config_charging_function_name">ladataan</string>
@@ -1075,17 +1078,20 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
 	<string name="development_settings_not_available">Tämä käyttäjä ei voi käyttää kehittäjäasetuksia</string>
 	<string name="development_settings_summary">Valitse sovellusten kehittämisasetukset</string>
 	<string name="development_settings_title">Kehittäjäasetukset</string>
+	<string name="device_actionbar_title">Kaikki tiedot</string>
 	<string name="device_admin_add_title">Laitteen järjestelmänvalvoja</string>
 	<string name="device_admin_settings_title">Laitteen järjestelmänvalvoja-asetukset</string>
 	<string name="device_admin_status">Tämä järjestelmänvalvoja on aktiivinen. %1$s saa:</string>
 	<string name="device_admin_title">Laitteen järjestelmänvalvonta</string>
 	<string name="device_admin_warning">Jos tämä järjestelmänvalvoja otetaan käyttöön, sovellus %1$s voi suorittaa seuraavat toiminnot:</string>
+	<string name="device_complete_parameters">Valmis</string>
 	<string name="device_cpu">CPU</string>
-	<string name="device_cpu10_info">Kymmen-ydin</string>
-	<string name="device_cpu2_info">Kaksi-ydin</string>
-	<string name="device_cpu4_info">Neli-ydin</string>
-	<string name="device_cpu6_info">Kuusi-ydin</string>
-	<string name="device_cpu8_info">Kahdeksan-ydin</string>
+	<string name="device_cpu10_info">Deca-core</string>
+	<string name="device_cpu2_info">Dual-core</string>
+	<string name="device_cpu4_info">Quad-core</string>
+	<string name="device_cpu6_info">Hexa-core</string>
+	<string name="device_cpu8_info">Octa-core</string>
+	<string name="device_display_layout_title">Toiminnot</string>
 	<string name="device_edit_title">Nimeä laite uudelleen</string>
 	<string name="device_feedback">Lähetä palautetta tästä laitteesta</string>
 	<string name="device_info_default">Tuntematon</string>
@@ -1094,7 +1100,9 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
 	<string name="device_info_settings">Puhelimen tila</string>
 	<string name="device_internal_memory">Sisäinen muisti</string>
 	<string name="device_memory">RAM</string>
+	<string name="device_miui_more">Näytä lisää</string>
 	<string name="device_miui_version">MIUI versio</string>
+	<string name="device_miui_version_update">MIUI päivitys on saatavilla</string>
 	<string name="device_name">Laitteen nimi</string>
 	<string name="device_name_input_error">Laitteen nimeä ei voitu tallentaa</string>
 	<string name="device_name_input_hint">Syötä nimi</string>
@@ -1102,6 +1110,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
 	<string name="device_picker">Valitse Bluetooth-laite</string>
 	<string name="device_reset_title">Palauta tehdasasetukset</string>
 	<string name="device_sd_memory">SD-kortti</string>
+	<string name="device_share_loading">Luodaan kuvaa</string>
 	<string name="device_status">Tila</string>
 	<string name="device_status_activity_title">Tila</string>
 	<string name="device_status_summary">Puhelinnumero, signaali jne.</string>
@@ -1978,11 +1987,11 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
 	<string name="master_clear_progress_title">Tyhjennetään</string>
 	<string name="master_clear_summary">Poistaa puhelimen kaikki tiedot</string>
 	<string name="master_clear_title">Tehdasasetuksien palauttaminen</string>
-	<string name="max_cpu10_info">Kymmen-ydin Maks.</string>
-	<string name="max_cpu2_info">Tupla-ydin Maks.</string>
-	<string name="max_cpu4_info">Neli-ydin Maks.</string>
-	<string name="max_cpu6_info">Kuusi-ydin Maks.</string>
-	<string name="max_cpu8_info">Kahdeksan-ydin Maks.</string>
+	<string name="max_cpu10_info">"Deca-core Max "</string>
+	<string name="max_cpu2_info">"Dual-core Max "</string>
+	<string name="max_cpu4_info">"Quad-core Max "</string>
+	<string name="max_cpu6_info">"Hexa-core Max "</string>
+	<string name="max_cpu8_info">"Octa-core Max "</string>
 	<string name="max_fingerprint_number_reached">Sormenjälkiä ei voi lisätä viittä enempää. Poista jo olemassa olevia sormenjälkiä, jos haluat lisätä uuden.</string>
 	<string name="maximum_memory_use">Muistin enimmäiskäyttö</string>
 	<string name="media_button">Media-painike</string>
@@ -2030,6 +2039,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
 	<string name="memory_use_running_format">%1$s / %2$s</string>
 	<string name="memory_use_summary">Muistia käytetty keskimäärin %1$s viimeisen 3 tunnin aikana.</string>
 	<string name="menu_cancel">Hylkää</string>
+	<string name="menu_check">Kokemus</string>
 	<string name="menu_delete">Poista APN</string>
 	<string name="menu_duration_12h">12 tuntia</string>
 	<string name="menu_duration_1d">1 päivä</string>
@@ -2046,6 +2056,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
 	<string name="menu_proc_stats_type_foreground">Etuala</string>
 	<string name="menu_restore">Palauta oletukset</string>
 	<string name="menu_save">Tallenna</string>
+	<string name="menu_share">Jaa</string>
 	<string name="menu_show_percentage">Näytä prosentit</string>
 	<string name="menu_show_system">Näytä järjestelmä</string>
 	<string name="menu_stats_last_unplugged">Laturin irrottamisen jälkeen (%1$s)</string>
@@ -2165,6 +2176,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="musicfx_title">Musiikkitehosteet</string>
 	<string name="mvno_match_data">MVNO-arvo</string>
 	<string name="mvno_type">MVNO-tyyppi</string>
+	<string name="my_device">Laitteeni</string>
 	<string name="nearby_wifi">Verkkoja saatavilla</string>
 	<string name="need_reboot_now">Asenna päivitys käynnistämällä uudelleen.</string>
 	<string name="network_assistant">Datan käyttö</string>
@@ -2289,6 +2301,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="optimization_close">Pois päältä &amp; käynnistä uudelleen</string>
 	<string name="optimization_open">Laita päälle</string>
 	<string name="other_advanced_settings">Lisäasetukset</string>
+	<string name="other_device_info">Muut</string>
 	<string name="other_personal_settings">Henkilökohtaiset asetukset</string>
 	<string name="other_relative">Muut</string>
 	<string name="other_sound_settings">Muut äänet</string>
@@ -2799,8 +2812,8 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="radio_info_neighboring_location_label">Naapuri-CID:</string>
 	<string name="radio_info_network_type_label">Verkon tyyppi:</string>
 	<string name="radio_info_phone_number_label">Puhelinnumero:</string>
-	<string name="radio_info_ping_hostname">Ping isäntään(www.google.com):</string>
-	<string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+	<string name="radio_info_ping_hostname">Pingaa isäntään (www.google.com):</string>
+	<string name="radio_info_ping_ipaddr">Pingaa IpAddr:</string>
 	<string name="radio_info_ppp_received_label">PPP vastaanotettu:</string>
 	<string name="radio_info_ppp_resets_label">PPP-palautuksien lukumäärä käynnistyksen jälkeen:</string>
 	<string name="radio_info_ppp_sent_label">PPP lähetetty:</string>
@@ -2813,13 +2826,19 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="radio_info_smsc_refresh_label">Päivitä</string>
 	<string name="radio_info_smsc_update_label">Päivitä</string>
 	<string name="radio_info_toggle_dns_check_label">Ota DNS-tarkistus käyttöön tai poista tarkistus käytöstä</string>
+	<string name="rank_title">Sijoitukset</string>
 	<string name="rarely_running">Harvoin käynnissä (%s)</string>
 	<string name="really_remove_account_message">Poistamalla tämän tilin poistat kaikki sen viestit, kontaktit ja muut tiedot puhelimesta.</string>
 	<string name="really_remove_account_title">Poistetaanko tili?</string>
 	<string name="rebootiing_for_updates">Käynnistetään uudelleen…</string>
-	<string name="receiver_clean">Free up space</string>
+	<string name="receiver_clean">Vapauta tallennustilaa</string>
 	<string name="recent_location_requests_summary">Näytä sovellukset, jotka pyytävät käyttöoikeutta sijaintitiedoille</string>
 	<string name="recent_location_requests_title">Sijaintipyyntö</string>
+	<string name="recommend_item_1">Suojakuori</string>
+	<string name="recommend_item_2">Mi Band</string>
+	<string name="recommend_item_3">Virtapankki</string>
+	<string name="recommend_item_4">Nappikuulokkeet</string>
+	<string name="recommend_item_title">Suositukset</string>
 	<string name="recompute_size">Lasketaan kokoa uudelleen...</string>
 	<string name="record_anr_in_background">Record background ANR cases</string>
 	<string name="regulatory_info_text"/>

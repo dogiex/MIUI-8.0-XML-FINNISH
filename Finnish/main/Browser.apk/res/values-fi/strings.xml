@@ -338,6 +338,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Kirjautuminen epäonnistui, päivitä ja yritä uudelleen</string>
   <string name="low_memory_error">Edellistä toimintoa ei voitu suorittaa vähäisen muistin takia</string>
+  <string name="low_memory_toast">Selainta ei voi käyttää vähäisen muistin takia</string>
   <string name="max_tabs_warning">Välilehtiä ei voi avata enempää</string>
   <string name="maximum_input_alert">Et voi syöttää enempää, kuin 2048 merkkiä</string>
   <string name="media_error_action_refresh">Päivitä</string>

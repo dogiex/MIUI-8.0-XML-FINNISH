@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Tärkeä Varoitus</string>
   <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
   <string name="all_call_livetalk_enable">Käytetään top-up pakettia kotimaan- ja ulkomaanpuheluihin</string>
   <string name="all_call_livetalk_remain_mins">Minuuttia jäljellä: %1$s kotimaan tai %2$s ulkomaan</string>
@@ -17,8 +18,16 @@
   <string name="auto_start_warning_allow">Salli</string>
   <string name="auto_start_warning_deny">Kiellä</string>
   <string name="auto_start_warning_title">Sallitaanko %s käynnistyä automaattisesti?</string>
+  <string name="button_text_cancel">Peruuta</string>
+  <string name="button_text_delete">Poista</string>
+  <string name="button_text_delete_timer">Poista (%d)</string>
+  <string name="button_text_next_step">Seuraava</string>
+  <string name="button_text_next_step_timer">Seuraava (%d)</string>
   <string name="call_record_or">" tai "</string>
   <string name="call_record_sample_prefix_miui">Puhelu</string>
+  <string name="package_delete_confirm_step_1">Poistetaanko %s?</string>
+  <string name="package_delete_confirm_step_2">Tämän sovelluksen poistaminen saattaa aiheuttaa järjestelmässä epävakautta.</string>
+  <string name="package_delete_confirm_step_3">Et voi enää avata tätä sovellusta poistamisen jälkeen.</string>
   <string name="caller_info_name_delimiter">" tai "</string>
   <string name="cancel_action">Peruuta</string>
   <string name="copy">Kopioi</string>
