@@ -90,6 +90,7 @@ Let's translate together!
 - PrintSpooler.apk
 - ProxyHandler.apk
 - QuickSearchBox.apk
+- SecurityAdd.apk
 - SettingsProvider.apk
 - Shell.apk
 - Stk.apk
