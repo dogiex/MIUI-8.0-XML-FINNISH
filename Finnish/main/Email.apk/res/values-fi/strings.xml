@@ -453,8 +453,8 @@
   <string name="get_database_exception">Tyhjennä tämän sovelluksen tiedot paikassa Asetukset &gt; Järjestelmäsovellukset ja yritä uudelleen.</string>
   <string name="gmail_acceleration">Käytä Gmail-tilille välityspalvelinta</string>
   <string name="gmail_login_confirm_to_use_proxy">Käytetäänkö Gmail-tilille välityspalvelinta?</string>
-  <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
-  <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
+  <string name="gmail_login_failed_non_proxy_title">Gmail-palvelimelle ei päästy</string>
+  <string name="gmail_server_authorization_deleted">Tilin varmentaminen epäonnistui. Yritä lisätä tämä tili uudelleen.p</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Kirjaudu Gmail-tiliin</string>
   <string name="header_category_account">Tilit</string>
@@ -474,7 +474,7 @@
   <string name="info_item_from">Lähettäjä </string>
   <string name="info_item_hide">Piilota</string>
   <string name="info_loading">Ladataan…</string>
-  <string name="info_name_title">NEWS</string>
+  <string name="info_name_title">Uutiset</string>
   <string name="info_no_message">No articles to view</string>
   <string name="info_no_more_message">No more items to view</string>
   <string name="info_switch_summary">View top news</string>
@@ -482,11 +482,11 @@
   <string name="info_sync_error">"Couldn't sync, try again later."</string>
   <string name="information_subscribe_first_intro">"Looks like you're using News feed for the first time. Tell us about your interests so we could personalize your news."</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
-  <string name="input_password_prompt">Enter your password</string>
+  <string name="input_password_prompt">Syötä salasanasi</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">Osoite %s ei kelpaa.</string>
-  <string name="invalid_recipient_title">Recipient Error</string>
+  <string name="invalid_recipient_title">Virheellinen vastaanottaja</string>
   <string name="kilobytes">%s Kt</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Search mailbox on server</string>
