@@ -39,7 +39,6 @@ Let's translate together!
 ####Currently work in progress:
 - Cit.apk
 - CloudService.apk
-- Email.apk
 - Settings.apk (paths, search and minor things still unstranslated)
 
 #####Already translated strings:
@@ -66,6 +65,7 @@ Let's translate together!
 - DocumentsUI.apk
 - DownloadProvider.apk
 - DownloadProviderUi.apk
+- Email.apk
 - ExternalStorageProvider.apk
 - FindDevice.apk
 - framework-res.apk
