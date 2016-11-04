@@ -475,13 +475,13 @@
   <string name="info_item_hide">Piilota</string>
   <string name="info_loading">Ladataan…</string>
   <string name="info_name_title">Uutiset</string>
-  <string name="info_no_message">No articles to view</string>
-  <string name="info_no_more_message">No more items to view</string>
-  <string name="info_switch_summary">View top news</string>
-  <string name="info_switch_title">Inbox news</string>
-  <string name="info_sync_error">"Couldn't sync, try again later."</string>
-  <string name="information_subscribe_first_intro">"Looks like you're using News feed for the first time. Tell us about your interests so we could personalize your news."</string>
-  <string name="inline_picture_deleted">Downloading missing picture…</string>
+  <string name="info_no_message">Ei näytettäviä artikkeleita</string>
+  <string name="info_no_more_message">Ei enempää näytettäviä kohteita</string>
+  <string name="info_switch_summary">Näytä suositut uutiset</string>
+  <string name="info_switch_title">Uutiset postilaatikko</string>
+  <string name="info_sync_error">Synkronointi epäonnistui, yritä myöhemmin uudelleen.</string>
+  <string name="information_subscribe_first_intro">Näyttää siltä, että käytät Uutis syötettä ensimmäistä kertaa. Kerro mistä olet kiinnostunut, niin räätälöimme sinulle uutiset.</string>
+  <string name="inline_picture_deleted">Ladataan puuttuva kuva…</string>
   <string name="input_password_prompt">Syötä salasanasi</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
@@ -489,21 +489,21 @@
   <string name="invalid_recipient_title">Virheellinen vastaanottaja</string>
   <string name="kilobytes">%s Kt</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_from_remote">Search mailbox on server</string>
+  <string name="load_from_remote">Etsi palvelimen postilaatikosta</string>
   <string name="load_more">Lataa lisää</string>
   <string name="loading_conversation">Ladataan…</string>
   <string name="loading_conversations">Ladataan…</string>
-  <string name="loading_from_remote">Searching…</string>
-  <string name="local_search">Local search</string>
-  <string name="local_search_result">%s results in synced messages</string>
-  <string name="login">Sign in</string>
+  <string name="loading_from_remote">Etsitään…</string>
+  <string name="local_search">Paikallinen haku</string>
+  <string name="local_search_result">%s hakutulosta synkronoiduissa viesteissä</string>
+  <string name="login">Kirjaudu sisään</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
   <string name="long_press_to_select_tip">Valitse yksi keskustelu koskettamalla sitä pitkään ja valitse sitten lisää keskusteluja koskettamalla niitä.</string>
-  <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
-  <string name="mail">Mail</string>
-  <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
-  <string name="mail_header_network_not_available">"You don't have a network connection."</string>
+  <string name="long_string">pitkäääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääää</string>
+  <string name="mail">Sähköposti</string>
+  <string name="mail_body_turncated">Tämä sähköposti on liian pitkä näytettäväksi, vain osa siitä näytetään, katso loput viestistä tietokoneella</string>
+  <string name="mail_header_network_not_available">Ei verkkoyhteyttä.</string>
   <string name="mailbox_list_account_selector_combined_view">Yhdistetty näkymä</string>
   <string name="mailbox_name_display_ad">Mainokset &amp; ilmoitukset</string>
   <string name="mailbox_name_display_drafts">Luonnokset</string>
@@ -535,49 +535,49 @@
   <string name="me_object_pronun">me</string>
   <string name="me_subject_pronun">me</string>
   <string name="meeting_accepted">"
-        Accepted:
+        Hyväksytty:
 %s "</string>
   <string name="meeting_allday">"
-        When:
-%s (all day)
+        Milloin:
+%s (koko päivä)
     "</string>
   <string name="meeting_allday_recurring">"
-        When:
-%s (all day, recurring)
+        Milloin:
+%s (koko päivä, toistuva)
     "</string>
   <string name="meeting_canceled">"
-        Canceled:
+        Peruutettu:
 %s "</string>
   <string name="meeting_declined">"
-        Declined:
+        Hylätty:
 %s "</string>
   <string name="meeting_recurring">"
-        When:
-%s (recurring)
+        Milloin:
+%s (toistuva)
     "</string>
   <string name="meeting_tentative">"
-        Tentative:
+        Alustava:
 %s "</string>
   <string name="meeting_updated">"
-        Updated:
+        Päivitetty:
 %s "</string>
   <string name="meeting_when">"
-        When:
+        Milloin:
 %s "</string>
   <string name="meeting_where">"
-        Where:
+        Missä:
 %s "</string>
   <string name="megabytes">%s Mt</string>
-  <string name="menu_att_mgr">Attachments</string>
-  <string name="menu_att_mgr_order_default">Recently viewed</string>
-  <string name="menu_att_mgr_order_mime">Sort by format</string>
-  <string name="menu_att_mgr_order_name">Sort by name</string>
-  <string name="menu_att_mgr_order_rev_date">Sort by date received</string>
-  <string name="menu_att_mgr_order_size">Sort by size</string>
+  <string name="menu_att_mgr">Liitetiedostot</string>
+  <string name="menu_att_mgr_order_default">Viimeksi katsotut</string>
+  <string name="menu_att_mgr_order_mime">Järjestä tyypin mukaan</string>
+  <string name="menu_att_mgr_order_name">Järjestä nimen mukaan</string>
+  <string name="menu_att_mgr_order_rev_date">Järjestä vastaanottopäivämäärän mukaan</string>
+  <string name="menu_att_mgr_order_size">Järjestä koon mukaan</string>
   <string name="menu_change_folders">Vaihda kansiota</string>
   <string name="menu_compose">Kirjoita viesti</string>
   <string name="menu_discovery">Discover</string>
-  <string name="menu_folder_options">Sync options</string>
+  <string name="menu_folder_options">Synkronointivaihtoehdot</string>
   <string name="menu_move_to">Siirrä kansioon</string>
   <string name="menu_move_to_inbox">Siirrä postilaatikkoon</string>
   <string name="menu_photo_save_all">Tallenna kaikki</string>
