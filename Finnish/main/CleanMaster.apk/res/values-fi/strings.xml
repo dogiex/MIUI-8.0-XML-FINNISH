@@ -466,7 +466,7 @@
   <string name="text_optimizer">Lähetä kansioiden nimet</string>
   <string name="there_is_no">Kaikki näyttää hyvältä, tule myöhemmin uudelleen</string>
   <string name="tips_of_app_manage">Poista harvoin käytetyt sovellukset säästääksesi tallennustilaa</string>
-  <string name="tips_of_auto_launch_manage">Estä harvoinkäytettyjen sovelluksien automaattinen käynnistys</string>
+  <string name="tips_of_auto_launch_manage">Estä harvoin käytettyjen sovelluksien automaattinen käynnistys</string>
   <string name="tips_of_cloud_service">Kirjaudu sisään Mi Tililläsi käyttääksesi lisää Mi-palveluita</string>
   <string name="tips_of_connect">Yhdistä internetiin, jotta kaikki Turvallisuusominaisuudet voidaan ottaa käyttöön</string>
   <string name="tips_of_garbage_cloud_scan">Etsi piilotetut roskat pilviskannauksella</string>
