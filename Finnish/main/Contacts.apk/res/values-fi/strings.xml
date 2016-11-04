@@ -490,7 +490,7 @@ Syy: %s"</string>
   <string name="ic_menu_back">Takaisin</string>
   <string name="ic_menu_done">Valmis</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI : "</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">Kelvoton IMEI</string>
   <string name="import_all_sim_entries_miui">Tuo kaikki yhteystiedot</string>
   <string name="import_all_vcard_string">Tuo kaikki vCard tiedostot</string>
@@ -607,7 +607,7 @@ Syy: %s"</string>
   <string name="map_home">Näytä kotiosoite</string>
   <string name="map_other">Näytä osoite</string>
   <string name="map_work">Näytä työosoite</string>
-  <string name="meid">"MEID : "</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">Kelvoton MEID</string>
   <string name="menu_accounts">Tilit</string>
   <string name="menu_addStar">Lisää suosikkeihin</string>
@@ -1259,7 +1259,6 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
-  <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_clear_search_history">Tyhjennä historia</string>
   <string name="yellowpage_navigation_more_items">Lisää</string>
   <string name="yellowpage_navigation_more_items_title">Lisää palveluita</string>
