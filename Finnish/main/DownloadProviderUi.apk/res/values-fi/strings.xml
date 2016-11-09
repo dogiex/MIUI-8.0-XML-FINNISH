@@ -1,20 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
+  <string name="DOWNLOAD_UNIT_BIT">t</string>
+  <string name="DOWNLOAD_UNIT_GB">Gt</string>
+  <string name="DOWNLOAD_UNIT_KB">Kt</string>
+  <string name="DOWNLOAD_UNIT_MB">Mt</string>
+  <string name="DOWNLOAD_UNIT_TB">Tt</string>
   <string name="Only_the_wifi">Käytä vain Wi-Fi:ä</string>
   <string name="about">Tietoa</string>
   <string name="action_settings">Asetukset</string>
   <string name="ad_mark">AD</string>
-  <string name="ad_title">Ihmiset myös lataavat näitä tällä  %1$s </string>
+  <string name="ad_title">Käyttäjät myös lataavat näitä tällä  %1$s </string>
+  <string name="ad_title_other">Käyttäjät, jotka latasivat tämän kuvan, latasivat myös</string>
   <string name="add_flow_fail_haveget_msg">Kokeilujakso on päättynyt.</string>
   <string name="add_flow_fail_vip_msg">Xunlei Latauksen Kiihdyttäjä on päällä</string>
   <string name="add_flow_success_msg">%s lisätty tässä kuussa</string>
   <string name="all_downloads">Kaikki lataukset</string>
   <string name="all_fileter">Kaikki</string>
+  <string name="all_share_files_content">Tiedostot, jotka valitsit on jo poistettu.</string>
   <string name="all_the_internet">Kaikki verkot</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s latausta</string>
@@ -22,7 +24,7 @@
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Tili</string>
   <string name="auth_fail">Lupaa ei saatu</string>
-  <string name="bind_xunlei_account">Lisää Xunlei Tili</string>
+  <string name="bind_xunlei_account">Lisää Xunlei Tili %1$s</string>
   <string name="bt_download">Lataa</string>
   <string name="bt_path_not_exit">Polkua ei ole olemassa</string>
   <string name="bt_restart_dialog_message">Käynnistetäänkö uudelleen kaikki BT kansiossa olevat lataukset?</string>
@@ -61,6 +63,7 @@
   <string name="dialog_insufficient_space_on_cache">Latausta ei voi ladata loppuun. Sisäistä tallennustilaa ei ole tarpeeksi.</string>
   <string name="dialog_insufficient_space_on_external">Latausta ei voi ladata loppuun. Ulkoisella tallennuslaitteella ei ole tarpeeksi tilaa.</string>
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen laite ei ole käytettävissä.</string>
+  <string name="dialog_msg_disabled_net">%1$s estettyä latausta nykyisessä verkossa. Mene Turvallisuus-sovellukseen napauttamalla Verkkoasetuksia.</string>
   <string name="dialog_queued_body">Tämä tiedosto on jonossa tulevaa latausta varten, joten se ei ole vielä saatavilla.</string>
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
@@ -134,6 +137,7 @@
   <string name="experience_xunlei_account_speed">Xunlei jäsenet nauttivat salamannopeasta lataamisesta.</string>
   <string name="expire_notification_msg">Xunlei jäsenyys päättyy pian.</string>
   <string name="expire_today_notification_msg">Xunlei jäsenyys päättyy tänään.</string>
+  <string name="extend">Lisää</string>
   <string name="extract_file">Puretaan tiedostoa…</string>
   <string name="file_exist_hint">Tämä tiedosto on jo olemassa</string>
   <string name="file_picker">Valitse sijainti</string>
@@ -144,6 +148,7 @@
   <string name="get_data_failed">Tietoja ei saatu, yritä myöhemmin uudelleen</string>
   <string name="get_order_dialog_msg">Haetaan tilauksen tietoja…</string>
   <string name="get_order_fail_msg">Tietoja ei saatu</string>
+  <string name="goto_global_search">Etsitään \"%1$s\" verkosta</string>
   <string name="guess_like">Saatat myös tykätä</string>
   <string name="high_speed_channel">Xunlei kiihdyttäjä (ostettu):  </string>
   <string name="high_speed_tryout">Latausnopeus on hidas, ryhdy Xunlei jäseneksi</string>
@@ -153,6 +158,9 @@
   <string name="high_speed_tryout_time">Koeaikaa jäljellä: %1$s. Ryhdy Xunlei jäseneksi.</string>
   <string name="hint">Huomio</string>
   <string name="immediately_a_renewal">Uusi nyt</string>
+  <string name="info_flow_only_load_wifi">Lataa suositellut lähteet Wi-Fi-yhteydellä</string>
+  <string name="info_flow_setting">Asetukset</string>
+  <string name="info_flow_show">Suositellut lähteet</string>
   <string name="input_valid_address">Syötä tiedostopolku</string>
   <string name="install">Asenna</string>
   <string name="install_failed">%1$s asennus epäonnistui</string>
@@ -182,9 +190,16 @@
   <string name="new_add_bt">Lisää torrent-tiedosto</string>
   <string name="no_downloads">Ei latauksia.</string>
   <string name="no_file_hint">Tiedostoa jo ladataan</string>
+  <string name="no_result_for_keyword">\"%1$s\" ei löytynyt</string>
+  <string name="no_share_file">Tiedoston jakaminen epäonnistui</string>
+  <string name="no_share_file_content">Tiedosto, jonka valitsit on jo poistettu</string>
+  <string name="no_share_files">Poistettuja tiedostoja ei voi jakaa</string>
+  <string name="no_share_files_content">Jotkut jakamasi tiedostot on jo poistettu. Jaettiin muut tiedostot onnistuneesti.</string>
   <string name="no_vip_info">Hanki Xunlei jäsenyys nopeuttaaksesi latauksia</string>
   <string name="no_vip_show_info">Nopeuta latauksia kaikilla laitteillasi Xunlein avulla</string>
+  <string name="notify_disabled_net_by_app">Internet pääsy rajattu</string>
   <string name="notify_not_support">Tämän kaltaiset ilmoitukset ei ole tuettu, päivitä nyt</string>
+  <string name="notify_only_wifi_download">Odotetaan Wi-Fi-yhteyttä</string>
   <string name="one_month">1 kuukausi</string>
   <string name="only_support_torrent">Vain torrent-tiedostot on tuettu</string>
   <string name="open">Avaa</string>
@@ -245,6 +260,7 @@
   <string name="revert_default">Palauta oletusasetukset</string>
   <string name="revert_download_path">Käytetäänkö latauksille oletussijaintia?</string>
   <string name="save_path">"Tallenna lataukset: "</string>
+  <string name="save_text">Säästä ￥%1$s</string>
   <string name="search_clear_history_btn">Tyhjennä hakuhistoria</string>
   <string name="search_clear_history_toast">Historia tyhjennetty</string>
   <string name="search_favorite_empty">Lisää lähteitä suosikkeihin</string>
@@ -256,8 +272,11 @@
   <string name="search_history_today">Tänään</string>
   <string name="search_history_year">dd/MM/yyyy</string>
   <string name="search_history_yesterday">Eilen</string>
+  <string name="search_home_download_popup">Takaisin Latauksiin</string>
+  <string name="search_home_vif_show_more">More</string>
   <string name="search_hot_anime">Piirretyt</string>
   <string name="search_hot_movie">Elokuvat</string>
+  <string name="search_hot_recommend">Suositellut</string>
   <string name="search_hot_source">Suositut lähteet</string>
   <string name="search_hot_tv">TV-sarjat</string>
   <string name="search_hot_variety">Viihde</string>
@@ -268,6 +287,8 @@
   <string name="search_nonetwork_prompt">Tarkasta verkkoyhteys ja yritä uudelleen</string>
   <string name="search_nonetwork_refresh">Päivitä</string>
   <string name="search_recommend_empty">Ei kohteita</string>
+  <string name="search_vif_empty">Ei suositeltavia kohteita</string>
+  <string name="search_vif_score_text">Arvosana: %1$s</string>
   <string name="search_website">Nettisivut</string>
   <string name="search_website_more">Lisää</string>
   <string name="select_all">Valitse kaikki</string>
@@ -288,6 +309,7 @@
   <string name="sniff_cannot_use">Linkkiä ei voitu noutaa, napauta URL-osoitetta lataaksesi.</string>
   <string name="sniff_connect_error_page_tips">URL-osoitetta ei voi avata</string>
   <string name="sniff_connect_error_refresh">Päivitä</string>
+  <string name="sniff_copyright_text">Tuloksia ei voi näyttää tekijänoikeuksien takia</string>
   <string name="sniff_download_task_already_exist">Lataus on jo olemassa</string>
   <string name="sniff_download_task_create_success">Lataus lisätty</string>
   <string name="sniff_find_some_prefix">Löydetty</string>
@@ -314,8 +336,13 @@
   <string name="sniff_shortcut_tip2">Löydä lähteitä latauksille Koti-näytöltä.</string>
   <string name="sniff_sniffing_btn_text">Etsitään lähdettä…</string>
   <string name="sniff_terms_agree">Hyväksy</string>
+  <string name="sniff_terms_agree_new">Hyväksy</string>
+  <string name="sniff_terms_check_text">Hyväksy Palveluehdot</string>
   <string name="sniff_terms_msg">Hyväksy \"Käyttöehdot\" käyttääksesi kolmannen osapuolen hakumoottoria.</string>
+  <string name="sniff_terms_msg_a">Tämän hakutoiminnon tarjoaa kolmannen osapuolen kehittäjä. Sinun täytyy hyväksyä Palveluehdot, ennen sen käyttämistä.</string>
+  <string name="sniff_terms_msg_b">Tämän hakutoiminnon tarjoaa kolmannen osapuolen kehittäjä. Sinun täytyy hyväksyä Palveluehdot, ennen sen käyttämistä. Hyväksy painamalla alla olevaa laatikkoa.</string>
   <string name="sniff_terms_msg_bold">Käyttöehdot</string>
+  <string name="sniff_terms_msg_bold_new">Palveluehdot</string>
   <string name="sniff_terms_reject">Hylkää</string>
   <string name="sniff_terms_title">Huomi</string>
   <string name="sniff_text_sniff_next_page">Jatka &gt;</string>
@@ -335,6 +362,8 @@
   <string name="subfile_list">Tiedostot</string>
   <string name="task_detail">Tehtävät</string>
   <string name="task_detail_notfound_confirm">OK</string>
+  <string name="task_fail">Epäonnistui</string>
+  <string name="text_showmore_infoflow">Näytä lisää lähteitä</string>
   <string name="third_web_cancel">Peruuta</string>
   <string name="third_web_confirm">OK</string>
   <string name="third_web_default">Muista tämä sijainti</string>
@@ -342,8 +371,10 @@
   <string name="third_web_filesize">Koko</string>
   <string name="third_web_savepath">Sijainti</string>
   <string name="third_web_title">Lataa</string>
+  <string name="title_homepage_infoflow">Viimeaikaiset päivitykset</string>
   <string name="title_tips">Huomio</string>
   <string name="title_unbind_xunlei">Poista Xunlei Tilisi</string>
+  <string name="toast_only_wifi_download">Yhdistä Wi-Fi-verkkoon ladataksesi tämän kohteen</string>
   <string name="toast_xunlei_engine_open">Xunlei latauksen kiihdyttäjä kytkettiin päälle</string>
   <string name="torrent_file_error">Tätä torrent-tiedostoa ei voitu jäsentää</string>
   <string name="torrent_no_subfile">Ei alitiedostoja tässä torrentissa</string>

@@ -175,6 +175,7 @@
   <string name="empty_title_garbage_white_list">Paina ja pidä lisätäksesi asioita poikkeuksiin</string>
   <string name="empty_title_installed_apps">Tyhjä</string>
   <string name="empty_title_large_files">Tyhjä</string>
+  <string name="empty_title_photos">Kuvia ei löytynyt</string>
   <string name="empty_title_residual">Jälkiä ei löytynyt</string>
   <string name="empty_title_video">Ei poistettavia videoita​</string>
   <string name="flow_rank_title">Datan käyttö</string>

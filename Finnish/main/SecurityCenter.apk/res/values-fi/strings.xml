@@ -509,7 +509,7 @@ or enter App lock password"</string>
   <string name="gateway_exception_summary">Check your router and try again.</string>
   <string name="gateway_exception_summary2">"Can't connect to the server"</string>
   <string name="gateway_exception_title">Test router</string>
-  <string name="gigabyteShort">GB</string>
+  <string name="gigabyteShort">Gt</string>
   <string name="go_to">Proceed</string>
   <string name="go_to_setting_fingerprint">Settings</string>
   <string name="goto_set">Set</string>
@@ -604,10 +604,11 @@ or enter App lock password"</string>
   <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
+  <string name="keywords_powercenter_powerrank">Akun käyttö</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
   <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
-  <string name="kilobyteShort">KB</string>
-  <string name="kilobyte_per_second">K/s</string>
+  <string name="kilobyteShort">Kt</string>
+  <string name="kilobyte_per_second">Kt/s</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="last_check_date_today">"Scanned today "</string>
   <string name="last_check_date_yesterday">"Scanned yesterday "</string>
@@ -709,8 +710,8 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
   <string name="manual_item_white_list_title">Exceptions</string>
   <string name="manual_white_list_header">%d exceptions</string>
-  <string name="megabyteShort">MB</string>
-  <string name="megabyte_per_second">M/s</string>
+  <string name="megabyteShort">Mt</string>
+  <string name="megabyte_per_second">Mt/s</string>
   <string name="memory_check_content">Freed %s</string>
   <string name="memory_check_content_none">Empty</string>
   <string name="menu_item_about_content">Version %s</string>
@@ -835,6 +836,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
+  <string name="old_sdk_deny_warning">"The app isn't compatible with the latest Android permission requirements. Denied permissions may affect the way this app works."</string>
   <string name="open">Open</string>
   <string name="open_app">Open</string>
   <string name="open_browser">Open in browser</string>
@@ -898,6 +900,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_networkassistant_4">System apps/Security/Data usage/Test network</string>
   <string name="path_permcenter">System apps/Security/Permissions</string>
   <string name="path_powercenter">System apps/Security/Battery usage</string>
+  <string name="path_powercenter_powerrank">Battery &amp; performance/Battery use</string>
   <string name="path_securitycenter">System apps/Security</string>
   <string name="path_securitycenter_settings">System apps/Security</string>
   <string name="pay_charge">Purchase additional data</string>
@@ -1169,6 +1172,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="resource_networkassistant_4">Test network</string>
   <string name="resource_permcenter">Permissions</string>
   <string name="resource_powercenter">Battery usage</string>
+  <string name="resource_powercenter_powerrank">Battery &amp; performance</string>
   <string name="resource_securitycenter">Security</string>
   <string name="resource_securitycenter_settings">Security</string>
   <string name="result_autoscan_header">Payment monitoring</string>

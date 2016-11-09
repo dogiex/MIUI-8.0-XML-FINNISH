@@ -37,10 +37,6 @@
         <item>Muu</item>
         <item>Muokattu</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Pikaviestin (koti)</item>
         <item>Työ</item>

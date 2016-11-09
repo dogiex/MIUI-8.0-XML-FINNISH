@@ -36,8 +36,6 @@
   <string name="notification_download_success_more">%1$d ladattu</string>
   <string name="notification_need_wifi_for_size">Lataa Wi-Fi-yhteydellä</string>
   <string name="notification_paused_in_background">Keskeytetty taustalla.</string>
-  <string name="notify_disabled_net_by_app">Turvallisuus-sovellus on rajoittanut internet-yhteyttä</string>
-  <string name="notify_only_wifi_download">Odotetaan Wi-Fi-yhteyttä</string>
   <string name="paused_waiting_for_network">Odotetaan verkkoa</string>
   <string name="permdesc_accessAllDownloads">Antaa sovelluksen tarkastella ja muokata kaikkia minkä tahansa järjestelmän sovelluksen käynnistämiä latauksia.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Antaa sovelluksen ladata tiedostoja latausvälimuistiin, jota ei voi automaattisesti poistaa latauksen hallinnan tarvitessa lisää tilaa.</string>

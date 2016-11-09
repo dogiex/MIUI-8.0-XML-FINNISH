@@ -263,9 +263,9 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="custom_list_filter">Määritä oma näkymä</string>
   <string name="custom_nickname_hint">Syötä lempinimi</string>
   <string name="data_already_used">Tieto on jo käytössä</string>
-  <string name="data_charge">Datan Lataus</string>
+  <string name="data_charge">Top up datan lataus</string>
   <string name="data_left">Dataa jäljellä</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit">Mt</string>
   <string name="date_picker_label">Muistuta minua kolme päivää ennen ja uudelleen sinä päivänä, kun</string>
   <string name="date_time_set">Käytä</string>
   <string name="date_year_toggle">Anna vuosi</string>
@@ -560,7 +560,7 @@ Syy: %s"</string>
   <string name="in_call_show_tap_to_show_demo">Kosketa näyttöä esikatseluun</string>
   <string name="in_call_show_too_short">Liian lyhyt. Yritä nauhoittaa pidempi video.</string>
   <string name="in_call_show_video_pick">Valitse</string>
-  <string name="in_call_show_video_pick_filter">Videon täytyy olla pienempi, kuin 3 MB ja lyhyempi, kuin 20 sekuntia.</string>
+  <string name="in_call_show_video_pick_filter">Videon täytyy olla pienempi, kuin 3 Mt ja lyhyempi, kuin 20 sekuntia.</string>
   <string name="in_call_show_view_play_error">Videon toistaminen epäonnistui</string>
   <string name="insertContactDescription">Luo yhteystieto</string>
   <string name="insertGroupDescription">Luo ryhmä</string>
@@ -1208,7 +1208,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="upgrade_in_progress">Yhteystietoluetteloa päivitetään.</string>
   <string name="upgrade_out_of_memory">"Yhteystietoja päivitetään parasta aikaa. 
 
-Päivitys vie sisäiseltä muistilta noin %s MB tilaa.
+Päivitys vie sisäiseltä muistilta noin %s Mt tilaa.
 
 Valitse seuraavista vaihtoehdoista:"</string>
   <string name="upgrade_out_of_memory_retry">Yritä päivitystä uudelleen</string>
@@ -1259,6 +1259,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
+  <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_clear_search_history">Tyhjennä historia</string>
   <string name="yellowpage_navigation_more_items">Lisää</string>
   <string name="yellowpage_navigation_more_items_title">Lisää palveluita</string>

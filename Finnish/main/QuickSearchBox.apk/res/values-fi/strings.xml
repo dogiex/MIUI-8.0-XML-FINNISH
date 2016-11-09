@@ -23,7 +23,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="corpus_hint_apps">Etsi sovelluksia</string>
   <string name="corpus_label_apps">Sovellukset</string>
   <string name="corpus_label_global">Kaikki</string>
-  <string name="corpus_label_web">Verkko</string>
+  <string name="corpus_label_web">Hae sovelluksia, musiikkia, videoita…</string>
   <string name="corpus_selection_heading">Etsi</string>
   <string name="cta_declaration">Tämä toiminto tarvitsee toimiakseen internet-yhteyden, pääsy laitteen sijaintiin ja nähdä puheluhistorian sekä yhteystiedot.</string>
   <string name="cta_declaration_ignore">Älä näytä uudelleen</string>

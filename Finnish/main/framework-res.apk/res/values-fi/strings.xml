@@ -348,6 +348,7 @@ käyttäen numeroa %s"</string>
   <string name="heavy_weight_notification_detail">Vaihda sovellukseen koskettamalla tätä</string>
   <string name="heavy_weight_switcher_text">Toinen sovellus on jo käynnissä. Sulje kyseinen sovellus, niin voit käynnistää uuden.</string>
   <string name="heavy_weight_switcher_title">Vaihdetaanko sovellusta?</string>
+  <string name="high_definition_tag">%s</string>
   <string name="hour">tunti</string>
   <string name="hour_ampm" formatted="false">%-l %P</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
