@@ -68,6 +68,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+  <string name="cit_battery_check_summary">Laitteen akun statistiikka</string>
+  <string name="cit_battery_check_title">Akun tiedot</string>
   <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
   <string name="cit_battery_temp_pass">Battery temperature is normal</string>
   <string name="cit_batterylight_blue">Blue</string>
@@ -108,6 +110,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_exit_test_title">Exit test</string>
   <string name="cit_fail">Fail</string>
   <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
+  <string name="cit_flash_life_check_summary">Laitteen flash-muistin eliniän odote</string>
+  <string name="cit_flash_life_check_title">Flash-muistin elinikä</string>
   <string name="cit_fm_audio_path">Configure audio path</string>
   <string name="cit_fm_audio_path_headset">Headphones</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>
