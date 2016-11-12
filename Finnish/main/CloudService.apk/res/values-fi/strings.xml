@@ -366,7 +366,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_web_discription_international">Visit www.mi.com/micloud</string>
-  <string name="micloud_website">Mi Cloud items</string>
+  <string name="micloud_website">Mi Pilven tiedostot</string>
+  <string name="micloud_wipe_data_confirm_label">Poista data Mi Pilvestä</string>
+  <string name="micloud_wipe_data_confirm_title">Poistetaanko Mi Pilveen synkronoidut kohteet puhelimesta uloskirjautumisen jälkeen?</string>
+  <string name="micloud_wipe_data_remove">Poista</string>
+  <string name="micloud_wipe_data_retain">Poistu</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Noin 80 RMB vuodessa</string>
@@ -502,7 +506,11 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="view_storage_title">Tallennustila</string>
   <string name="virtual_sim_desc">Turn on Mi SIM to locate device without a SIM card</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
+  <string name="wipe_data_dialog_button_check_sync">Tarkasta synkronointi</string>
+  <string name="wipe_data_dialog_msg">%s ei ole synkronoitu, nämä säilytetään puhelimessa.</string>
+  <string name="wipe_data_dialog_msg_and_on">, ja muita kohteita</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">Joitakin kohteita ei ole synkronoitu</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
   <string name="xmpp_server_addr"/>

@@ -1,206 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Not tracking data usage for %d apps</item>
-        <item quantity="one">Not tracking data usage for %d app</item>
+        <item quantity="other">%d sovelluksen datan käyttöä ei seurata</item>
+        <item quantity="one">%d sovelluksen datan käyttöä ei seurata</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Tracking data usage for %d apps</item>
-        <item quantity="one">Tracking data usage for %d app</item>
+        <item quantity="other">%d sovelluksen datan käyttöä seurataan</item>
+        <item quantity="one">%d sovelluksen datan käyttöä seurataan</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
-        <item quantity="other">Used %d days ago</item>
-        <item quantity="one">Used yesterday</item>
+        <item quantity="other">Käytetty %d päivää sitten</item>
+        <item quantity="one">Käytetty eilen</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Search %d apps</item>
-        <item quantity="one">Search %d app</item>
+        <item quantity="other">Etsi %d sovellusta</item>
+        <item quantity="one">Etsi %d sovellus</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d apps can use data roaming</item>
-        <item quantity="one">%d app can use data roaming</item>
+        <item quantity="other">%d sovellusta voi käyttää data roamingia</item>
+        <item quantity="one">%d sovellus voi käyttää data roamingia</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d apps can't use data roaming"</item>
-        <item quantity="one">"%d app can't use data roaming"</item>
+        <item quantity="other">%d sovellusta ei voi käyttää data roamingia</item>
+        <item quantity="one">%d sovellus ei voi käyttää data roamingia</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
-        <item quantity="other">%d apps found</item>
-        <item quantity="one">%d app found</item>
+        <item quantity="other">%d sovellusta löytyi</item>
+        <item quantity="one">%d sovellus löytyi</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d days "</item>
-        <item quantity="one">"%d day "</item>
+        <item quantity="other">"%d päivää "</item>
+        <item quantity="one">"%d päivä "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d hrs "</item>
-        <item quantity="one">"%d hr "</item>
+        <item quantity="other">"%d t "</item>
+        <item quantity="one">"%d t "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d mins "</item>
+        <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">In %1$d minutes</item>
-        <item quantity="one">In %1$d min</item>
+        <item quantity="other">%1$d minuutin päästä</item>
+        <item quantity="one">%1$d minuutin päästä</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Resolved %d battery issues</item>
-        <item quantity="one">Resolved %d battery issue</item>
+        <item quantity="other">Selvitettiin %d akkuongelmaa</item>
+        <item quantity="one">Selvitettiin %d akkuongelma</item>
     </plurals>
     <plurals name="quick_optimize_issue_found">
-        <item quantity="other">Found %d battery issues</item>
-        <item quantity="one">Found %d battery issue</item>
+        <item quantity="other">Löytyi %d akkuongelmaa</item>
+        <item quantity="one">Löytyi %d akkuongelma</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
-        <item quantity="other">%d battery issues</item>
-        <item quantity="one">%d battery issue</item>
+        <item quantity="other">%d akkuongelmaa</item>
+        <item quantity="one">%d akkuongelma</item>
     </plurals>
     <plurals name="app_check_title_text">
-        <item quantity="other">%d items can be optimized</item>
-        <item quantity="one">%d item can be optimized</item>
+        <item quantity="other">%d kohdetta voidaan optimoida</item>
+        <item quantity="one">%d kohde voidaan optimoida</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Downloaded by %1$d people</item>
+        <item quantity="other">Latauskertoja %1$d</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Downloaded by %1$d people</item>
+        <item quantity="other">Latauskertoja %1$d</item>
     </plurals>
     <plurals name="million">
-        <item quantity="other">Downloaded by %1$d people</item>
+        <item quantity="other">Latauskertoja %1$d</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d views</item>
-        <item quantity="zero">%1$d views</item>
-        <item quantity="one">%1$d views</item>
-        <item quantity="two">%1$d views</item>
-        <item quantity="few">%1$d views</item>
-        <item quantity="many">%1$d views</item>
+        <item quantity="other">%1$d katselukertaa</item>
+        <item quantity="zero">%1$d katselukertaa</item>
+        <item quantity="one">%1$d katselukerta</item>
+        <item quantity="two">%1$d katselukertaa</item>
+        <item quantity="few">%1$d katselukertaa</item>
+        <item quantity="many">%1$d katselukertaa</item>
     </plurals>
     <plurals name="system_check_content">
-        <item quantity="other">%1$d items secure</item>
-        <item quantity="one">%1$d item secure</item>
+        <item quantity="other">%1$d turvallista kohdetta</item>
+        <item quantity="one">%1$d turvallinen kohde</item>
     </plurals>
     <plurals name="cache_check_content">
-        <item quantity="other">Protecting %d apps</item>
-        <item quantity="one">Protecting %d app</item>
+        <item quantity="other">Suojataan %d sovellusta</item>
+        <item quantity="one">Suojataan %d sovellus</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d apps can autostart</item>
-        <item quantity="one">%d app can autostart</item>
+        <item quantity="other">%d sovellusta käynnistyy automaattisesti</item>
+        <item quantity="one">%d sovellus käynnistyy automaattisesti</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">"%d apps aren't allowed to autostart"</item>
-        <item quantity="one">"%d app isn't allowed to autostart"</item>
+        <item quantity="other">%d sovellusta ei käynnisty automaattisesti</item>
+        <item quantity="one">%d sovellus ei käynnisty automaattisesti</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d permissions</item>
-        <item quantity="one">%d permission</item>
+        <item quantity="other">%d käyttöoikeutta</item>
+        <item quantity="one">%d käyttöoikeus</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d sovellusta</item>
+        <item quantity="one">%d sovellus</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d apps have root access</item>
-        <item quantity="one">%d app has root access</item>
+        <item quantity="other">%d sovelluksella on root-oikeus</item>
+        <item quantity="one">%d sovelluksella on root-oikeus</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">"%d apps don't have root access"</item>
-        <item quantity="one">"%d app doesn't have root access"</item>
+        <item quantity="other">%d sovelluksella ei ole root-oikeuksia</item>
+        <item quantity="one">%d sovelluksella ei ole root-oikeuksia</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">Updates available for %d apps.</item>
-        <item quantity="one">Update available for %d app.</item>
+        <item quantity="other">Päivityksiä saatavilla %d sovellukselle.</item>
+        <item quantity="one">Päivitys saatavilla %d sovellukselle.</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="one">%d risk,</item>
+        <item quantity="other">%d riskiä,</item>
+        <item quantity="one">%d riski,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans,</item>
-        <item quantity="one">%d trojan,</item>
+        <item quantity="other">%d troijalaista,</item>
+        <item quantity="one">%d troijalainen,</item>
     </plurals>
     <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d risks</item>
-        <item quantity="one">%d risk</item>
+        <item quantity="other">%d riskiä</item>
+        <item quantity="one">%d riski</item>
     </plurals>
     <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ risks found, fix now</item>
-        <item quantity="one">%d risk found, fix now</item>
+        <item quantity="other">%d​ riskiä löytyi, korjaa nyt</item>
+        <item quantity="one">%d riski löytyi, korjaa nyt</item>
     </plurals>
     <plurals name="notification_apps">
-        <item quantity="other">%d apps contain privacy risks</item>
-        <item quantity="one">%d app contains privacy risks</item>
+        <item quantity="other">%d sovellusta sisältää yksityisyysriskejä</item>
+        <item quantity="one">%d sovellus sisältää yksityisyysriskejä</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Password should contain at least %d letters.</item>
-        <item quantity="one">"Password should contain at least 1 letter. "</item>
+        <item quantity="other">Salasanassa täytyy olla vähintään %d kirjainta.</item>
+        <item quantity="one">"Salasanassa täytyy olla vähintään 1 kirjain. "</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Password should contain at least %d lowercase letters.</item>
-        <item quantity="one">Password should contain at least 1 lowercase letter.</item>
+        <item quantity="other">Salasanassa täytyy olla vähintään %d pientä kirjainta.</item>
+        <item quantity="one">Salasanassa täytyy olla vähintään 1 pieni kirjain.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Password should contain at least %d uppercase letters.</item>
-        <item quantity="one">Password should contain at least 1 uppercase letter.</item>
+        <item quantity="other">Salasanassa täytyy olla vähintään %d isoa kirjainta.</item>
+        <item quantity="one">Salasanassa täytyy olla vähintään 1 iso kirjain.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Password should contain at least %d numbers.</item>
-        <item quantity="one">Password should contain at least 1 number.</item>
+        <item quantity="other">Salasanassa täytyy olla vähintään %d numeroa.</item>
+        <item quantity="one">Salasanassa täytyy olla vähintään 1 numero.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Password should contain at least %d special symbols.</item>
-        <item quantity="one">Password should contain at least 1 special symbol.</item>
+        <item quantity="other">Salasanassa täytyy olla vähintään %d symbolia.</item>
+        <item quantity="one">Salasanassa täytyy olla vähintään 1 symboli.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Password should contain at least %d characters other than letters.</item>
-        <item quantity="one">Password should contain at least 1 character other than letters.</item>
+        <item quantity="other">Salasanassa täytyy olla vähintään %d merkkiä muita kuin kirjaimia.</item>
+        <item quantity="one">Salasanassa täytyy olla vähintään 1 merkki muu kuin kirjain.</item>
     </plurals>
     <plurals name="number_locked">
-        <item quantity="other">%d apps locked</item>
-        <item quantity="one">%d app locked</item>
+        <item quantity="other">%d sovellusta lukittu</item>
+        <item quantity="one">%d sovellus lukittu</item>
     </plurals>
     <plurals name="number_to_lock">
-        <item quantity="other">%d apps not locked</item>
-        <item quantity="one">%d app not locked</item>
+        <item quantity="other">%d sovellusta ei ole lukittu</item>
+        <item quantity="one">%d sovellus ei ole lukittu</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">Search among %d apps</item>
-        <item quantity="one">Search among %d app</item>
+        <item quantity="other">Etsi %d sovelluksesta</item>
+        <item quantity="one">Etsi %d sovelluksesta</item>
     </plurals>
     <plurals name="found_apps_title">
-        <item quantity="other">%d apps found</item>
-        <item quantity="zero">0 app found</item>
-        <item quantity="one">%d app found</item>
+        <item quantity="other">%d sovellusta löydetty</item>
+        <item quantity="zero">0 sovellusta löydetty</item>
+        <item quantity="one">%d sovellus löydetty</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">One item</item>
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">Yksi kohde</item>
     </plurals>
     <plurals name="sp_back_title_text">
-        <item quantity="other">%s payment risks</item>
-        <item quantity="one">%s payment risk</item>
+        <item quantity="other">%s maksuriskiä</item>
+        <item quantity="one">%s maksuriski</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s payment apps are protected</item>
-        <item quantity="one">%s payment app is protected</item>
+        <item quantity="other">%s maksusovellusta on suojattu</item>
+        <item quantity="one">%s maksusovellus on suojattu</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s apps are protected</item>
-        <item quantity="one">%s app is protected</item>
+        <item quantity="other">%s sovellusta on suojattu</item>
+        <item quantity="one">%s sovellus on suojattu</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">"%s apps aren't protected"</item>
-        <item quantity="one">"%s app isn't protected"</item>
+        <item quantity="other">%s sovellusta ei ole suojattu</item>
+        <item quantity="one">%s sovellus ei ole suojattu</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d locked apps wait to be cleared</item>
-        <item quantity="one">%d locked app wait to be cleared</item>
+        <item quantity="other">%d lukittua sovellusta odottaa välimuistin tyhjennystä</item>
+        <item quantity="one">%d lukittu sovellus odottaa välimuistin tyhjennystä</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
-        <item quantity="other">Deleted %d viruses</item>
-        <item quantity="one">Deleted %d virus</item>
+        <item quantity="other">Poistettiin %d virusta</item>
+        <item quantity="one">Poistettiin %d virus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>

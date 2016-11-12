@@ -30,6 +30,7 @@
   <string name="package_delete_confirm_step_3">Et voi enää avata tätä sovellusta poistamisen jälkeen.</string>
   <string name="caller_info_name_delimiter">" tai "</string>
   <string name="cancel_action">Peruuta</string>
+  <string name="configure_input_methods">Valitse näppäimistöt</string>
   <string name="copy">Kopioi</string>
   <string name="cut">Leikkaa</string>
   <string name="default_name">Oletus</string>

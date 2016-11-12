@@ -84,6 +84,8 @@
   <string name="reset">Nollaa</string>
   <string name="revert">Palauta</string>
   <string name="set_alarm">Aseta herätys</string>
+  <string name="setting_alarm_arriving_summary">Lähetä ilmoitus ennen soittamista</string>
+  <string name="setting_alarm_arriving_title">Ilmoitus ennen soittamista</string>
   <string name="settings">Asetukset</string>
   <string name="shutdown_alarm_disable_summary">Herätys ei soi laite sammutettuna</string>
   <string name="shutdown_alarm_enable_summary">Herätys soi laite sammutettuna</string>

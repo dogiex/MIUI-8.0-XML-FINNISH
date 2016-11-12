@@ -127,6 +127,10 @@
         <item quantity="other">%1$d henkilöä</item>
         <item quantity="one">%1$d henkilö</item>
     </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Minuuttia</item>
+        <item quantity="one">Minuutti</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Soinut %d kertaa</item>
         <item quantity="one">Soi %d kerran</item>

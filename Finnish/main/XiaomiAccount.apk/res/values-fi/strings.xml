@@ -357,7 +357,6 @@ Make sure you remember the answers to these questions."</string>
   <string name="success">Done</string>
   <string name="trying_read_verify_code_sms">Getting verification code…</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
-  <string name="turning_off_find_device">Turning off Find device…</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
   <string name="unbind_weibo_description">"After you disconnect this account, you won't be able to sync your contacts from Weibo or use your Sina Weibo Account to sign in."</string>
   <string name="update_contacts">Update address book</string>

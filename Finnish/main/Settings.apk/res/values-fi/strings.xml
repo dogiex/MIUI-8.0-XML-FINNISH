@@ -1592,8 +1592,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
 	<string name="ims_reg_required_off">IMS-rekisteröinnin poistaminen käytöstä vaaditaan</string>
 	<string name="ims_reg_required_on">IMS-rekisteröinnin käyttöönotto vaaditaan</string>
 	<string name="inactive_app_active_summary">Aktiivinen. Ota käyttöön tai poista käytöstä koskettamalla.</string>
-	<string name="inactive_app_inactive_summary">Epäaktiivinen. Ota käyttöön tai poista käytöstä koskettamalla.</string>
-	<string name="inactive_apps_title">Epäaktiiviset sovellukset</string>
+	<string name="inactive_app_inactive_summary">Ei aktiivinen. Ota käyttöön tai poista käytöstä koskettamalla.</string>
+	<string name="inactive_apps_title">Ei aktiiviset sovellukset</string>
 	<string name="include_app_data_title">Sisällytä sovellustiedot</string>
 	<string name="incoming_call_breathing_light_color_title">Puheluiden ilmoitusvalon väri</string>
 	<string name="incoming_call_breathing_light_freq_title">Puheluiden ilmoitusvalon vilkkumistiheys</string>
@@ -2400,6 +2400,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="path_brightness_settings">Asetukset/Näyttö/Kirkkaustaso</string>
 	<string name="path_button_light_timeout">Asetukset/Lisäasetukset/Painikkeet/Pidä painikkeiden valo päällä</string>
 	<string name="path_calendar_sound_title">Asetukset/Ääni &amp; värinä/Kalenterin oletusääni</string>
+	<string name="path_camera_key_action_shortcut_screenshot">Asetukset/Lisäasetukset/Kuvakaappaus</string>
 	<string name="path_children_mode_settings">Asetukset/Lisäasetukset/Lapsi-tila</string>
 	<string name="path_choose_timezone">Asetukset/Lisäasetukset/Päivämäärä &amp; aika/Valitse aikavyöhyke</string>
 	<string name="path_cloud_backup_settings_section_title">Asetukset/Lisäasetukset/Varmuuskopiointi &amp; nollaus/Varmuuskopioi asetukset</string>
@@ -2422,6 +2423,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="path_do_not_disturb_settings">Asetukset/Älä Häiritse</string>
 	<string name="path_dtmf_tone_enable_title">Asetukset/Ääni &amp; värinä/Valintanäppäimien näppäinäänet</string>
 	<string name="path_edge_handgrip">Asetukset/Reunasäätimet</string>
+	<string name="path_enable_adb">Asetukset/Lisäasetukset/Kehittäjäasetukset/USB-vianetsintä</string>
 	<string name="path_equalizer">Asetukset/Ääni &amp; värinä/Ääniasetukset/Taajuuskorjain</string>
 	<string name="path_fluency_mode">Asetukset/Akku/Järjestelmän animaatiot</string>
 	<string name="path_font_settings">Asetukset/Näyttö/Järjestelmän fontti</string>
@@ -2461,6 +2463,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="path_other_advanced_settings">Asetukset/Lisäasetukset</string>
 	<string name="path_owner_info_settings">Asetukset/Lukitusruutu &amp; salasana/Lukitusnäytön teksti</string>
 	<string name="path_page_layout_settings">Asetukset/Näyttö/Tekstin koko</string>
+	<string name="path_permission_settings_title">Asetukset/Käyttöoikeudet/Sovelluksen käyttöoikeudet</string>
 	<string name="path_pointer_speed">Asetukset/Lisäasetukset/Kieli &amp; syöttötapa/Osoittimen nopeus</string>
 	<string name="path_power_checker">Asetukset/Additional/Beta features/Power Checker</string>
 	<string name="path_power_hide_mode_title">Asetukset/Akku/Hallitse sovelluksien akunkäyttöä</string>
@@ -3080,6 +3083,7 @@ Näytön kiinnityksen käyttö:
 	<string name="search_brightness">Kirkkaus</string>
 	<string name="search_button_light_timeout">Keep button lights on</string>
 	<string name="search_calendar_sound_title">Kalenterin oletusääni</string>
+	<string name="search_camera_key_action_shortcut_screenshot">Kuvakaappaus</string>
 	<string name="search_children_mode_settings">Lapsi-tila;Lock sms</string>
 	<string name="search_children_mode_title">Lapsi-tila</string>
 	<string name="search_choose_timezone">Choose time zone</string>
@@ -3089,7 +3093,7 @@ Näytön kiinnityksen käyttö:
 	<string name="search_credentials_install">Install from storage</string>
 	<string name="search_date_time">Date &amp; time</string>
 	<string name="search_description">Search settings</string>
-	<string name="search_development_settings">Developer options</string>
+	<string name="search_development_settings">Kehittäjäasetukset;Apuri</string>
 	<string name="search_device_name">Laitteen nimi</string>
 	<string name="search_device_status">Status</string>
 	<string name="search_display">Display;Brightness;Colors saturation;Glove mode;Screensaver;Auto_rotate screen</string>
@@ -3104,6 +3108,7 @@ Näytön kiinnityksen käyttö:
 	<string name="search_dtmf_tone_enable_title">Dial pad touch tones</string>
 	<string name="search_edge_handgrip">Reunasäätimet</string>
 	<string name="search_empty">Sorry, not found related settings</string>
+	<string name="search_enable_adb">USB-vianetsintä</string>
 	<string name="search_equalizer">Taajuuskorjain</string>
 	<string name="search_fluency_mode">System animations</string>
 	<string name="search_font">Järjestelmän fontti</string>
@@ -3145,6 +3150,7 @@ Näytön kiinnityksen käyttö:
 	<string name="search_other_advanced_settings">Additional settings;Privacy settings;Date&amp;time;Language &amp; input;Yhden käden-tila;Battery &amp; performance;Storage;Ilmoituksen valo;Led;Kuulokkeet &amp; äänitehosteet;Buttons;Keys;Accessibility;Beta features;Lab functions;Developer options;Backup &amp; reset;Transfer;One key migrate</string>
 	<string name="search_owner_info_settings">Lukitusnäytön teksti</string>
 	<string name="search_page_layout_settings">Tekstin koko</string>
+	<string name="search_permission_settings_title">Sovelluksen käyttöoikeudet</string>
 	<string name="search_pointer_speed">Osoittimen nopeus</string>
 	<string name="search_power_checker">Power Checker</string>
 	<string name="search_power_hide_mode_title">Hallitse sovelluksien akunkäyttöä</string>
