@@ -133,7 +133,6 @@
   <string name="status_bar_toggle_vibrate">Värinä</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="subinfo_default_name">SIM-kortti %d</string>
   <string name="translation_more">Lisää</string>
   <string name="translation_query_error">Tuloksia ei löytynyt</string>
   <string name="translation_query_error_network">Verkkoon ei saada yhteyttä. Tarkasta asetukset ja yritä uudelleen</string>
