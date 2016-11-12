@@ -106,7 +106,6 @@
   <string name="navigation_network_location_not_enabled_title">请开启网络定位</string>
   <string name="navigation_search_automatically_positioned_city">自动定位城市</string>
   <string name="navigation_search_current_city">当前城市:</string>
-  <string name="navigation_search_default_hint">搜索你想找的内容，比如小米网</string>
   <string name="navigation_search_no_city_list">没有城市列表</string>
   <string name="navigation_search_positioning">正在定位…</string>
   <string name="navigation_search_positioning_failed">定位失败，您可直接选择城市</string>
