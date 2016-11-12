@@ -281,6 +281,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
 	<string name="apply_now_button_text">Päivitä</string>
 	<string name="apply_password_to_category_title">Vaadi lukituksen poisto</string>
 	<string name="apply_update_fail">Päivitys epäonnistui</string>
+	<string name="approve_title">Varmentaminen</string>
 	<string name="apps_storage">Sovellusten tallennustila</string>
 	<string name="apps_with_restrictions_header">Rajoitetut sovellukset</string>
 	<string name="apps_with_restrictions_settings_button">Laajenna sovelluksen asetuksia</string>

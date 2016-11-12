@@ -1284,7 +1284,14 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
-  <string name="sp_back_title_text_zero">Secure</string>
+  <string name="sp_back_title_text_zero">Turvallinen</string>
+  <string name="sp_background_risk_dialog_summary">, ole hyvä ja tee tarkistus ja korjaa maksuihin kohdistuvat riskit</string>
+  <string name="sp_background_risk_dialog_title">Vaarallinen</string>
+  <string name="sp_background_risk_type_messaging">Järjestelmän viestisovellus on korvattu</string>
+  <string name="sp_background_risk_type_root">Järjestelmä on rootattu</string>
+  <string name="sp_background_risk_type_sign">Epävirallinen sovellus on käynnissä</string>
+  <string name="sp_background_risk_type_virus">Virustorjuntasovellus on käynnissä</string>
+  <string name="sp_background_risk_type_wifi">Yhdistetty Wi-Fi-yhteys on vaarallinen</string>
   <string name="sp_button_text_ignore_alert_title">Ignore this check item ?</string>
   <string name="sp_empty_title_sign_exception">Lone click the app item in result page to add exceptions</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>

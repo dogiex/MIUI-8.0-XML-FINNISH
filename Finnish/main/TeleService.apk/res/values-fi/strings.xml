@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Result_title">Result</string>
+  <string name="Result_title">Tulos</string>
   <string name="accessibility_settings_activity_title">Esteettömyys</string>
-  <string name="account_changed_title">Account Changed</string>
+  <string name="account_changed_title">Tili Vaihtunut</string>
   <string name="active_phone_sim_absent">Insert SIM card now</string>
-  <string name="add">Add</string>
-  <string name="addSimEntries">Add SIM contact</string>
+  <string name="add">Lisää</string>
+  <string name="addSimEntries">Lisää SIM yhteystieto</string>
   <string name="add_fdn_contact">Lisää sallittu numero</string>
   <string name="add_sip_account">Lisää tili</string>
   <string name="add_vm_number_str">Lisää numero</string>
@@ -26,7 +26,7 @@
   <string name="alert_dialog_no">Ei</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Kyllä</string>
-  <string name="alertdialogtitle">Results</string>
+  <string name="alertdialogtitle">Tulokset</string>
   <string name="allContactdeleteFailed">"Couldn't delete all contacts from SIM"</string>
   <string name="allContactdeleteSuccess">Succesfully deleted all contacts from SIM</string>
   <string name="all_day">All day</string>
@@ -83,6 +83,7 @@
   <string name="autoip_prefix_summary">"Carrier's IP prefix is %s"</string>
   <string name="autoip_setting">Automatic IP settings</string>
   <string name="autoip_summary">Add an IP prefix for international numbers</string>
+  <string name="autoip_summary_more">, %d yhteensä</string>
   <string name="autoip_support_local_numbers">Always use IP prefix</string>
   <string name="back">Back</string>
   <string name="badPin">Annoit väärän vanhan PIN-koodin. Yritä uudelleen.</string>
@@ -173,7 +174,7 @@
   <string name="call_forwarding_number_hint">Forward calls to</string>
   <string name="call_forwarding_settings">Soitonsiirtoasetukset</string>
   <string name="call_forwarding_settings_with_label">Soitonsiirtoasetukset (%s)</string>
-  <string name="call_log">Call Log</string>
+  <string name="call_log">Puheluloki</string>
   <string name="call_record_add_numbers">Add numbers</string>
   <string name="call_record_auto_always">All numbers</string>
   <string name="call_record_auto_scenario_title">Record calls from</string>
@@ -289,6 +290,7 @@
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">false</string>
   <string name="config_world_mode"/>
+  <string name="confirm">Vahvista</string>
   <string name="confirmPin2Label">Vahvista uusi PIN2-koodi</string>
   <string name="confirmPinLabel">Vahvista uusi PIN-koodi</string>
   <string name="confirm_password_label">Confirm new password</string>
@@ -348,9 +350,11 @@
   <string name="dial_emergency_error">Puhelua ei voi soittaa. %s ei ole hätänumero.</string>
   <string name="dial_related_setting_catory">Dialer</string>
   <string name="dialerKeyboardHintText">Valitse numero näppäimistöstä</string>
-  <string name="dialog_network_priority_title">Priority network</string>
-  <string name="dialog_no">No</string>
-  <string name="dialog_yes">Yes</string>
+  <string name="dialog_activate_livetalk">Tarkista numero</string>
+  <string name="dialog_call_ordinary_telephone">Normaali puhelu (%ds)</string>
+  <string name="dialog_network_priority_title">Verkon prioriteetti</string>
+  <string name="dialog_no">Ei</string>
+  <string name="dialog_yes">Kyllä</string>
   <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_1_labels"/>
@@ -388,7 +392,6 @@
   <string name="disable_sim_pin">Tyhjennä SIM-kortin PIN-koodi</string>
   <string name="display_name_summary">&lt;Sama kuin käyttäjänimi&gt;</string>
   <string name="display_name_title">Näyttönimi</string>
-  <string name="do_not_ask">"Don't ask again"</string>
   <string name="domain_address_title">Palvelin</string>
   <string name="domestic_calls">Only domestic</string>
   <string name="doneButton">Valmis</string>
@@ -415,7 +418,7 @@
   <string name="enable">Ota käyttöön</string>
   <string name="enable_antispam_strange_summary">Mute the first ring for calls from unknown numbers</string>
   <string name="enable_antispam_strange_title">Mute first ring</string>
-  <string name="enable_button_text">Next</string>
+  <string name="enable_button_text">Seuraava</string>
   <string name="enable_disable_administrative">Järjestelmänhallinta</string>
   <string name="enable_disable_advertisements">Mainokset</string>
   <string name="enable_disable_atr">Alueen liikenneraportit</string>
@@ -496,7 +499,8 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="fw_get_in_vm_failed">"Nykyisten soitonsiirtonumeroasetuksien noutaminen ja tallentaminen epäonnistui.
 Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="general_news_settings">Yleiset uutiset</string>
-  <string name="general_setting">Settings</string>
+  <string name="general_remove">Poista</string>
+  <string name="general_setting">Asetukset</string>
   <string name="get_pin2">Anna PIN2-koodi</string>
   <string name="get_product_list_failed">"Can't load list"</string>
   <string name="get_purchase_history_failed">"Couldn't get purchase history"</string>
@@ -543,8 +547,8 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="incall_status_dialed_mmi">Aloitetaan MMI-koodisekvenssiä...</string>
   <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
   <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
-  <string name="input_password">Enter password</string>
-  <string name="internation_remain_minutes">（or %1$s %2$s international talk time）</string>
+  <string name="input_password">Syötä salasana</string>
+  <string name="internation_remain_minutes">（tai %1$s %2$s kansainvälistä puheaikaa)</string>
   <string name="international_calls">Only international</string>
   <string name="international_dial_complete_intention">Make international calls at lower rates</string>
   <string name="international_dial_complete_no">Not now</string>
@@ -576,6 +580,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Data plan settings</string>
   <string name="ivr_type_settings_hint">Enter your data plan code</string>
+  <string name="keep_wait_call_back">Jää odottamaan</string>
   <string name="labelCDMAMore">CDMA-puheluasetukset</string>
   <string name="labelCF">Soitonsiirto</string>
   <string name="labelCFB">Kun olen varattu</string>
@@ -621,12 +626,12 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
   <string name="livetalk_common_problem">FAQ</string>
   <string name="livetalk_enable_switch">Use Top-up package</string>
-  <string name="livetalk_manual">Operation Manual</string>
+  <string name="livetalk_manual">Manuaali</string>
   <string name="livetalk_name">Top-up package</string>
-  <string name="livetalk_package_introduction_text">Cheap calls to any phone</string>
+  <string name="livetalk_package_introduction_text">Halpoja puheluita mihin tahansa puhelimeen</string>
   <string name="livetalk_provider">Provided by %1$s</string>
   <string name="livetalk_provision">Terms of Service</string>
-  <string name="livetalk_provision_content">You need to agree with %1$s, connecting to the internet and a SMS may be sent to activate the service.</string>
+  <string name="livetalk_provision_content">Sinun täytyy hyväksyä tämä %1$s, yhteys internetiin ja tekstiviestin lähettäminen saatetaan tarvita tämän palvelun aktivoimiseksi.</string>
   <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_setting">Top-up package</string>
   <string name="livetalk_white_list_number_title">White list of without use Top-up package</string>
@@ -647,6 +652,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="managed_roaming_title">Managed Roaming</string>
   <string name="managed_roaming_title_sub">Managed Roaming (SUB%d)</string>
   <string name="menu_add">Lisää yhteystieto</string>
+  <string name="menu_add_numbers">Lisää numero</string>
   <string name="menu_delete">Poista yhteystieto</string>
   <string name="menu_edit">Muokkaa yhteystietoa</string>
   <string name="messageCFB">Soita, kun numero on varattu:</string>
@@ -748,7 +754,7 @@ Using preferred network instead."</string>
   <string name="no_data">No data</string>
   <string name="no_internet_available">Jos haluat soittaa SIP-puhelun, tarkista ensin internetyhteytesi.</string>
   <string name="no_more">No more</string>
-  <string name="no_sim_card">Insert SIM card</string>
+  <string name="no_sim_card">Ei SIM-korttia</string>
   <string name="no_vm_number">Puhelinvastaajan numero puuttuu</string>
   <string name="no_vm_number_msg">SIM-kortille ei ole tallennettu puhelinvastaajan numeroa.</string>
   <string name="no_voip">SIP-puheluita ei tueta</string>
@@ -797,9 +803,9 @@ Using preferred network instead."</string>
   <string name="operator_mins_first">"Give priority to carrier's plan"</string>
   <string name="operator_remain_mins">Operator package minutes</string>
   <string name="optional_summary">&lt;Valinnainen&gt;</string>
-  <string name="order_error_network">Loading failed, network unavailable.</string>
-  <string name="order_error_retry">Retry</string>
-  <string name="order_error_unknown">Loading failed, unknown error.</string>
+  <string name="order_error_network">Lataaminen epäonnistui, verkkoa ei saatavilla.</string>
+  <string name="order_error_retry">Yritä uudelleen</string>
+  <string name="order_error_unknown">Lataaminen epäonnistui, tuntematon virhe.</string>
   <string name="order_id">Order ID: %1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_time">%1$s min</string>
@@ -911,7 +917,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
   <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
-  <string name="please_connect_network_message">Please conntect network</string>
+  <string name="please_connect_network_message">Yhdistä verkkoon</string>
   <string name="please_connect_network_title">Ei verkkoa</string>
   <string name="please_login_mi_accout">Kirjaudu</string>
   <string name="port_title">Porttinumero</string>
@@ -998,6 +1004,11 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_networks"/>
   <string name="private_num">Salainen numero</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
+  <string name="propmpt_dialog_do_not_ask">Älä näytä uudelleen</string>
+  <string name="propmpt_dialog_network_failed_title">Puhelun aikakatkaisu</string>
+  <string name="propmpt_dialog_no_call_back_content">Yhdistäminen kestää liian kauan. Vaihdetaan normaaliin puheluun. Operaattorisi saattaa veloittaa tästä.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Todenna puhelinnumerosi aloittaaksesi Top-up paketin käyttämisen. Voit silti soittaa normaaleja puheluita, joista operaattorisi saattaa veloittaa.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">Puhelinnumero ei ole todennettu</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Lähettävän välityspalvelimen osoite</string>
   <string name="pstn_connection_service_label">Sisäiset SIM-kortit</string>
@@ -1016,9 +1027,9 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
   <string name="puk_unlocked">SIM-korttisi esto on purettu. Puhelimen lukitusta poistetaan...</string>
   <string name="purchase_limit">You reached the top up limit</string>
-  <string name="purchase_summary">Save up to 70%</string>
-  <string name="purchase_title">Purchase</string>
-  <string name="quickly_verify">Verify</string>
+  <string name="purchase_summary">Säästä jopa 70%</string>
+  <string name="purchase_title">Osta</string>
+  <string name="quickly_verify">Todenna</string>
   <string name="radio_off_error">Käynnistä radio ennen näiden asetuksien tarkastelua.</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
   <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>
@@ -1044,8 +1055,8 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="reject_via_sms_title">Nopeat vastaukset</string>
   <string name="remain_mins_unit">minuutti</string>
   <string name="remain_mins_unit_plural">minuuttia</string>
-  <string name="remain_minutes">Talk Time</string>
-  <string name="remain_minutes_summary">Different countries, different fee;Subject to the final bill call recording.</string>
+  <string name="remain_minutes">Puheaika</string>
+  <string name="remain_minutes_summary">Eri maat, eri maksu;Subject to the final bill call recording.</string>
   <string name="remove">Poista</string>
   <string name="remove_sip_account">Poista tili</string>
   <string name="removing_account">Tiliä poistetaan…</string>
@@ -1256,7 +1267,8 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="tty_mode_option_title">TTY-tila</string>
   <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ringer</string>
   <string name="turnover_mute_title">Flip to silence ringer</string>
-  <string name="undefined">None</string>
+  <string name="undefined">Ei mitään</string>
+  <string name="undefined_setting">Ei mitään</string>
   <string name="unknown">Tuntematon</string>
   <string name="unlock_failed">Verkon lukituksen poistopyyntö epäonnistui.</string>
   <string name="unlock_success">Verkon lukituksen poisto onnistui.</string>
@@ -1266,16 +1278,17 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">New PLMN</string>
   <string name="uplmn_list_setting_title">Preferred networks</string>
   <string name="uplmn_numeric_is_empty">Enter a network ID</string>
-  <string name="use_current_account_creat_livetalk">Next</string>
-  <string name="use_current_account_creat_livetalk_info">You can use Top-up package access by Mi Account: %1$s</string>
+  <string name="use_current_account_creat_livetalk">Seuraava</string>
+  <string name="use_current_account_creat_livetalk_info">Voit käyttää Top-up pakettiin pääsyä Mi Tilillä: %1$s</string>
   <string name="use_history">Activity</string>
   <string name="use_history_duration_min">%1$s mins</string>
   <string name="use_range">Range</string>
   <string name="username_title">Käyttäjätunnus</string>
   <string name="ussdRunning">USSD-koodi käytössä...</string>
   <string name="ussd_dialog_sep">----------</string>
-  <string name="verified">Verified</string>
-  <string name="verifying">Verifying…</string>
+  <string name="verified">Todennettu</string>
+  <string name="verify_failed">Todennusvirhe</string>
+  <string name="verifying">Todennetaan…</string>
   <string name="vibrate_after_connected_summary">Vibrate when answers</string>
   <string name="vibrate_after_connected_title">Vibrating after connected</string>
   <string name="vm_change_failed">"Vastaajapalvelun numeron vaihtaminen epäonnistui.

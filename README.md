@@ -71,6 +71,7 @@ Let's translate together!
 - framework-res.apk
 - framework-ext-res.apk
 - FusedLocation.apk
+- GameBoosterLauncher.apk
 - HTMLViewer.apk
 - InCallUi.apk
 - InputDevices.apk

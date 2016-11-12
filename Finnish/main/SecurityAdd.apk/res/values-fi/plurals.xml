@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="install_game_count_title">
-        <item quantity="other">Lisättiin %d peliä</item>
-        <item quantity="one">Lisättiin %d peli</item>
+        <item quantity="other">Otettu käyttöön %d peliä</item>
+        <item quantity="one">Otettu käyttöön %d peli</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">Poistettiin %d peliä</item>
-        <item quantity="one">Poistettiin %d peli</item>
+        <item quantity="other">%d sovellusta poistettu käytöstä</item>
+        <item quantity="one">%d sovellusta poistettu käytöstä</item>
     </plurals>
 </resources>

@@ -14,12 +14,12 @@
   <string name="close">Sulje</string>
   <string name="dont_bore">Älä anna painikkeiden ja ilmoitusten häiritä sinua</string>
   <string name="empty">" "</string>
-  <string name="game_booster">Pelien nopeuttaja</string>
+  <string name="game_booster">Pelien Nopeuttaja</string>
   <string name="game_booster_intro">Tietoa Pelien nopeuttajasta</string>
   <string name="game_booster_total">Suorituskykyä nopeutettiin %1$s kertaisesti, lisättiin pelaamisen aikaa: %2$s</string>
   <string name="game_more_improve">Rajoita sovelluksien taustatyöskentelyä ja latausnopeutta säästääksesi akkua ja kaistanleveyttä pelaamista varten</string>
   <string name="game_setting">Peliasetukset</string>
-  <string name="gs_app_back_self_start">Akun säästäjä</string>
+  <string name="gs_app_back_self_start">Akun Säästäjä</string>
   <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Kotiruudultasi. Voit palauttaa asetuksen menemällä Turvallisuus &gt; Asetukset.</string>
   <string name="gs_dialog_confirm_close_title">Pois päältä</string>
   <string name="gs_game_duration">Aika</string>
@@ -75,6 +75,6 @@
   <string name="start_game">Aloita</string>
   <string name="support_game_booster_tips">Nopeuta suorituskykyä &amp; paranna pelaamisen kokemusta</string>
   <string name="title_share_link">Jaa URL-osoite</string>
-  <string name="uninstall_game_count">Poistettiin %d peliä</string>
+  <string name="uninstall_game_count">%d sovellusta poistettu käytöstä</string>
   <string name="usage_sorted_loading_text">Pieni hetki…</string>
 </resources>

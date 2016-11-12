@@ -19,7 +19,7 @@
   <string name="abc_shareactionprovider_share_with">Jaa</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksella %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
-  <string name="app_name">Game Booster</string>
+  <string name="app_name">Pelien Nopeuttaja</string>
   <string name="search_menu_title">Etsi</string>
   <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
