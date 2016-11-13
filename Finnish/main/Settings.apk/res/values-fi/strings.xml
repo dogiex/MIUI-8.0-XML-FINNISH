@@ -702,7 +702,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 	<string name="call_manager_enable_title">Ota Puheluiden Hallinta käyttöön</string>
 	<string name="call_manager_summary">%1$s</string>
 	<string name="call_manager_title">Puheluiden Hallinta</string>
-	<string name="call_settings_primary_user_only">Muuta puheluasetuksia First Space-tilassa</string>
+	<string name="call_settings_primary_user_only">Muuta puheluasetuksia Ensimmäisessä tilassa</string>
 	<string name="call_settings_summary">Ota käyttöön puhelinvastaaja, soitonsiirrot, koputuspalvelu, soittajan tunnus</string>
 	<string name="call_settings_title">Puheluasetukset</string>
 	<string name="calls_title">Puhelut</string>
@@ -1387,8 +1387,8 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
 	<string name="fingerprint_last_delete_message">Et voi käyttää sormenjälkeäsi puhelimen avaamiseen, ostosten valtuuttamiseen tai sovelluksiin kirjautumiseen.</string>
 	<string name="fingerprint_last_delete_title">Poistetaanko kaikki sormenjäljet?</string>
 	<string name="fingerprint_list_title">Sormenjälki</string>
-	<string name="fingerprint_lock_first">Avaa First space lukitus</string>
-	<string name="fingerprint_lock_second">Avaa Second space lukitus</string>
+	<string name="fingerprint_lock_first">Avaa Ensimmäisen tilan lukitus</string>
+	<string name="fingerprint_lock_second">Avaa Toisen tilan lukitus</string>
 	<string name="fingerprint_manage_category_title">Sormenjälkien hallinta</string>
 	<string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasana.</string>
 	<string name="fingerprint_not_recognized">Ei tunnistettu</string>
@@ -1847,16 +1847,16 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
 	<string name="lock_setup">Asennus on valmis.</string>
 	<string name="lock_sounds_enable_title">Näytön lukitus -ääni</string>
 	<string name="lockpassword_cancel_label">Peruuta</string>
-	<string name="lockpassword_choose_for_second_user">Aseta Second space salasana</string>
+	<string name="lockpassword_choose_for_second_user">Aseta Toisen tilan salasana</string>
 	<string name="lockpassword_choose_lock_generic_header">Poista lukitus valinnasta</string>
 	<string name="lockpassword_choose_your_password_header">Valitse salasana</string>
 	<string name="lockpassword_choose_your_password_second_space">"Aseta salasana 
- Second space -toiminnolle"</string>
+ Toinen tila -toiminnolle"</string>
 	<string name="lockpassword_choose_your_pattern_header">Valitse kuvio</string>
 	<string name="lockpassword_choose_your_pin_header">Valitse PIN-koodi</string>
 	<string name="lockpassword_choose_your_pin_header_second_space">"Aseta PIN-koodi 
- Second space -toiminnolle"</string>
-	<string name="lockpassword_confirm_for_second_user">Vahvista Second space salasana</string>
+ Toinen tila -toiminnolle"</string>
+	<string name="lockpassword_confirm_for_second_user">Vahvista Toisen tilan salasana</string>
 	<string name="lockpassword_confirm_passwords_dont_match">Salasanat eivät täsmää</string>
 	<string name="lockpassword_confirm_pins_dont_match">PIN-koodit eivät täsmää</string>
 	<string name="lockpassword_confirm_your_lock_password_header">Vahvista salasanasi</string>
@@ -1898,13 +1898,13 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
 	<string name="lockpattern_need_to_unlock_wrong">Väärä kuvio</string>
 	<string name="lockpattern_pattern_confirmed_header">Uusi lukituksenpoistokuvio</string>
 	<string name="lockpattern_pattern_entered_header">Kuvio tallennettu</string>
-	<string name="lockpattern_pattern_same_with_owner">Pitää olla eri, kuin First space salasana</string>
-	<string name="lockpattern_pattern_same_with_security_space">Pitää olla eri, kuin Second space salasana</string>
+	<string name="lockpattern_pattern_same_with_owner">Pitää olla eri, kuin Ensimmäisen tilan salasana</string>
+	<string name="lockpattern_pattern_same_with_security_space">Pitää olla eri, kuin Toisen tilan salasana</string>
 	<string name="lockpattern_recording_incorrect_too_short">Yhdistä vähintään %d pistettä. Yritä uudelleen.</string>
 	<string name="lockpattern_recording_inprogress">Nosta sormi, kun olet valmis</string>
 	<string name="lockpattern_recording_intro_footer">Saat ohjeita painamalla Valikko-painiketta.</string>
 	<string name="lockpattern_recording_intro_header">Piirrä lukituksenpoistokuvio</string>
-	<string name="lockpattern_recording_intro_header_second_space">Piirrä lukituksenpoistokuvio Second space -toiminnolle:</string>
+	<string name="lockpattern_recording_intro_header_second_space">Piirrä lukituksenpoistokuvio Toinen tila -toiminnolle:</string>
 	<string name="lockpattern_restart_button_text">Piirrä uudelleen</string>
 	<string name="lockpattern_retry_button_text">Tyhjennä</string>
 	<string name="lockpattern_settings_change_lock_pattern">Vaihda lukituksenpoistokuvio.</string>
@@ -2483,7 +2483,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="path_screen_paper_mode">Asetukset/Näyttö/Reading mode</string>
 	<string name="path_screen_saver_settings">Asetukset/Näyttö/Screensaver</string>
 	<string name="path_screen_timeout_settings">Asetukset/Lock Screen/Sleep</string>
-	<string name="path_second_space">Asetukset/Second Space</string>
+	<string name="path_second_space">Asetukset/Toinen tila</string>
 	<string name="path_security_encryption_title">Asetukset/Lisäasetukset/Yksityisyys/Encrypt device using lock screen password</string>
 	<string name="path_security_passwords_title">Asetukset/Lukitusruutu &amp; salasana/Password</string>
 	<string name="path_security_settings">Asetukset/Lisäasetukset/Privacy</string>
@@ -2693,7 +2693,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="privacy_mode_enable_title">Vieras-tila</string>
 	<string name="privacy_notes">Muistiinpanot</string>
 	<string name="privacy_password">Yksityisyydensuojan salasana</string>
-	<string name="privacy_password_confirm_SecondSpace_Password">Vahvista Second space salasana</string>
+	<string name="privacy_password_confirm_SecondSpace_Password">Vahvista Toisen tilan salasana</string>
 	<string name="privacy_password_confirm_use_finger">Avaa lukitus sormenjäljellä</string>
 	<string name="privacy_password_fingerprint_confirm_failed">Sormenjälkeä ei voitu vahvistaa</string>
 	<string name="privacy_password_fingerprint_confirm_succes">Sormenjälki vahvistettu</string>
@@ -3173,7 +3173,7 @@ Näytön kiinnityksen käyttö:
 	<string name="search_screen_paper_mode">Reading mode;read mode;read;blue light;yellow light;night mode</string>
 	<string name="search_screen_saver_settings">Screensaver</string>
 	<string name="search_screen_timeout">Sleep;Auto Lock Screen</string>
-	<string name="search_second_space">Second Space</string>
+	<string name="search_second_space">Toinen tila</string>
 	<string name="search_security_encryption_title">Encrypt device using lock screen password</string>
 	<string name="search_security_passwords_title">Password</string>
 	<string name="search_security_settings">Privacy settings</string>
@@ -3241,7 +3241,7 @@ Näytön kiinnityksen käyttö:
 	<string name="search_xiaomi_account">Mi Tili</string>
 	<string name="search_xspace">XSpace</string>
 	<string name="search_zen_mode_option_miui_silent">Äänetön-tila</string>
-	<string name="second_space">Second space</string>
+	<string name="second_space">Toinen tila</string>
 	<string name="secure_keyguard_business_title">Aseta ruudun lukitus</string>
 	<string name="secure_lock_encryption_warning">Laite ei käytä ruudun lukitusta tiedon salauksen parantamiseen, koska otit käytettävyyspalvelun käyttöön.</string>
 	<string name="security_enable_widgets_disabled_summary">Järjestelmänvalvojan käytöstä poistama</string>
