@@ -106,7 +106,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="find_device_status_ok">Löydä laitteesi mistä tahansa, vieraile i.mi.com</string>
   <string name="find_device_status_ok_international">Löydä laitteesi mistä tahansa, vieraile www.mi.com/micloud</string>
   <string name="find_device_success_title">Etsi laite</string>
-  <string name="forget_password">&lt;u&gt;Unohdin salasanani&lt;/u&gt;</string>
+  <string name="forget_password">Unohdin salasanani</string>
   <string name="free_space_has_received">Lisäsit jo tämän kuun ilmaisen tallennustilan</string>
   <string name="free_space_receive_fail">Ei voi päivittää</string>
   <string name="get_first_month_gb">Hanki %s ilmaista tallennustilaa</string>
@@ -117,7 +117,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="google_cloud_price">Noin 143 RMB vuodessa</string>
   <string name="header_cloud_backup_settings">Varmuuskopioi ja palauta</string>
   <string name="header_cloud_restore_summary">Asenna Mi Pilvessä olevasta varmuuskopiosta sovellukset uudelleen ja palauta Kotiruudun asetelma ja järjestelmäasetukset</string>
-  <string name="header_data_and_synchronization">Data &amp; synkronointi</string>
+  <string name="header_data_and_synchronization">Data ja synkronointi</string>
   <string name="header_find_device_settings">Etsi laite</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Syötä salasana</string>
@@ -331,7 +331,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_space_applist_title">Hallitse sovelluksia</string>
   <string name="micloud_space_duokan_detail">Lataa ja hallitse e-kirjoja Duokan sovelluksella.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;Mitä tapahtuu, kuin tallennustilani loppuu?&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence">Mitä tapahtuu, kuin tallennustilani loppuu?</string>
   <string name="micloud_space_soundrecorder_detail">Hallitse laitteeseen tallennettuja nauhoituksia</string>
   <string name="micloud_space_soundrecorder_title">Nauhoitukset</string>
   <string name="micloud_storage">Tallennustila</string>

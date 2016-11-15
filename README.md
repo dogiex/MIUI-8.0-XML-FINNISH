@@ -38,6 +38,7 @@ Let's translate together!
 
 ####Currently work in progress:
 - Cit.apk
+- SecurityCenter.apk
 - Settings.apk (paths, search and minor things still unstranslated)
 
 #####Already translated strings:

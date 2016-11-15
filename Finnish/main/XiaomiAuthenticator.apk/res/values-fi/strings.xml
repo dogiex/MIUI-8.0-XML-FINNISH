@@ -50,7 +50,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="error_qr">Cannot interpret QR code.</string>
   <string name="error_title">Error</string>
   <string name="error_uri">Key not recognized.</string>
-  <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_password">Forgot password</string>
   <string name="general_security_exception">General security exception</string>
   <string name="gif_not_support_camera_msg">Your device does not support video recording.</string>
   <string name="how_it_works_menu_item">How it works</string>
@@ -167,7 +167,7 @@ You can："</string>
   <string name="title_updatepattern">Change password</string>
   <string name="title_visible_pattern">Make pattern visible</string>
   <string name="type_prompt">Type of key</string>
-  <string name="update_pattern_jump">&lt;u&gt;Remove password&lt;/u&gt;</string>
+  <string name="update_pattern_jump">Remove password</string>
   <string name="version_preference_title">Version</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
   <string name="welcome_page_details">"— Keep your account safe.
