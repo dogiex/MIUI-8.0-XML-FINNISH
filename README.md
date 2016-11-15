@@ -38,7 +38,6 @@ Let's translate together!
 
 ####Currently work in progress:
 - Cit.apk
-- CloudService.apk
 - Settings.apk (paths, search and minor things still unstranslated)
 
 #####Already translated strings:
@@ -61,6 +60,7 @@ Let's translate together!
 - ContactsProvider.apk
 - CleanMaster.apk
 - CloudBackup.apk
+- CloudService.apk
 - DeskClock.apk
 - DocumentsUI.apk
 - DownloadProvider.apk
