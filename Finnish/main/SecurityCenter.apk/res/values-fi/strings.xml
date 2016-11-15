@@ -83,7 +83,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_monitor_clean_tips">Poistettiin %s kohdetta</string>
   <string name="antivirus_monitor_risk_advice">Tämä sovellus ei ole turvallinen, poista se</string>
   <string name="antivirus_monitor_virus_advice">Tämä sovellus saattaa sisältää viruksen, poista se</string>
-  <string name="antivirus_more_engine_dialog_summary">Monen virustunnisteen käyttö saattaa lisätä skannausaikaa.</string>
+  <string name="antivirus_more_engine_dialog_summary">Usean virustunnisteen käyttö saattaa lisätä skannausaikaa.</string>
   <string name="antivirus_more_engine_dialog_title">Huomio</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Valitse virustunnisteet</string>

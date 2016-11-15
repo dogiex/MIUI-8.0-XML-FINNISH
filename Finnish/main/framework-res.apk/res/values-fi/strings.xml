@@ -322,6 +322,7 @@ käyttäen numeroa %s"</string>
   <string name="global_action_lock">Näytön lukitus</string>
   <string name="global_action_lockdown">Lukitse nyt</string>
   <string name="global_action_power_off">Katkaise virta</string>
+  <string name="global_action_reboot">Käynnistä uudelleen</string>
   <string name="global_action_settings">Asetukset</string>
   <string name="global_action_silent_mode_off_status">Äänet ovat KÄYTÖSSÄ</string>
   <string name="global_action_silent_mode_on_status">Äänet ovat POISSA KÄYTÖSTÄ</string>
@@ -852,6 +853,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="permgrouplab_sensors">Kehon anturit</string>
   <string name="permgrouplab_sms">Tekstiviestit</string>
   <string name="permgrouplab_storage">Tallennustila</string>
+  <string name="permission">Käyttöoikeus</string>
   <string name="permission_request_notification_title">Lupa pyydetty</string>
   <string name="permission_request_notification_with_subtitle">"Pyydetään lupaa
 tilille %s."</string>
@@ -1018,8 +1020,10 @@ tilille %s."</string>
   <string name="quick_contacts_not_available">Tämän kontaktin katselemiseen ei löydy sovellusta.</string>
   <string name="reason_service_unavailable">Tulostuspalvelu ei ole käytössä</string>
   <string name="reason_unknown">tuntematon</string>
+  <string name="reboot_confirm">Puhelimesi käynnistyy uudelleen.</string>
   <string name="reboot_safemode_confirm">Haluatko käynnistää uudelleen vikasietotilassa? Tällöin kolmansien osapuolten sovelluksia ei käynnistetä. Sovellukset otetaan jälleen käyttöön, kun käynnistät laitteen uudelleen.</string>
   <string name="reboot_safemode_title">Käynnistä vikasietotilassa</string>
+  <string name="reboot_title">Käynnistä uudelleen</string>
   <string name="reboot_to_reset_message">Käynnistetään uudelleen…</string>
   <string name="reboot_to_reset_title">Tehdasasetuksien palauttaminen</string>
   <string name="reboot_to_update_package">Käsitellään päivityspakettia…</string>
