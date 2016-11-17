@@ -100,6 +100,7 @@
   <string name="online_search_hint">Search for online resources</string>
   <string name="present_local_themes">Downloaded</string>
   <string name="present_online_themes">Get more themes for free</string>
+  <string name="provision_second_title">Valitse useista oletusteemoista yksi</string>
   <string name="purchased_list">Purchased</string>
   <string name="purchased_list_format">%1$s purchased</string>
   <string name="reload">Try again</string>
@@ -358,7 +359,6 @@
   <string name="theme_precast_update_notification_content">Tap to explore the updates.</string>
   <string name="theme_precast_update_notification_title">MIUI 7 themes updated</string>
   <string name="theme_provision_loading_tips">Pieni hetki…</string>
-  <string name="provision_second_title">Valitse useista oletusteemoista yksi</string>
   <string name="theme_provision_oper_button_next">Seuraava</string>
   <string name="theme_provision_title">Valitse teema</string>
   <string name="theme_purchased_list_empty">Et ole ostanut yhtään teemaa.</string>

@@ -204,6 +204,8 @@
   <string name="flow_setting">Settings</string>
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
+  <string name="follow_tip_1">Katso lisää videoita seuraamalla minua</string>
+  <string name="follow_tip_2">Katso lisää videoita seuraamalla minua</string>
   <string name="force_touch_clean">Siivoa</string>
   <string name="force_touch_search">Etsi tiedostoja</string>
   <string name="found_router">Router connected</string>
@@ -701,8 +703,6 @@
   <string name="video_encrypt_fans_btn">Become a fan</string>
   <string name="video_encrypt_fans_text">Only fans can watch this video</string>
   <string name="video_encrypt_follow_fail">"Couldn't follow"</string>
-  <string name="follow_tip_1">Katso lisää videoita seuraamalla minua</string>
-  <string name="follow_tip_2">Katso lisää videoita seuraamalla minua</string>
   <string name="video_encrypt_follow_success">Followed %s</string>
   <string name="video_encrypt_login_btn">Sign in</string>
   <string name="video_encrypt_login_text">Sign in to play this video</string>
