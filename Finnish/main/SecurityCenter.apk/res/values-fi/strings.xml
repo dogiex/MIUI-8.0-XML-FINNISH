@@ -57,11 +57,11 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="activity_title_white_list">Poikkeukset</string>
   <string name="adb_install_no_network">Yhdistä verkkoon ja yritä uudelleen</string>
   <string name="adb_install_open">Sallitaan…</string>
-  <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
-  <string name="adb_install_reject_notiy">"Didn't allow installing %s via USB"</string>
-  <string name="adb_install_reject_notiy_desc">You can allow installing via USB in Developer options</string>
+  <string name="adb_install_open_error">Ei voitu sallia, tarkasta verkkoyhteytesi</string>
+  <string name="adb_install_reject_notiy">%s ei sallittu asentaa USB:n kautta</string>
+  <string name="adb_install_reject_notiy_desc">Voit sallia USB:ltä asentamisen Kehittäjäasetuksissa</string>
   <string name="adb_login_xiaomi_account">Kirjaudu ensin Mi Tilillesi</string>
-  <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
+  <string name="add_miservice_dialog_content">%s vaatii lisätä MIUI service frameworkin poikkeuslistalle. Saatat saada ilmoituksia MIUI:n järjestelmäsovelluksilta ja muilta kolmannen osapuolen sovelluksilta.</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming poikkeukset</string>
   <string name="add_white_list">Lisää</string>
@@ -72,7 +72,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Päivitetty kaksi päivää sitten</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Päivitetty eilen klo %s</string>
   <string name="adjust_traffic_data">Aseta datan käyttö</string>
-  <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
+  <string name="after_the_lock_screen">Sovellus menee lukkoon ruudun mukana, voit muuttaa tätä Sovelluslukon asetuksissa.</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Valitse virustunnisteet</string>
   <string name="antivirus_choose_engine_disable_toast">Virustunnisteita ei voida vaihtaa skannauksen ollessa käynnissä</string>
@@ -88,7 +88,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Valitse virustunnisteet</string>
   <string name="antivirus_privacy_dialog_cloudscan">Lähetä sovellusten nimet ja tiedot</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Lähetä ja skannaa sovellusten nimet ja tiedot käyttäen internetistä haettuja virustunnisteita.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to Avast, AVL and Tencent's servers (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">view Privacy Policy</string>

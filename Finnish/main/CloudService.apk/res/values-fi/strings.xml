@@ -195,8 +195,6 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_detail_syncing">Synkronoidaan</string>
   <string name="micloud_detail_upload_syncing">Lähetetään %s</string>
   <string name="micloud_detail_wlan">%d odottaa synkronointia</string>
-  <string name="micloud_detail_wlan_contact">%d yhteystiedon kuvaa odottaa synkronointia</string>
-  <string name="micloud_detail_wlan_mms">%d multimediaviestiä odottaa synkronointia</string>
   <string name="micloud_dspt">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen,</string>
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
   <string name="micloud_find_device_finish">Valmis</string>
@@ -235,7 +233,6 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_battery_low">Akun taso on liian alhainen synkronointia varten</string>
   <string name="micloud_main_battery_message">Yhdistä laitteesi virtalähteeseen synkronoidaksesi</string>
   <string name="micloud_main_clear_now">Tyhjennä</string>
-  <string name="micloud_main_data_unsynced">%d kohdetta odottaa synkronointia</string>
   <string name="micloud_main_detail">Näytä tiedot</string>
   <string name="micloud_main_last_sync_time">Viimeksi synkronoitu %s</string>
   <string name="micloud_main_memory_low_message">Synkronoidaksesi, poista ensin pilvessä olevia kohteita.</string>
@@ -248,7 +245,6 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_multi_user_error_title">Mi Pilven virhe</string>
   <string name="micloud_main_network_abnormal">Verkkoon yhdistäminen epäonnistui</string>
   <string name="micloud_main_network_error">Verkkoon yhdistäminen epäonnistui</string>
-  <string name="micloud_main_not_sync">%d kohdetta odottaa synkronointia</string>
   <string name="micloud_main_query_error_message">Joidenkin palveluiden synkronoinnin valmistumista ei voitu vahvistaa</string>
   <string name="micloud_main_query_error_title">Synkronoinnin etenemisestä ei saatu tietoa</string>
   <string name="micloud_main_set_internet">Verkko</string>
@@ -304,7 +300,6 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_notif_content_sync_with_off">Synkronoi laitteesi nyt napauttamalla.</string>
   <string name="micloud_notif_title_battery_low">Mi Pilveen synkronointi epäonnistui</string>
   <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
-  <string name="micloud_notif_title_depend_wifi">%d kohdetta odottaa synkronointia</string>
   <string name="micloud_notif_title_master_depend_wifi">Mi Pilveen ei voida synkronoida</string>
   <string name="micloud_notif_title_memory_low">Mi Pilveen ei voida synkronoida</string>
   <string name="micloud_notif_title_multi_user_error">Mi Pilveen ei voida synkronoida</string>
@@ -395,7 +390,6 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="next">Seuraava</string>
   <string name="noRemind">Älä muistuta minua</string>
   <string name="no_sim">SIM-korttia ei havaittu</string>
-  <string name="one_sync_item_close">%d pois päältä</string>
   <string name="open_micloud_sync">Laita Mi Pilven synkronointi päälle</string>
   <string name="other_settings">Muut asetukset</string>
   <string name="other_sync_item">Muut synkronoitavat kohteet</string>
@@ -438,7 +432,6 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sina_token_expired_warning">Weibo-tili on vanhentunut: Linkitä uudelleen</string>
   <string name="sina_token_invalid_warning">Weibo-tili on kelvoton: Linkitä uudelleen</string>
   <string name="sms">Viestit</string>
-  <string name="some_sync_item_close">%d pois päältä</string>
   <string name="soundrecorder_sync_only_in_wifi">Synkronoi vain Wi-Fi-verkolla</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Ääninauhuri ei käytä mobiilidataa nauhoituksien lataamiseen tai lähettämiseen</string>
   <string name="soundrecorder_sync_records">Synkronoi Mi Pilveen</string>

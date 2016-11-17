@@ -199,6 +199,8 @@
   <string name="flow_setting">Settings</string>
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
+  <string name="force_touch_clean">Siivoa</string>
+  <string name="force_touch_search">Etsi tiedostoja</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">USB storage connected</string>
   <string name="ftp_account_req_notice">4–16 characters, letters and digits, case sensitive</string>

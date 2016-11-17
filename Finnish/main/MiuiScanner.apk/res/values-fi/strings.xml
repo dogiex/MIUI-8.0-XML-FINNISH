@@ -253,7 +253,7 @@
   <string name="flash_lable">Salama</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Import contact</string>
-  <string name="impunity_declaration_content">This app needs to connect to the internet to work normally.</string>
+  <string name="impunity_declaration_content">Tämä sovellus tarvitsee internet-yhteyden ja pääsyn sijaintipalveluun toimiakseen normaalisti.</string>
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Terms of Service</string>

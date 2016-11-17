@@ -777,7 +777,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 	<string name="children_mode_title">Lapsi-tila</string>
 	<string name="choose_assist_title">Valitse avustajasovellus</string>
 	<string name="choose_profile">Valitse profiili</string>
-	<string name="choose_smartcover_type">Valitse kuoren tyyppi</string>
+	<string name="choose_smartcover_type">Valitse kotelon tyyppi</string>
 	<string name="choose_timezone">Valitse aikavyöhyke</string>
 	<string name="choose_voice_input_title">Valitse äänisyöte</string>
 	<string name="cleaner">Puhdistaja</string>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d pois päältä</item>
+        <item quantity="one">%d pois päältä</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Kohteita odottaa synkronointia: %d</item>
+        <item quantity="one">Kohde odottaa synkronointia: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d kohdetta odottaa synkronointia</item>
+        <item quantity="one">%d kohde odottaa synkronointia</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d yhteystietoa</item>
         <item quantity="one">%d yhteystieto</item>
