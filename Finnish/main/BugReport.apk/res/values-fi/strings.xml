@@ -23,7 +23,6 @@
   <string name="cta_dialog_content">Tämä sovellus tarvitsee internet yhteyden toimiakseen normaalisti.</string>
   <string name="cta_dialog_title">Internet yhteys</string>
   <string name="cta_not_show_again">Älä näytä uudestaan</string>
-  <string name="default_text_view">TextView</string>
   <string name="description">Kuvaile ongelma</string>
   <string name="dialog_ask_delete">Poista</string>
   <string name="dialog_ask_quit">Poistu</string>
