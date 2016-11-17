@@ -81,6 +81,7 @@ Let's translate together!
 - ManagedProvisioning.apk
 - MediaProvider.apk
 - Metok.apk
+- MiDrive.apk
 - MiDrop.apk
 - MiuiHome.apk
 - MiuiKeyguard
