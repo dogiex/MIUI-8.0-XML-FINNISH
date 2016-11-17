@@ -151,7 +151,6 @@
   <string name="michat_message_join_again">Hienoa, tulit takaisin!</string>
   <string name="michat_mesage_resend_error_network">Verkkoon ei saada yhteyttä</string>
   <string name="michat_mesage_send_error_network">Ei voida lähettää, tarkasta verkkoyhteys</string>
-  <string name="michat_message_copy_info">Kopioitu leikepöydälle</string>
   <string name="michat_msg_image_upload_error">Kuvaa ei voitu lähettää, yritä myöhemmin uudestaan</string>
   <string name="michat_msg_input_info">Kuvaile ongelmasi lyhyesti</string>
   <string name="michat_msg_status_arrived">Lähetetty</string>
