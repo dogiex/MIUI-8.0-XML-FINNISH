@@ -13,6 +13,8 @@
   <string name="hide_touch_assistant_intro">Hide Shortcut menu in selected apps.</string>
   <string name="name_alipay_payment_code">Alipay payment</string>
   <string name="name_alipay_scan">Alipay scanner</string>
+  <string name="name_all_mipay_cards">Mi Pay</string>
+  <string name="name_handy_mode">Handy Mode</string>
   <string name="name_long_press_power_key">Long press power button</string>
   <string name="name_memory_clean">Clear cache</string>
   <string name="name_music_next_song">Next song</string>
@@ -26,10 +28,14 @@
   <string name="name_quick_search">Search</string>
   <string name="name_scan_to_pay">Scan to pay</string>
   <string name="name_screenshot">Screenshot</string>
+  <string name="name_trans_cards">Matkustuskortti</string>
   <string name="name_wechat_payment_code">Wechat payment</string>
   <string name="name_wechat_scan">Wechat scanner</string>
+  <string name="nfc_all_mipay_card_not_in_use">Mi Pay ei ole aktivoitu</string>
+  <string name="nfc_trans_card_not_in_use">Matkustuskortti ei ole aktivoitu</string>
   <string name="pay_entry_dialog_title_select">Select app to open</string>
   <string name="pay_entry_dialog_title_setting">Set app</string>
+  <string name="pref_category_mipay">NFC oikotiet</string>
   <string name="pref_category_others">Other</string>
   <string name="pref_category_quick_pay">Quick Pay</string>
   <string name="pref_category_quick_settings">Quick settings</string>

@@ -8,7 +8,7 @@
         <item>Herätykseen %3$s</item>
         <item>Herätykseen %1$s ja %3$s</item>
         <item>Herätykseen %2$s ja %3$s</item>
-        <item>Herätykseen %1$s, %2$s ja %3$s</item>
+        <item>Herätykseen %1$s %2$s ja %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Eilen</item>
@@ -19,7 +19,7 @@
         <item>Kerran</item>
         <item>Päivittäin</item>
         <item>Työpäivinä</item>
-        <item>Off days</item>
+        <item>Vapaapäivinä</item>
         <item>Arkipäivinä</item>
         <item>Oma valinta</item>
     </string-array>
@@ -37,7 +37,7 @@
         <item>Herätykseen on aikaa %3$s.</item>
         <item>Herätykseen on aikaa %1$s ja %3$s.</item>
         <item>Herätykseen on aikaa %2$s ja %3$s.</item>
-        <item>Herätykseen on aikaa %1$s, %2$s ja %3$s.</item>
+        <item>Herätykseen on aikaa %1$s %2$s ja %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuutti</item>

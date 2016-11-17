@@ -354,7 +354,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
 	<string name="band_mode_succeeded">Onnistui</string>
 	<string name="band_mode_title">Aseta GSM/UMTS-taajuus</string>
 	<string name="baseband_version">Baseband-versio</string>
-	<string name="batch_delete_saved_network">Poistetaanko tallennettu verkko: %s?</string>
+	<string name="batch_delete_saved_network">Poistetaanko tallennetut verkot: %s?</string>
 	<string name="batch_delete_saved_networks">Poista kaikki valitut verkot</string>
 	<string name="battery_action_app_details">Sovelluksen tiedot</string>
 	<string name="battery_action_app_settings">Sovellusasetukset</string>
@@ -639,6 +639,8 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 	<string name="bluetooth_unlock_change_device_confirm_msg">Vanha laite korvataan nykyisellä laitteella.</string>
 	<string name="bluetooth_unlock_change_matched_device">Valitse muu laite</string>
 	<string name="bluetooth_unlock_confirm_device_text">Avaa lukitus koskettamalla laitteita.</string>
+	<string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Avaa lukitus napauttamalla kellossa olevaa painiketta.</string>
+ +  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Avaa lukitus napauttamalla laitteessa olevaa painiketta.</string>
 	<string name="bluetooth_unlock_confirm_device_text_2">Avaa lukitus napauttamalla laitteessa olevaa avainta.</string>
 	<string name="bluetooth_unlock_delete_device">Poista tämä laite</string>
 	<string name="bluetooth_unlock_delete_device_confirm_msg">Poistetaanko tämä laite?</string>
@@ -1066,7 +1068,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
 	<string name="delete_fingerprint_text">Poista sormenjälki</string>
 	<string name="delete_legacy_fingerprint">Poista</string>
 	<string name="delete_or_keep_legacy_passwords_confirm_msg">Poistetaanko tämä sormenjälki?</string>
-	<string name="delete_saved_network">Poista tallennettu verkko</string>
+	<string name="delete_saved_network">Poista tallennetut verkot</string>
 	<string name="deny">Hylkää</string>
 	<string name="deny_sms_message">Älä salli asennettujen sovelluksien lähettää tekstiviestejä</string>
 	<string name="deny_sms_title">Lukitse tekstiviestit</string>
@@ -1461,7 +1463,8 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
 	<string name="free_wifi_wiwide_provider">WiWide</string>
 	<string name="free_xiaomi_wifi_connect_summary">Yhdistä %1$s-verkkoon napauttamalla.</string>
 	<string name="frequently_fragment_delete">Poista</string>
-	<string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+	<string name="frequently_fragment_tempty">Usein käytetyt kohteet listataan tänne</string>
+	<string name="full_transparent_smarrcover_title">Läpinäkyvä etukuori</string>
 	<string name="fullbackup_data_summary">"Varmuuskopioi laitteen tiedot (kuten WLAN-salasanat ja soittohistoria) sekä sovellusten tiedot (kuten asetukset ja sovellusten tallentamat tiedostot) automaattisesti etäyhteyden kautta.
 
 Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten tiedot varmuuskopioidaan säännöllisesti etäyhteyden kautta. Sovellusten tietoihin voi sisältyä mitä tahansa tietoja, joita sovellukset ovat tallentaneet (kehittäjien asetuksien perusteella). Ne saattavat sisältää myös arkaluontoisia tietoja, kuten yhteystietoja, viestejä ja valokuvia."</string>
@@ -1714,6 +1717,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
 	<string name="large_font">Suuri</string>
 	<string name="last_synced">Viimeksi synkronoitu: %1$s</string>
 	<string name="last_time_used_label">Viimeinen käyttöaika</string>
+	<string name="lattice_smartcover_title">Säleikkö etukuori</string>
 	<string name="launch_by_default">Avaa oletuksena</string>
 	<string name="launch_defaults_none">Oletuksia ei asetettu.</string>
 	<string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
@@ -2126,7 +2130,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="multi_touch_points_preference">Tämä asetus tulee voimaan uudelleenkäynnistämisen jälkeen</string>
 	<string name="music_audio_effect_optimize">Ääniasetukset</string>
 	<string name="music_audio_effect_optimize_summary">Dirac, kuulokkeet ja muut ääniasetukset</string>
-	<string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Ääni, kuulokkeet ja muut ääniasetukset</string>
+	<string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, kuulokkeet ja muut ääniasetukset</string>
 	<string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, kuulokkeet ja muut ääniasetukset</string>
 	<string name="music_audio_effect_settings">Tehoste asetukset</string>
 	<string name="music_dirac_control">Optimoi äänenlaatu</string>
@@ -2246,6 +2250,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 	<string name="no_updates_warning">Järjestelmäsi on ajantasalla</string>
 	<string name="no_updates_warning2">Ota rennosti, kerromme kyllä, kun uusi päivitys on saatavilla :)</string>
 	<string name="noise_suppression">Taustamelun vaimennus</string>
+	<string name="normal_smartcover_title">Läpikuultamaton etukuori</string>
 	<string name="not_installed">Ei asennettu tälle käyttäjälle</string>
 	<string name="notes_privacy_password_role_instruction">Yksityiset muistiot säilytetään täällä.</string>
 	<string name="notification_app_settings_button">Ilmoitusasetukset</string>
@@ -2941,7 +2946,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
 	<string name="runtime_permissions_summary_no_permissions_requested">Käyttöoikeuksia ei ole pyydetty</string>
 	<string name="save">Tallenna</string>
 	<string name="saved_network">Tallentaja: %1$s</string>
-	<string name="saved_wifi">Tallennettu verkko</string>
+	<string name="saved_wifi">Tallennetut verkko</string>
 	<string name="saved_wifi_delete">Poista</string>
 	<string name="scan_list_label">Haun tulokset:</string>
 	<string name="screen">Ruutu</string>
@@ -3467,7 +3472,10 @@ PIN-koodi on mahdollisesti virheellinen."</string>
 	<string name="slot_number">(Paikka %1$d)</string>
 	<string name="slot_status_title">IMEI tieto</string>
 	<string name="small_font">Pieni</string>
-	<string name="smartcover_sensitive_title">Älykotelo-tila</string>
+	<string name="smallwindow_smartcover_title">Läpinäkyvä etukuori</string>
+	<string name="smartcover_lock_or_unlock_screen_tittle">Lukitse tai avaa ruutu älykotelolla</string>
+	<string name="smartcover_sensitive_summary">Lukitse tai avaa puhelimen lukitus helposti älykotelon avulla</string>
+	<string name="smartcover_sensitive_title">Älykotelo</string>
 	<string name="sms_application_title">Tekstiviestisovellus</string>
 	<string name="sms_change_default_dialog_text">Haluatko, että oletussovellus on %1$s eikä enää %2$s?</string>
 	<string name="sms_change_default_dialog_title">Vaihdetaanko tekstiviestisovellus?</string>

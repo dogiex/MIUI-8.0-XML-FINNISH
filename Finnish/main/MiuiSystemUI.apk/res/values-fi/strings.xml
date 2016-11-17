@@ -196,6 +196,10 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="megabyte_per_second">Mt/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Kyllä</string>
+  <string name="nav_guide_cancel">Älä välitä</string>
+  <string name="nav_guide_message">Piilota/näytä painikkeet eleillä.</string>
+  <string name="nav_guide_ok">Aseta</string>
+  <string name="nav_guide_title">Piilota painikkeet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>
   <string name="no_weather_description">Hanki säätiedot &gt;</string>

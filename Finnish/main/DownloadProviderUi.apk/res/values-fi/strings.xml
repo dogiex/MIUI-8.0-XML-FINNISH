@@ -105,6 +105,9 @@
   <string name="download_share_dialog">Jaa sovelluksessa</string>
   <string name="download_speed">Latausnopeus:</string>
   <string name="download_spend_time">Aika</string>
+  <string name="download_status_continue">Jatka</string>
+  <string name="download_status_fail">Yritä uudelleen</string>
+  <string name="download_status_paused">Pysäytä</string>
   <string name="download_success">Valmis</string>
   <string name="download_title">Lataukset</string>
   <string name="download_title_sorted_by_date">Lataukset - Lajittelu päivämäärän mukaan</string>

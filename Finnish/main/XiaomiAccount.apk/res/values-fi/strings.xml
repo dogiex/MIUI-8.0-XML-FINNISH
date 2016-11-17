@@ -59,7 +59,6 @@
   <string name="add_account">Connect account</string>
   <string name="app_name">Mi Tili</string>
   <string name="authorize_title">Authorization</string>
-  <string name="barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Connect your Facebook Account</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Accounts</string>
@@ -146,7 +145,11 @@
   <string name="no_response_retry">No response, please retry.</string>
   <string name="no_sim_card">No SIM card</string>
   <string name="nobind">Not connected</string>
-  <string name="other_devices">Other devices</string>
+  <string name="oauth_get_scopes_failed">Tilin tietojen haku epäonnistui</string>
+  <string name="oauth_getting_scopes">Todennetaan tiliä…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; saa seuraavat käyttöoikeudet:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Kirjaudu Mi Tilillä</string>
+  <string name="other_devices_title">Muut laitteet</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
@@ -160,11 +163,12 @@
   <string name="passport_area_code_hot">FREQUENTLY USED</string>
   <string name="passport_area_code_title">Country code</string>
   <string name="passport_auto_generate_pwd">Generate secure password</string>
-  <string name="passport_back">Back</string>
-  <string name="passport_bad_authentication">Invalid username or password</string>
-  <string name="passport_btn_return">Back</string>
-  <string name="passport_button_cancel">Cancel</string>
-  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
+  <string name="passport_back">Takaisin</string>
+  <string name="passport_bad_authentication">Väärä käyttäjänimi tai salasana</string>
+  <string name="passport_barcode_add_account_prompt">Yhdistääksesi tilin, skannaa QR-koodi uudelleen kirjautumisen jälkeen.</string>
+  <string name="passport_btn_return">Takaisin</string>
+  <string name="passport_button_cancel">Peruuta</string>
+  <string name="passport_change_account">Vaihda tiliä</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>

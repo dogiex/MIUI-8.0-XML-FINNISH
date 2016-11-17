@@ -5,20 +5,20 @@
         <item quantity="one">"Don't show this person?"</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s photos of %2$s >></item>
-        <item quantity="one">%1$s photo of %2$s >></item>
+        <item quantity="other">%1$s photos of %2$s</item>
+        <item quantity="one">%1$s photo of %2$s</item>
     </plurals>
     <plurals name="age_year">
-        <item quantity="other">%d years</item>
-        <item quantity="one">%d year</item>
+        <item quantity="other">%d vuotta</item>
+        <item quantity="one">%d vuosi</item>
     </plurals>
     <plurals name="age_month">
-        <item quantity="other">%d months</item>
-        <item quantity="one">%d month</item>
+        <item quantity="other">%d kuukautta</item>
+        <item quantity="one">%d kuukausi</item>
     </plurals>
     <plurals name="age_day">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d photos of %2$s will be added</item>
@@ -73,8 +73,8 @@
         <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+        <item quantity="other">%1$d kohdetta ei voitu varmuuskopioida</item>
+        <item quantity="one">%1$d kohdetta ei voitu varmuuskopioida</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
@@ -109,7 +109,7 @@
         <item quantity="one">"Couldn't download %1$d file"</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d kohdetta valittu</item>
+        <item quantity="one">%d kohde valittu</item>
     </plurals>
 </resources>

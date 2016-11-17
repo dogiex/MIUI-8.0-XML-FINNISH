@@ -59,7 +59,6 @@
   <string name="note_link_web">View in browser</string>
   <string name="notealert_enter">Open note</string>
   <string name="notealert_ok">Dismiss</string>
-  <string name="notelist_menu_new">Add note</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>

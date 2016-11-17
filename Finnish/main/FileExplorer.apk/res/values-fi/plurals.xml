@@ -24,6 +24,14 @@
         <item quantity="few">%d kohdetta</item>
         <item quantity="many">%d kohdetta</item>
     </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="zero">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+        <item quantity="two">%1$d valittu</item>
+        <item quantity="few">%1$d valittu</item>
+        <item quantity="many">%1$d valittu</item>
+    </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d ladattavaa tiedostoa jäljellä</item>
         <item quantity="zero">%1$d ladattavaa tiedostoa jäljellä</item>
@@ -216,6 +224,14 @@
         <item quantity="few">%1$s videota</item>
         <item quantity="many">%1$s videota</item>
     </plurals>
+    <plurals name="follower_num">
+        <item quantity="other">seuraajaa</item>
+        <item quantity="zero">seuraajaa</item>
+        <item quantity="one">seuraaja</item>
+        <item quantity="two">seuraajaa</item>
+        <item quantity="few">seuraajaa</item>
+        <item quantity="many">seuraajaa</item>
+    </plurals>
     <plurals name="user_upload_items">
         <item quantity="other">videota</item>
         <item quantity="zero">videota</item>
@@ -223,5 +239,49 @@
         <item quantity="two">videota</item>
         <item quantity="few">videota</item>
         <item quantity="many">videota</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$s videota</item>
+        <item quantity="zero">%1$s videota</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s videota</item>
+        <item quantity="few">%1$s videota</item>
+        <item quantity="many">%1$s videota</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s kommenttia</item>
+        <item quantity="one">%1$s kommentti</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">Voit syöttää %d merkkiä</item>
+        <item quantity="one">Voit syöttää %d merkin</item>
+    </plurals>
+    <plurals name="video_items">
+        <item quantity="other"> %1$d kohdetta</item>
+        <item quantity="zero"> %1$d kohdetta</item>
+        <item quantity="one"> %1$d kohde</item>
+        <item quantity="two"> %1$d kohdetta</item>
+        <item quantity="few"> %1$d kohdetta</item>
+        <item quantity="many"> %1$d kohdetta</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">päivää</item>
+        <item quantity="one">päivä</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">Lähetit videoita,</item>
+        <item quantity="one">Lähetit videon,</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">Teit ihmisiä iloiseksi!</item>
+        <item quantity="one">Teit ihmisiä iloiseksi!</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">Sinulla on seuraajia!</item>
+        <item quantity="one">Sinulla on seuraaja!</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Päivitä asemasi hankkimalla %1$d seuraajaa lisää​</item>
+        <item quantity="one">Päivitä asemasi hankkimalla %1$d seuraaja lisää​</item>
     </plurals>
 </resources>

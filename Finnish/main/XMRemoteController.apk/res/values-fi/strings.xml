@@ -713,7 +713,8 @@ To activate your account, follow the
   <string name="rename_hint">"Enter device's name"</string>
   <string name="repeat_diagnosis">Test again</string>
   <string name="report_problem">Report problem</string>
-  <string name="require_login">请先登录</string>
+  <string name="require_login">Kirjaudu sisään ensin</string>
+  <string name="rescan">重新搜索</string>
   <string name="reset">重置</string>
   <string name="respond">Works</string>
   <string name="retry_for_more">Tap to view more</string>

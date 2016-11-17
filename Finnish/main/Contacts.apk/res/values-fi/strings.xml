@@ -393,7 +393,7 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="editContactDescription">Muokkaa yhteystietoa</string>
   <string name="editGroupDescription">Muokkaa ryhmää</string>
   <string name="edit_contact">Muokkaa yhteystietoa</string>
-  <string name="edit_contact_card_title">Muokkaa käyntikorttia</string>
+  <string name="edit_contact_card_title">Valitse jaettavat kohteet</string>
   <string name="edit_contact_photo">Muokkaa yhteystiedon kuvaa</string>
   <string name="email">Lähetä sähköpostia</string>
   <string name="emailLabelsGroup">Sähköposti</string>
@@ -1264,6 +1264,9 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
+  <string name="yellowpage_navigation_ad_hint">Mainos</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">Saldoa ja mobiilidataa ei voitu tarkistaa, yritä uudelleen myöhemmin.</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo ja mobiilidata on tarkistettu</string>
   <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_clear_search_history">Tyhjennä historia</string>
   <string name="yellowpage_navigation_more_items">Lisää</string>
