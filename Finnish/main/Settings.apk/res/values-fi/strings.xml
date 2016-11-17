@@ -640,7 +640,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 	<string name="bluetooth_unlock_change_matched_device">Valitse muu laite</string>
 	<string name="bluetooth_unlock_confirm_device_text">Avaa lukitus koskettamalla laitteita.</string>
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Avaa lukitus napauttamalla kellossa olevaa painiketta.</string>
- +  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Avaa lukitus napauttamalla laitteessa olevaa painiketta.</string>
+   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Avaa lukitus napauttamalla laitteessa olevaa painiketta.</string>
 	<string name="bluetooth_unlock_confirm_device_text_2">Avaa lukitus napauttamalla laitteessa olevaa avainta.</string>
 	<string name="bluetooth_unlock_delete_device">Poista tämä laite</string>
 	<string name="bluetooth_unlock_delete_device_confirm_msg">Poistetaanko tämä laite?</string>
