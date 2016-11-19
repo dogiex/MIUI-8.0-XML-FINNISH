@@ -201,7 +201,7 @@
   <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">Viestin poistamisen jälkeen, näytä…</string>
   <string name="auto_advance_label">Poista viestiketju</string>
-  <string name="auto_advance_summary">Valitse mihin viestiin siirrytään kuvan poistamisen jälkeen</string>
+  <string name="auto_advance_summary">Valitse mihin viestiin siirrytään viestin poistamisen jälkeen</string>
   <string name="auto_sync_off">Tilin synkronointi ei ole käytössä.</string>
   <string name="battery_saver">Akun säästäjä</string>
   <string name="battery_saver_keywords">akun säästäjä;sähköposti akku</string>
