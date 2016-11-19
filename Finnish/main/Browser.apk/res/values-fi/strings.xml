@@ -349,7 +349,6 @@ Poistutaanko tältä sivulta?"</string>
   <string name="js_dialog_before_unload_positive_button">Poistu</string>
   <string name="js_dialog_before_unload_title">Vahvista siirtyminen</string>
   <string name="js_dialog_title">Sivu %s kertoo:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Poistamalla JavaScripti käytöstä saattaa aiheuttaa joidenkin sivujen näyttämisen väärältä.</string>
   <string name="js_disable_confirm_title">Poista JavaScript käytöstä?</string>
   <string name="keep_queued_download">Säilytä</string>
