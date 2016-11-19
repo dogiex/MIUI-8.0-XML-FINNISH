@@ -201,10 +201,10 @@
   <string name="select_storage_location">Valitse varmuuskopion sijainti</string>
   <string name="service_stoped">Palvelu pysäytetty</string>
   <string name="settings_summary">Puhelu ja viestiasetukset</string>
-  <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
+  <string name="size_byte">t</string>
+  <string name="size_giga_byte">Gt</string>
+  <string name="size_kilo_byte">Kt</string>
+  <string name="size_mega_byte">Mt</string>
   <string name="sms_title">Viestit</string>
   <string name="software_backup_info">Sovellusten tiedot</string>
   <string name="start_backup">Varmuuskopioi</string>
