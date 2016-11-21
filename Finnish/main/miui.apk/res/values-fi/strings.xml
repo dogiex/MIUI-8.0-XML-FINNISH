@@ -581,5 +581,6 @@
   <string name="wednesday">Keskiviikko</string>
   <string name="wednesday_short">Ke</string>
   <string name="wednesday_shortest">Ke</string>
+  <string name="xiaomi_mobile">Mi Mobiili</string>
   <string name="yesterday">Eilen</string>
 </resources>

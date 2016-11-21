@@ -112,13 +112,15 @@ Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&am
   <string name="add_fingerprint_done_msg">Voit nyt avata laitteen lukituksen sormenjäljellä.</string>
   <string name="add_fingerprint_done_title">Olet valmis rokkaamaan!</string>
   <string name="add_fingerprint_failed_retry_text">Sormenjäljen lisääminen epäonnistui, yritä uudelleen</string>
-  <string name="add_fingerprint_finished_button_text">OK</string>
+  <string name="add_fingerprint_finished_button_text">Valmis</string>
   <string name="add_fingerprint_instruction_msg">Avaa laitteen lukitus tai varmenna maksusuoritus sormenjäljellä.</string>
   <string name="add_fingerprint_instruction_title">Lisää sormenjälkesi</string>
+  <string name="add_fingerprint_name_suggest_text">Sormenjäljen nimi</string>
   <string name="add_fingerprint_put_finger_edge_msg">Liikuta sormeasi hieman ja laita se takaisin tunnistimelle, jotta kaikki sormenjäljen eri kohdat lisätään.</string>
   <string name="add_fingerprint_put_finger_msg">Laita sormesi tunnistimelle ja nosta se, kun tunnet värinän.</string>
   <string name="add_fingerprint_put_finger_title">Lisää sormenjälki</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Siirrä sormeasi hieman</string>
+  <string name="add_fingerprint_success_msg">Lisätty onnistuneesti</string>
   <string name="add_fingerprint_text">Lisää sormenjälki</string>
   <string name="add_fingerprint_toast_text">Laita sormesi tunnistimelle</string>
   <string name="adding_profile_owner_warning">"Jatkamalla hyväksyt, että järjestelmänvalvoja voi hallinnoida käyttäjää ja tallentaa käyttäjään liittyviä tietoja, kuten henkilökohtaisia tietoja.
@@ -690,9 +692,12 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="button_light_timeout">Pidä painikkeiden valo päällä</string>
   <string name="button_text_accept">Hyväksy</string>
   <string name="button_text_accept_timer">Hyväksy (%d)</string>
+  <string name="button_text_cancel">Peruuta</string>
   <string name="button_text_login">Kirjaudu sisään</string>
   <string name="button_text_next_step">Seuraava</string>
   <string name="button_text_next_step_timer">Seuraava askel (%d)</string>
+  <string name="button_text_ok">OK</string>
+  <string name="button_text_ok_timer">OK(%d)</string>
   <string name="button_text_reboot_now">Käynnistä uudelleen</string>
   <string name="button_text_reject">Hylkää</string>
   <string name="cache_header_label">Välimuisti</string>
@@ -1036,7 +1041,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="date_time_set_time_title">Aika</string>
   <string name="date_time_set_timezone">Valitse aikavyöhyke</string>
   <string name="date_time_set_timezone_title">Aikavyöhyke</string>
-  <string name="date_time_settings">Päiväys &amp; aika</string>
+  <string name="date_time_settings">Päiväys ja aika</string>
   <string name="debug_app">Valitse vianetsintäsovellus</string>
   <string name="debug_app_not_set">Vianetsintäsovellusta ei ole asetettu</string>
   <string name="debug_app_set">Vianetsintäsovellus: %1$s</string>
@@ -1052,6 +1057,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="debug_monitoring_category">Valvonta</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
+  <string name="defalut_launcher_title">Oletuskäynnistin</string>
   <string name="default_app">(Oletus)</string>
   <string name="default_apps_title">Oletussovellukset</string>
   <string name="default_assist_none">Ei mitään</string>
@@ -1377,10 +1383,13 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="filter_write_settings_apps">Voi muokata järjestelmäasetuksia</string>
   <string name="fingerprint_add_max">Voit lisätä korkeintaan %d sormenjälkeä</string>
   <string name="fingerprint_add_title">Lisää sormenjälki</string>
-  <string name="fingerprint_and_password_entrance_title">Näytön lukitus &amp; sormenjälki</string>
+  <string name="fingerprint_and_password_entrance_title">Näytön lukitus ja sormenjälki</string>
+  <string name="fingerprint_apply_to_privacy_password">Yksityisyydensuojan salasana</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">Yksityisyydensuojan salasana suojaa viestisi, kuvasi, tiedostosi, muistiosi ja sovelluksesi.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">näytön lukitus</string>
   <string name="fingerprint_enroll_button_add">Lisää toinen</string>
   <string name="fingerprint_enroll_button_next">Seuraava</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Sormenjälki (sormenjälkeä voi käyttää ruudunlukituksen salasanan asettamisen jälkeen)</string>
   <string name="fingerprint_for_keyguard_disabled">Sormenjälki on otettu pois käytöstä turvallisuus asetuksista.</string>
   <string name="fingerprint_identify_input_password_msg">Syötä salasana</string>
   <string name="fingerprint_identify_msg">Luetaan sormenjälkeä…</string>
@@ -1391,7 +1400,8 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="fingerprint_list_title">Sormenjälki</string>
   <string name="fingerprint_lock_first">Avaa Ensimmäisen tilan lukitus</string>
   <string name="fingerprint_lock_second">Avaa Toisen tilan lukitus</string>
-  <string name="fingerprint_manage_category_title">Sormenjälkien hallinta</string>
+  <string name="fingerprint_manage">Sormenjäljen hallinta</string>
+  <string name="fingerprint_manage_category_title">Sormenjäljen hallinta</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasana.</string>
   <string name="fingerprint_not_recognized">Ei tunnistettu</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa, yritä myöhemmin uudelleen</string>
@@ -1662,6 +1672,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="keyboard_layout_picker_title">Näppäimistöasettelut</string>
   <string name="keyboard_settings_category">Näppäimistö ja syöttötavat</string>
   <string name="keyboard_settings_title">Android-näppäimistö</string>
+  <string name="keyguard_advance_setting_title">Lukitusruudun lisäasetukset</string>
   <string name="keyguard_left_function_chooser_hint_text">Vasen oikotie vaihdettu: %s</string>
   <string name="keyguard_left_function_chooser_title">Sovellus</string>
   <string name="keyguard_left_function_title">Vasen</string>
@@ -1721,6 +1732,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="launch_by_default">Avaa oletuksena</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
+  <string name="launcher_auto_fill_empty_title">Täytä tyhjät solut automaattisesti</string>
+  <string name="launcher_title">Käynnistin</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja, odota hetki.</string>
   <string name="launching_rep">Raportoidaan…</string>
@@ -1829,6 +1842,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="lock_after_timeout_summary_with_exception">%1$s virransäästötilan jälkeen, paitsi kun lukitusta pitää avattuna %2$s</string>
   <string name="lock_immediately_summary_with_exception">Heti lepotilasta heräämisen jälkeen, ellei avaaja ole %1$s</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_screen_cells_title">Lukitusruudun solut</string>
   <string name="lock_screen_notifications_interstitial_message">Miten haluat ilmoitusten näkyvän, kun laite on lukittu?</string>
   <string name="lock_screen_notifications_interstitial_title">Ilmoitukset</string>
   <string name="lock_screen_notifications_summary_disable">Älä näytä ilmoituksia lainkaan</string>
@@ -1838,6 +1852,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
   <string name="lock_screen_secure_after_timeout_summary">Salasana vaaditaan %1$s kuluttua</string>
   <string name="lock_screen_secure_after_timeout_title">Salasana vaaditaan</string>
+  <string name="lock_screen_signature_summary">Allekirjoitus näytetään lukitusruudulla</string>
+  <string name="lock_screen_signature_title">Lukitusruudun allekirjoitus</string>
   <string name="lock_screen_unlock_show">Ohita lukitusruutu</string>
   <string name="lock_screen_unlock_show_summary">Laitteen herätessä se menee suoraan Kotiruudulle tai salasanan syöttökenttään</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Vaihda painamalla</string>
@@ -1939,6 +1955,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="man_add_application">Lisää sovelluksia käynnistykseen</string>
   <string name="manage_device_admin">Laitteen ylläpitäjät</string>
   <string name="manage_device_admin_summary">Näytä tai poista käytöstä laitteen ylläpitäjiä</string>
+  <string name="manage_fingerprint_text">Hallitse sormenjälkiä</string>
   <string name="manage_mobile_plan_title">Mobiilisopimus</string>
   <string name="manage_notification_access_summary_zero">Sovellukset eivät voi lukea ilmoituksia</string>
   <string name="manage_notification_access_title">Pääsy ilmoituksiin</string>
@@ -1963,8 +1980,11 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
 Olet kirjautunut sisään seuraaviin tileihin:
 "</string>
   <string name="master_clear_all">Haluatko poistaa laitteesi sisäisen tallennustilan kaikki tiedot? Toimintoa ei voi peruuttaa!</string>
-  <string name="master_clear_button_text">Nollaa puhelimen asetukset</string>
-  <string name="master_clear_confirm_title">Nollataanko?</string>
+  <string name="master_clear_apply_step_1">Tehdasasetuksien palauttaminen poistaa kaikki laitteessa olevat tiedot, kuten kuvat, kappaleet, muistiot, ja muut henkilökohtaiset tiedot. Varmuuskopioi kaikki tärkeät tiedostot tietokoneellesi.</string>
+  <string name="master_clear_apply_step_2">Varmista, että kaikki tärkeät tiedostot on varmuuskopioitu tietokoneellesi. Kaikki tiedostot tältä laitteelta poistetaan. Et voi palauttaa tiedostoja, joita et ole varmuuskopioinut.</string>
+  <string name="master_clear_apply_title">Huomio</string>
+  <string name="master_clear_button_text">Palauta puhelimen asetukset</string>
+  <string name="master_clear_confirm_title">Palautetaanko?</string>
   <string name="master_clear_desc">Tämä poistaa kaikki puhelimesi &lt;b&gt;sis&amp;#228;isen tallennustilan&lt;/b&gt;" tiedot, kuten:
 
 "&lt;li&gt;Google-tilisi&lt;/li&gt;"
@@ -2078,6 +2098,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_allow_vibrate">Värinä</string>
   <string name="miui_data_usage_menu_metered">Mobiili hotspot</string>
   <string name="miui_experience_optimization">Laita MIUI optimointi päälle</string>
+  <string name="miui_screen_config_title">MIUI käynnistimen ruudun määritys</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
   <string name="mms_privacy_password_role_instruction">Yksityiset keskustelusi yhteystietojen kanssa säilytetään täällä.</string>
@@ -2199,6 +2220,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="networks_title">Matkapuhelinverkot</string>
   <string name="never">Ei koskaan</string>
   <string name="new_backup_pw_prompt">Anna uusi varmuuskopioinnin salasana</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Sormenjälkeä voi käyttää ruudunlukituksen avaamiseen asettamisen jälkeen</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">Peruuta</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Lisää</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Lisää sormenjälki</string>
   <string name="next_button_label">Seuraava</string>
   <string name="next_label">Seuraava</string>
   <string name="nfc_category_title">NFC</string>
@@ -2375,6 +2400,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="passwordIncorrect">Syöttämäsi salasana on väärä</string>
   <string name="password_entrance_title">Ruudunlukitus</string>
   <string name="password_guard">Salasana</string>
+  <string name="password_turned_off_text">Salasana on laitettu pois päältä</string>
+  <string name="password_turned_on_text">Salasana on laitettu päälle</string>
   <string name="path_about_about_settings">Asetukset/Tietoa laitteesta</string>
   <string name="path_accelerometer_settings">Asetukset/Näyttö/Näytön automaattinen kierto</string>
   <string name="path_access_control_settings">Asetukset/Lisäasetukset/Yksityisyys/Yksityisyysasetukset</string>
@@ -2952,6 +2979,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen">Ruutu</string>
   <string name="screen_button">Ruudun painikkeet</string>
   <string name="screen_button_tips">Piilota ruudun painikkeet pyyhkäisemällä alas</string>
+  <string name="screen_cells_config_title">Ruudun solun määritys</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Luku-tilassa</string>
   <string name="screen_color_temperature">Värit</string>
@@ -3379,9 +3407,9 @@ Näytön kiinnityksen käyttö:
   <string name="show_hw_screen_updates_summary">Väläytä ikkunoiden sisältö GPU:lla piirrettäessä</string>
   <string name="show_magnifier_when_input">Tekstin suurennuslasi</string>
   <string name="show_non_rect_clip">Korjaa ei-suorakulmaisten leiketoimintojen virheet</string>
-  <string name="show_owner_info_on_lockscreen_label">Näytä omistajan tiedot lukitusnäytöllä</string>
+  <string name="show_owner_info_on_lockscreen_label">Näytä allekirjoitus lukitusruudulla</string>
   <string name="show_password">Näytä salasanat</string>
-  <string name="show_profile_info_on_lockscreen_label">Näytä profiilin tiedot lukitusnäytöllä</string>
+  <string name="show_profile_info_on_lockscreen_label">Näytä profiilin tiedot lukitusruudulla</string>
   <string name="show_rounded_corners">Näytä pyöristetyt kulmat</string>
   <string name="show_running_services">Käynnissä olevat palvelut</string>
   <string name="show_screen_updates">Näytä pintapäivitykset</string>
@@ -3473,8 +3501,8 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="slot_status_title">IMEI tieto</string>
   <string name="small_font">Pieni</string>
   <string name="smallwindow_smartcover_title">Läpinäkyvä etukuori</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">Lukitse tai avaa ruutu älykotelolla</string>
-  <string name="smartcover_sensitive_summary">Lukitse tai avaa puhelimen lukitus helposti älykotelon avulla</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Älykuori-tila</string>
+  <string name="smartcover_sensitive_summary">Lukitse tai avaa puhelimen lukitus automaattisesti älykotelon avulla</string>
   <string name="smartcover_sensitive_title">Älykotelo</string>
   <string name="sms_application_title">Tekstiviestisovellus</string>
   <string name="sms_change_default_dialog_text">Haluatko, että oletussovellus on %1$s eikä enää %2$s?</string>
@@ -3895,8 +3923,12 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="tts_status_requires_network">Kieli %1$s tarvitsee yhteyden verkostoon</string>
   <string name="tts_status_title">Oletuskieliasetus</string>
   <string name="turn_off_common_password_confirm_msg">Ruudunlukitus poistetaan käytöstä myös.</string>
+  <string name="turn_off_keyguard_password_alert_title">Laita pois päältä</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Vahvista lukitusruudun salasanan pois päältä laittaminen?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Et voi käyttää enää sormenjälkitoimintoa lukitusruudun salasanan poistamisen jälkeen</string>
   <string name="turn_off_radio">Sammuta radio</string>
   <string name="turn_off_security_lock">Poista lukitus käytöstä</string>
+  <string name="turn_on_keyguard_password">Laita lukitusruudun salasana päälle</string>
   <string name="turn_on_radio">Käynnistä radio</string>
   <string name="turn_on_security_lock">Valitse ruudunlukitus</string>
   <string name="under_keyguard">Lukitusruutu</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">"Varmuuskopio ei ole vielä valmis. Lopeta kuitenkin?"</string>
+  <string name="abort_backup_confirm">"Varmuuskopiointi ei ole vielä valmis. Lopetetaanko kuitenkin?"</string>
   <string name="account_contact_backup_info">Google Tili, Mi Tili, ja Yhteystietojen tiedot</string>
   <string name="account_login">Kirjaudu sisään</string>
   <string name="account_summary">Varmuuskopioi Google Tili, Mi Tili, ja muut käyttäjän tiedot</string>
@@ -35,8 +35,8 @@
   <string name="backup_hint">Pidä laitteesi päällä</string>
   <string name="backup_hint_onpad">Pidä laitteesi päällä</string>
   <string name="backup_is_running">Varmuuskopioidaan laitetta</string>
-  <string name="backup_items_app_tailer">" app data files"</string>
-  <string name="backup_items_sysdata_tailer">" system data files,"</string>
+  <string name="backup_items_app_tailer">" sovellusdatan tiedostot"</string>
+  <string name="backup_items_sysdata_tailer">" järjestelmädatan tiedostot,"</string>
   <string name="backup_new">Uusi:</string>
   <string name="backup_progress">Varmuuskopioidaan…</string>
   <string name="backup_report">Katso tiedot</string>
@@ -56,17 +56,17 @@
   <string name="cancel_backup">Lopeta</string>
   <string name="cancel_restore">Lopeta</string>
   <string name="click_to_view">Näpäytä katsoaksesi</string>
-  <string name="cloud_app_name">Mi Cloud varmuuskopio</string>
+  <string name="cloud_app_name">Mi Pilvi varmuuskopio</string>
   <string name="cloud_backup_hint">Päästääksesi varmuuskopioihisi, kirjaudu sisään nyt</string>
   <string name="cloud_backup_login">Kirjaudu Mi tilillesi</string>
-  <string name="cloud_backup_window_title">Mi Cloud varmuuskopio</string>
-  <string name="cloud_home_title">Mi Cloud</string>
-  <string name="cloud_item_info_summary">" (Paikallinen: %1$s | Mi Cloud: %2$s)"</string>
+  <string name="cloud_backup_window_title">Mi Pilvi varmuuskopio</string>
+  <string name="cloud_home_title">Mi Pilvi</string>
+  <string name="cloud_item_info_summary">" (Paikallinen: %1$s | Mi Pilvi: %2$s)"</string>
   <string name="cloud_last_backup">"Viimeinen varmuuskopio "</string>
   <string name="cloud_no_backup">Ei varmuuskopioita</string>
   <string name="cloud_restore_guide">Palauttaaksesi käyttäjätiedot %s:lle, paina Palauta</string>
   <string name="cloud_restore_title">Palauta varmuuskopion tiedot</string>
-  <string name="cloud_restore_window_title">Mi Cloud palautus</string>
+  <string name="cloud_restore_window_title">Mi Pilvi palautus</string>
   <string name="cloud_search">Etsitään…</string>
   <string name="compute_backup_info">Noudetaan varmuuskopion tietoja…</string>
   <string name="compute_delete_contact_info">Noudetaan tietoja…</string>
@@ -75,10 +75,10 @@
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Puhelin</string>
   <string name="current_sim">Nykyinen SIM-kortti</string>
-  <string name="custom_progress">%d items</string>
+  <string name="custom_progress">%d kohdetta</string>
   <string name="data_item_desc">Data</string>
-  <string name="data_no_enough_space_message">Laitteesi sisäisellä muistilla ei ole tarpeeksi tilaa.</string>
-  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="data_no_enough_space_message">Laitteesi sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
+  <string name="date_format">HH:mm:ss d.MM.yyyy</string>
   <string name="delete">Poista</string>
   <string name="delete_backup_process">Poistetaan…</string>
   <string name="delete_backup_title">Poista varmuuskopio</string>
@@ -113,14 +113,14 @@
   <string name="file_uploading">Lähetetään…</string>
   <string name="files_backup_info">Kaikki tiedostot SD-muistikortilla (mukaanlukien kuvat, musiikit, videot, sovelluksien tiedot, jne.)</string>
   <string name="findlost_contact">Palauta yhteystiedot</string>
-  <string name="findlost_contact_online">Palauta yhteystiedot Mi Cloud:sta</string>
+  <string name="findlost_contact_online">Palauta yhteystiedot Mi Pilvestä</string>
   <string name="guarded_mode_dialog_backup_message">Varmuuskopioita ei sallita Vieras-tilassa.</string>
   <string name="guarded_mode_dialog_title">Olet Vieras-tilassa</string>
-  <string name="guarded_mode_dialog_transfer_message">Mi Mover -sovellusta ei voida käyttää Vieras-tilassa.</string>
-  <string name="import_from_xiaomi_account_hint1">"1.\u0009Lataa Mi Talk -sovellus ja kirjaudu sisään.
-\u0009http://www.miliao.com
+  <string name="guarded_mode_dialog_transfer_message">Mi Siirtäjää ei voi käyttää Vieras-tilassa.</string>
+  <string name="import_from_xiaomi_account_hint1">"1.Lataa Mi Talk -sovellus ja kirjaudu sisään.
+http://www.miliao.com
 
-2.\u0009Mene Mi Talk Asetuksiin ja valitse ”Varmuuskopioi yhteystiedot Mi Tilille”"</string>
+2.Mene Mi Talk Asetuksiin ja valitse ”Varmuuskopioi yhteystiedot Mi Tilille”"</string>
   <string name="import_from_xiaomi_account_hint2">Jos sinulla on jo varmuuskopio, paina Seuraava.</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä Mi Talk -sovellusta varmuuskopioidaksesi yhteystiedot laitteistasi.</string>
   <string name="local_app_name">Varmuuskopiot</string>
@@ -138,7 +138,7 @@
   <string name="local_select_video">Videot</string>
   <string name="miliao_account_guide">Käytä Mi Tiliäsi kirjautuaksesi sisään Mi Pilveen, MIUI Teema Kauppaan, ja muihin Mi palveluihin mistä tahansa.</string>
   <string name="miliao_account_login">Kirjaudu sisään Mi jutteluun</string>
-  <string name="mms_title">Multimedia viestit</string>
+  <string name="mms_title">Multimediaviestit</string>
   <string name="multi_select_title">%1$s valittu</string>
   <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Laita Moni-käyttäjä tila pois päältä jatkaaksesi.</string>
   <string name="multi_user_mode_dialog_title">Olet Moni-käyttäjä tilassa</string>
@@ -191,10 +191,10 @@
   <string name="sc_service_unavailable">Mi Pilvi ei ole saatavilla</string>
   <string name="sc_unaccess_password_file">WLAN verkon salasanaa ei löydy</string>
   <string name="sc_unauthorized">Kirjaudu uudestaan</string>
-  <string name="sd_not_available">Aseta SD kortti nyt</string>
+  <string name="sd_not_available">Aseta SD-kortti nyt</string>
   <string name="sdcard_no_enough_space">Ei ole tarpeeksi tilaa</string>
-  <string name="sdcard_no_enough_space_message">SD kortillasi ei ole tarpeeksi tallennustilaa.</string>
-  <string name="sdcard_unmounted">Aseta SD kortti nyt</string>
+  <string name="sdcard_no_enough_space_message">SD-kortillasi ei ole tarpeeksi tallennustilaa.</string>
+  <string name="sdcard_unmounted">Aseta SD-kortti nyt</string>
   <string name="see_backup_files_on_router">Katso Mi Reitittimellä %s olevia varmuuskopioita</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_backup_item">Valitse asiat</string>
@@ -253,7 +253,7 @@
   <string name="trans_calculating_base_size">Lasketaan tietojen kokoa</string>
   <string name="trans_cancel_confirm">Lähetys käynnissä, lopetetaanko nyt?</string>
   <string name="trans_cancelling">Peruutetaan…</string>
-  <string name="trans_connect_failed_message">Ei voitu yhdistää, yritä uudelleen tai käynnistä laite uudelleen. Toisella laitteella mene Asetukset &gt; Lisäasetukset &gt; Mi Mover, napauta [Olen lähettäjä], tai käynnistä Mi Mover uudelleen laitteen käynnistyttyä uudestaan."</string>
+  <string name="trans_connect_failed_message">Ei voitu yhdistää, yritä uudelleen tai käynnistä laite uudelleen. Toisella laitteella mene Asetukset, Lisäasetukset, Mi Siirtäjä, napauta [Olen lähettäjä], tai käynnistä Mi Siirtäjä uudelleen laitteen käynnistyttyä uudestaan."</string>
   <string name="trans_connect_failed_title">"Ei voitu yhdistää"</string>
   <string name="trans_connect_failed_toast">Ei voitu yhdistää</string>
   <string name="trans_connecting_toast">Yhdistetään…</string>
@@ -263,21 +263,21 @@
   <string name="trans_detail_category_sysdata">Järjestelmätiedot</string>
   <string name="trans_detail_category_userdata">Sovellukset</string>
   <string name="trans_device_disconnected">Yhteys laitteeseen on katkaistu</string>
-  <string name="trans_generate_qr_code_failed">QR koodia ei voitu luoda</string>
+  <string name="trans_generate_qr_code_failed">QR-koodia ei voitu luoda</string>
   <string name="trans_main_tutor">Siirrä yhteystiedot, puheluhistoria, viestit, kotinäytön ulkoasu, sovellukset, asetukset, jne uuteen laitteeseen</string>
   <string name="trans_my_device">Laitteeni</string>
   <string name="trans_native_no_space">"Tällä laitteella ei ole tarpeeksi vapaata tilaa.
 Vapauta ainakin %s."</string>
-  <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_one_key_migrate">Mi Siirtäjä</string>
   <string name="trans_operate_func_one">Tapa A</string>
   <string name="trans_operate_func_two">Tapa B</string>
-  <string name="trans_operate_new_phone_tips">"Mene Asetukset &gt; Lisäasetukset &gt; Mi Mover
-Napauta [Olen vastaanottaja] luodaksesi QR koodin"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Asenna Mi Mover sovellus vanhalle laitteellesi
+  <string name="trans_operate_new_phone_tips">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä
+Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
+  <string name="trans_operate_old_phone_tips1">"1. Asenna Mi Siirtäjä (eng. Mi Mover) sovellus vanhalle laitteellesi
 2. Avaa sovellus ja paina Aloita
-3. Skannaa QR koodi vanhalla laitteellasi"</string>
-  <string name="trans_operate_old_phone_tips2">"Mene Asetukset &gt; Lisäasetukset &gt; Mi Mover, Napauta [Olen lähettäjä]"</string>
-  <string name="trans_please_waiting">Hetki pieni…</string>
+3. Skannaa QR-koodi vanhalla laitteellasi"</string>
+  <string name="trans_operate_old_phone_tips2">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä, Napauta [Olen lähettäjä]"</string>
+  <string name="trans_please_waiting">Pieni hetki…</string>
   <string name="trans_progress_subdescript_br_receiver">Palautetaan %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_br_sender">Varmuuskopioidaan %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_br_sender_finish">Varmuuskopioitu %s, odotetaan lähettämistä…</string>
@@ -286,8 +286,8 @@ Napauta [Olen vastaanottaja] luodaksesi QR koodin"</string>
   <string name="trans_progress_subdescript_transing_sender">Lähetetään %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Vastaanotetaan tiedostoja, %s valmiina</string>
   <string name="trans_progress_subdescript_transingsd_sender">Lähetetään tiedostoja, %s valmiina</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Vastaanotetaan %1$s SD kortin tiedostoja, %2$s valmiina</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Lähetetään %1$s SD kortin tiedostoja, %2$s valmiina</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Vastaanotetaan %1$s SD-kortin tiedostoja, %2$s valmiina</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Lähetetään %1$s SD-kortin tiedostoja, %2$s valmiina</string>
   <string name="trans_progress_subdescript_waiting">Odotetaan vastaanottoa %s</string>
   <string name="trans_receiver">"Olen vastaanottaja"</string>
   <string name="trans_receiver_time_remained">"%s jäljellä.
@@ -295,10 +295,10 @@ Napauta [Olen vastaanottaja] luodaksesi QR koodin"</string>
 Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_receiving_completed">Vastaanotettu onnistuneesti</string>
   <string name="trans_restoring">Palautetaan…</string>
-  <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_restoring_no_items">Synkronoidaan kohteita</string>
   <string name="trans_retry">Kokeile uudelleen</string>
-  <string name="trans_scan_invalid_qrcode">QR koodi on viallinen</string>
-  <string name="trans_scan_qr_code_tips">Skannaa QR koodi käyttäen uutta laitetta</string>
+  <string name="trans_scan_invalid_qrcode">QR-koodi on virheellinen</string>
+  <string name="trans_scan_qr_code_tips">Skannaa QR-koodi käyttäen uutta laitetta</string>
   <string name="trans_select_data">Valitse lähetettävät tiedostot</string>
   <string name="trans_select_data_no_space">"Uudella laitteella ei ole tarpeeksi tilaa.
 Valitse tiedostot uudestaan tai vapauta %s tilaa uudella laitteella"</string>
@@ -316,7 +316,7 @@ Odotetaan vanhan laitteen yhdistämistä…"</string>
 Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_sending_completed">Lähetetty onnistuneesti</string>
   <string name="trans_show_qr_code_label">Yhdistä vanha laite</string>
-  <string name="trans_show_qr_code_tips">Skannaa QR koodi vanhalla laitteella</string>
+  <string name="trans_show_qr_code_tips">Skannaa QR-koodi vanhalla laitteella</string>
   <string name="trans_start_failed_message">"Lähetystä ei voitu aloittaa, kokeile uudelleen tai käynnistä laite uudelleen."</string>
   <string name="trans_start_failed_title">"Lähetystä ei voitu aloittaa"</string>
   <string name="trans_time_format_second">Vähemmän kuin 1 minuutti</string>
@@ -325,9 +325,9 @@ Aikaa käytetty: %s"</string>
   <string name="trans_wait_trans_data">"Yhdistetty vanhaan laitteeseen.
 Odotetaan lähetystä…"</string>
   <string name="trans_waiting_ensurance">"Varmista, että vanha laite on päällä
-ja Mi Mover on päällä"</string>
+ja Mi Siirtäjä on päällä"</string>
   <string name="trans_waiting_for_sender">Odotetaan vanhan laitteen yhdistämistä…</string>
-  <string name="unit_byte">B</string>
+  <string name="unit_byte">t</string>
   <string name="unit_piece">" tiedostoa"</string>
   <string name="unknown_hint">Tuntematon</string>
   <string name="user_notice_declaration_ignore">"Älä näytä uudestaan"</string>
@@ -335,13 +335,13 @@ ja Mi Mover on päällä"</string>
   <string name="user_notice_title">Huomio</string>
   <string name="wifi_title">WLAN asetukset</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Yhdistäminen Download Manageriin epäonnistui, tarkasta Download Managerin tila sovellusten hallinnasta.</string>
-  <string name="xiaomi_external_storage_unavailable">Taltio ei ole käytettävissä, tarkista SD kortti.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_router">Mi Router</string>
-  <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_bytes_unit">%1$s t</string>
+  <string name="xiaomi_connect_download_manager_fail">Lataamista ei voitu aloittaa. Varmista, että Download Manager toimii normaalisti.</string>
+  <string name="xiaomi_external_storage_unavailable">Taltio ei ole käytettävissä, tarkista SD-kortti.</string>
+  <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
+  <string name="xiaomi_megabytes_unit">%1$s Mt</string>
+  <string name="xiaomi_router">Mi Reititin</string>
+  <string name="xiaomi_router_location">Mi Reititin %s</string>
   <string name="xiaomi_update_dialog_message">"Esittelyssä versio %1$s
 Koko: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Esittelyssä versio %1$s

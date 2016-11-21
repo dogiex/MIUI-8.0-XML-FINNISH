@@ -83,6 +83,10 @@
   <string name="remind_ringtone">Soittoääni</string>
   <string name="reset">Nollaa</string>
   <string name="revert">Palauta</string>
+  <string name="search_alarm_clock_keywords">Herätys;Herätyskello;</string>
+  <string name="search_stopwatch_keywords">Sekuntikello</string>
+  <string name="search_timer_keywords">Ajastin</string>
+  <string name="search_worldclock_keywords">Aika;Maailmankello;Kello</string>
   <string name="set_alarm">Aseta herätys</string>
   <string name="setting_alarm_arriving_summary">Lähetä ilmoitus ennen herätystä</string>
   <string name="setting_alarm_arriving_title">Ilmoitus ennen herätystä</string>

@@ -78,6 +78,7 @@
   <string name="editing_mode_enter_tip_text">Muokkaa Kotiruutua nipistämällä</string>
   <string name="editing_mode_title">%1$d valittuna</string>
   <string name="editing_mode_title_empty">0 valittuna</string>
+  <string name="editing_set_screen_layout_cells">Valitse ruudun asetteluefekti</string>
   <string name="editing_set_transition_effect_tips">Valitse ruudun vaihtoefekti</string>
   <string name="editing_set_wallpaper_tips">Valitse taustakuva</string>
   <string name="editing_tips">Muokkaa Kotiruutua</string>
@@ -174,7 +175,7 @@
   <string name="menu_workspace_preview">Esikatsele Kotiruudut</string>
   <string name="mi_wallpaper">MIUI Teemakauppa</string>
   <string name="mtzgadget_missing_text">Widgetti ei ole saatavilla</string>
-  <string name="multi_selecting_tips">Valitaksesi sovellus, kosketa sen kuvaketta</string>
+  <string name="multi_selecting_tips">Valitaksesi sovelluksen, raahaa sen kuvaketta ja tiputa tänne</string>
   <string name="no_detail_page">Ei tietoja-sivu</string>
   <string name="normal_wallpaper">Taustakuva</string>
   <string name="online_wallpaper">Online</string>
@@ -236,6 +237,7 @@
   <string name="status_pending">Odotetaan</string>
   <string name="title_select_live_folder">Valitse kansio</string>
   <string name="title_select_shortcut">Valitse pikakuvake</string>
+  <string name="toast_screen_icons_misplaced">Palautettu toisesta tietokannasta, joitakin kuvakkeita saatettiin laittaa eri paikkaan</string>
   <string name="toggle_select_title">Valitse nappula</string>
   <string name="toggle_title">Nappulat</string>
   <string name="transformation_type_classic">Päältäliuku</string>

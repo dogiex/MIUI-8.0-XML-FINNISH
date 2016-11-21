@@ -24,9 +24,9 @@
         <item>1 Gt</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Näytä</item>
-        <item>Älä näytä</item>
-        <item>Näytä jälkeen</item>
+        <item>Vain ilmoitus</item>
+        <item>Puhdista automaattisesti</item>
+        <item>Puhdista ja ilmoitus</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Puhdista tämä tiedosto</item>

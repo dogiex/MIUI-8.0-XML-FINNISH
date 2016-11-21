@@ -1199,6 +1199,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="toast_making_personal_copy">Luodaan oma kopio…</string>
   <string name="toast_text_copied">Teksti kopioitu</string>
   <string name="today">Tänään</string>
+  <string name="tomorrow">Huomenna</string>
   <string name="transfer_accounts">Siirrä tilejä</string>
   <string name="type_incoming">Saapuva puhelu</string>
   <string name="type_missed">Vastaamaton puhelu</string>
@@ -1286,5 +1287,6 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Koti-ruudulle</string>
   <string name="yellowpage_search_the_yellowpage">Etsi Hakemistosta</string>
   <string name="yellowpage_user_profile">Profiili</string>
+  <string name="yesterday">Eilen</string>
   <string name="zero_items_selected">Valitse asiat</string>
 </resources>

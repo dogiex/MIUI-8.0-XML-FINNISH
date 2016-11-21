@@ -261,8 +261,8 @@
         <item quantity="one">päivä</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">Lähetit videoita,</item>
-        <item quantity="one">Lähetit videon,</item>
+        <item quantity="other">Lähetit videoita.</item>
+        <item quantity="one">Lähetit videon.</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">Teit ihmisiä iloiseksi!</item>

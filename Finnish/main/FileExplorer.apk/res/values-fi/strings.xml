@@ -532,7 +532,7 @@
   <string name="setting_account_bind">Add account</string>
   <string name="setting_message_notify">Notifications</string>
   <string name="setting_shortcut">Lisää Kotiruudun pikakuvake</string>
-  <string name="share_from_youliao">Lähettäjä#有料# @有料Video）丨</string>
+  <string name="share_from_youliao">(Lähettäjä#有料# @有料Video）丨</string>
   <string name="share_success">Jaettu onnistuneesti</string>
   <string name="share_tip_1">Kiitos jaosta, katso lisää videoita seuraamalla minua</string>
   <string name="share_tip_2">Kiitos jaosta, katso lisää videoita seuraamalla minua</string>
@@ -750,6 +750,7 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
   <string name="weixin_sticker_tag_str">Stickers</string>
+  <string name="welcome_to_my_page">Tervetuloa kotisivulleni</string>
   <string name="wifi_state">WLAN network</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Mi Tili</string>
@@ -758,10 +759,10 @@
   <string name="year_month_day_format">d. MMM yyyy</string>
   <string name="yes">Kyllä</string>
   <string name="yesterday">Eilen</string>
-  <string name="youliao_ad_msg">"Now upgraded to full version APP, have more fun!
-Watching with 170 million Mi fans."</string>
-  <string name="youliao_ad_title">Hot video has been upgraded to full version now!</string>
-  <string name="youliao_ad_update">Update</string>
+  <string name="youliao_ad_msg">"Pidä hauskaa \"Youliao\" kanssa!
+Liity 170 miljoonaan Mi Faniin!"</string>
+  <string name="youliao_ad_title">Suositut videot on päivitetty!</string>
+  <string name="youliao_ad_update">Päivitä</string>
   <string name="youliao_dialog_msg">"Hot video has been upgraded to \"Youliao\", 
 now upgraded to full version APP, watching more."</string>
   <string name="youliao_dialog_title">No interested videos?</string>

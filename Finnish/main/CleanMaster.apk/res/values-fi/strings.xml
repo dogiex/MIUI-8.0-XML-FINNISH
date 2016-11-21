@@ -153,7 +153,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Puhdistajan moottori on korruptoitunut.</string>
   <string name="dialog_msg_stop_scan">Pysäytetäänkö puhdistuksen skannaus?</string>
   <string name="dialog_msg_uninstall_apps">Poistetaanko nämä sovellukset?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Poistetaanko nämä sovellukset? （mukaanlukien kloonatut sovellukset）?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Poistetaanko nämä sovellukset mukaan lukien kloonatut sovellukset?</string>
   <string name="dialog_ok_add_white_list_error">Selvä</string>
   <string name="dialog_title_add_white_list_error">Huomio</string>
   <string name="dialog_title_backup_and_uninstall_apps">Varmuuskopioi ja poista asennus</string>
@@ -356,7 +356,7 @@
   <string name="msg_update_error_code_unknown_error">Tuntematon virhe</string>
   <string name="name_debuglog_dir">Bsp Debug Loki</string>
   <string name="name_optimizer">Tietosuojaseloste</string>
-  <string name="nb_clear_set">Tyhjennä välimuisti, näe akun taso ja estolista ilmoituspalkissa</string>
+  <string name="nb_clear_set">Tyhjennä välimuisti, näe akun taso ja estolista ilmoitusalueella</string>
   <string name="net_assistant_detail">Käytetty %1$s, säästetty %2$s</string>
   <string name="net_assistant_title">Käytetty %s tämän kuun mobiilidatasta</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
