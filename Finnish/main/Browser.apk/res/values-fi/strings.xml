@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Lisää pikakuvake</string>
   <string name="action_menu_useful_page_added">Lisätty aloitussivulle</string>
   <string name="actionbar_share">Jaa</string>
+  <string name="actionbar_textselection_title">Tekstin valinta</string>
   <string name="actionbar_web_search">Verkkohaku</string>
   <string name="adblock_force_updating_rules_toast">Päivitetään mainoksien torjujaa</string>
   <string name="adblock_notification">%d mainosta torjuttu</string>
@@ -57,7 +58,7 @@
   <string name="adblock_websites_settings_title">Torjutut sivustot</string>
   <string name="add_bookmark_group">Lisää ryhmä</string>
   <string name="add_bookshelf_popup_text">Lisätty kirjahyllyyn</string>
-  <string name="add_favorites_to">Lisää pikakuvake</string>
+  <string name="add_favorites_to">Lisää suosikkeihin</string>
   <string name="add_new_bookmark">Lisää kirjanmerkki</string>
   <string name="add_new_quicklink">Lisää aloitussivulle</string>
   <string name="add_ql_bm_title">Tallenna</string>
@@ -84,6 +85,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_keyboard_accessory_content_description">Suosituksia saatavilla</string>
   <string name="autofill_popup_content_description">Näytetään automaattisen täyttämisen ponnahdusikkuna</string>
   <string name="autologin_bar_error">Kirjautuminen epäonnistui</string>
   <string name="autologin_bar_hide_text">Piilota</string>
@@ -198,10 +200,10 @@
   <string name="current_version_phone">Puhelin</string>
   <string name="custom_head_card_text">Elä aina uskossa, että jotain hienoa tulee tapahtumaan</string>
   <string name="custom_head_card_text_incognito">Olet muuttunut näkymättömäksi! Sivut, joita katselet ei näy historiassa.</string>
-  <string name="data_traffic_prompt_change">Käyttäessäsi mobiilidataa katsoaksesi videoita lisää tiedonkäyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
-  <string name="data_traffic_prompt_message">Käyttäessäsi mobiilidataa selataksesi videoita lisää tiedonkäyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
-  <string name="data_traffic_prompt_message_short">Käyttäessäsi mobiilidataa striimataksesi videoita voi johtaa liittymäsi datakaton rajan ylittämiseen.</string>
-  <string name="data_traffic_prompt_title">Tiedonkäytön varoitus</string>
+  <string name="data_traffic_prompt_change">Videoiden katsominen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
+  <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
+  <string name="data_traffic_prompt_message_short">Videoiden striimaaminen mobiilidatalla voi johtaa liittymäsi datan käyttörajan ylittämiseen.</string>
+  <string name="data_traffic_prompt_title">Datan käyttövaroitus</string>
   <string name="date_picker_dialog_clear">Tyhjennä</string>
   <string name="date_picker_dialog_other_button_label">Muu</string>
   <string name="date_picker_dialog_set">Aseta</string>
@@ -372,7 +374,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="media_error_video_not_exist">Videota ei ole olemassa</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">Pahoittelut, video on virheellinen, eikä sitä voida näyttää tällä laitteella</string>
-  <string name="media_player_error_text_unknown">Pahoittelut, emme voineet toistaa tätä videota.</string>
+  <string name="media_player_error_text_unknown">Pahoittelut, tätä videota ei voi toistaa.</string>
   <string name="media_player_error_title">Videota ei voida toistaa</string>
   <string name="media_player_loading_video">Ladataan videota</string>
   <string name="menu_addtodesk">Lisää Koti ruudulle</string>
@@ -486,6 +488,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="paused_waiting_to_retry">Odotetaan uudelleenyrittämistä…</string>
   <string name="pay_failed_toast">Maksu epäonnistui</string>
   <string name="pay_success_toast">Maksu onnistui</string>
+  <string name="permission_alert_window">Käyttääksesi toimintoa, avaa järjestelmän asetus Näytä pop-up ikkuna.</string>
+  <string name="permission_unknown">Tuntematon vaihtoehto</string>
   <string name="popup_window_attempt">Sallitaanko tämän sivuston avata ponnahdusikkuna?</string>
   <string name="positive_confirm_message">Kytke pois päältä kuitenkin</string>
   <string name="pref_accessibility">Esteettömyys</string>
@@ -749,6 +753,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="unsecurity_url_toast">Tämä sivusto ei ole turvallinen</string>
   <string name="up_to_loading_tips">Vapauta päivittääksesi</string>
   <string name="update_no_network_toast">Verkkoon ei saada yhteyttä</string>
+  <string name="updating_chrome">Päivitetään Chromea...</string>
   <string name="uploads_disabled">Tiedostojen lähetys on kytketty pois päältä</string>
   <string name="url_copy_done">URL kopioitiin leikepöydälle</string>
   <string name="url_find_on_page_result">Näytä Selaimessa</string>

@@ -248,7 +248,7 @@
   <string name="st_summary_keywords_blacklist">Lisää sanoja viestien estämiseksi</string>
   <string name="st_summary_special_numbers">Estä merkatut puhelinnumerot</string>
   <string name="st_summary_whitelist_numbers">Salli puhelut ja viestit tietyiltä numeroilta ja suuntanumeroilta</string>
-  <string name="st_summary_whitelist_numbers_international">Salli puhelut ja viestit tietyiltä numeroilta ja suuntanumeroilta</string>
+  <string name="st_summary_whitelist_numbers_international">Salli puhelut ja viestit tietyiltä numeroilta</string>
   <string name="st_title_addblacklist">Lisää estolistalle</string>
   <string name="st_title_addwhitelist">Lisää poikkeuslistalle</string>
   <string name="st_title_adress">Lisää sijainteja</string>
