@@ -769,7 +769,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="change_password">Vaihda ruudun lukitus</string>
   <string name="change_security_lock">Kokeile muita keinoja lukituksen poistoon</string>
   <string name="change_storage">Vaihda tallennustila</string>
-  <string name="charging_sounds_title">Latausäänet</string>
+  <string name="charging_sounds_title">Laturin kytkemisääni</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Tarkasta päivitykset</string>
   <string name="checkbox_notification_same_as_incoming_call">Käytä ilmoituksille puhelun äänenvoimakkuutta</string>
@@ -1732,7 +1732,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="launch_by_default">Avaa oletuksena</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
-  <string name="launcher_auto_fill_empty_title">Täytä tyhjät solut automaattisesti</string>
+  <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudut automaattisesti</string>
   <string name="launcher_title">Käynnistin</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja, odota hetki.</string>
@@ -1842,7 +1842,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="lock_after_timeout_summary_with_exception">%1$s virransäästötilan jälkeen, paitsi kun lukitusta pitää avattuna %2$s</string>
   <string name="lock_immediately_summary_with_exception">Heti lepotilasta heräämisen jälkeen, ellei avaaja ole %1$s</string>
   <string name="lock_intro_message">Lock_intro_message</string>
-  <string name="lock_screen_cells_title">Lukitusruudun solut</string>
+  <string name="lock_screen_cells_title">Lukitse ruudukko</string>
   <string name="lock_screen_notifications_interstitial_message">Miten haluat ilmoitusten näkyvän, kun laite on lukittu?</string>
   <string name="lock_screen_notifications_interstitial_title">Ilmoitukset</string>
   <string name="lock_screen_notifications_summary_disable">Älä näytä ilmoituksia lainkaan</string>
@@ -2979,7 +2979,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen">Ruutu</string>
   <string name="screen_button">Ruudun painikkeet</string>
   <string name="screen_button_tips">Piilota ruudun painikkeet pyyhkäisemällä alas</string>
-  <string name="screen_cells_config_title">Ruudun solun määritys</string>
+  <string name="screen_cells_config_title">Ruudukon määritys</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Luku-tilassa</string>
   <string name="screen_color_temperature">Värit</string>
