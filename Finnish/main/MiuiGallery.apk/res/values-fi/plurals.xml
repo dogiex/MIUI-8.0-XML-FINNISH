@@ -5,8 +5,12 @@
         <item quantity="one">"Don't show this person?"</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s photos of %2$s</item>
-        <item quantity="one">%1$s photo of %2$s</item>
+        <item quantity="other">Yhteensä %d kuvaa</item>
+        <item quantity="one">Yhteensä %d kuva</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Yhteensä %d kuvaa</item>
+        <item quantity="one">Yhteensä %d kuva</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d vuotta</item>

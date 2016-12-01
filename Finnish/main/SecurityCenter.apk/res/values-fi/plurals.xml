@@ -56,6 +56,10 @@
         <item quantity="other">%d akkuongelmaa</item>
         <item quantity="one">%d akkuongelma</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Löytyi %d akkuongelmaa, korjaa ne</item>
+        <item quantity="one">Löytyi %d akkuongelma, korjaa se</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d kohdetta voidaan optimoida</item>
         <item quantity="one">%d kohde voidaan optimoida</item>

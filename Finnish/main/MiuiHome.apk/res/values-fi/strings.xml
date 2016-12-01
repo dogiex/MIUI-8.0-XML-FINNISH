@@ -237,7 +237,7 @@
   <string name="status_pending">Odotetaan</string>
   <string name="title_select_live_folder">Valitse kansio</string>
   <string name="title_select_shortcut">Valitse pikakuvake</string>
-  <string name="toast_screen_icons_misplaced">Palautettu toisesta tietokannasta, joitakin kuvakkeita saatettiin laittaa eri paikkaan</string>
+  <string name="toast_screen_icons_misplaced">Palautettu toisesta lähteestä, joitakin kuvakkeita saatettiin asettaa eri paikkaan</string>
   <string name="toggle_select_title">Valitse nappula</string>
   <string name="toggle_title">Nappulat</string>
   <string name="transformation_type_classic">Päältäliuku</string>

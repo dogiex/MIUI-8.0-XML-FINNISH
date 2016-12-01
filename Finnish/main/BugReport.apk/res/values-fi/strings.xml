@@ -92,6 +92,7 @@
   <string name="feedback_submit_failed_notification_desc">Näytä tiedot</string>
   <string name="feedback_submit_failed_notification_retry">Lähetä uudestaan</string>
   <string name="feedback_submit_failed_notification_title">Raporttia ei voitu lähettää</string>
+  <string name="feedback_submit_hint">Auta meitä ratkaisemaan bugit nopeammin raportoimalla ne aina meille, kun kohtaat sellaisen.</string>
   <string name="feedback_submit_hint1">Ilmoitamme sinulle raporttisi edistymisestä</string>
   <string name="feedback_submit_hint2">Siirry \"Minun raportit\" nähdäksesi tietoja</string>
   <string name="feedback_submit_succ">Lähetetty onnistuneesti</string>
@@ -244,7 +245,7 @@
   <string name="section_screenshot">Kuvakaappaus</string>
   <string name="submit_dialog_cancel">Peruuta</string>
   <string name="submit_dialog_confirm">Lähetä</string>
-  <string name="submit_dialog_content">Palautteesi, liitetiedostot ja lokitiedostot lähetetään Mi:n palvelimille. Jos verkkovirhe tapahtuu lähetyksen aikana, sinua pyydetään kokeilemaan uudestaan.</string>
+  <string name="submit_dialog_content">Palautteesi, liitetiedostot ja lokitiedostot lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaisia tietoja.</string>
   <string name="submit_dialog_title">Lähetä raportti</string>
   <string name="submit_feedback_info_failed">Raporttia ei voitu lähettää</string>
   <string name="suggestion_description">Lisää selitys tähän</string>
@@ -270,6 +271,7 @@
   <string name="toast_module_required">Valitse kohde</string>
   <string name="toast_network_unavailable">Lähetys epäonnistui. Verkkoon ei saada yhteyttä.</string>
   <string name="toast_pending_log_collection">Kerätään vieläkin lokeja…</string>
+  <string name="toast_post_deleted">Tätä otsikkoa ei ole olemassa, se on poistettu, tai muokattu.</string>
   <string name="toast_problem_class_required">Valitse kategoria</string>
   <string name="toast_report_copied_to_clipboard">Raportti on kopioitu leikäpöydälle</string>
   <string name="toast_report_sent_failed">Raporttia ei voida lähettää</string>

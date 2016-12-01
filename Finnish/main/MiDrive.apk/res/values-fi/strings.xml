@@ -118,7 +118,7 @@
   <string name="terabyteShort">Tt</string>
   <string name="tools">Työkalut</string>
   <string name="trans_mobile_network_message">Tiedostojen siirtämiseen mobiilidatalla saattaa lisätä operaattorikustannuksia. Siirretäänkö tästä huolimatta?</string>
-  <string name="trans_task">Verkkojakaminen</string>
+  <string name="trans_task">Lähetyksien tehtävät</string>
   <string name="transing">Lähetetään</string>
   <string name="upload_failed">Lähettäminen epäonnistui</string>
   <string name="upload_file_to_midrive">Lähetä tiedosto Mi Driveen</string>

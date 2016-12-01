@@ -14,6 +14,8 @@
   <string name="experimental_validate_username">Käyttäjänimi</string>
   <string name="experimental_validate_warning">Kiitos, että autat tekemään MIUI:sta paremman!</string>
   <string name="find_device_turn_off_flight_mode">Laita lentokone-tila pois päältä</string>
+  <string name="fingerprint_add_text">Sormenjäljen käyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
+  <string name="fingerprint_add_title">Lisää sormenjälki</string>
   <string name="fingerprint_lockout_msg">Odota hetki ja yritä sitten avata lukitus sormenjälkitunnistimella uudelleen</string>
   <string name="fingerprint_not_identified_msg">Avaa laite syöttämällä salasana.</string>
   <string name="fingerprint_not_identified_title">Syötä salasana</string>

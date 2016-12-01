@@ -127,6 +127,21 @@
   <string name="plusDesc">plussa</string>
   <string name="power">^</string>
   <string name="powerDesc">power</string>
+  <string name="preference_about_calculator">Tietoa Laskimesta</string>
+  <string name="preference_alert_follow_wechat">Seuraa kopioimalla ja liittämällä WeChattiin</string>
+  <string name="preference_alert_follow_wechat_button">Kopioi</string>
+  <string name="preference_check_update_title">Tarkista päivitykset</string>
+  <string name="preference_feedback_title">UKK</string>
+  <string name="preference_follow_us">Seuraa meitä</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Virallinen verkkosivu</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Asetukset</string>
+  <string name="preference_use_degress_summary">Korvaa radiaanit kulmilla trigonometrisissä funktioissa</string>
+  <string name="preference_use_degress_title">Käytä kulmia</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">oikea sulku</string>
   <string name="sin">sin</string>
@@ -351,4 +366,14 @@
   <string name="unit_year_format">Vuosi %s</string>
   <string name="unit_yuan">RMB</string>
   <string name="wf_word_figure">Financial characters</string>
+  <string name="xiaomi_bytes_unit">%1$st</string>
+  <string name="xiaomi_connect_download_manager_fail">Yhdistäminen Lataustenhallintaan epäonnistui, tarkasta Lataustenhallinnan tila Asetuksista Asennetut sovellukset.</string>
+  <string name="xiaomi_external_storage_unavailable">Tallennustila ei saatavilla, tarkasta SD-kortti.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKt</string>
+  <string name="xiaomi_megabytes_unit">%1$sMt</string>
+  <string name="xiaomi_update_dialog_message">"Saatavilla versio %1$s
+Koko: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Saatavilla versio %1$s
+Delta-päivityksen koko: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s päivitys!</string>
 </resources>

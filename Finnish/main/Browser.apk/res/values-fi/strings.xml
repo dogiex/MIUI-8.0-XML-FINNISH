@@ -488,8 +488,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="paused_waiting_to_retry">Odotetaan uudelleenyrittämistä…</string>
   <string name="pay_failed_toast">Maksu epäonnistui</string>
   <string name="pay_success_toast">Maksu onnistui</string>
-  <string name="permission_alert_window">Käyttääksesi toimintoa, avaa järjestelmän asetus Näytä pop-up ikkuna.</string>
-  <string name="permission_unknown">Tuntematon vaihtoehto</string>
+  <string name="permission_alert_window">Salli ponnahdusikkunat käyttääksesi tätä toimintoa</string>
+  <string name="permission_unknown">Tuntematon toiminto</string>
   <string name="popup_window_attempt">Sallitaanko tämän sivuston avata ponnahdusikkuna?</string>
   <string name="positive_confirm_message">Kytke pois päältä kuitenkin</string>
   <string name="pref_accessibility">Esteettömyys</string>

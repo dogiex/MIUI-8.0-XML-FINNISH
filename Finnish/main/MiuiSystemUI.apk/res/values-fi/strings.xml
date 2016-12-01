@@ -182,6 +182,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="long_screenshot_processing">Prosessoidaan…</string>
   <string name="long_screenshot_stop">Lopeta</string>
   <string name="long_screenshot_top_msg">Otetaan pitkää kuvakaappausta…</string>
+  <string name="long_screenshot_top_msg_manual">Rajaa kuvakaappaus ja lopeta napauttamalla painiketta</string>
   <string name="managed_profile_foreground_toast">Käytät työ profiilia</string>
   <string name="mdb_entering">Aloitetaan…</string>
   <string name="mdb_restore_cancel">Peruuta</string>

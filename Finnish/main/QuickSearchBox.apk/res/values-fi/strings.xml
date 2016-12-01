@@ -48,11 +48,25 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="permission_prompt_start">Salli</string>
   <string name="permission_prompt_started_info">Olet sallinut järjestelmän laajuisen haun</string>
   <string name="permission_prompt_title">Halutko lisää?</string>
-  <string name="recent_apps">Viimeksi käytetyt sovellukset</string>
-  <string name="recently_shortcut_label">Viimeksi käytetyt pikakuvakkeet</string>
+  <string name="recent_apps">Viimeaikaiset sovellukset</string>
+  <string name="recent_apps_filter">Piilota sovellukset, joita et käytä</string>
+  <string name="recent_close_content">"Laitetaanko tämä toiminto pois päältä nyt?
+Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
+  <string name="recent_close_title">Laita toiminto pois päältä</string>
+  <string name="recent_delete_content">"Piilotetaanko nämä sovellukset nyt?
+Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
+  <string name="recent_delete_negative">Peruuta</string>
+  <string name="recent_delete_positive">OK</string>
+  <string name="recent_delete_title">Piilota sovellukset</string>
+  <string name="recent_edit">Muokkaa</string>
+  <string name="recent_edit_done">Valmis</string>
+  <string name="recent_filter_functions">Turned off features</string>
+  <string name="recent_function">Features</string>
+  <string name="recently_shortcut_label">Viimeaikaiset pikakuvakkeet</string>
   <string name="remove_from_history">Halutko poistaa tämän kohteen hakuhistoriasta?</string>
   <string name="remove_from_history_failed">Poistaminen historiasta epäonnistui.</string>
   <string name="search_apps">Hae sovelluksia</string>
+  <string name="search_button">Hae</string>
   <string name="search_group_fold">Piilota</string>
   <string name="search_group_unfold">Lisää</string>
   <string name="search_history">Historia</string>
@@ -85,6 +99,14 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="switch_prompt_title_default">Etkö löydä mitä tarvitset?</string>
   <string name="switch_setting">Asetukset</string>
   <string name="system_search_category_title">Puhelin</string>
+  <string name="top_clicked">Usein käytetyt kohteet</string>
+  <string name="update_check">Tarkasta päivitykset</string>
+  <string name="update_right_now">Päivitä</string>
+  <string name="update_title">Päivitys saatavilla</string>
+  <string name="update_version_alpha">Alpha</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Vakaa</string>
+  <string name="updated_title">MIUI on ajan tasalla</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Yritä sanoa:</string>

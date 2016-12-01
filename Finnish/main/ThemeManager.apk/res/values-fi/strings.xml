@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_info">My Account</string>
-  <string name="account_name_not_login">Sign in</string>
-  <string name="account_unactivated">Account not activated</string>
-  <string name="all_resources">All</string>
+  <string name="account_info">Minun tili</string>
+  <string name="account_name_not_login">Kirjaudu sisään</string>
+  <string name="account_unactivated">Tili ei ole aktivoitu</string>
+  <string name="add_resource_detail_fail">Lähdettä ei voi lisätä</string>
+  <string name="all_resources">Kaikki</string>
   <string name="app_name">Teemat</string>
   <string name="apply_default_font_tip">"Keep using system's current font?"</string>
   <string name="apply_font_btn_exclude">Not now</string>

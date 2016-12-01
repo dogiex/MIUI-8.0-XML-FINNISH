@@ -233,16 +233,16 @@
         <item quantity="many">videota</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videota</item>
-        <item quantity="zero">%1$s videota</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videota</item>
-        <item quantity="few">%1$s videota</item>
-        <item quantity="many">%1$s videota</item>
+        <item quantity="other"> videota</item>
+        <item quantity="one"> video</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s kommenttia</item>
         <item quantity="one">%1$s kommentti</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other"> seuraajaa</item>
+        <item quantity="one"> seuraaja</item>
     </plurals>
     <plurals name="user_sign_limt">
         <item quantity="other">Voit syöttää %d merkkiä</item>

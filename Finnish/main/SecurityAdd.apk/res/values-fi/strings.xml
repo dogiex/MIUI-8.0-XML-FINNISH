@@ -73,7 +73,7 @@
   <string name="shield_keyboard_title">Laita painikkeet pois päältä</string>
   <string name="start">Aloita</string>
   <string name="start_game">Aloita</string>
-  <string name="support_game_booster_tips">Nopeuta suorituskykyä ja paranna pelaamisen kokemusta</string>
+  <string name="support_game_booster_tips">Käynnistä pelit käyttämällä Pelien nopeuttajaa</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="uninstall_game_count">%d sovellusta poistettu käytöstä</string>
   <string name="usage_sorted_loading_text">Pieni hetki…</string>
