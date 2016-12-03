@@ -246,7 +246,7 @@
   <string name="download_default_path_txt">Muista tämä valinta</string>
   <string name="download_dialog_default_path_invalid">Latauksien sijainti, jonka olet valinnut on viallinen. Tallennetaan oletuskansioon...</string>
   <string name="download_dialog_file_length_hint_txt">Tiedoston koko: </string>
-  <string name="download_dialog_file_length_lessthan1kb">vähemmän kuin 1K</string>
+  <string name="download_dialog_file_length_lessthan1kb">vähemmän kuin 1 Kt</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ei voitu ladata</string>
   <string name="download_dialog_file_length_nolength_txt">Pieni hetki…</string>
   <string name="download_failed">Lataus epäonnistui</string>
@@ -377,7 +377,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="media_player_error_text_unknown">Pahoittelut, tätä videota ei voi toistaa.</string>
   <string name="media_player_error_title">Videota ei voida toistaa</string>
   <string name="media_player_loading_video">Ladataan videota</string>
-  <string name="menu_addtodesk">Lisää Koti ruudulle</string>
+  <string name="menu_addtodesk">Lisää Kotiruudulle</string>
   <string name="menu_exit_nightmode">Sulje</string>
   <string name="menu_hv_swap">V/H ruutu</string>
   <string name="menu_nightmode">Yö tila</string>
@@ -439,7 +439,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuishare_account_need_activate">Weibo tili pitää linkittää sinun Mi Tilin kanssa. Kirjaudutaanko sisään Mi Tilillesi?</string>
   <string name="miuishare_account_need_login">Weibo tili pitää parittaa nykyisen Mi Tilin kanssa. Kirjaudutaanko sisään nyt?</string>
   <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">"Couldn't connect to the network"</string>
+  <string name="miuishare_no_network">Verkkoon yhdistäminen epäonnistui</string>
   <string name="miuishare_publish">Lähetä</string>
   <string name="miuishare_share_done">Jaettu</string>
   <string name="miuishare_share_editor_title">Jaa</string>
@@ -644,7 +644,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="same_folder_name_warning">Samalla nimellä oleva ryhmä on jo olemassa</string>
   <string name="save_button_text">Tallenna</string>
   <string name="save_dialog_title">Tallenna</string>
-  <string name="save_file">Tallenna %s tiedostoa</string>
+  <string name="save_file">Tallenna %s tiedosto</string>
   <string name="save_file_already_exist_alert_message">Samalla nimellä oleva tiedosto on jo olemassa, haluatko korvata tiefoston?</string>
   <string name="save_file_already_exist_alert_title">Korvataanko tiedosto?</string>
   <string name="save_form_data_confirm_message">Tämän toiminnon kytkeminen pois päältä voi vaikuttaa käyttökokemukseen.</string>
@@ -740,10 +740,10 @@ Poistutaanko tältä sivulta?"</string>
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
-  <string name="time_picker_dialog_am">AM</string>
+  <string name="time_picker_dialog_am">ap</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
-  <string name="time_picker_dialog_pm">PM</string>
+  <string name="time_picker_dialog_pm">ip</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">Aseta aika</string>
   <string name="title_bar_loading">Ladataan…</string>
