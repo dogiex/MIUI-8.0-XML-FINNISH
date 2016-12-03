@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Hae</string>
+  <string name="app_name">Haku</string>
   <string name="application_desc">Sovellus</string>
   <string name="applications_search_label">Sovellukset</string>
   <string name="apps_search_activity"/>
@@ -60,8 +60,8 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="recent_delete_title">Piilota sovellukset</string>
   <string name="recent_edit">Muokkaa</string>
   <string name="recent_edit_done">Valmis</string>
-  <string name="recent_filter_functions">Turned off features</string>
-  <string name="recent_function">Features</string>
+  <string name="recent_filter_functions">Toiminnot pois päältä</string>
+  <string name="recent_function">Toiminnot</string>
   <string name="recently_shortcut_label">Viimeaikaiset pikakuvakkeet</string>
   <string name="remove_from_history">Halutko poistaa tämän kohteen hakuhistoriasta?</string>
   <string name="remove_from_history_failed">Poistaminen historiasta epäonnistui.</string>
