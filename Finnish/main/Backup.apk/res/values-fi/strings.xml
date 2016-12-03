@@ -5,7 +5,7 @@
   <string name="account_login">Kirjaudu sisään</string>
   <string name="account_summary">Varmuuskopioi Google Tili, Mi Tili, ja muut käyttäjän tiedot</string>
   <string name="already_enable_encrypt">Salaus on jo päällä</string>
-  <string name="app_name">Varmuuskopioi</string>
+  <string name="app_name">Varmuuskopiointi</string>
   <string name="apps_and_data_item_desc">Sovellukset ja tiedot</string>
   <string name="auto_backup">Ajoita rutiinimainen varmuuskopio</string>
   <string name="auto_backup_all_user_apps">Kaikki sovellukset</string>

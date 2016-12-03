@@ -136,7 +136,7 @@
   <string name="by_email">Email</string>
   <string name="by_others">Other</string>
   <string name="by_sms">SMS</string>
-  <string name="byteShort">B</string>
+  <string name="byteShort">t</string>
   <string name="camera_360_description">Powered by Camera360</string>
   <string name="camera_needs_auto_backup_tip">Camera album must be backed up</string>
   <string name="cancel">Peruuta</string>
@@ -712,7 +712,7 @@ Take more photos of your friends!"</string>
   <string name="gallery_sync_disable_toast">Sync is off for Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
   <string name="gif_tip">GIF</string>
-  <string name="gigabyteShort">GB</string>
+  <string name="gigabyteShort">Gt</string>
   <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="have_known">Got it</string>
   <string name="hidden_album_display_name">Hidden album</string>
@@ -758,7 +758,7 @@ Take more photos of your friends!"</string>
   <string name="kick_sharer">Remove shared viewer</string>
   <string name="kick_sharer_failed">"Couldn't remove this person"</string>
   <string name="kick_sharer_successfully">This person was removed</string>
-  <string name="kilobyteShort">KB</string>
+  <string name="kilobyteShort">Kt</string>
   <string name="limit_height">Height should be &gt; 0</string>
   <string name="limit_width">Width should be &gt; 0</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
@@ -780,7 +780,7 @@ Take more photos of your friends!"</string>
   <string name="main_discard_negative_btn">Discard</string>
   <string name="main_discard_positive_btn">Save &amp; Exit</string>
   <string name="main_save_error_msg">"Couldn't save changes due to an error"</string>
-  <string name="megabyteShort">MB</string>
+  <string name="megabyteShort">Mt</string>
   <string name="menu_album_new_album">New album</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Name</string>
@@ -858,7 +858,7 @@ Take more photos of your friends!"</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
   <string name="pet_album_display_name">Pet photos</string>
-  <string name="petabyteShort">PB</string>
+  <string name="petabyteShort">Pt</string>
   <string name="photo">Photos</string>
   <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
   <string name="photo_editor_saving">Saving…</string>

@@ -39,7 +39,6 @@ Let's translate together!
 ####Currently work in progress:
 - Cit.apk
 - SecurityCenter.apk
-- Settings.apk (paths, search and minor things still unstranslated)
 
 #####Already translated strings:
 - AntiSpam.apk
@@ -94,6 +93,7 @@ Let's translate together!
 - ProxyHandler.apk
 - QuickSearchBox.apk
 - SecurityAdd.apk
+- Settings.apk
 - SettingsProvider.apk
 - Shell.apk
 - Stk.apk
