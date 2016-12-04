@@ -100,6 +100,7 @@ Let's translate together!
 - Tag.apk
 - Telecom.apk
 - TelephonyProvider.apk
+- ThemeManager.apk
 - UserDictionaryProvider.apk
 - VpnDialogs.apk
 - WallpaperCropper.apk
