@@ -233,7 +233,7 @@
   <string name="hint_description">Kuvaus</string>
   <string name="hint_what">Tapahtuman nimi</string>
   <string name="hint_where">Sijainti</string>
-  <string name="holiday_card_title">Juhlapäivä</string>
+  <string name="holiday_card_title">Juhlapyhä</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
@@ -328,7 +328,7 @@
   <string name="preferences_general_title">Kalenterinäkymän asetus</string>
   <string name="preferences_hide_declined_title">Piilota hylätyt tapahtumat</string>
   <string name="preferences_history_events">Näytä menneet tapahtumat</string>
-  <string name="preferences_holidays">Näytä juhlapäivät</string>
+  <string name="preferences_holidays">Näytä juhlapyhät</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
@@ -398,9 +398,9 @@
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI versio:</string>
   <string name="setting_about_summary">Versio:</string>
-  <string name="setting_holiday_display_desc">Juhlapäivät näkyvät kotisivulla tapahtumien alapuolella</string>
-  <string name="setting_holiday_display_title">Näytä juhlapäivät</string>
-  <string name="setting_holiday_reminder">Juhlapäivän muistutus</string>
+  <string name="setting_holiday_display_desc">Juhlapyhät näkyvät kotisivulla tapahtumien alapuolella</string>
+  <string name="setting_holiday_display_title">Näytä juhlapyhät</string>
+  <string name="setting_holiday_reminder">Juhlapyhän muistutus</string>
   <string name="setting_homepage">Kotisivun asetukset</string>
   <string name="setting_others">Lisäasetukset</string>
   <string name="setting_sms_import">导入短信事件</string>
