@@ -5,7 +5,7 @@
   <string name="DOWNLOAD_UNIT_KB">Kt</string>
   <string name="DOWNLOAD_UNIT_MB">Mt</string>
   <string name="DOWNLOAD_UNIT_TB">Tt</string>
-  <string name="Only_the_wifi">Käytä vain Wi-Fi:ä</string>
+  <string name="Only_the_wifi">Käytä vain Wi-Fi-yhteyttä</string>
   <string name="about">Tietoa</string>
   <string name="action_settings">Asetukset</string>
   <string name="ad_mark">AD</string>
@@ -24,7 +24,7 @@
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Tili</string>
   <string name="auth_fail">Lupaa ei saatu</string>
-  <string name="bind_xunlei_account">Lisää Xunlei Tili %1$s</string>
+  <string name="bind_xunlei_account">Lisää Xunlei Tili</string>
   <string name="bt_download">Lataa</string>
   <string name="bt_path_not_exit">Polkua ei ole olemassa</string>
   <string name="bt_restart_dialog_message">Käynnistetäänkö uudelleen kaikki BT kansiossa olevat lataukset?</string>
@@ -63,7 +63,7 @@
   <string name="dialog_insufficient_space_on_cache">Latausta ei voi ladata loppuun. Sisäistä tallennustilaa ei ole tarpeeksi.</string>
   <string name="dialog_insufficient_space_on_external">Latausta ei voi ladata loppuun. Ulkoisella tallennuslaitteella ei ole tarpeeksi tilaa.</string>
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen laite ei ole käytettävissä.</string>
-  <string name="dialog_msg_disabled_net">%1$s estettyä latausta nykyisessä verkossa. Mene Turvallisuus-sovellukseen napauttamalla Verkkoasetuksia.</string>
+  <string name="dialog_msg_disabled_net">%1$s estettyä latausta nykyisessä verkossa. Mene Tietoturva-sovellukseen napauttamalla Verkkoasetuksia.</string>
   <string name="dialog_queued_body">Tämä tiedosto on jonossa tulevaa latausta varten, joten se ei ole vielä saatavilla.</string>
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
@@ -230,7 +230,7 @@
   <string name="pref_sniff_shortcut">Luo pikakuvake</string>
   <string name="pref_summary_any_bytes_popup">Odota aina Wi-Fi-yhteyttä tiedostojen lataamiseen</string>
   <string name="pref_summary_enable_max_bytes_popup">Näytä ilmoitusikkuna, kun lataat mobiiliverkolla</string>
-  <string name="pref_summary_max_bytes_limit_format">Ilmoitusikkuna jos tiedostokoko ylittää %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Odota Wi-Fi-yhteyttä, jos tiedoston koko ylittää %s</string>
   <string name="pref_summary_no_limit_popup">Rajoittamaton</string>
   <string name="pref_title_enable_max_bytes_popup">Näytä datankäyttö-ilmoitus</string>
   <string name="preferences_title">Asetukset</string>
@@ -270,13 +270,13 @@
   <string name="search_favorite_title">Suosikit</string>
   <string name="search_history">Hakuhistoria</string>
   <string name="search_history_empty">Ei kohteita</string>
-  <string name="search_history_month">dd/MM</string>
+  <string name="search_history_month">d.MM.</string>
   <string name="search_history_title">Historia</string>
   <string name="search_history_today">Tänään</string>
-  <string name="search_history_year">dd/MM/yyyy</string>
+  <string name="search_history_year">d.MM.yyyy</string>
   <string name="search_history_yesterday">Eilen</string>
-  <string name="search_home_download_popup">Takaisin Latauksiin</string>
-  <string name="search_home_vif_show_more">More</string>
+  <string name="search_home_download_popup">Mene takaisin Latauksiin</string>
+  <string name="search_home_vif_show_more">Lisää</string>
   <string name="search_hot_anime">Piirretyt</string>
   <string name="search_hot_movie">Elokuvat</string>
   <string name="search_hot_recommend">Suositellut</string>
@@ -343,12 +343,12 @@
   <string name="sniff_terms_check_text">Hyväksy Palveluehdot</string>
   <string name="sniff_terms_msg">Hyväksy \"Käyttöehdot\" käyttääksesi kolmannen osapuolen hakumoottoria.</string>
   <string name="sniff_terms_msg_a">Tämän hakutoiminnon tarjoaa kolmannen osapuolen kehittäjä. Sinun täytyy hyväksyä Palveluehdot, ennen sen käyttämistä.</string>
-  <string name="sniff_terms_msg_b">Tämän hakutoiminnon tarjoaa kolmannen osapuolen kehittäjä. Sinun täytyy hyväksyä Palveluehdot, ennen sen käyttämistä. Hyväksy painamalla alla olevaa laatikkoa.</string>
+  <string name="sniff_terms_msg_b">Tämän hakutoiminnon tarjoaa kolmannen osapuolen kehittäjä. Sinun täytyy hyväksyä Palveluehdot, ennen sen käyttämistä. Hyväksy Ehdot painamalla alla olevaa valintalaatikkoa.</string>
   <string name="sniff_terms_msg_bold">Käyttöehdot</string>
   <string name="sniff_terms_msg_bold_new">Palveluehdot</string>
   <string name="sniff_terms_reject">Hylkää</string>
   <string name="sniff_terms_title">Huomi</string>
-  <string name="sniff_text_sniff_next_page">Jatka &gt;</string>
+  <string name="sniff_text_sniff_next_page">Jatka</string>
   <string name="sniff_vip_tip_speedup">Voit kokeilla nopeuden kiihdyttäjää kerran ilmaiseksi</string>
   <string name="sniff_vip_tip_vip">Xunlei voi jatkaa nopeutesi kiihdyttämistä</string>
   <string name="start_analysis">Tarkasta nyt</string>
@@ -377,7 +377,7 @@
   <string name="title_homepage_infoflow">Viimeaikaiset päivitykset</string>
   <string name="title_tips">Huomio</string>
   <string name="title_unbind_xunlei">Poista Xunlei Tilisi</string>
-  <string name="toast_only_wifi_download">Yhdistä Wi-Fi-verkkoon ladataksesi tämän kohteen</string>
+  <string name="toast_only_wifi_download">Lataa tämä tiedosto yhdistämällä Wi-Fi-verkkoon</string>
   <string name="toast_xunlei_engine_open">Xunlei latauksen kiihdyttäjä kytkettiin päälle</string>
   <string name="torrent_file_error">Tätä torrent-tiedostoa ei voitu jäsentää</string>
   <string name="torrent_no_subfile">Ei alitiedostoja tässä torrentissa</string>

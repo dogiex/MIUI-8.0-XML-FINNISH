@@ -2,13 +2,13 @@
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
         <item>Rajaton</item>
-        <item>100MB</item>
-        <item>20MB</item>
-        <item>10MB</item>
-        <item>5MB</item>
-        <item>2MB</item>
-        <item>1MB</item>
-        <item>512KB</item>
+        <item>100Mt</item>
+        <item>20Mt</item>
+        <item>10Mt</item>
+        <item>5Mt</item>
+        <item>2Mt</item>
+        <item>1Mt</item>
+        <item>512Kt</item>
         <item>Odota aina Wi-Fi-yhteyttä</item>
     </string-array>
     <string-array name="video_type">

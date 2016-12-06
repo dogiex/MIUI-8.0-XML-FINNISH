@@ -1,0 +1,8 @@
+<resources>
+	<string name="label_airplane_mode">Lentokone-tila</string>
+	<string name="label_silent_mode">Äänetön-tila</string>
+	<string name="label_reboot">Käynnistä uudelleen</string>
+	<string name="label_shutdown">Sammuta</string>
+	<string name="label_alert_reboot">Käynnistä uudelleen painamalla</string>
+	<string name="label_alert_shutdown">Sammuta laite painamalla</string>
+</resources>

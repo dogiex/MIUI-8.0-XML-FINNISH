@@ -458,7 +458,17 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
   <string name="bind_xiaomi_account_success">Mi Tili lisätty onnistuneesti</string>
   <string name="binded_xiaomi_summary">Nykyinen tili: %s</string>
-  <string name="ble_scan_notify_text">Parantaakseen sijainnin tarkkuutta järjestelmäsovellukset ja -palvelut voivat edelleen havaita Bluetooth-laitteita. Voit muuttaa tätä LINK_BEGINetsintäasetuksissaLINK_END.</string>
+  <string name="ble_scan_notify_text">Parantaakseen sijainnin tarkkuutta, järjestelmäsovellukset ja -palvelut voivat edelleen havaita Bluetooth-laitteita. Voit muuttaa tätä LINK_BEGINetsintäasetuksissaLINK_END.</string>
+  <string name="block_list_connected_devices">Yhdistetyt laitteet</string>
+  <string name="block_list_diaglog_cancle">Peruuta</string>
+  <string name="block_list_diaglog_ok">OK</string>
+  <string name="block_list_dialog_content">Tämä toiminto katkaisee laitteen “%s” yhteyden tästä laitteesta ja lisää sen estolistalle</string>
+  <string name="block_list_dialog_title">Katkaistaanko yhteys nyt?</string>
+  <string name="block_list_no_device">Estolistalla ei ole yhdistettyjä laitteita</string>
+  <string name="block_list_remove_dialog_content">Tämä laite “%s” voi yhdistää tähän hotspottiin</string>
+  <string name="block_list_remove_dialog_title">Poista “%s” estolistalta</string>
+  <string name="block_list_summary">Näytä laitteet, jotka eivät saa yhdistää tähän hotspottiin</string>
+  <string name="block_list_title">Estolista</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Yhdistetty median ääneen</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Käytä median äänille</string>
@@ -3838,6 +3848,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="testing_wifi_info">WLAN tiedot</string>
   <string name="tether_and_hotspot_title">Jaettu yhteys ja hotspot</string>
   <string name="tether_devices_management_title">Hallitse laitteita</string>
+  <string name="tether_devices_max_number">Yhdistettyjen laitteiden raja</string>
   <string name="tether_settings_disabled">Hotspot on pois päältä</string>
   <string name="tether_settings_title_all">Jaettu yhteys ja kannettava yhteyspiste</string>
   <string name="tether_settings_title_bluetooth">Jaettu Bluetooth-yhteys</string>

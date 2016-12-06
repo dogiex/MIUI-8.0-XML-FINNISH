@@ -29,6 +29,8 @@
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
   <string name="alert_warning">Säävaroitukset</string>
+  <string name="already_voted">Olet jo äänestänyt</string>
+  <string name="already_voted_toast">Olet jo valinnut tämän päivän</string>
   <string name="app_name">Sää</string>
   <string name="aqi_data_source">tarjoaja Caiyun Weather</string>
   <string name="aqi_desc">Ilmanlaatuindeksi</string>
@@ -56,6 +58,7 @@
   <string name="button_exit">Poistu</string>
   <string name="button_not_allow">Peruuta</string>
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Pieni hetki…</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
@@ -68,11 +71,12 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
   <string name="daily_forcast_whirl_wind">Pyörremyrsky</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+  <string name="daily_forecast_detail">Ennusteen yksityiskohdat</string>
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
-  <string name="edit_alert_city_title"/>
-  <string name="edit_city">Muokkaa</string>
+  <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
+  <string name="edit_city">Muokkaa kaupunkia</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Tämä sovellus tarvitsee internet-yhteyden ja pääsyn sijaintiisi toimiakseen normaalisti.</string>
   <string name="first_start_network_title">Internet-yhteys ja sijainnin käyttö</string>
@@ -118,6 +122,7 @@
 Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="location_management">Sijainnit</string>
   <string name="location_tag">Paikanna</string>
+  <string name="lunar_calendar"/>
   <string name="menu_add_city">Lisää tai poista kaupunki</string>
   <string name="menu_location">Sijainnit</string>
   <string name="more_details">Lisää tietoa</string>
@@ -125,6 +130,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="network_unavailable">Verkkoon ei saada yhteyttä.</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Yritä uudelleen</string>
+  <string name="no_vote_num">%1$s henkilöä | </string>
+  <string name="no_vote_ratio">ei %1$s%%</string>
   <string name="open">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
   <string name="pressure_connect">%1$s mb</string>
@@ -159,6 +166,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="total_voted_num_text">%1$s henkilöä on äänestänyt</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Ylihuomenna: %1$s</string>
   <string name="traffic_control_today_numbers">Tänään: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Huomenna: %1$s</string>
@@ -183,4 +191,6 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="yes_vote_num"> | %1$s henkilöä</string>
+  <string name="yes_vote_ratio">kyllä %1$s%%</string>
 </resources>
