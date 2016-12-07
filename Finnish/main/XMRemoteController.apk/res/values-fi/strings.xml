@@ -516,7 +516,7 @@ wait a moment after the action."</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_btn_return">Back</string>
   <string name="passport_button_cancel">Cancel</string>
-  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
+  <string name="passport_change_account">Change account</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>
@@ -580,7 +580,7 @@ To activate your account, follow the
   <string name="passport_login_notice">Signing in…</string>
   <string name="passport_login_short">Sign in</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">Sign in with email address or Mi Account ID</string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -600,7 +600,7 @@ To activate your account, follow the
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">Use email address</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Use your email address or an alternate number&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways">Use your email address or an alternate number</string>
   <string name="passport_reg_type_other_ways_title">Create a Mi Account</string>
   <string name="passport_reg_using_other_phone">Use alternate phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
@@ -610,7 +610,7 @@ To activate your account, follow the
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
+  <string name="passport_register_by_email">Create an account using email address</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_reject_recycle_account">Nope</string>

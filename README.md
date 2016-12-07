@@ -101,6 +101,7 @@ Let's translate together!
 - Telecom.apk
 - TelephonyProvider.apk
 - ThemeManager.apk
+- TouchAssistant.apk
 - UserDictionaryProvider.apk
 - VpnDialogs.apk
 - WallpaperCropper.apk

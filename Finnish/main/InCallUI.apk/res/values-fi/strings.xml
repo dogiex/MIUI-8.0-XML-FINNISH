@@ -113,6 +113,7 @@
   <string name="incall_call_type_label_sip">Internet-puhelu</string>
   <string name="incall_error_supp_service_conference">Puheluja ei voi yhdistää.</string>
   <string name="incall_error_supp_service_hangup">Puheluja ei voi vapauttaa.</string>
+  <string name="incall_error_supp_service_hold">Puheluja ei voi laittaa pitoon.</string>
   <string name="incall_error_supp_service_reject">Puhelua ei voi hylätä.</string>
   <string name="incall_error_supp_service_separate">Puhelua ei voi erottaa.</string>
   <string name="incall_error_supp_service_switch">Puhelua ei voi vaihtaa.</string>

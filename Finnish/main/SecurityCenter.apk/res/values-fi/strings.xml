@@ -912,6 +912,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="path_securitycenter">Järjestelmäsovellukset/Tietoturva</string>
   <string name="path_securitycenter_settings">Järjestelmäsovellukset/Tietoturva</string>
   <string name="pay_charge">Osta lisää dataa</string>
+  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Asenna USB:n kautta</string>
   <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
   <string name="per_month_pkg_traffic_settings">Aseta datan raja</string>
@@ -1594,7 +1595,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
   <string name="traffic_over_purchase_body">Tap to view details.</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.
+If you go over your plans data usage limit, your carrier may charge you additional fees.
+
+Tap to top up your balance."</string>
   <string name="traffic_over_purchase_title">Data limit exceeded</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>

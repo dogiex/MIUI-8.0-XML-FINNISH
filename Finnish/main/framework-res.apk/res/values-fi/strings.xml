@@ -114,7 +114,7 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="bugreport_title">Luo virheraportti</string>
   <string name="byteShort">t</string>
   <string name="cancel">Peruuta</string>
-  <string name="candidates_style">&lt;u&gt;kandidaatit&lt;/u&gt;</string>
+  <string name="candidates_style">kandidaatit</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Sovellus voi asentaa ohjelmia tehdäkseen sisällöstään esteettömämmän.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Sisältää henkilökohtaisia tietoja, kuten luottokortin numeroita ja salasanoja.</string>
   <string name="capability_desc_canRequestTouchExploration">Kosketetut kohteet sanotaan ääneen ja ruudulla voi liikkua eleiden avulla.</string>

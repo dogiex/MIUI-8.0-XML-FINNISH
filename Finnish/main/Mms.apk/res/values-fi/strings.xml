@@ -660,7 +660,7 @@ Attempt made: %s."</string>
   <string name="url_fraud_risky_alert">"The website you are trying to visit may be dangerous. Visit anyway?
 %s"</string>
   <string name="url_fraud_title">Website can be fake</string>
-  <string name="url_fraud_visit">&lt;u&gt;Visit anyway&lt;/u&gt;</string>
+  <string name="url_fraud_visit">Visit anyway</string>
   <string name="url_result_safe">This URL is safe</string>
   <string name="url_scanning">Checking URL…</string>
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>

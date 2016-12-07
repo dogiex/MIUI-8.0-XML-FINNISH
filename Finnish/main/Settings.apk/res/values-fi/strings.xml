@@ -1452,8 +1452,8 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="force_touch_enable">Laita 3D Kosketus päälle</string>
   <string name="force_touch_enable_tips">Paina sovelluskuvakkeita pohjaan nähdäksesi pikavalikon sovellukselle, kun 3D Kosketus on päällä.</string>
   <string name="forget">Unohda</string>
-  <string name="forget_password_button_text">&lt;u&gt;Unohdin salasanani&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Unohtuiko kuvio?&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Unohdin salasanani</string>
+  <string name="forget_pattern">Unohtuiko kuvio?</string>
   <string name="forget_privacy_password_setting">Lisää Mi Tili</string>
   <string name="forget_privacy_password_summary">Käytä Mi Tiliäsi salasanan palauttamiseen</string>
   <string name="forget_wifi_message">Laitteesi ei enää yhdistä automaattisesti tähän verkkoon.</string>
@@ -2352,7 +2352,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="owner_info_settings_edit_text_hint">Esim. Rikun android</string>
   <string name="owner_info_settings_status">%1$d/%2$d</string>
   <string name="owner_info_settings_summary">Ei mitään</string>
-  <string name="owner_info_settings_title">Lukitusnäytön teksti</string>
+  <string name="owner_info_settings_title">Lukitusnäytön allekirjoitus</string>
   <string name="packages_subtitle">Sisältyvät paketit</string>
   <string name="page_layout_1">Sunnuntai, 16 Elokuu</string>
   <string name="page_layout_10">Asetukset</string>
@@ -2553,7 +2553,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="path_tether_settings_title_usb">Asetukset/Lisää/Internetin jakaminen USB:n kautta</string>
   <string name="path_theme_settings">Asetukset/Teemat</string>
   <string name="path_toggle_position_settings">Asetukset/Ilmoitukset &amp; ilmoituspalkki/Nappuloiden sijainnit</string>
-  <string name="path_touch_assistant_settings">Asetukset/Lisäasetukset/Kosketuksen assistentti</string>
+  <string name="path_touch_assistant_settings">Asetukset/Lisäasetukset/Pikavalikko</string>
   <string name="path_touch_sensitive_title">Asetukset/Näyttö/Hansikas-tila</string>
   <string name="path_trusted_credentials">Asetukset/Lisäasetukset/Yksityisyys/Luotetut todennustiedot</string>
   <string name="path_tts_settings_title">Asetukset/Lisäasetukset/Kieli &amp; syöttötapa/Tekstistä puheeksi -toisto</string>
@@ -3259,7 +3259,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Teemat</string>
   <string name="search_toggle_position">Nappuloiden sijainnit</string>
-  <string name="search_touch_assistant">Kosketuksen assistentti</string>
+  <string name="search_touch_assistant">Pikavalikko</string>
   <string name="search_touch_sensitive_title">Hansikas-tila</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Teksti puheeksi -toisto</string>
@@ -3268,7 +3268,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_user_agreement">Palveluehdot</string>
   <string name="search_user_dict_settings_title">Henkilökohtainen sanakirja</string>
   <string name="search_vibrate_in_silent_title">Käytä värinää äänettömässä tilassa</string>
-  <string name="search_vibrate_on_touch_title">Käytä värinää kosketettaessa touch</string>
+  <string name="search_vibrate_on_touch_title">Käytä värinää kosketettaessa</string>
   <string name="search_vibrate_when_ringing_title">Värinä myös puheluille</string>
   <string name="search_virtual_sim">Kansainvälinen mobiilidata</string>
   <string name="search_vpn">VPN</string>
@@ -3878,7 +3878,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="total_memory">Muistia yhteensä</string>
   <string name="total_size">%s yhteensä</string>
   <string name="total_size_label">Yhteensä</string>
-  <string name="touch_assistant">Kosketuksen assistentti</string>
+  <string name="touch_assistant">Pikavalikko</string>
   <string name="touch_filtered_warning">Sovellus peittää lupapyynnön, joten Asetukset ei voi vahvistaa valintaasi.</string>
   <string name="touch_sensitive_summary">Tee näytöstä erittäin kosketusherkkä painalluksille</string>
   <string name="touch_sensitive_title">Hansikas-tila</string>

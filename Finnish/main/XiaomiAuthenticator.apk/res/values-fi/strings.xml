@@ -74,7 +74,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
   <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong,you can enter %d times more&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">Password wrong, you can enter %d times more</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded.</string>
@@ -85,12 +85,12 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_retry_text">Reset pattern password</string>
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_close_label">Close</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockpattern_tutorial_jump_label">Skip</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text">Forgot pattern password</string>
   <string name="login">sign in</string>
   <string name="main_preference_screen_title">Settings</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>

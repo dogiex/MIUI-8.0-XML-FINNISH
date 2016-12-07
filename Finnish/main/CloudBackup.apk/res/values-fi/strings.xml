@@ -38,10 +38,10 @@
   <string name="cloud_app_restore_wifi_prompt">Palauttaaksesi varmuuskopion Mi Pilvestä, täytyy sinun yhdistää laitteesi Wi-Fi verkkoon.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Mi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon: 
-*\u0009\u0009\u0009\u0009Sovellukset, Koti-näytön asettelu ja taustakuvat 
-*\u0009\u0009\u0009\u0009Hälytykset, kello, ja aika-asetukset 
-*\u0009\u0009\u0009\u0009Ilmoituksien asetukset 
-*\u0009\u0009\u0009\u0009MIUI ja järjestelmäasetukset 
+*Sovellukset, Koti-näytön asettelu ja taustakuvat 
+*Hälytykset, kello, ja aika-asetukset 
+*Ilmoituksien asetukset 
+*MIUI ja järjestelmäasetukset 
 Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Käytä sitä varten paikallista varmuuskopiointia."</string>
   <string name="cloud_back_up_frequence_choice_title">Varmuuskopion ajastus</string>
   <string name="cloud_back_up_frequence_long">Joka 7 päivä</string>
@@ -70,7 +70,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="confirm_restore">Palauta</string>
   <string name="confirm_restore_summary">Koti-näyttö käynnistyy uudelleen ja sovellukset ladataan automaattisesti laitteen ollessa yhteydessä Wi-Fi-verkkoon</string>
   <string name="confirm_restore_title">Palauta</string>
-  <string name="customization">&lt;u&gt;Kustomoi&lt;/u&gt;</string>
+  <string name="customization">Kustomoi</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Herätyskello</string>
   <string name="desktop_downloading">Ladataan</string>
