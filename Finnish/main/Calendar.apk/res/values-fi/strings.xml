@@ -62,7 +62,7 @@
   <string name="birthday_event_description_day_after_tomorrow">Ylihuomenna</string>
   <string name="birthday_event_description_day_before_yesterday">Toissapäivänä</string>
   <string name="birthday_event_description_days_ago">%1$s päivää sitten</string>
-  <string name="birthday_event_description_days_later">%1$s päivän päästä</string>
+  <string name="birthday_event_description_days_later">%1$s päivän kuluttua</string>
   <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>

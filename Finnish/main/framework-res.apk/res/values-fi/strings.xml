@@ -128,7 +128,7 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="car_mode_disable_notification_message">Poistu autotilasta koskettamalla tätä.</string>
   <string name="car_mode_disable_notification_title">Autotila käytössä</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
-  <string name="cfTemplateForwardedTime">{0}: {1} {2} sekunnin päästä</string>
+  <string name="cfTemplateForwardedTime">{0}: {1} {2} sekunnin kuluttua</string>
   <string name="cfTemplateNotForwarded">{0}: ei siirretty</string>
   <string name="cfTemplateRegistered">{0}: ei siirretty</string>
   <string name="cfTemplateRegisteredTime">{0}: ei siirretty</string>

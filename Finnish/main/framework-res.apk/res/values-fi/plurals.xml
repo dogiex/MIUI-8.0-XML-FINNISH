@@ -9,16 +9,16 @@
         <item quantity="one">Edellisen %d päivän aikana</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d sekuntia</item>
-        <item quantity="one">1 sekunti</item>
+        <item quantity="other">%d sekunnin</item>
+        <item quantity="one">1 sekunnin</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d minuuttia</item>
-        <item quantity="one">1 minuutti</item>
+        <item quantity="other">%d minuutin</item>
+        <item quantity="one">1 minuutin</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d tuntia</item>
-        <item quantity="one">1 tunti</item>
+        <item quantity="other">%d tunnin</item>
+        <item quantity="one">1 tunnin</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi-verkkoja käytettävissä</item>

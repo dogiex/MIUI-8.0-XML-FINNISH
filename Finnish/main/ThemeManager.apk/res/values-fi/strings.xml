@@ -89,8 +89,8 @@
   <string name="loading">Pieni hetki…</string>
   <string name="loading_resource_detail_fail">Lähdettä ei voi ladata</string>
   <string name="loading_resource_detail_info">Pieni hetki…</string>
-  <string name="local_resouce_creator_name">Developer: %1$s</string>
-  <string name="lockscreen_magazine_subscribe">%1$s followers</string>
+  <string name="local_resouce_creator_name">Kehittäjä: %1$s</string>
+  <string name="lockscreen_magazine_subscribe">%1$s seuraavaa</string>
   <string name="lockscreen_magazine_summary">Kategoriat</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s taustakuvaa</string>
   <string name="lockscreen_magazine_system_title">Laitteessa</string>
@@ -144,7 +144,7 @@
   <string name="resource_comment_average_score">Arvosana</string>
   <string name="resource_comment_bad_comments">Negatiivinen</string>
   <string name="resource_comment_current_version">Nykyinen versio</string>
-  <string name="resource_comment_date">%2$02p.%1$02p</string>
+  <string name="resource_comment_date">%2$02d.%1$02d</string>
   <string name="resource_comment_edit_comment">Lisää kommentteja</string>
   <string name="resource_comment_edit_comment_waiting">Tarkistetaan historiaa…</string>
   <string name="resource_comment_edit_text_default">Kirjoita kommentti</string>
@@ -298,7 +298,7 @@
   <string name="resource_trial_end_message">Kokeiluaika %1$s vanhentunut. Voit ostaa sen, jos tykkäsit siitä.</string>
   <string name="resource_trial_end_purchase">Osta</string>
   <string name="resource_trial_end_restore">Lopeta kokeilu</string>
-  <string name="resource_trial_end_time">(trial until %1$s)</string>
+  <string name="resource_trial_end_time">(kokeilu %1$s asti)</string>
   <string name="resource_trial_end_time_format">hh:mm d. MMM</string>
   <string name="resource_trial_end_title">Kokeiluaika vanhentunut</string>
   <string name="resource_trial_fail_cancel">OK</string>

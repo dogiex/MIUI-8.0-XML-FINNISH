@@ -43,7 +43,7 @@
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Olet syöttänyt lukituksenpoiston avaamiskoodin väärin %d kertaa. %d epäonnistumisen jälkeen, puhelin palautetaan tehdasasetuksille ja kaikki käyttäjätiedot menetetään.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Olet syöttänyt salasanan väärin %d kertaa. %d epäonnistumisen jälkeen, sinua kysytään avaamaan lukitus kirjautumalla Mi Tiliisi.
 
- Yritä uudelleen %d sekunnin päästä."</string>
+ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Olet yrittänyt avata puhelimen väärin %d kertaa. Puhelin palautetaan nyt tehdasasetuksille.</string>
   <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_invalid_input">Käyttäjänimi tai salasana on väärin.</string>
@@ -56,8 +56,8 @@
   <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
   <string name="open_wifi_settings">Avaa verkkoyhteydet</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
-  <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %s minuutin päästä</string>
-  <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %s sekunnin päästä</string>
+  <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %s minuutin kuluttua</string>
+  <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %s sekunnin kuluttua</string>
   <string name="unlock_sim_string">Avaa SIM</string>
   <string name="unlock_string">Avaa</string>
   <string name="unlocking_sim_card">Avataan SIM-korttia</string>

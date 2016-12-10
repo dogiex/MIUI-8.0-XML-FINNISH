@@ -29,16 +29,16 @@
         <item quantity="other">Puoli tuntia sitten</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Tunnin päästä</item>
+        <item quantity="other">Tunnin kuluttua</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Puolen tunnin päästä</item>
+        <item quantity="other">Puolen tunnin kuluttua</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">Tunnin päästä</item>
+        <item quantity="other">Tunnin kuluttua</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Puolen tunnin päästä</item>
+        <item quantity="other">Puolen tunnin kuluttua</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minuuttia sitten</item>
@@ -49,11 +49,11 @@
         <item quantity="one">Minuutti sitten</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d min päästä</item>
-        <item quantity="one">Minuutin päästä</item>
+        <item quantity="other">%d min kuluttua</item>
+        <item quantity="one">Minuutin kuluttua</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d minuutin päästä</item>
-        <item quantity="one">Minuutin päästä</item>
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">Minuutin kuluttua</item>
     </plurals>
 </resources>
