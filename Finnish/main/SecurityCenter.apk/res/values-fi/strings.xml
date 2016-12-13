@@ -724,7 +724,7 @@ Huippu: %1$s%2$s | %3$s käytetty"</string>
   <string name="menu_item_about_content">Versio %s</string>
   <string name="menu_item_about_summary">Versio %s</string>
   <string name="menu_item_about_title">Tietoa</string>
-  <string name="menu_item_app_details">Yksityiskohta</string>
+  <string name="menu_item_app_details">Tiedot</string>
   <string name="menu_item_app_permissions_control">Käyttöoikeuden hallinta</string>
   <string name="menu_item_control_app_permissions">Kysy lupaasi ennen kuin sallit sovelluksien lukea yhteystietosi, katsoa puheluhistoriaasi, muuttaa järjestelmän asetuksia, tai käyttää kameraa tai muita laitteen resursseja</string>
   <string name="menu_item_force_stop">Pakkolopetus</string>
@@ -892,7 +892,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="package_change_notification_title">Säädä datan raja automaattisesti</string>
   <string name="package_setted_error_notification_summary">Näytä datan käytön yksityiskohdat napauttamalla.</string>
   <string name="package_setted_error_notification_titile">Datapaketin asettaminen epäonnistui</string>
-  <string name="packages_subtitle">Mukana olevat paketit</string>
+  <string name="packages_subtitle">Sisältyvät paketit</string>
   <string name="passwordIncorrect">Käyttäjänimi tai salasana on väärin</string>
   <string name="password_promotion_button_text">Selvä</string>
   <string name="password_promotion_message">Sovelluslukko päivitetään Yksityisyydensuojan salasanaksi. Voit käyttää nykyistä Mi Tiliäsi palauttaaksesi sen.</string>
@@ -1477,7 +1477,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="there_is_no">Kaikki näyttää hyvältä, tule takaisin myöhemmin</string>
   <string name="third_application">Asennetut sovellukset</string>
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
-  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h">%.1ft</string>
   <string name="timeshow_h_int">%dt</string>
   <string name="timeshow_h_m">%1$dt %2$dm</string>
   <string name="timeshow_m">%dm</string>
