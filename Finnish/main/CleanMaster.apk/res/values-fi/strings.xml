@@ -81,7 +81,7 @@
   <string name="button_text_unselect_pic">Poista valinta</string>
   <string name="button_text_view_detail">Tiedot</string>
   <string name="button_text_view_file">Tiedosto</string>
-  <string name="buy_a_new_phone">Tallennustilan Päivitys</string>
+  <string name="buy_a_new_phone">Hanki lisää tallennustilaa</string>
   <string name="buy_immediately">Osta</string>
   <string name="buy_traffic_pack">Osta lisää dataa</string>
   <string name="byteShort">t</string>
@@ -206,7 +206,7 @@
   <string name="hints_garbage_cleanup_result_danger">Puhdista sisäinen muisti</string>
   <string name="hints_garbage_cleanup_result_risk">Puhdista sisäinen muisti</string>
   <string name="hints_garbage_cleanup_result_safe">Kaikki näyttää hyvältä</string>
-  <string name="hints_garbage_handle_item_content">%1$d asiaa, %2$s</string>
+  <string name="hints_garbage_handle_item_content">%1$d kohdetta, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Tyhjä</string>
   <string name="hints_header_left">%d</string>
   <string name="hints_install_apps_else">Käytetty %s</string>

@@ -462,9 +462,10 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="block_list_connected_devices">Yhdistetyt laitteet</string>
   <string name="block_list_diaglog_cancle">Peruuta</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">Tämä toiminto katkaisee laitteen “%s” yhteyden tästä laitteesta ja lisää sen estolistalle</string>
   <string name="block_list_dialog_title">Katkaistaanko yhteys nyt?</string>
+  <string name="block_list_mtk_dialog_content">ämä toiminto katkaisee laitteen “%s” yhteyden tästä laitteesta</string>
   <string name="block_list_no_device">Estolistalla ei ole yhdistettyjä laitteita</string>
+  <string name="block_list_qcom_dialog_content">Tämä toiminto katkaisee laitteen “%s” yhteyden tästä laitteesta ja lisää sen estolistalle</string>
   <string name="block_list_remove_dialog_content">Tämä laite “%s” voi yhdistää tähän hotspottiin</string>
   <string name="block_list_remove_dialog_title">Poista “%s” estolistalta</string>
   <string name="block_list_summary">Näytä laitteet, jotka eivät saa yhdistää tähän hotspottiin</string>
@@ -4142,7 +4143,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="user_exit_guest_dialog_remove">Poista</string>
   <string name="user_exit_guest_title">Poista vieras</string>
   <string name="user_experience_program">Käyttäjäkokemusohjelma</string>
-  <string name="user_experience_program_summary">Auta parantamaan MIUI:ta lähettämällä anonyymina käyttötietoja</string>
+  <string name="user_experience_program_summary">Auta parantamaan MIUI:ta lähettämällä nimettömänä käyttötietoja</string>
   <string name="user_experience_program_title">Käyttäjäkokemusohjelma</string>
   <string name="user_guest">Vieras</string>
   <string name="user_image_choose_photo">Valitse kuva galleriasta</string>

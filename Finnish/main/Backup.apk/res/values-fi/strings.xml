@@ -155,7 +155,9 @@ http://www.miliao.com
   <string name="notif_restore_content">Palautetaan käyttäjän tiedot</string>
   <string name="notif_restore_title">Palauta tiedot</string>
   <string name="notif_trans_receiving_completed">Tiedot vastaanotettiin onnistuneesti</string>
+  <string name="notif_trans_receiving_failed">Tietojen vastaanottaminen epäonnistui</string>
   <string name="notif_trans_sending_completed">Tiedot lähetettiin onnistuneesti</string>
+  <string name="notif_trans_sending_failed">Tietojen lähettäminen epäonnistui</string>
   <string name="page_loading">Hetki pieni…</string>
   <string name="progress_backup_hint">Varmuuskopioidaan…</string>
   <string name="progress_restore_hint">Palautetaan…</string>

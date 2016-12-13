@@ -673,7 +673,7 @@ Attempt made: %s."</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
-  <string name="voip_enable">Mi Message and Voice</string>
+  <string name="voip_enable">Mi Viesti ja Ääni</string>
   <string name="voip_enable_popup_msg">"Make calls to other MIUI devices without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
   <string name="voip_enable_popup_msg2">Privacy Policy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
@@ -681,6 +681,6 @@ Attempt made: %s."</string>
   <string name="wild_msg_processing">Working…</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="xiaomi_service_number">Service number</string>
-  <string name="yellowpage_recommend_msg">"Try out MIUI's SMS message features"</string>
+  <string name="yellowpage_recommend_msg">Katso MIUI:n Viestien toimintoja</string>
   <string name="yes">OK</string>
 </resources>

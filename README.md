@@ -90,6 +90,7 @@ Let's translate together!
 - NfcNci.apk
 - PackageInstaller.apk
 - PrintSpooler.apk
+- Provision.apk
 - ProxyHandler.apk
 - QuickSearchBox.apk
 - SecurityAdd.apk

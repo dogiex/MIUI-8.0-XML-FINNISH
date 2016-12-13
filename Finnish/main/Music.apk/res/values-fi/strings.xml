@@ -474,8 +474,8 @@
   <string name="notification_recommend_title">Important notifications</string>
   <string name="notification_setting">Notification settings</string>
   <string name="notification_title_no_song">"Check out what everyone's listening to!"</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Poistetaanko soittolistalta?</string>
-  <string name="nowplaying_menu_item_delete">Poista</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Tyhjennetäänkö nykyinen soittolista?</string>
+  <string name="nowplaying_menu_item_delete">Tyhjennä</string>
   <string name="ok">OK</string>
   <string name="one_month">1 month</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>

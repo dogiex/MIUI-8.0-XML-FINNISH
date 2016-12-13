@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these people?"</item>
-        <item quantity="one">"Don't show this person?"</item>
-    </plurals>
     <plurals name="more_face">
         <item quantity="other">Yhteensä %d kuvaa</item>
         <item quantity="one">Yhteensä %d kuva</item>
@@ -69,20 +65,20 @@
         <item quantity="one">%1$d item is waiting to be backed up</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Verkkovirhe. %1$d kohdetta odottaa varmuuskopiointia.</item>
+        <item quantity="one">Verkkovirhe. %1$d kohde odottaa varmuuskopiointia.</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Synkronointi on pois päältä. %1$d kohdetta odottaa varmuuskopiointia.</item>
+        <item quantity="one">Synkronointi on pois päältä. %1$d kohde odottaa varmuuskopiointia.</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">%1$d kohdetta ei voitu varmuuskopioida</item>
-        <item quantity="one">%1$d kohdetta ei voitu varmuuskopioida</item>
+        <item quantity="other">%1$d kohdetta ei voida varmuuskopioida</item>
+        <item quantity="one">%1$d kohdetta ei voida varmuuskopioida</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Laitteen tallennustilaa ei ole tarpeeksi. %1$d kohdetta odottaa varmuuskopiointia.</item>
+        <item quantity="one">Laitteen tallennustilaa ei ole tarpeeksi. %1$d kohde odottaa varmuuskopiointia.</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos waiting to back up</item>
@@ -93,12 +89,12 @@
         <item quantity="one">1 video waiting to back up</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items waiting to back up</item>
-        <item quantity="one">1 item waiting to back up</item>
+        <item quantity="other">%1$d kohdetta odottaa varmuuskopiointia</item>
+        <item quantity="one">1 kohde odottaa varmuuskopiointia</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Backing up %1$d photos…</item>
-        <item quantity="one">Backing up photo…</item>
+        <item quantity="other">Varmuuskopioidaan %1$d kuvaa…</item>
+        <item quantity="one">Varmuuskopioidaan kuva…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Backing up %1$d videos…</item>

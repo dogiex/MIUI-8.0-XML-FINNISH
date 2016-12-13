@@ -369,8 +369,8 @@
   <string name="xiaomi_bytes_unit">%1$st</string>
   <string name="xiaomi_connect_download_manager_fail">Yhdistäminen Lataustenhallintaan epäonnistui, tarkasta Lataustenhallinnan tila Asetuksista Asennetut sovellukset.</string>
   <string name="xiaomi_external_storage_unavailable">Tallennustila ei saatavilla, tarkasta SD-kortti.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKt</string>
-  <string name="xiaomi_megabytes_unit">%1$sMt</string>
+  <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
+  <string name="xiaomi_megabytes_unit">%1$s Mt</string>
   <string name="xiaomi_update_dialog_message">"Saatavilla versio %1$s
 Koko: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Saatavilla versio %1$s

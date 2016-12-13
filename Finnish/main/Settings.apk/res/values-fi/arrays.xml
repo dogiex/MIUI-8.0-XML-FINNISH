@@ -546,6 +546,13 @@
         <item>1.5 sekuntia</item>
         <item>2 sekuntia</item>
     </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>Ei mitään</item>
+        <item>Nopean kuvan tila (valitse Kamerassa)</item>
+        <item>Nopean kuvan tila (ota kuva)</item>
+        <item>Nopean kuvan tila (ota video)</item>
+        <item>Julkisen liikenteen pikakuvakkeet</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunti</item>
         <item>2 sekuntia</item>

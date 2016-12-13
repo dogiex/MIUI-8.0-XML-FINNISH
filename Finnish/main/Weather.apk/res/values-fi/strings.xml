@@ -29,8 +29,8 @@
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
   <string name="alert_warning">Säävaroitukset</string>
-  <string name="already_voted">Olet jo äänestänyt</string>
-  <string name="already_voted_toast">Olet jo valinnut tämän päivän</string>
+  <string name="already_voted">Äänestetty</string>
+  <string name="already_voted_toast">Olet jo äänestänyt tänään</string>
   <string name="app_name">Sää</string>
   <string name="aqi_data_source">tarjoaja Caiyun Weather</string>
   <string name="aqi_desc">Ilmanlaatuindeksi</string>
@@ -131,7 +131,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="no_vote_num">%1$s henkilöä | </string>
-  <string name="no_vote_ratio">ei %1$s%%</string>
+  <string name="no_vote_ratio">Vastaan %1$s%%</string>
   <string name="open">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
   <string name="pressure_connect">%1$s mb</string>
@@ -192,5 +192,5 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="yes_vote_num"> | %1$s henkilöä</string>
-  <string name="yes_vote_ratio">kyllä %1$s%%</string>
+  <string name="yes_vote_ratio">Puolesta %1$s%%</string>
 </resources>

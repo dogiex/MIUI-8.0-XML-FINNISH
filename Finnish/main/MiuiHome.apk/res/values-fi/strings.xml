@@ -45,8 +45,10 @@
   <string name="cant_remove_retained_app">Sovellusta ei voitu poistaa</string>
   <string name="cant_remove_system_app">Järjestelmäsovellusta ei voi poistaa</string>
   <string name="change_wallpaper">Vaihda</string>
-  <string name="children_folder_title">Lapset</string>
+  <string name="children_folder_title">Lapsi -tila</string>
   <string name="children_mode_exit">Poistu</string>
+  <string name="children_mode_tips_message">Lapsi -tilassa ei ole nyt sovelluksia. Valitse sovellukset, jotka haluat lisätä.</string>
+  <string name="children_mode_tips_title">Valitse sovellukset</string>
   <string name="children_mode_tips">Hallitaksesi pääsyä sovelluksiin, palaa Asetuksiin.</string>
   <string name="choose_wallpaper">Valitse taustakuva</string>
   <string name="chooser_wallpaper">Valitse uusi taustakuva</string>
@@ -99,7 +101,7 @@
   <string name="free_style_edit_bar_select_app">Valitse sovellus</string>
   <string name="free_style_edit_bottom_empty_tip">Muokkaa napauttamalla suorakulmiota</string>
   <string name="free_style_edit_drawer">Piirtäjä</string>
-  <string name="free_style_edit_move_tip">Kosketa &amp; pidä siirtääksesi kohdetta</string>
+  <string name="free_style_edit_move_tip">Siirrä kohdetta pitämällä sitä pohjassa</string>
   <string name="free_style_edit_tab_free_component">Objektit</string>
   <string name="free_style_edit_tab_shortcut">Pikakuvakkeet</string>
   <string name="free_style_edit_tab_widget">Widgetit</string>
@@ -150,7 +152,7 @@
   <string name="invalid_contact_shortcut">Yhteystieto ei kelpaa</string>
   <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
   <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
-  <string name="launcher_not_exist">Koti on pysähtynyt, palaa takaisin kotiin ja yritä uudelleen.</string>
+  <string name="launcher_not_exist">Tapahtui virhe, mene takaisin Kotinäytölle ja yritä uudelleen.</string>
   <string name="like">Suosikki</string>
   <string name="liked">Lisätty suosikkeihin</string>
   <string name="loading_desktop">Pieni hetki…</string>
@@ -211,10 +213,11 @@
   <string name="preferences_title">Käynnistimen asetukset</string>
   <string name="process"/>
   <string name="recommend_apps_default_title">Tyhjä</string>
-  <string name="recommend_apps_notice">Suositellut sovellukset</string>
-  <string name="recommend_apps_switch_title">Suositellut sovellukset</string>
-  <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
-  <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="recommend_apps_notice">Mainostetut sovellukset</string>
+  <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
+  <string name="recommend_apps_tips">Tämä toiminto vaatii internet-yhteyden toimiakseen normaalisti. Laita tämä toiminto pois päältä koskettamalla tämän kansion nimeä.</string>
+  <string name="reset_scene_prompt">Näyttö palautetaan oletus ulkoasuksi.</string>
+  <string name="screen_locked_toast">Kotinäytön ulkoasu on lukittu</string>
   <string name="screen_number">%d näyttö</string>
   <string name="scroll_tip_format_when_announce_accessibility">sivu %1$d, %2$d sovellusta</string>
   <string name="select_all">Valitse kaikki</string>

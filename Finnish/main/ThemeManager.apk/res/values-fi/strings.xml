@@ -144,7 +144,7 @@
   <string name="resource_comment_average_score">Arvosana</string>
   <string name="resource_comment_bad_comments">Negatiivinen</string>
   <string name="resource_comment_current_version">Nykyinen versio</string>
-  <string name="resource_comment_date">%2$02d.%1$02d</string>
+  <string name="resource_comment_date">%2$02d.%1$02d.</string>
   <string name="resource_comment_edit_comment">Lisää kommentteja</string>
   <string name="resource_comment_edit_comment_waiting">Tarkistetaan historiaa…</string>
   <string name="resource_comment_edit_text_default">Kirjoita kommentti</string>

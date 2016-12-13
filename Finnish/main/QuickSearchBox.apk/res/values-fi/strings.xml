@@ -73,13 +73,13 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="search_in_app_store">Hae Mi Sovelluskaupasta</string>
   <string name="search_in_web">Hae verkosta</string>
   <string name="search_keyword_quicksearchbox">Hae</string>
-  <string name="search_path_quicksearchbox">Asetukset/Järjestelmäsovellukset/Hae</string>
+  <string name="search_path_quicksearchbox">Asetukset/Järjestelmäsovellukset/Haku</string>
   <string name="search_settings">Hae asetuksia</string>
   <string name="search_sources">Haettavat kohteet</string>
   <string name="search_sources_summary">Valitse, mitä laitteesta Haetaan</string>
   <string name="search_suggestion">Vinkit</string>
   <string name="search_videos">Hae videoita</string>
-  <string name="search_widget">Hae</string>
+  <string name="search_widget">Haku</string>
   <string name="send_secret_code">Lähetä koodi</string>
   <string name="settings_description">Asennettujen sovelluksien nimiä</string>
   <string name="show_more">Näytä lisää</string>

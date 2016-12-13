@@ -603,7 +603,7 @@ Syy: %s"</string>
   <string name="local_search_label">Kaikki yhteystiedot</string>
   <string name="locale_change_in_progress">Yhteystietolista on päivitetty vastaamaan valittua kieltä.</string>
   <string name="login_ok">Kirjaudu sisään</string>
-  <string name="low_memory_toast">Tallennustilaa on vähissä, ei voida jatkaa.</string>
+  <string name="low_memory_toast">Tätä toimintoa ei voida käyttää vähäisen muistin takia.</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
@@ -1266,7 +1266,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
-  <string name="yellowpage_fc_toast">Ei voida jatkaa, koska hakemisto on kaatunut.</string>
+  <string name="yellowpage_fc_toast">Tätä toimintoa ei voida käyttää, koska hakemisto on kaatunut.</string>
   <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_ad_hint">Mainos</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Saldoa ja mobiilidataa ei voitu tarkistaa, yritä uudelleen myöhemmin.</string>

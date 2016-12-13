@@ -276,4 +276,20 @@
         <item quantity="other">Päivitä asemasi hankkimalla %1$d seuraajaa lisää​</item>
         <item quantity="one">Päivitä asemasi hankkimalla %1$d seuraaja lisää​</item>
     </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%d seuraajaa</item>
+        <item quantity="one">%d seuraaja</item>
+    </plurals>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s tykkäystä</item>
+        <item quantity="one">%1$s tykkäys</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s jalokiveä</item>
+        <item quantity="one">%1$s jalokivi</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Kerää %d jalokiveä lisää osallistuaksesi arvontaan</item>
+        <item quantity="one">Kerää %d jalokivi lisää osallistuaksesi arvontaan</item>
+    </plurals>
 </resources>

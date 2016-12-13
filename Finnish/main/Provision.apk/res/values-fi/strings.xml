@@ -1,52 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Hyväksy</string>
-  <string name="congratulation_label"/>
+  <string name="app_name">Provision</string>
+  <string name="back">Takaisin</string>
+  <string name="congratulation_label">Olet valmis rokkaamaan!</string>
+  <string name="congratulation_title">Asennus valmis</string>
+  <string name="content_description_complete">Valmis</string>
+  <string name="content_description_language_picker">Valitse kieli</string>
+  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_start">Aloita</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
-  <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
-  <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
+  <string name="desc_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, Mi Maksun kaupan vahvistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
+  <string name="desc_international_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="disagree">Peruuta</string>
-  <string name="ime_privacy_policy">Privacy Policy for selected keyboard</string>
-  <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s.</string>
-  <string name="input_method_category">"Choose the default keyboard that you'll use when writing emails, notes, and just about everywhere else. Note that you can install other third-party keyboards later."</string>
+  <string name="ime_privacy_policy">Valitun näppäimistön Tietosuojakäytäntö</string>
+  <string name="ime_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso näppäimistön Tietosuojakäytäntö osoitteessa %s.</string>
+  <string name="input_method_category">Valitse oletusnäppäimistö, jota käytät sähköpostien tai muistioiden kirjoittamiseen, ja lähes kaikkialla muualla. Muista, että voit asentaa kolmannen osapuolen näppäimistön myöhemmin.</string>
   <string name="input_method_setting">Valitse oletusnäppäimistö</string>
   <string name="install_preinstall_app">Ladataan sovelluksia…</string>
   <string name="locale_picker_title">Valitse kielesi</string>
-  <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
-  <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
+  <string name="miui_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso Tietosuojakäytäntö osoitteessa %s.</string>
+  <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>
   <string name="multisim_settings_category">SIM-kortin asetukset</string>
   <string name="multisim_settings_title">2 SIM-korttia havaittu</string>
-  <string name="network_access_warning">You need to connect to the internet to activate Mi services and Find device.</string>
+  <string name="network_access_warning">Sinun täytyy yhdistää internettiin aktivoidaksesi Mi palvelut ja Laitteen etsinnän.</string>
   <string name="next">Seuraava</string>
   <string name="next_fingerprint">Seuraava</string>
   <string name="other_settings">Lisäasetukset</string>
+  <string name="other_settings_auto_update">Päivitä automaattisesti</string>
+  <string name="other_settings_auto_update_summary">MIUI valitsee parhaan ajan päivityksen lataamiseen ja asentamiseen.</string>
   <string name="other_settings_location">Sijainti</string>
-  <string name="other_settings_location_summary">Allow apps to access your location</string>
-  <string name="other_settings_user_experience">User Experience Program</string>
-  <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data (%s)</string>
-  <string name="other_settings_user_experience_summary1">view Privacy Policy</string>
-  <string name="pref_title_data_slot">Preferred data SIM card</string>
-  <string name="pref_title_voice_slot">Preferred voice SIM card</string>
-  <string name="privacy_policy">Privacy Policy</string>
+  <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi</string>
+  <string name="other_settings_mifg_online_content">Taustakuvan Karuselli</string>
+  <string name="other_settings_mifg_online_content_summary">Saat uusia taustakuvia, jotka toimitetaan Lukitusnäytöllesi säännöllisesti.</string>
+  <string name="other_settings_upload_debug_log_summary">Tiedot, joita keräämme käytetään järjestelmässä olevien ongelmien paikantamiseen ja tutkimiseen ja ne saattaa sisältää henkilökohtaisia tietoja. Mitään tietoja ei käytetä henkilöllisyyden tunnistamiseen.</string>
+  <string name="other_settings_upload_debug_log_title">Lähetä diagnostiikkatietoja automaattisesti</string>
+
+  <string name="other_settings_user_experience">Käyttäjäkokemusohjelma</string>
+  <string name="other_settings_user_experience_summary">Auta parantamaan MIUI:ta lähettämällä nimettömänä käyttötietoja (%s)</string>
+  <string name="pref_title_data_slot">Ensisijainen data SIM-kortti</string>
+  <string name="pref_title_voice_slot">Ensisijainen äänen SIM-kortti</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="provision_inputmethod_policy_description">"
-View the selected keyboard's Privacy Policy."</string>
-  <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
+Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
+  <string name="provision_inputmethod_policy_description1">Tietosuojakäytäntö</string>
   <string name="setting_locale">Asetetaan kieltä…</string>
   <string name="shut_down">Sammuta</string>
-  <string name="sim_card_detecting">Checking for SIM card…</string>
-  <string name="sim_card_detecting_title">Check for SIM card</string>
+  <string name="sim_card_detecting">Tarkastetaan SIM-korttia…</string>
+  <string name="sim_card_detecting_title">SIM-kortin tarkastus</string>
   <string name="sim_card_detection">Aseta SIM-kortti</string>
-  <string name="sim_card_detection_info">To insert your SIM card, read the instructions that came with your device.</string>
+  <string name="sim_card_detection_info">Asettaaksesi SIM-korttisi, lue laitteen mukana tulleet ohjeet.</string>
   <string name="sim_dectection_next">Jatka</string>
   <string name="sim_redetection">Tarkasta uudelleen</string>
   <string name="skip_underline">Ohita tämä vaihe</string>
   <string name="summary_not_set">Ei asetettu</string>
-  <string name="terms_of_use">Terms and Conditions</string>
-  <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
+  <string name="terms_of_use">Käyttöehdot</string>
+  <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Ole ystävällinen ja lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI."</string>
+Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Sinun täytyy yhdistää internetiin aktivoidaksesi Mi palvelut, SIM-kortin aktivoinnin, Laitteen etsinnän ja Mi Kodin."</string>
   <string name="title_fingerprint">Lisää sormenjälkesi</string>
-  <string name="user_agreement">Terms of Service</string>
+  <string name="user_agreement">Palveluehdot</string>
   <string name="welcome">Tervetuloa</string>
 </resources>

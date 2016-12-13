@@ -367,7 +367,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="media_error_action_replace_video_source">Lähdettä ei voitu vaihtaa</string>
   <string name="media_error_failure">Videota ei voitu toistaa</string>
   <string name="media_error_format">Videoformaatti ei ole tuettu</string>
-  <string name="media_error_network_unreachable">Verkko ei ole tavoiteltavissa</string>
+  <string name="media_error_network_unreachable">Verkkoon yhdistäminen epäonnistui</string>
   <string name="media_error_nomemory">Muistia on liian vähän</string>
   <string name="media_error_source">Lähdettä ei löytynyt</string>
   <string name="media_error_timeout">Verkkoyhteys aikakatkaistiin</string>

@@ -144,6 +144,9 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="disable_notification_summary">Älä näytä valittujen sovelluksien ilmoituksia koskaan</string>
   <string name="disable_notification_title">Piilota ilmoitukset</string>
   <string name="dismount_storage">Ei</string>
+  <string name="divider_menu_close">Sulje</string>
+  <string name="divider_menu_select_apps">Valitse</string>
+  <string name="divider_menu_swap_task">Vaihda</string>
   <string name="dlg_confirm_kill_storage_users_text">Jos otat USB-muistin käyttöön, jotkin ohjelmat lopettavat toimintansa ja katoavat kunnes otat USB-muistin pois käytöstä.</string>
   <string name="dlg_confirm_kill_storage_users_title">Ota USB-muisti käyttöön</string>
   <string name="dlg_error_title">USB-toiminto epäonnistui</string>
@@ -202,8 +205,10 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="nav_guide_ok">Aseta</string>
   <string name="nav_guide_title">Piilota painikkeet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">Useaa ikkunaa tukevaa sovellusta ei ole</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>
-  <string name="no_weather_description">Hanki säätiedot &gt;</string>
+  <string name="no_weather_description">Hae säätiedot &gt;</string>
+  <string name="not_support_multi_window">Nykyinen sovellus ei tue useaa ikkunaa</string>
   <string name="notification_header_title">Ilmoitukset</string>
   <string name="notification_hidden_text">Sisältö piilotettu</string>
   <string name="notification_manager">Hallitse ilmoituksia</string>
