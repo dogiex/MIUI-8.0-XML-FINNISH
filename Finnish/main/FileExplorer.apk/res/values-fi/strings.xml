@@ -141,7 +141,6 @@
   <string name="decrypt_error">"Couldn't decrypt"</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Decrypting…</string>
-  <string name="default_prize_text">Tuo menee suoraan aarteisiini!</string>
   <string name="delete_dialog_button">Poista</string>
   <string name="delete_error">Tiedostojen poistaminen epäonnistui, yritä uudelleen</string>
   <string name="delete_file">Poistetaanko tämä tiedosto?</string>
