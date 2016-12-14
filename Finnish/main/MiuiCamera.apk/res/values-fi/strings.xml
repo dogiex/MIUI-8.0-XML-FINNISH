@@ -275,8 +275,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_enable">Enable</string>
   <string name="pref_camera_snap_enable_title">Nopean kuvan tila</string>
   <string name="pref_camera_snap_entry_off">Pois</string>
-  <string name="pref_camera_snap_entry_take_movie">Nopean kuvan tila (ota video)</string>
-  <string name="pref_camera_snap_entry_take_picture">Nopean kuvan tila (ota kuva)</string>
+  <string name="pref_camera_snap_entry_take_movie">Nopean kuvan tila (video)</string>
+  <string name="pref_camera_snap_entry_take_picture">Nopean kuvan tila (kuva)</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nopean kuvan tilaa ei voi käyttää jos \"Herätä Äänenvoimakkuuspainikkeella\" on päällä.</string>
   <string name="pref_camera_sound_title">Kameran äänet</string>
   <string name="pref_camera_square_mode_title">Square</string>

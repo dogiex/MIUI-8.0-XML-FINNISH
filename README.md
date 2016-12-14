@@ -17,30 +17,28 @@ For more info visit:
 
 Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
-If you want to help me translate this, feel free to:
-- Create a github account
-- Fork this repo
-- Translate strings (make changes to your files)
-- Make a pull request
+##Lahjoita
+Teen tätä käännösprojektia harrastuksena ja aina, kun siihen minulta löytyy aikaa.
+Pyrin kuitenkin pitämään käännöksen ajan tasalla parhaani mukaan.
+Käännös ei ole vielä 100% valmis, mutta tulee olemaan pikku hiljaa. :)
+Mikäli haluat tukea projektia, voit lahjoittaa minulle kahvia/olutta [PayPalin kautta](https://paypal.me/dogiex)
+Kiitos tuesta! :)
 
-Let's translate together!
-
-[Github Fork Guide](https://help.github.com/articles/fork-a-repo/)
-
-[Github Dekstop Client](https://desktop.github.com/)
-
-##Good Text Editors:
-- [Notepad++](https://notepad-plus-plus.org/)
-- [Sublime Text](https://www.sublimetext.com/)
+##Bugit
+Virheet, bugit ja parannusehdotukset voit kertoa [Issues välilehdellä](https://github.com/dogiex/MIUI-8.0-XML-FINNISH/issues)
+Ennen kuin ilmoitat bugista, kokeile muuttaa järjestelmän kieli englanniksi ja kokeilla samaa, missä bugi ilmeentyi.
+Mikäli bugi toistuu englannin kielellä, ei bugi ole suomen käännöksessä, joten älä tee vikailmoitusta täällä.
+Mikäli bugia ei ilmeenny englannin kielellä vaan ainoastaan suomen kielellä, on bugi käännöksessä, jonka jälkeen tee vikailmoitus täällä.
+Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi. Kuvakaappaus on enemmän kuin tervetullutta!
 
 ###Credits:
 - Dogiex
 
-####Currently work in progress:
+#####Tällä hetkellä työn alla:
 - Cit.apk
 - SecurityCenter.apk
 
-#####Already translated strings:
+#####Valmiina olevat paketit:
 - AntiSpam.apk
 - ApplicationsProvider.apk
 - AuthManager.apk
@@ -50,7 +48,7 @@ Let's translate together!
 - BluetoothExt.apk
 - Browser.apk
 - BugReport.apk
-- Calculator.apk (not 100% done, can be used)
+- Calculator.apk (ei 100% valmis, mutta voi käyttää)
 - Calendar.apk
 - CalendarProvider.apk
 - CaptivePortalLogin.apk
@@ -87,6 +85,7 @@ Let's translate together!
 - miui.apk
 - miuisystem.apk
 - MiuiSystemUi.apk
+- NetworkAssistant2.apk
 - NfcNci.apk
 - PackageInstaller.apk
 - PrintSpooler.apk

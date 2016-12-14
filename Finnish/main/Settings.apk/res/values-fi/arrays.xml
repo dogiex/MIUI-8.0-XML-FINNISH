@@ -548,9 +548,8 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Ei mitään</item>
-        <item>Nopean kuvan tila (valitse Kamerassa)</item>
-        <item>Nopean kuvan tila (ota kuva)</item>
-        <item>Nopean kuvan tila (ota video)</item>
+        <item>Nopean kuvan tila (kuva)</item>
+        <item>Nopean kuvan tila (video)</item>
         <item>Julkisen liikenteen pikakuvakkeet</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -562,12 +561,12 @@
         <item>Aina</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Starting session…</item>
-        <item>Session started</item>
-        <item>Tearing down…</item>
-        <item>"Can't start session"</item>
-        <item>Timed out. Retrying…</item>
-        <item>Device connected</item>
+        <item>Aloitetaan istunto…</item>
+        <item>Istunto aloitettu</item>
+        <item>Lopetetaan istuntoa…</item>
+        <item>Istuntoa ei voi aloittaa</item>
+        <item>Aikakatkaistiin. Yritetään uudelleen…</item>
+        <item>Laite yhdistetty</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Suorituskyky</item>
@@ -588,7 +587,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB mass storage will open automatically when connected to a computer.</item>
+        <item>USB massamuistilaite avautuu automaattisesti, kun yhdistät sen tietokoneeseen.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -667,9 +666,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Network is slow due to too much traffic</item>
-        <item>Network is slow due to weak signal strength</item>
-        <item>Moving…</item>
+        <item>Verkko on hidas liiallisen liikenteen takia</item>
+        <item>Verkko on hidas heikon signaalin takia</item>
+        <item>Siirretään…</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Sisäinen tallennustila</item>
