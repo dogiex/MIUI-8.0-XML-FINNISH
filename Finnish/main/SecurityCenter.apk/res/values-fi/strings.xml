@@ -1399,45 +1399,45 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="system_application">Järjestelmäsovellukset</string>
   <string name="system_check_content_none">Turvallinen</string>
   <string name="system_header_title">Vapauta %2$s muistia tyhjentämällä %1$d prosessia</string>
-  <string name="system_info_remind">Add locks to prevent unauthorized access to your apps</string>
-  <string name="tc_diagnostic_all_error_notification_summary">Tap to report an issue</string>
-  <string name="tc_diagnostic_all_error_notification_title">"Couldn't complete diagnostics"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Tap to adjust network type</string>
-  <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="system_info_remind">Lisää lukkoja estääksesi luvattomat pääsyt sovelluksiisi</string>
+  <string name="tc_diagnostic_all_error_notification_summary">Raportoi ongelmasta napauttamalla</string>
+  <string name="tc_diagnostic_all_error_notification_title">Diagnostiikkaa ei voitu suorittaa loppuun</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">Säädä verkon tyyppi napauttamalla</string>
+  <string name="tc_diagnostic_brand_error_notification_title">Väärä verkon tyyppi</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Tulos: Väärä operaattori&lt;br/&gt;&lt;br/&gt;Aseta operaattori: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Todellinen operaattori: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Valmis</string>
-  <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
-  <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
-  <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>
-  <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-  <string name="tc_diagnostic_notification_title">Carrier diagnostics</string>
-  <string name="tc_diagnostic_onekey_repair_botton">Fix</string>
-  <string name="tc_diagnostic_operator_error_notification_summary">Tap to change carrier settings</string>
-  <string name="tc_diagnostic_operator_error_notification_title">Wrong carrier</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Result: Wrong location&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;No network connection&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Couldn't get info&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_updating">Testing…</string>
+  <string name="tc_diagnostic_location_error_notification_summary">Säädä sijainti napauttamalla</string>
+  <string name="tc_diagnostic_location_error_notification_title">Väärä sijainti</string>
+  <string name="tc_diagnostic_notification_sumarry">Näytä tulokset napauttamalla</string>
+  <string name="tc_diagnostic_notification_summary">Ei voitu säätää 5 kertaa peräkkäin. Aloita diagnostiikat napauttamalla.</string>
+  <string name="tc_diagnostic_notification_title">Operaattorin diagnostiikat</string>
+  <string name="tc_diagnostic_onekey_repair_botton">Korjaa</string>
+  <string name="tc_diagnostic_operator_error_notification_summary">Muuta operaattorin asetuksia napauttamalla</string>
+  <string name="tc_diagnostic_operator_error_notification_title">Väärä operaattori</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Tulos: Väärä operaattori&lt;br/&gt;&lt;br/&gt;Aseta operaattori: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Todellinen operaattori: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_and_continue">Korjaa ja jatka</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostiikka valmis, korjattiin sijainnin ongelmat.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostiikka valmis, korjattiin sijainti ja operaattoriongelmat.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_success_toast">Vaihdettiin onnistuneesti</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Tulos: Diagnostiikkaa ei voitu suorittaa loppuun&lt;br/&gt;&lt;br/&gt;Raportoi tämä ongelma auttaaksesi MIUI:n diagnostiikkatyökaluja&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Tulos: Väärä sijainti&lt;br/&gt;&lt;br/&gt;Aseta sijainti: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Todellinen sijainti: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_error_brand">Operaattorin verkkoa ei löytynyt</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Virhe&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Ei verkkoyhteyttä&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Tietoa ei saatu&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Oikein&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Operaattorin verkko vastaa&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Aikakatkaisu&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_updating">Testataan…</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_title">Carrier diagnostics</string>
-  <string name="tc_diagnostic_upload_button">Report</string>
-  <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
-  <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
+  <string name="tc_diagnostic_title">Operaattorin diagnostiikat</string>
+  <string name="tc_diagnostic_upload_button">Raportoi</string>
+  <string name="tc_diagnostic_upload_no_network">Kiitos palautteestasi! Raporttisi lähetetään, kun yhdistät verkkoon.</string>
+  <string name="tc_diagnostic_upload_success">Kiitos palautteestasi!</string>
   <string name="tc_sms_report_direction">SMS inquiry code</string>
-  <string name="tc_sms_report_do_report">Send</string>
+  <string name="tc_sms_report_do_report">Lähetä</string>
   <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
@@ -1464,19 +1464,19 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
-  <string name="tc_sms_report_title">Report data usage bug</string>
-  <string name="tc_sms_report_title_bill">Report data usage bug</string>
-  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
-  <string name="tc_sms_report_toast_text">Getting info…</string>
+  <string name="tc_sms_report_title">Raportoi datan käyttö bugi</string>
+  <string name="tc_sms_report_title_bill">Raportoi datan käyttö bugi</string>
+  <string name="tc_sms_report_title_calltime">Raportoi datan käyttö bugi</string>
+  <string name="tc_sms_report_toast_text">Haetaan tietoa…</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
-  <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
-  <string name="ten_percent_total_pkg">%s (10%% of monthly data)</string>
+  <string name="tc_sms_report_upload_when_net">Kiitos palautteestasi!</string>
+  <string name="ten_percent_total_pkg">%s (10%% kuukausittaisesta datasta)</string>
   <string name="text_button">Selvä</string>
   <string name="text_day"/>
   <string name="text_lock_info">Piirrä lukituksen poistokuvio</string>
   <string name="there_is_no">Kaikki näyttää hyvältä, tule takaisin myöhemmin</string>
   <string name="third_application">Asennetut sovellukset</string>
-  <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
+  <string name="three_percent_total_pkg">%s (3%% kuukausittaisesta datasta)</string>
   <string name="timeshow_h">%.1ft</string>
   <string name="timeshow_h_int">%dt</string>
   <string name="timeshow_h_m">%1$dt %2$dm</string>
@@ -1545,27 +1545,27 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_add_virus_white_list_no_need_repeat">Tämä poikkeus on jo olemassa!</string>
   <string name="toast_add_virus_white_list_success">Lisättiin poikkeuksiin. Katso kohteet Tietoturvan asetuksista.</string>
-  <string name="toast_auto_traffic_correct">Data usage is adjusted automatically</string>
-  <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
-  <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
-  <string name="toast_flow_notification">Turned on data usage notifications</string>
-  <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
-  <string name="toast_lockscreen_glogin_empty_password">Password required</string>
-  <string name="toast_network_eror">"Can't connect to network"</string>
-  <string name="toast_network_switch">This app can connect to the internet</string>
-  <string name="toast_reject_sms_read_permission_success">Set successfully</string>
+  <string name="toast_auto_traffic_correct">Datan käyttö säädetään automaattisesti</string>
+  <string name="toast_cleaner_cloudscan">Puhdistaja käyttää verkkotunnisteita</string>
+  <string name="toast_default_app">"%1$s aseta järjestelmän oletukseksi %2$s"</string>
+  <string name="toast_flow_notification">Datan käytön ilmoitukset laitettiin päälle</string>
+  <string name="toast_garbage_lib">Puhdistajan automaattiset päivitykset laitettiin päälle</string>
+  <string name="toast_lockscreen_glogin_empty_password">Salasana vaaditaan</string>
+  <string name="toast_network_eror">Verkkoon ei saada yhteyttä</string>
+  <string name="toast_network_switch">Tämä sovellus voi yhdistää internettiin</string>
+  <string name="toast_reject_sms_read_permission_success">Asetettu onnistuneesti</string>
   <string name="toast_removed_from_virus_white_list">Poistettiin poikkeuksista. Kohde skannataan seuraavalla kerralla.</string>
-  <string name="toast_root_apply_accept">Root access granted to %s</string>
-  <string name="toast_root_apply_reject">Denied root access for %s</string>
-  <string name="toast_select_virus_white_need_remove">Select items</string>
-  <string name="toast_set_success">Turned on successfully</string>
-  <string name="toast_shortcut_install">Shortcut placed on Home screen</string>
-  <string name="toast_shortcut_uninstall">Shortcut removed</string>
-  <string name="toast_show_notification">Pinned to notification shade</string>
-  <string name="toast_virus_cloudscan">Virus scan will use online definitions</string>
-  <string name="toast_virus_in_cloud_scanning">"Can't stop scanning cloud"</string>
-  <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
+  <string name="toast_root_apply_accept">Root oikeus sallittiin sovellukselle %s</string>
+  <string name="toast_root_apply_reject">Root oikeus kiellettiin sovellukselta %s</string>
+  <string name="toast_select_virus_white_need_remove">Valitse kohdat</string>
+  <string name="toast_set_success">Laitettiin päälle onnistuneesti</string>
+  <string name="toast_shortcut_install">Pikakuvake asetettiin Kotinäytölle</string>
+  <string name="toast_shortcut_uninstall">Pikakuvake poistettiin</string>
+  <string name="toast_show_notification">Kiinnitettiin ilmoitusalueelle</string>
+  <string name="toast_virus_cloudscan">Virus skanneri käyttää verkkotunnisteita</string>
+  <string name="toast_virus_in_cloud_scanning">Pilven skannausta ei voi lopettaa</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Kuukausittainen suunnitelma vaihdettu %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Päivitettiin datapaketti</string>
   <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
   <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
@@ -1583,59 +1583,59 @@ Your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-pe
 Your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
   <string name="traffic_config_alert_package">"
 Rolled over extra data"</string>
-  <string name="traffic_config_alert_setted">Settings applied</string>
+  <string name="traffic_config_alert_setted">Asetukset asetettu</string>
   <string name="traffic_config_alert_title">%s Correction</string>
   <string name="traffic_correction_failed">"Can't get info"</string>
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
-  <string name="traffic_correction_success">Data usage updated</string>
-  <string name="traffic_correction_success_notify_message">Tap to view details.</string>
+  <string name="traffic_correction_success">Datan käyttö päivitetty</string>
+  <string name="traffic_correction_success_notify_message">Näytä tiedot napauttamalla.</string>
   <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
-  <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_body">Tap to view details.</string>
+  <string name="traffic_none">Ei mitään</string>
+  <string name="traffic_over_purchase_body">Näytä tiedot napauttamalla.</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.
 If you go over your plans data usage limit, your carrier may charge you additional fees.
 
 Tap to top up your balance."</string>
-  <string name="traffic_over_purchase_title">Data limit exceeded</string>
+  <string name="traffic_over_purchase_title">Datan raja ylitetty</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
-  <string name="traffic_setting_app_count">%d apps</string>
+  <string name="traffic_setting_app_count">%d sovellusta</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
   <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
-  <string name="traffic_setting_extra_pkg_title">Additional settings</string>
-  <string name="traffic_setting_extra_traffic_title">Additional settings</string>
+  <string name="traffic_setting_extra_pkg_title">Lisäasetukset</string>
+  <string name="traffic_setting_extra_traffic_title">Lisäasetukset</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
-  <string name="traffic_setting_fragment_button1_text">Cancel</string>
-  <string name="traffic_setting_fragment_button2_text">Save</string>
+  <string name="traffic_setting_fragment_button1_text">Peruuta</string>
+  <string name="traffic_setting_fragment_button2_text">Tallenna</string>
   <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
   <string name="traffic_setting_fragment_no_network">"Can't connect to network"</string>
-  <string name="traffic_setting_fragment_null">Empty</string>
-  <string name="traffic_setting_fragment_operator">Carrier</string>
+  <string name="traffic_setting_fragment_null">Tyhjä</string>
+  <string name="traffic_setting_fragment_operator">Operaattori</string>
   <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
   <string name="traffic_setting_fragment_send_num_tips">Enter phone number</string>
   <string name="traffic_setting_fragment_sms_content">Message content</string>
   <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
   <string name="traffic_setting_fragment_template">Message template</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
-  <string name="traffic_setting_open">On</string>
+  <string name="traffic_setting_open">Päällä</string>
   <string name="traffic_setting_step_num">Data plan settings</string>
   <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
-  <string name="unable_connect_internet">No internet connection</string>
+  <string name="unable_connect_internet">Ei internet-yhteyttä</string>
   <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellusdatan.</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>
   <string name="uninstall_app_done">Poistettiin onnistuneesti</string>
-  <string name="unlike">No thanks</string>
-  <string name="updating_diagnostic_botton">Analyzing data…</string>
+  <string name="unlike">Ei kiitos</string>
+  <string name="updating_diagnostic_botton">Analysoidaan dataa…</string>
   <string name="usage_sorted_activity_lable">Datan käyttö</string>
   <string name="usage_sorted_empty_text">Tyhjä</string>
   <string name="usage_sorted_loading_text">Pieni hetki…</string>
@@ -1655,8 +1655,8 @@ Tap to top up your balance."</string>
   <string name="usage_type_wifi_running">WLAN käynnissä</string>
   <string name="usb_adb_input_apply_step_1">"This might lead to leaks and loss of private information. We don't recommend doing this unless you're a developer."</string>
   <string name="usb_adb_input_apply_step_2">Developers can use special software to imitate gestures, change settings, and grant permissions via USB.</string>
-  <string name="usb_adb_input_apply_step_3">Allow now?</string>
-  <string name="usb_install_desc">Install this app via USB?</string>
+  <string name="usb_adb_input_apply_step_3">Sallitaanko nyt?</string>
+  <string name="usb_install_desc">Asennetaanko tämä sovellus USB:n kautta?</string>
   <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
