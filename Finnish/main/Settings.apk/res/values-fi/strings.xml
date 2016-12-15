@@ -2337,6 +2337,11 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_anr_debug">Laita ANR virheenkorjaus päälle</string>
   <string name="open_miui_optimization_title">Laita MIUI optimointi päälle</string>
   <string name="open_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Sulje</string>
+  <string name="open_personal_assistant_dialog_desc">Et voi käyttää Älykästä avustajaa ja saada sen päivityksiä. Laitetaanko pois päältä nyt?</string>
+  <string name="open_personal_assistant_dialog_title">Laita Älykäs avustaja pois päältä</string>
+  <string name="open_personal_assistant_title">Laita Älykäs avustaja päälle</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
   <string name="open_wifi_connect_title">Yhdistä verkkoon %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
@@ -4082,7 +4087,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="use_default_tts_settings_title">Käytä aina omia asetuksiani</string>
   <string name="use_location_summary">Anna Googlen käyttää sijaintia hakutulosten ja muiden palveluiden parantamiseen.</string>
   <string name="use_location_title">Sijainti ja Google-haku</string>
-  <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="use_personalized_ad_service">Henkilökohtaiset mainokset</string>
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
   <string name="use_this_wlan">Use this WLAN</string>
