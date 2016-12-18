@@ -451,7 +451,7 @@
         <item>Palvelu (käynnissä)</item>
         <item>Palvelu (käynnistyy uudelleen)</item>
         <item>Vastaanottaja</item>
-        <item>Aloitusruutu</item>
+        <item>Aloitusnäyttö</item>
         <item>Viimeinen toiminta</item>
         <item>Välimuistissa (toiminta)</item>
         <item>Välimuistissa (toiminnan suorittaja)</item>
@@ -534,7 +534,7 @@
     <string-array name="screen_key_long_press_action">
         <item>Ei mitään</item>
         <item>Näytä taustasovellukset</item>
-        <item>Käynnistä Assistentti</item>
+        <item>Käynnistä Avustaja</item>
         <item>Käynnistä Google now</item>
         <item>Sulje nykyinen sovellus</item>
         <item>Käynnistä nopea haku</item>
@@ -720,12 +720,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Normaali (720p)</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Lukitusruutu</item>
+        <item>Lukitusnäyttö</item>
         <item>Yksityisyyden salasana</item>
         <item>Lapsi-tila</item>
         <item>Tiedostoselain</item>
         <item>Sovelluslukko</item>
-        <item>Second space</item>
+        <item>Toinen tila</item>
     </string-array>
     <string-array name="anr_record_interval_entries">
         <item>10 sek</item>

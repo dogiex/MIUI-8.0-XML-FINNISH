@@ -1594,7 +1594,7 @@ Rolled over extra data"</string>
   <string name="traffic_limit_error_alert_package">"
 
 Remaining data includes data that has been rolled over from the previous month."</string>
-  <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
+  <string name="traffic_limit_error_alert_title">Datan rajan muistutus %s</string>
   <string name="traffic_none">Ei mitään</string>
   <string name="traffic_over_purchase_body">Näytä tiedot napauttamalla.</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.
@@ -1602,34 +1602,34 @@ If you go over your plans data usage limit, your carrier may charge you addition
 
 Tap to top up your balance."</string>
   <string name="traffic_over_purchase_title">Datan raja ylitetty</string>
-  <string name="traffic_purchase_body">Tap to top up your balance.</string>
-  <string name="traffic_purchse_suggestion">Top up mobile data</string>
+  <string name="traffic_purchase_body">Top up saldoasi napauttamalla.</string>
+  <string name="traffic_purchse_suggestion">Top up mobiilidata</string>
   <string name="traffic_setting_app_count">%d sovellusta</string>
   <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
-  <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Säädä datapaketti ja käytön rajat</string>
+  <string name="traffic_setting_extra_pkg_summary">Säädä datapaketti ja käytön rajat</string>
   <string name="traffic_setting_extra_pkg_title">Lisäasetukset</string>
   <string name="traffic_setting_extra_traffic_title">Lisäasetukset</string>
-  <string name="traffic_setting_fragment_area">Locale</string>
-  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
-  <string name="traffic_setting_fragment_brand">Brand</string>
+  <string name="traffic_setting_fragment_area">Kieliasetus</string>
+  <string name="traffic_setting_fragment_area_dual">%s Kieliasetus</string>
+  <string name="traffic_setting_fragment_brand">Merkki</string>
   <string name="traffic_setting_fragment_button1_text">Peruuta</string>
   <string name="traffic_setting_fragment_button2_text">Tallenna</string>
-  <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
-  <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
-  <string name="traffic_setting_fragment_no_network">"Can't connect to network"</string>
+  <string name="traffic_setting_fragment_get_template_falure">Verkkoon ei saada yhteyttä. Tarkasta datayhteytesi ja yritä uudelleen.</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Älä näytä uudelleen</string>
+  <string name="traffic_setting_fragment_loading_text">Haetaan verkkotietoja…</string>
+  <string name="traffic_setting_fragment_no_network">Verkkoon ei saada yhteyttä</string>
   <string name="traffic_setting_fragment_null">Tyhjä</string>
   <string name="traffic_setting_fragment_operator">Operaattori</string>
-  <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
-  <string name="traffic_setting_fragment_send_num_tips">Enter phone number</string>
-  <string name="traffic_setting_fragment_sms_content">Message content</string>
-  <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
-  <string name="traffic_setting_fragment_template">Message template</string>
+  <string name="traffic_setting_fragment_send_num">Operaattorin puhelinnumero</string>
+  <string name="traffic_setting_fragment_send_num_tips">Syötä puhelinnumero</string>
+  <string name="traffic_setting_fragment_sms_content">Viestin sisältö</string>
+  <string name="traffic_setting_fragment_sms_content_tips">Kirjoita viestisi tähän</string>
+  <string name="traffic_setting_fragment_template">Viestimalli</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_setting_open">Päällä</string>
-  <string name="traffic_setting_step_num">Data plan settings</string>
-  <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
+  <string name="traffic_setting_step_num">Datapaketin asetukset</string>
+  <string name="traffic_warning_purchase_title">Mobiilidatan käytön varoitus</string>
   <string name="unable_connect_internet">Ei internet-yhteyttä</string>
   <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellusdatan.</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>

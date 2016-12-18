@@ -1652,7 +1652,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="intent_sender_data_label">Data:</string>
   <string name="intent_sender_resource_label">Resurssi:</string>
   <string name="intent_sender_sendbroadcast_text">Lähetä broadcast</string>
-  <string name="intent_sender_startactivity_text">Käynnistä activity</string>
+  <string name="intent_sender_startactivity_text">Käynnistä toiminta</string>
   <string name="internal_format">Tyhjennä sisäinen tallennustila</string>
   <string name="internal_format_summary">Tyhjentää kaikki tiedot sisäiseltä tallennustilalta</string>
   <string name="internal_media_format_button_text">Tyhjennä sisäinen tallennustila</string>
@@ -3020,7 +3020,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_key_long_press_action">Käynnistä toiminto</string>
   <string name="screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
   <string name="screen_key_position">Navigointipainikkeet</string>
-  <string name="screen_key_press">Paina navigointipainikkeita</string>
+  <string name="screen_key_press">Navigointipainikkeiden painallus</string>
   <string name="screen_key_press_action">Käynnistä toiminto</string>
   <string name="screen_locking_sounds_title">Näytön lukitusäänet</string>
   <string name="screen_never_timeout_title">Älä nuku koskaan</string>
@@ -3530,7 +3530,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="slot_status_title">IMEI tieto</string>
   <string name="small_font">Pieni</string>
   <string name="smallwindow_smartcover_title">Läpinäkyvä etukuori</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">Älykuori-tila</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Älykotelo-tila</string>
   <string name="smartcover_sensitive_summary">Lukitse tai avaa puhelimen lukitus automaattisesti älykotelon avulla</string>
   <string name="smartcover_sensitive_title">Älykotelo</string>
   <string name="sms_application_title">Tekstiviestisovellus</string>

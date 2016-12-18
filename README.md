@@ -19,17 +19,23 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
 ##Lahjoita
 Teen tätä käännösprojektia harrastuksena ja aina, kun siihen minulta löytyy aikaa.
+
 Pyrin kuitenkin pitämään käännöksen ajan tasalla parhaani mukaan.
+
 Käännös ei ole vielä 100% valmis, mutta tulee olemaan pikku hiljaa. :)
+
 Mikäli haluat tukea projektia, voit lahjoittaa minulle kahvia/olutta [PayPalin kautta](https://paypal.me/dogiex)
+
 Kiitos tuesta! :)
 
 ##Bugit
-Virheet, bugit ja parannusehdotukset voit kertoa [Issues välilehdellä](https://github.com/dogiex/MIUI-8.0-XML-FINNISH/issues)
-Ennen kuin ilmoitat bugista, kokeile muuttaa järjestelmän kieli englanniksi ja kokeilla samaa, missä bugi ilmeentyi.
-Mikäli bugi toistuu englannin kielellä, ei bugi ole suomen käännöksessä, joten älä tee vikailmoitusta täällä.
-Mikäli bugia ei ilmeenny englannin kielellä vaan ainoastaan suomen kielellä, on bugi käännöksessä, jonka jälkeen tee vikailmoitus täällä.
-Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi. Kuvakaappaus on enemmän kuin tervetullutta!
+  Virheet, bugit ja parannusehdotukset voit kertoa [Issues välilehdellä](https://github.com/dogiex/MIUI-8.0-XML-FINNISH/issues)
+  Ennen kuin ilmoitat bugista, kokeile muuttaa järjestelmän kieli englanniksi ja kokeilla samaa, missä bugi ilmeentyi.
+  Mikäli bugi toistuu englannin kielellä, ei bugi ole suomen käännöksessä, joten älä tee vikailmoitusta täällä.
+  Mikäli bugia ei ilmeenny englannin kielellä vaan ainoastaan suomen kielellä, on bugi käännöksessä, jonka jälkeen tee vikailmoitus täällä.
+  Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi.
+  Kuvakaappaus on enemmän kuin tervetullutta!
+  Muista myös linkata Logcat!
 
 ###Credits:
 - Dogiex
@@ -107,3 +113,4 @@ Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi. Kuvakaappaus on enem
 - WallpaperCropper.apk
 - Weather.apk
 - WeatherProvider.apk
+- XiaomiAccount.apk

@@ -32,14 +32,18 @@
         <item>Ä</item>
         <item>Ö</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
     <string-array name="education">
-        <item>Middle school</item>
-        <item>Prep school</item>
-        <item>High school</item>
-        <item>Vocational school</item>
-        <item>College</item>
-        <item>"Master's degree"</item>
-        <item>"Doctor's degree"</item>
+        <item>Keskikoulu</item>
+        <item>Preppauskoulu</item>
+        <item>Lukio</item>
+        <item>Ammattikoulu</item>
+        <item>Korkeakoulu</item>
+        <item>Maisterin tutkinto</item>
+        <item>Tohtorin tutkinto</item>
     </string-array>
     <string-array name="income">
         <item>&lt; 2000</item>
@@ -50,40 +54,40 @@
         <item>> 12000</item>
     </string-array>
     <string-array name="question_no1">
-        <item>Family</item>
-        <item>"Maternal grandmother's name"</item>
-        <item>"Maternal grandfather's name"</item>
-        <item>"Paternal grandfather's name"</item>
-        <item>"Paternal grandmother's name"</item>
-        <item>"Father's birthday"</item>
-        <item>"Mother's birthday"</item>
-        <item>"What is your parents' age difference (years and months)?"</item>
+        <item>Perhe</item>
+        <item>Äidinäidin nimi</item>
+        <item>Äidinisän nimi</item>
+        <item>Isänisän nimi</item>
+        <item>Isänäidin nimi</item>
+        <item>Isän syntymäpäivä</item>
+        <item>Äidin syntymäpäivä</item>
+        <item>Mikä on vanhempiesi ikäero (vuodet ja kuukaudet)?</item>
     </string-array>
     <string-array name="question_no2">
         <item>Alma mater</item>
-        <item>What was the name of your class president in middle school?</item>
-        <item>What was the name of your class president in elementary school?</item>
-        <item>Your student ID number at college</item>
-        <item>"What's the name of your roommate at college?"</item>
-        <item>"What's the name of your supervisor at college?"</item>
+        <item>Mikä oli luokkasi presidentin nimi keskikoulussa?</item>
+        <item>Mikä oli luokkasi presidentin nimi peruskoulussa?</item>
+        <item>Opiskelija ID-numerosi korkeakoulussa</item>
+        <item>Mikä oli huonekaverisi nimi korkeakoulussa?</item>
+        <item>Mikä oli ohjaajasi nimi korkeakoulussa?</item>
     </string-array>
     <string-array name="question_no3">
-        <item>Personal info</item>
-        <item>How do your parents call you?</item>
-        <item>Last 6 digits of your passport number</item>
-        <item>In which hospital were you born?</item>
-        <item>"What's the name of your best friend?"</item>
+        <item>Henkilökohtaiset tiedot</item>
+        <item>Kuinka vanhempasi soittavat sinulle</item>
+        <item>Viimeiset 6 merkkiä passisi numerosta</item>
+        <item>Missä sairaalassa synnyit?</item>
+        <item>Mikä on parhaan ystäväsi nimi?</item>
     </string-array>
     <string-array name="question_no4">
-        <item>First times</item>
-        <item>"What's the name of your first pet?"</item>
-        <item>"What's the name of your first girlfriend/boyfriend?"</item>
-        <item>Name of the company where you got your first job</item>
+        <item>Ensimmäiset kerrat</item>
+        <item>Mikä on ensimmäisen lemmikkisi nimi?</item>
+        <item>Mikä on ensimmäisen tyttö-/poikaystäväsi nimi?</item>
+        <item>Mikä on ensimmäisen työpaikkasi nimi?</item>
     </string-array>
     <string-array name="question_no5">
-        <item>Marriage</item>
-        <item>When did you get married?</item>
-        <item>"Your spouse's name"</item>
-        <item>"Your spouse's birthday"</item>
+        <item>Avioliitto</item>
+        <item>Milloin menit naimisiin?</item>
+        <item>Puolisosi nimi</item>
+        <item>Puolisosi syntymäpäivä</item>
     </string-array>
 </resources>
