@@ -29,13 +29,13 @@ Mikäli haluat tukea projektia, voit lahjoittaa minulle kahvia/olutta [PayPalin 
 Kiitos tuesta! :)
 
 ##Bugit
-  Virheet, bugit ja parannusehdotukset voit kertoa [Issues välilehdellä](https://github.com/dogiex/MIUI-8.0-XML-FINNISH/issues)
-  Ennen kuin ilmoitat bugista, kokeile muuttaa järjestelmän kieli englanniksi ja kokeilla samaa, missä bugi ilmeentyi.
-  Mikäli bugi toistuu englannin kielellä, ei bugi ole suomen käännöksessä, joten älä tee vikailmoitusta täällä.
-  Mikäli bugia ei ilmeenny englannin kielellä vaan ainoastaan suomen kielellä, on bugi käännöksessä, jonka jälkeen tee vikailmoitus täällä.
-  Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi.
-  Kuvakaappaus on enemmän kuin tervetullutta!
-  Muista myös linkata Logcat!
+  Virheet, bugit ja parannusehdotukset voit kertoa [Issues välilehdellä](https://github.com/dogiex/MIUI-8.0-XML-FINNISH/issues)  
+  Ennen kuin ilmoitat bugista, kokeile muuttaa järjestelmän kieli englanniksi ja kokeilla samaa, missä bugi ilmeentyi.  
+  Mikäli bugi toistuu englannin kielellä, ei bugi ole suomen käännöksessä, joten älä tee vikailmoitusta täällä.  
+  Mikäli bugia ei ilmeenny englannin kielellä vaan ainoastaan suomen kielellä, on bugi käännöksessä, jonka jälkeen tee vikailmoitus täällä.  
+  Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi.  
+  Kuvakaappaus on enemmän kuin tervetullutta!  
+  Muista myös linkata Logcat!  
 
 ###Credits:
 - Dogiex
