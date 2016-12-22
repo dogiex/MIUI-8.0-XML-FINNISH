@@ -82,6 +82,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - Metok.apk
 - MiDrive.apk
 - MiDrop.apk
+- MiGalleryLockScreen.apk
 - MiuiHome.apk
 - MiuiKeyguard
 - miui.apk
