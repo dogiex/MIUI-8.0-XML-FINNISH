@@ -37,7 +37,6 @@
   <string name="call_contacts_deny_permission_msg">Olet kieltänyt yhteystietojen lukuoikeuden, yhteystietojen tietoja ei voi näyttää.</string>
   <string name="call_description_recording">Nauhoittaa…</string>
   <string name="call_extension_conference_mode">Konferenssipuhelu-tila</string>
-  <string name="call_record_button_label">Nauhoittaa %s</string>
   <string name="call_record_wait_label">Odottaa</string>
   <string name="call_recording_deny_permission_msg">Olet kieltänyt nauhoituksen käyttöoikeuden, ei voi nauhoittaa.</string>
   <string name="call_recording_error_low_storage">SD-kortilla ei ole tarpeeksi tilaa.</string>

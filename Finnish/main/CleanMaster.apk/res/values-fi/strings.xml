@@ -494,7 +494,7 @@
   <string name="title_of_traffic_notification">Datakäytön palkki</string>
   <string name="title_optimizer">Käyttöehdot</string>
   <string name="title_share_link">Jaa URL-osoite</string>
-  <string name="toast_add_white_list_success">" lisätty poikkeuksiin"</string>
+  <string name="toast_add_white_list_success">Lisätty poikkeuksiin onnistuneesti</string>
   <string name="toast_app_no_residual_on_sdcard">Sovelluksella ei ole yhtään tiedostoa tallennettuna SD-kortillasi</string>
   <string name="toast_backup_is_running">Varmuuskopiointi on jo käynnissä</string>
   <string name="toast_backup_uninstall_failed">%d sovellusta ei voitu varmuuskopioida</string>
@@ -506,7 +506,7 @@
   <string name="toast_must_select_before_restore">Valitse palautettavat kuvat</string>
   <string name="toast_network_eror">Verkkoon ei saada yhteyttä</string>
   <string name="toast_network_switch">Tämä sovellus voi yhdistää internetiin</string>
-  <string name="toast_removed_from_white_list">" poistettu poikkeuksista"</string>
+  <string name="toast_removed_from_white_list">Poistettu poikkeuksista onnistuneesti</string>
   <string name="toast_resolve_apk_error">Selvitä apk virhe</string>
   <string name="toast_scaning_similar_image">Tarkistetaan kuvia…</string>
   <string name="toast_select_image_need_delete">Valitse poistettavat kuvat</string>

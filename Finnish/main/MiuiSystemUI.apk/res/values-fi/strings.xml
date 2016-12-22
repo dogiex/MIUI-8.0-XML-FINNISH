@@ -33,7 +33,13 @@
   <string name="accessibility_phone_signal_full">Puhelin täysi signaali</string>
   <string name="accessibility_phone_three_bars">Puhelin kolme palkkia</string>
   <string name="accessibility_phone_two_bars">Puhelin kaksi palkkia</string>
-  <string name="accessibility_recent">Aiemmat sovellukset</string>
+  <string name="accessibility_recent">Viimeaikaiset sovellukset</string>
+  <string name="accessibility_recent_task_enter">Viimeaikaiset avattiin, sovelluksia saatavilla: %d.</string>
+  <string name="accessibility_recent_task_exit">Viimeaikaiset suljettiin</string>
+  <string name="accessibility_recent_task_first_enter_tips">Viimeaikaiset avattiin, sovelluksia saatavilla: %d. Poista pyyhkäisemällä ylös, lukitse pyyhkäisemällä alas</string>
+  <string name="accessibility_recent_task_locked">Lukittu, avaa lukitus pyyhkäisemällä alas</string>
+  <string name="accessibility_recent_task_memory_info">RAM Yhteensä: %2$s | RAM Saatavilla %1$s. Tyhjennä tuplanapauttamalla.</string>
+  <string name="accessibility_recent_task_unlocked">Lukitus avattu</string>
   <string name="accessibility_remove_notification">Tyhjennä ilmoitukset.</string>
   <string name="accessibility_ringer_silent">Äänetön hälytys.</string>
   <string name="accessibility_ringer_vibrate">Värinä.</string>

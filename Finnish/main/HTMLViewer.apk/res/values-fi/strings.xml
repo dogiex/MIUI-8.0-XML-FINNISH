@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ad_service">Mainospalvelu</string>
   <string name="app_label">HTML-lukija</string>
   <string name="app_name_which_call">Sovellus:%s</string>
   <string name="app_version_which_call">Sovellusversio:%s</string>
@@ -9,6 +10,8 @@
   <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
   <string name="open_wifi_connect_title">Yhdistä kohteeseen %1$s</string>
   <string name="policy_name">Käytäntö:%s</string>
+  <string name="settings_ad_loading">Ladataan…</string>
+  <string name="settings_ad_loading_unavailable">Latauksessa ilmeni ongelma.</string>
   <string name="settings_license_activity_loading">Ladataan…</string>
   <string name="settings_license_activity_title">Vapaan lähdekoodin lisenssit</string>
   <string name="settings_license_activity_unavailable">Lisenssien lataamisessa on ongelma.</string>

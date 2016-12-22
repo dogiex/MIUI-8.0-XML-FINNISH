@@ -862,6 +862,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="optimize_result_button_cooldown_now">Viilennä</string>
   <string name="optimize_result_button_correct_now">Säädä</string>
   <string name="optimize_result_button_fix_now">Korjaa</string>
+  <string name="optimize_result_button_mifi_insurance">Osta nyt</string>
   <string name="optimize_result_button_onekey_open">Laita päälle</string>
   <string name="optimize_result_button_onekey_restore">Palauta</string>
   <string name="optimize_result_button_open_now">Laita päälle</string>
@@ -1370,6 +1371,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="summary_garbage_lib">Käytä viimeisimpiä virustunnisteita poistaaksesi vakoilu- ja mainosohjelmat, ja muut ei halutut roskat</string>
   <string name="summary_install_virus">Tarkasta sovellukset viruksilta ennen asentamista</string>
   <string name="summary_live_talk_purchase">Säästä 70% puhelinlaskustasi</string>
+  <string name="summary_mifi_insurance">Hanki vuoden vaihtotakuu, joka kattaa myös laitteistovauriot</string>
   <string name="summary_miui_update">Päivitys saatavilla: %s.</string>
   <string name="summary_mms">Estä tekstiviesti spämmi automaattisesti</string>
   <string name="summary_network_switch">Salli Tietoturva sovelluksen yhdistää internettiin</string>
@@ -1518,6 +1520,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_install_virus_yes">Asennuksen monitorointi päällä</string>
   <string name="title_limit_traffic_per_day">Päiväkohtainen datan käytön raja</string>
   <string name="title_live_talk_purchase">Laita Top-up paketti päälle</string>
+  <string name="title_mifi_insurance">Laajennettu takuu</string>
   <string name="title_miui_update">Päivitys saatavilla</string>
   <string name="title_mms_no">Viestin suodatin pois päältä</string>
   <string name="title_mms_yes">Viestin suodatin päällä</string>

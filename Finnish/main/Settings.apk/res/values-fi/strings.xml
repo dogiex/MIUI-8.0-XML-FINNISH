@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Tilit</string>
-  <string name="aaid_info">"
-Mainostuksen tunnistus on pysyvä yksilöllinen ID-tunnus laitteellesi. Myyjät käyttävät sitä tarjoakseen juuri sinulle hyödyllisiä ja kiinnostavia mainoksia.
-
-Jos valitset, ettet halua sinuun kohdistuneita mainoksia, mainosten määrä ei vähene, vaan juuri sinulle hyödylliset ja kiinnostavat mainokset vähenevät radikaalisesti."</string>
+  <string name="about_ad_service_instructions">Tietoa mainospalveluista ja yksityisyydestä​</string>
   <string name="about_phone_enter_xiaomi_net">Opi lisää</string>
   <string name="about_settings">Tietoa laitteesta</string>
   <string name="about_settings_summary">Näytä lakitiedot, tila, ohjelmiston versio</string>
@@ -101,7 +98,7 @@ Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&am
   <string name="active_input_method_subtypes">Aktiiviset syöttötavat</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu puhelimeesi.</string>
   <string name="activity_picker_label">Valitse toiminto</string>
-  <string name="ad_service">Mainos palvelut</string>
+  <string name="ad_service">Mainospalvelut</string>
   <string name="adb_keys_warning_message">Haluatko peruuttaa USB-vianetsinnän käyttöoikeuden kaikilta tietokoneilta, joille olet antanut luvan aiemmin?</string>
   <string name="adb_warning_message">USB-vianetsintä on tarkoitettu vain kehittäjien käyttöön. Sen avulla voidaan kopioida tietoja tietokoneesi ja laitteesi välillä, asentaa laitteeseesi sovelluksia ilmoittamatta siitä sinulle ja lukea lokitietoja.</string>
   <string name="adb_warning_title">Sallitaanko USB-vianetsintä?</string>
@@ -1863,8 +1860,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="lock_screen_secure_after_timeout_immediately_summary">Salasana vaaditaan heti</string>
   <string name="lock_screen_secure_after_timeout_summary">Salasana vaaditaan %1$s kuluttua</string>
   <string name="lock_screen_secure_after_timeout_title">Salasana vaaditaan</string>
-  <string name="lock_screen_signature_summary">Allekirjoitus näytetään Lukitusnäytöllä</string>
-  <string name="lock_screen_signature_title">Lukitusnäytön allekirjoitus</string>
+  <string name="lock_screen_signature_summary">Viesti näytetään Lukitusnäytöllä</string>
+  <string name="lock_screen_signature_title">Omistajan tiedot Lukitusnäytöllä</string>
   <string name="lock_screen_unlock_show">Ohita Lukitusnäyttö</string>
   <string name="lock_screen_unlock_show_summary">Laitteen herätessä se menee suoraan Kotinäytölle tai salasanan syöttökenttään</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Vaihda painamalla</string>
@@ -2358,7 +2355,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="owner_info_settings_edit_text_hint">Esim. Rikun android</string>
   <string name="owner_info_settings_status">%1$d/%2$d</string>
   <string name="owner_info_settings_summary">Ei mitään</string>
-  <string name="owner_info_settings_title">Lukitusnäytön allekirjoitus</string>
+  <string name="owner_info_settings_title">Omistajan tiedot Lukitusnäytöllä</string>
   <string name="packages_subtitle">Sisältyvät paketit</string>
   <string name="page_layout_1">Sunnuntai, 16 Elokuu</string>
   <string name="page_layout_10">Asetukset</string>
@@ -2510,9 +2507,9 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="path_oldman_mode">Asetukset/Lite-tila</string>
   <string name="path_onekey_migrate">Asetukset/Lisäasetukset/Transfer</string>
   <string name="path_other_advanced_settings">Asetukset/Lisäasetukset</string>
-  <string name="path_owner_info_settings">Asetukset/Lukitusnäyttö &amp; salasana/Lukitusnäytön teksti</string>
+  <string name="path_owner_info_settings">Asetukset/Lukitusnäyttö &amp; salasana/Omistajan tiedot Lukitusnäytöllä</string>
   <string name="path_page_layout_settings">Asetukset/Näyttö/Tekstin koko</string>
-  <string name="path_permission_settings_title">Asetukset/Käyttöoikeudet/Sovelluksen käyttöoikeudet</string>
+  <string name="path_permission_settings_title">Asetukset/Käyttöoikeudet/Käyttöoikeudet</string>
   <string name="path_pointer_speed">Asetukset/Lisäasetukset/Kieli &amp; syöttötapa/Osoittimen nopeus</string>
   <string name="path_power_checker">Asetukset/Additional/Beta toiminnot/Virran Tarkastaja</string>
   <string name="path_power_hide_mode_title">Asetukset/Akku/Hallitse sovelluksien akunkäyttöä</string>
@@ -3210,7 +3207,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_oldman_mode">Lite-tila;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Lähetys;One key migrate</string>
   <string name="search_other_advanced_settings">Lisäasetukset;Yksityisyys;Päivämäärä&amp;aika;Kieli &amp; syöttötapa;Yhden käden-tila;Akku &amp; suorituskyky;Tallennustila;Ilmoituksen valo;Led;Kuulokkeet &amp; äänitehosteet;Painikkeet;Avaimet;Esteettömyys;Beta toiminnot;Lab toiminnot;Kehittäjäasetukset;Varmuuskopiointi &amp; palautus;Lähetys;One key migrate</string>
-  <string name="search_owner_info_settings">Lukitusnäytön teksti</string>
+  <string name="search_owner_info_settings">Omistajan tiedot Lukitusnäytöllä;Omistajan tiedot;Allekirjoitus;Lukitusnäytön allekirjoitus;Omistaja</string>
   <string name="search_page_layout_settings">Tekstin koko</string>
   <string name="search_permission_settings_title">Sovelluksen käyttöoikeudet</string>
   <string name="search_pointer_speed">Osoittimen nopeus</string>
@@ -3395,6 +3392,8 @@ Näytön kiinnityksen käyttö:
   <string name="set_password_message">Aseta salasana Lapsi-tilan kytkemiseksi pois päältä ja laitteen avaamista varten.</string>
   <string name="set_password_title">Aseta salasana</string>
   <string name="setting_privacy_password">Aseta Yksityisyydensuojan salasana</string>
+  <string name="settings_ad_loading">Ladataan…</string>
+  <string name="settings_ad_loading_unavailable">Latauksessa ilmeni ongelma.</string>
   <string name="settings_backup">Varmuuskopioi asetukset</string>
   <string name="settings_backup_summary">Varmuuskopioi asetukseni</string>
   <string name="settings_button">Asetukset</string>
@@ -3436,7 +3435,7 @@ Näytön kiinnityksen käyttö:
   <string name="show_hw_screen_updates_summary">Väläytä ikkunoiden sisältö GPU:lla piirrettäessä</string>
   <string name="show_magnifier_when_input">Tekstin suurennuslasi</string>
   <string name="show_non_rect_clip">Korjaa ei-suorakulmaisten leiketoimintojen virheet</string>
-  <string name="show_owner_info_on_lockscreen_label">Näytä allekirjoitus Lukitusnäytöllä</string>
+  <string name="show_owner_info_on_lockscreen_label">Näytä omistajan tiedot Lukitusnäytöllä</string>
   <string name="show_password">Näytä salasanat</string>
   <string name="show_profile_info_on_lockscreen_label">Näytä profiilin tiedot Lukitusnäytöllä</string>
   <string name="show_rounded_corners">Näytä pyöristetyt kulmat</string>
@@ -4087,10 +4086,10 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="use_default_tts_settings_title">Käytä aina omia asetuksiani</string>
   <string name="use_location_summary">Anna Googlen käyttää sijaintia hakutulosten ja muiden palveluiden parantamiseen.</string>
   <string name="use_location_title">Sijainti ja Google-haku</string>
-  <string name="use_personalized_ad_service">Henkilökohtaiset mainokset</string>
+  <string name="use_personalized_ad_service">Käytä mainostuksen tunnistusta</string>
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
-  <string name="use_this_wlan">Use this WLAN</string>
+  <string name="use_this_wlan">Käytä tätä WLAN-yhteyttä</string>
   <string name="user_account_title">Käytettävä tili</string>
   <string name="user_add_max_count">Voit lisätä korkeintaan %1$d käyttäjää.</string>
   <string name="user_add_on_lockscreen_menu">Lisää käyttäjiä lukitustilassa</string>

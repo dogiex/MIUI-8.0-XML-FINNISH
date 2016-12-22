@@ -8,6 +8,7 @@
   <string name="Only_the_wifi">Käytä vain Wi-Fi-yhteyttä</string>
   <string name="about">Tietoa</string>
   <string name="action_settings">Asetukset</string>
+  <string name="ad_install">Asenna</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">Käyttäjät myös lataavat näitä tällä  %1$s </string>
   <string name="ad_title_other">Käyttäjät, jotka latasivat tämän kuvan, latasivat myös</string>
@@ -52,6 +53,8 @@
   <string name="deselect_all">Poista kaikki valinnat</string>
   <string name="deselect_subfile_all">Poista valinnat</string>
   <string name="determine">OK</string>
+  <string name="dialog_btn_cancel">Peruuta</string>
+  <string name="dialog_btn_ok">OK</string>
   <string name="dialog_cannot_resume">Lataus on keskeytetty eikä sitä voida jatkaa.</string>
   <string name="dialog_confirm_delete_checkbox_message">Poista myös paikalliset tiedostot</string>
   <string name="dialog_confirm_delete_downloads_message">Poistetaanko %d tehtävää?</string>
@@ -64,9 +67,11 @@
   <string name="dialog_insufficient_space_on_external">Latausta ei voi ladata loppuun. Ulkoisella tallennuslaitteella ei ole tarpeeksi tilaa.</string>
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen laite ei ole käytettävissä.</string>
   <string name="dialog_msg_disabled_net">%1$s estettyä latausta nykyisessä verkossa. Mene Tietoturva-sovellukseen napauttamalla Verkkoasetuksia.</string>
+  <string name="dialog_msg_recommend">"Et tule näkemään suositeltuja lähteitä pois laittamisen jälkeen. Voit säästää mobiilidataa valitsemalla \"Käytä vain Wi-Fi-yhteyttä\"."</string>
   <string name="dialog_queued_body">Tämä tiedosto on jonossa tulevaa latausta varten, joten se ei ole vielä saatavilla.</string>
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
+  <string name="dialog_title_recommend">Laita suositellut lähteet pois päältä</string>
   <string name="disable">Pois</string>
   <string name="display_expire_netiv1">Tämä kuukausi</string>
   <string name="do_not_support_url">Tämänkaltainen URL ei ole tuettu</string>
@@ -76,6 +81,7 @@
   <string name="download_complete">Ladattu</string>
   <string name="download_detail">Tiedot</string>
   <string name="download_error">Epäonnistui</string>
+  <string name="download_error_download_file_not_exists">Tiedostoa ei ole olemassa</string>
   <string name="download_error_insufficient_space">Ei tarpeeksi tilaa</string>
   <string name="download_filesize_unknown">Tuntematon</string>
   <string name="download_from">Lähde:</string>
@@ -162,8 +168,8 @@
   <string name="hint">Huomio</string>
   <string name="immediately_a_renewal">Uusi nyt</string>
   <string name="info_flow_only_load_wifi">Lataa suositellut lähteet Wi-Fi-yhteydellä</string>
-  <string name="info_flow_setting">Asetukset</string>
-  <string name="info_flow_show">Suositellut lähteet</string>
+  <string name="info_flow_setting">Sisällön asetukset</string>
+  <string name="info_flow_show">Näytä suositellut lähteet</string>
   <string name="input_valid_address">Syötä tiedostopolku</string>
   <string name="install">Asenna</string>
   <string name="install_failed">%1$s asennus epäonnistui</string>
