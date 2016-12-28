@@ -2,13 +2,13 @@
 <resources>
   <string name="about_to_recover">Pieni hetki…</string>
   <string name="app_name">Mi Pilvi varmuuskopio​</string>
-  <string name="as_new_device">Korvaa edellinen Koti-näyttö ja asetukset</string>
+  <string name="as_new_device">Korvaa edellinen Kotinäyttö ja asetukset</string>
   <string name="as_new_device_summary">Poista edelliset Mi Pilvi varmuuskopiot</string>
   <string name="back_up_task_in_process">Varmuuskopioidaan…</string>
   <string name="back_up_task_unfinished">Varmuuskopiointi ei ole vielä valmis</string>
   <string name="backing_up_to_micloud">Varmuuskopioidaan…</string>
   <string name="backup_fail">Varmuuskopiointi epäonnistui</string>
-  <string name="backup_finished_notification_content">Varmuuskopioitiin Koti-näyttö, sovellukset, järjestelmäasetukset, jne.</string>
+  <string name="backup_finished_notification_content">Varmuuskopioitiin Kotinäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
   <string name="backup_success">Varmuuskopiointi onnistui</string>
@@ -36,9 +36,9 @@
   <string name="cloud_app_restore_error">Palauttaminen epäonnistui</string>
   <string name="cloud_app_restore_success">Sovellukset palautettiin</string>
   <string name="cloud_app_restore_wifi_prompt">Palauttaaksesi varmuuskopion Mi Pilvestä, täytyy sinun yhdistää laitteesi Wi-Fi verkkoon.</string>
-  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Mi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon: 
-*Sovellukset, Koti-näytön asettelu ja taustakuvat 
+*Sovellukset, Kotinäytön asettelu ja taustakuvat 
 *Hälytykset, kello, ja aika-asetukset 
 *Ilmoituksien asetukset 
 *MIUI ja järjestelmäasetukset 
@@ -60,7 +60,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_backup_detail_manage">Hallitse varmuuskopioita</string>
   <string name="cloud_backup_detail_manage_summary">%1$s varmuuskopioita, koko:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Pilvi varmuuskopio</string>
-  <string name="cloud_backup_detail_state_summary">Sovellukset, Koti-näyttö ja järjestelmäasetukset</string>
+  <string name="cloud_backup_detail_state_summary">Sovellukset, Kotinäyttö ja järjestelmäasetukset</string>
   <string name="cloud_backup_detail_time">Edellinen varmuuskopio: %1$s</string>
   <string name="cloud_backup_have_data">Löydettiin varmuuskopio Mi Pilvestä</string>
   <string name="cloud_backup_select_recover">Valitse varmuuskopio Mi Pilvestä</string>
@@ -68,10 +68,10 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_restore_task">Palautetaan…</string>
   <string name="cloud_task_in_process">Lopeta %s palauttaminen ja poista tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
   <string name="confirm_restore">Palauta</string>
-  <string name="confirm_restore_summary">Koti-näyttö käynnistyy uudelleen ja sovellukset ladataan automaattisesti laitteen ollessa yhteydessä Wi-Fi-verkkoon</string>
+  <string name="confirm_restore_summary">Kotinäyttö käynnistyy uudelleen ja sovellukset ladataan automaattisesti laitteen ollessa yhteydessä Wi-Fi-verkkoon</string>
   <string name="confirm_restore_title">Palauta</string>
   <string name="customization">Kustomoi</string>
-  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="deskclock_backup">Herätyskello</string>
   <string name="desktop_downloading">Ladataan</string>
   <string name="desktop_installing">Asennetaan</string>
@@ -81,8 +81,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="device_delete_prompt">Poistetaanko %s varmuuskopio?</string>
   <string name="device_xiaomi">Mi Puhelin</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">Ladataan Koti-näytön asetuksia %s%%</string>
-  <string name="download_settings_fail">Koti-näytön asetuksien lataaminen epäonnistui</string>
+  <string name="download_settings">Ladataan Kotinäytön asetuksia %s%%</string>
+  <string name="download_settings_fail">Kotinäytön asetuksien lataaminen epäonnistui</string>
   <string name="error_unknown">Jotain meni pieleen</string>
   <string name="latest_backup_time_loading">Ladataan…</string>
   <string name="managespace_delete_backup">Poista varmuuskopio</string>
@@ -93,15 +93,15 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="menu_item_sort_size">Koko</string>
   <string name="miui_device_name">Android</string>
   <string name="name_model">"%1$s's %2$s"</string>
-  <string name="open_wifi">Kytke Wi-Fi päälle</string>
+  <string name="open_wifi">Laita Wi-Fi päälle</string>
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
   <string name="query_restore_back_view">Mi Pilvi varmuuskopio</string>
-  <string name="query_restore_description">Palauta Koti-näytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Koti-näytölle.</string>
-  <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Koti-näytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
+  <string name="query_restore_description">Palauta Kotinäytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Kotinäytölle.</string>
+  <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Kotinäytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
   <string name="recover_from_micloud">Palauta Mi Pilvi varmuuskopio</string>
-  <string name="recover_home_settings">Palauta Koti-näytön asetukset</string>
+  <string name="recover_home_settings">Palauta Kotinäytön asetukset</string>
   <string name="recover_miui_settings">Palauta järjestelmäasetukset</string>
   <string name="recover_settings_description">Pidä laitteesi päällä</string>
   <string name="recovering">Palautetaan %s</string>
@@ -118,7 +118,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="settings_backup">Järjestelmäasetukset</string>
   <string name="start_backup_to_micloud">Varmuuskopioi sovellukset Mi Pilveen</string>
   <string name="start_recover">Palauta %s</string>
-  <string name="success_open_cloudbackup">Koti-näytön sovelluksien varmuuskopiot on käytössä</string>
+  <string name="success_open_cloudbackup">Kotinäytön sovelluksien varmuuskopiot on käytössä</string>
   <string name="wait_icon_download">Ladataan sovelluksien ikoneita</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

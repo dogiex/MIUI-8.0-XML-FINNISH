@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minuuttia</item>
-        <item quantity="one">1 minuutti</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d min</item>
-        <item quantity="one">1 min</item>
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">1 minuutti sitten</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d tuntia</item>
-        <item quantity="one">1 tunti</item>
+        <item quantity="other">%d tuntia sitten</item>
+        <item quantity="one">1 tunti sitten</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d päivää</item>
-        <item quantity="one">1 päivä</item>
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">1 päivä sitten</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">VIIKKO %d</item>
@@ -30,5 +26,17 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+ %d tapahtumaa</item>
         <item quantity="one">+ 1 tapahtuma</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d päivää sitten klo %2$s</item>
+        <item quantity="one">%1$d päivä sitten klo %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d päivän jälkeen klo %2$s</item>
+        <item quantity="one">%1$d päivän jälkeen klo %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d viikkoa sitten</item>
+        <item quantity="one">1 viikko sitten</item>
     </plurals>
 </resources>

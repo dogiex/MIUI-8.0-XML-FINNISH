@@ -332,7 +332,6 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="details_list_group_header_more_action">Lisää</string>
   <string name="details_list_group_header_other">MUU</string>
   <string name="device_bluetooth_title">Siirrä yhteystietoja</string>
-  <string name="device_brand_title">Valitse merkki</string>
   <string name="device_import_account_dialog_title">Valitse tili tuontiin</string>
   <string name="device_import_account_dialog_title_suffix">"
 (löytyi %1$s yhteystietoa)"</string>
@@ -345,15 +344,30 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="device_import_progress_toast">%1$d yhteystietoa tuotu</string>
   <string name="device_import_title">Tuo</string>
   <string name="device_list_title">Valitse puhelin</string>
-  <string name="device_other_guide">Jos puhelimesi ei ole luettelossa, käytä alapuolella olevia ohjeita</string>
-  <string name="device_other_title">Toinen puhelin</string>
+  <string name="device_other_guide">Tukeeko toinen puhelin bluetoothia?</string>
+  <string name="device_other_title">Tuo toisesta puhelimesta</string>
   <string name="device_paired_dialog_message">Noudetaan yhteystietoja…</string>
   <string name="device_paired_dialog_title">Noudetaan yhteystietoja…</string>
   <string name="device_pairing_dialog_message">Paritetaan…</string>
   <string name="device_pairing_dialog_title">Parita laitteet</string>
-  <string name="device_version_header_bluetooth">Varmista, että Bluetooth on kytketty päälle</string>
-  <string name="device_version_header_no_bluetooth">Tuo yhteystiedot käyttäen SIM-korttia</string>
-  <string name="device_version_title">Valitse malli</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Laita toisen laitteen \"Bluetooth\" päälle;
+        
+
+- Android laitteilla \"Bluetooth\" asetuksen löytää usein verkkoasetuksen alapuolelta
+        
+- iOS laitteiden täytyy etsiä \"Bluetooth\" asetusta Asetuksien sisältä
+        
+
+2. Android laitteiden täytyy myös laittaa \"Tunnistettavuus\" asetus päälle;
+        
+
+3. Paina \"Seuraava\", ja salli yhteystiedoille käyttöoikeus seuraavassa vaiheessa."</string>
+  <string name="device_transfer_by_sim_message">"1. Tallenna toisen laitteesi yhteystiedot SIM-kortille;
+        
+
+2. Mene \"Yhteystietojen asetuksiin\" -- \"Tuo/Vie yhteystietoja\" -- \"Tuo SIM-kortilta\", paina pitkään mitä tahansa SIM-kortin yhteystietoa ja valitse haluamasi tuotavat yhteystiedot, sen jälkeen paina \"Tuo\" valintaa."</string>
+  <string name="device_version_header_bluetooth">Tuo käyttäen Bluetoothia</string>
+  <string name="device_version_header_no_bluetooth">Tuo käyttäen SIM-korttia</string>
   <string name="dial">Soita</string>
   <string name="dialerDialpadHintText">Näppäile numero soittaaksesi</string>
   <string name="dialerIconLabel">Viimeisimmät</string>
@@ -741,8 +755,8 @@ Syy: %s"</string>
   <string name="multipleContactDeleteConfirmation">Kun tämä yhteystieto poistetaan, tietoja poistetaan useilta tileiltä.</string>
   <string name="multipleContactDeleteConfirmationDetail">Poistamalla \"%s\" yhteystiedon tulee poistamaan tiedot useilta tileiltä..</string>
   <string name="my_in_call_show">Oma video</string>
-  <string name="my_phone_not_provider_bluetooth">Puhelin ei tue Bluetoothia</string>
-  <string name="my_phone_provider_bluetooth">Puhelin tukee Bluetoothia</string>
+  <string name="my_phone_not_provider_bluetooth">Ei</string>
+  <string name="my_phone_provider_bluetooth">Kyllä</string>
   <string name="nameLabelsGroup">Nimi</string>
   <string name="name_family">Sukunimi</string>
   <string name="name_given">Etunimi</string>

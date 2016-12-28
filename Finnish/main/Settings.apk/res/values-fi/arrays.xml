@@ -486,6 +486,10 @@
         <item>Keskiverto</item>
         <item>Kevyt</item>
     </string-array>
+    <string-array name="ap_identify">
+        <item>oletus</item>
+        <item>iPhone</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graafinen</item>
         <item>Prosentti</item>

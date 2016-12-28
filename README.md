@@ -86,6 +86,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiuiHome.apk
 - MiuiKeyguard
 - miui.apk
+- MiuiCompass.apk
 - miuisystem.apk
 - MiuiSystemUi.apk
 - NetworkAssistant2.apk

@@ -13,7 +13,7 @@
   <string name="all_sync_item_open">Kaikki kohteet on päällä</string>
   <string name="antispam_sync">Älä Häiritse asetukset</string>
   <string name="app_name">Mi Pilvi</string>
-  <string name="apple_10gb">20GB</string>
+  <string name="apple_10gb">20Gt</string>
   <string name="apple_cloud">Apple Pilvipalvelu</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">Noin 72 RMB vuodessa</string>
@@ -116,7 +116,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Noin 143 RMB vuodessa</string>
   <string name="header_cloud_backup_settings">Varmuuskopioi ja palauta</string>
-  <string name="header_cloud_restore_summary">Asenna Mi Pilvessä olevasta varmuuskopiosta sovellukset uudelleen ja palauta Kotiruudun asetelma ja järjestelmäasetukset</string>
+  <string name="header_cloud_restore_summary">Asenna Mi Pilvessä olevasta varmuuskopiosta sovellukset uudelleen ja palauta Kotinäytön asetelma ja järjestelmäasetukset</string>
   <string name="header_data_and_synchronization">Data ja synkronointi</string>
   <string name="header_find_device_settings">Etsi laite</string>
   <string name="i_know">OK</string>
@@ -322,7 +322,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_setting_sms_summary">SMS ja MMS viestit</string>
   <string name="micloud_setting_wifi_summary">Wi-Fi asetukset</string>
   <string name="micloud_single_dspt">Käytä Mi Pilveä tietojen synkronointiin, laitteen paikannukseen ja asioiden jakamiseen kavereiden kanssa.</string>
-  <string name="micloud_space_applist_detail">Hallitse Kotiruudulla olevia sovelluksia</string>
+  <string name="micloud_space_applist_detail">Hallitse Kotinäytöllä olevia sovelluksia</string>
   <string name="micloud_space_applist_title">Hallitse sovelluksia</string>
   <string name="micloud_space_duokan_detail">Lataa ja hallitse e-kirjoja Duokan sovelluksella.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
@@ -424,7 +424,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="share_success">Jaettu</string>
   <string name="share_weibo_not_installed">Weibo ei ole asennettu.</string>
   <string name="share_weixin_not_installed">WeChat ei ole asennettu.</string>
-  <string name="short_cut_desc">Lisätäänkö Mi Pilven kuvake Kotiruudulle?</string>
+  <string name="short_cut_desc">Lisätäänkö Mi Pilven kuvake Kotinäytölle?</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui</string>
   <string name="sina_share_fail_content_repeat">Jakaminen epäonnistui, sisältö on jo olemassa…</string>
   <string name="sina_share_pendding">Lähetetään…</string>

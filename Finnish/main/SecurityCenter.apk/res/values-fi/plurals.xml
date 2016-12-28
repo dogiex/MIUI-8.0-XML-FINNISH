@@ -133,6 +133,10 @@
         <item quantity="other">%d​ riskiä löytyi, korjaa nyt</item>
         <item quantity="one">%d riski löytyi, korjaa nyt</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Kaikki näyttää hyvältä</item>
+        <item quantity="one">Kaikki näyttää hyvältä</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d sovellusta sisältää yksityisyysriskejä</item>
         <item quantity="one">%d sovellus sisältää yksityisyysriskejä</item>

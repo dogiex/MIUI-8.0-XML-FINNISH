@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">Etsi Kotinäytöltä</string>
   <string name="app_name">Haku</string>
   <string name="application_desc">Sovellus</string>
   <string name="applications_search_label">Sovellukset</string>
@@ -41,6 +42,8 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="google_settings_category_title">Google Haku</string>
   <string name="hot_search">Suositukset</string>
   <string name="loading">Pieni hetki…</string>
+  <string name="local_app">Sovellukset</string>
+  <string name="local_setting">Asetukset</string>
   <string name="menu_help">Apua</string>
   <string name="menu_settings">Haku-asetukset</string>
   <string name="network_unavailable">Verkkoon ei saada yhteyttä</string>

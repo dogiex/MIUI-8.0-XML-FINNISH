@@ -935,7 +935,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="permit_running_network">Taustalla oleva data</string>
   <string name="person_hotpot">Mobiili hotspotit</string>
   <string name="pkg_traffic">Aseta datan käytön raja</string>
-  <string name="please_continue_keep">Säilytä</string>
   <string name="pm_auto_start_by_other">Pyydetty käynnistys</string>
   <string name="pm_auto_start_by_other_app">Salli sovelluksen käynnistyä toisen sovelluksen pyynnöstä</string>
   <string name="pm_auto_start_by_system">Käynnistä sovelluksia</string>
@@ -1633,6 +1632,7 @@ Tap to top up your balance."</string>
   <string name="traffic_setting_open">Päällä</string>
   <string name="traffic_setting_step_num">Datapaketin asetukset</string>
   <string name="traffic_warning_purchase_title">Mobiilidatan käytön varoitus</string>
+  <string name="try_recommended_function">Suojaa laitteesi käyttämällä uusia Tietoturvatoimintoja</string>
   <string name="unable_connect_internet">Ei internet-yhteyttä</string>
   <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellusdatan.</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>

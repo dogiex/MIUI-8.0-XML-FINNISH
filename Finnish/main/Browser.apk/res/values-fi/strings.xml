@@ -12,7 +12,7 @@
   <string name="accessibility_date_picker_year">Vuosi</string>
   <string name="accessibility_datetime_picker_date">Päivä</string>
   <string name="accessibility_datetime_picker_time">Aika</string>
-  <string name="accessibility_time_picker_ampm">AM/PM</string>
+  <string name="accessibility_time_picker_ampm">AP/IP</string>
   <string name="accessibility_time_picker_hour">Tunti</string>
   <string name="accessibility_time_picker_milli">Millisekunti</string>
   <string name="accessibility_time_picker_minute">Minuutti</string>
@@ -161,8 +161,9 @@
   <string name="color_picker_dialog_title">Valitse väri</string>
   <string name="color_picker_hue">Sävy</string>
   <string name="color_picker_saturation">Kylläisyys</string>
-  <string name="comment_app_menu">Comment</string>
-  <string name="comment_menu">Comment</string>
+  <string name="comment_app_menu">Kommentoi</string>
+  <string name="comment_hint">Kommentoi</string>
+  <string name="comment_menu">Kommentoi</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -184,6 +185,7 @@
   <string name="contextmenu_openlink">Avaa</string>
   <string name="contextmenu_openlink_newwindow">Avaa uudessa välilehdessä</string>
   <string name="contextmenu_openlink_newwindow_background">Avaa uudessa välilehdessä taustalla</string>
+  <string name="contextmenu_recognise_qr_code">Tunnista QR-koodi</string>
   <string name="contextmenu_savelink">Tallenna linkki</string>
   <string name="contextmenu_send_mail">Lähetä sähköpostia</string>
   <string name="contextmenu_set_wallpaper">Aseta taustakuvaksi</string>
@@ -547,6 +549,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_notifications_receive">Ilmoitukset</string>
   <string name="pref_notifications_title">Ilmoitukset</string>
   <string name="pref_other_title">Muu</string>
+  <string name="pref_paper_mode_title">Luku-tila</string>
   <string name="pref_privacy_clear_cache">Tyhjennä välimuisti</string>
   <string name="pref_privacy_clear_cache_dlg">Poistetaanko paikallisen välimuistin sisältö ja tietokannat?</string>
   <string name="pref_privacy_clear_cache_summary">Poista paikallisen välimuistin sisältö ja tietokannat</string>

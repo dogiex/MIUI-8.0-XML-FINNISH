@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="menu_theme_setting">
+        <item>Valkoinen</item>
+        <item>Keltainen</item>
+        <item>Harmaa</item>
+        <item>Ruskea</item>
+        <item>Vihreä</item>
+        <item>Sininen</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Oletussivu</item>
         <item>Muu</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Puhelin</item>
+        <item>Tabletti</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Hyvin pieni</item>
@@ -11,8 +23,22 @@
         <item>Suuri</item>
         <item>Hyvin suuri</item>
     </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>Puhelin</item>
-        <item>Tabletti</item>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Pöytäkone</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Poista</item>
+        <item>Ei kiitos</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Seuraa</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Viesti Selaimesta</item>
+        <item>Seuraa Olympialaisia Mi:llä</item>
     </string-array>
 </resources>
