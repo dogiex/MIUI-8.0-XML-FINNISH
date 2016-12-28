@@ -247,7 +247,6 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="quick_settings_done">Valmis</string>
   <string name="quick_settings_more_settings">Lisää asetuksia</string>
   <string name="quick_settings_tiles">default</string>
-  <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location</string>
   <string name="quick_settings_wifi_detail_empty_text">Wi-Fi verkkoja ei saatavilla</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Valitse lähellä oleva verkko</string>

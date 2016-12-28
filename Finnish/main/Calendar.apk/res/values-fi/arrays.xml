@@ -59,17 +59,6 @@
         <item>Läpinäkyvä</item>
         <item>Valkoinen tausta</item>
     </string-array>
-    <string-array name="default_reminder_labels">
-        <item>Kun tapahtuma alkaa</item>
-        <item>5 minuuttia ennen</item>
-        <item>10 minuuttia ennen</item>
-        <item>15 minuuttia ennen</item>
-        <item>30 minuuttia ennen</item>
-        <item>Tuntia ennen</item>
-        <item>Päivää ennen</item>
-        <item>Kaksi päivää ennen</item>
-        <item>Viikkoa ennen</item>
-    </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 tuntia ennen</item>
         <item>4 tuntia ennen</item>
