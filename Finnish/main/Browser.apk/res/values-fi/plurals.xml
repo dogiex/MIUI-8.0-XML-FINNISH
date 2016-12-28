@@ -4,6 +4,10 @@
         <item quantity="other">%d kohdetta estetty</item>
         <item quantity="one">%d kohde estetty</item>
     </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d osumaa</item>
+        <item quantity="one">%d osuma</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Viimeiset %d päivää</item>
     </plurals>
