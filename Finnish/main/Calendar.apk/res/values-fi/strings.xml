@@ -379,7 +379,7 @@
   <string name="setting_title_about">Tietoa</string>
   <string name="setting_title_banner_display">显示农历卡片广告</string>
   <string name="setting_title_debug">导出日志</string>
-  <string name="setting_title_holiday_display">Show Holidays</string>
+  <string name="setting_title_holiday_display">Näytä juhlapyhät</string>
   <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>

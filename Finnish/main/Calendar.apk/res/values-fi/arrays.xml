@@ -12,6 +12,17 @@
         <item>2 päivää</item>
         <item>1 viikko</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Kun tapahtuma alkaa</item>
+        <item>5 minuuttia ennen</item>
+        <item>10 minuuttia ennen</item>
+        <item>15 minuuttia ennen</item>
+        <item>30 minuuttia ennen</item>
+        <item>1 tuntia ennen</item>
+        <item>1 päivää ennen</item>
+        <item>2 päivää ennen</item>
+        <item>1 viikkoa ennen</item>
+    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Oletus</item>
         <item>Lauantai</item>

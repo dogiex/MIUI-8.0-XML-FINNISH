@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Pieni hetki…</string>
-  <string name="app_name">Mi Pilvi varmuuskopio​</string>
+  <string name="app_name">Mi Pilvi varmuuskopio​inti</string>
   <string name="as_new_device">Korvaa edellinen Kotinäyttö ja asetukset</string>
   <string name="as_new_device_summary">Poista edelliset Mi Pilvi varmuuskopiot</string>
   <string name="back_up_task_in_process">Varmuuskopioidaan…</string>
