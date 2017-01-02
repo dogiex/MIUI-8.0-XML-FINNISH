@@ -479,7 +479,7 @@
   <string name="recommend">Suositeltu</string>
   <string name="recommend_topic">Suositellut aiheet</string>
   <string name="recommend_user">Suositellut profiilit</string>
-  <string name="remote_video_report_success">Kiitos palautteestasi! We'll follow up as soon as possible."</string>
+  <string name="remote_video_report_success">Kiitos palautteestasi!</string>
   <string name="rename_alert">Jos vaihdat tämän tiedoston tiedostotunnisteen, et välttämättä voi avata sitä.</string>
   <string name="rename_alert2">Tiedosto piilotetaan.</string>
   <string name="rename_failed">%1$s ei voi nimetä uudelleen</string>
