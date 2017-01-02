@@ -67,8 +67,8 @@
   <string name="add_shortcut">Lisää pikakuvake</string>
   <string name="add_shortcut_success">Pikakuvake lisätty</string>
   <string name="add_to_bookmark">Kirjanmerkit</string>
-  <string name="add_to_desk">Lisää Koti ruudulle</string>
-  <string name="add_to_desk_success">Lisätty Koti ruudulle</string>
+  <string name="add_to_desk">Lisää Kotinäytölle</string>
+  <string name="add_to_desk_success">Lisätty Kotinäytölle</string>
   <string name="add_to_quicklink">Aloitussivu</string>
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
   <string name="adjust_text_zoom_toast">Jos vaihdat tekstin zoomausta, jotkut sivustot saattavat näyttää sisällön väärin</string>
@@ -326,7 +326,7 @@
   <string name="go_supermarket_button">Siirry</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="google_bookmarks">Google</string>
-  <string name="have_sent_bookmark_to_home_screen">Lisätty Kotiruudulle</string>
+  <string name="have_sent_bookmark_to_home_screen">Lisätty Kotinäytölle</string>
   <string name="history_saved_webpage">Tallenna sivu</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Poista</string>
@@ -379,7 +379,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="media_player_error_text_unknown">Pahoittelut, tätä videota ei voi toistaa.</string>
   <string name="media_player_error_title">Videota ei voida toistaa</string>
   <string name="media_player_loading_video">Ladataan videota</string>
-  <string name="menu_addtodesk">Lisää Kotiruudulle</string>
+  <string name="menu_addtodesk">Lisää Kotinäytölle</string>
   <string name="menu_exit_nightmode">Sulje</string>
   <string name="menu_hv_swap">V/H ruutu</string>
   <string name="menu_nightmode">Yö tila</string>
@@ -694,7 +694,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="select_download_device">Valitse laite</string>
   <string name="send_comment_button">Lähetä</string>
   <string name="send_comment_title">Kommentoi</string>
-  <string name="senddesktop">Kotiruutu</string>
+  <string name="senddesktop">Kotinäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
   <string name="share_page_text">"Katso ihmeessä tämä 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Tämän sivun URL-osoite lähetetään Xiaomin palvelimille tarkastettavaksi, jotta se on turvallinen. Voit kytkeä tämän toiminnon pois päältä koska tahansa Asetuksista.</string>
@@ -734,7 +734,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="suggest_access_music">Mi Musiikki</string>
   <string name="suggest_item_delete_text">Poista</string>
   <string name="suggest_open_app_failed">Tätä sovellusta ei voitu avata</string>
-  <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Turvallisuus-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>
+  <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Tietoturva-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>
   <string name="switch_proxy_dialog_title">Verkon kaappaus</string>
   <string name="tab_hotpage">Uutis Syöte</string>
   <string name="tab_quicklinks">Aloitus-sivu</string>

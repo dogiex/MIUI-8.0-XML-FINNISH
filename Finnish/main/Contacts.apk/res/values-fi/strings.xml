@@ -1099,7 +1099,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="select_none">Ei valittua</string>
   <string name="select_show_contacts">Yhteystietoluettelo</string>
   <string name="select_vcard_title">Valitse vCard-tiedosto</string>
-  <string name="send_contact_shortcut_todesktop_success">Lisätty Koti-ruudulle</string>
+  <string name="send_contact_shortcut_todesktop_success">Lisätty Kotinäytölle</string>
   <string name="send_to_voicemail_checkbox">Ohjaa puheluja suoraan vastaajaan</string>
   <string name="separatorJoinAggregateAll">Kaikki yhteystiedot</string>
   <string name="separatorJoinAggregateSuggestions">Ehdotetut yhteystiedot</string>
@@ -1300,7 +1300,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_search_select_city">Valitse kaupunki</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Ladataan…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Verkkoon ei saada yhteyttä</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Koti-ruudulle</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Kotinäytölle</string>
   <string name="yellowpage_search_the_yellowpage">Etsi Hakemistosta</string>
   <string name="yellowpage_user_profile">Profiili</string>
   <string name="yesterday">Eilen</string>

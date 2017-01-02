@@ -6,7 +6,7 @@
   <string name="all_call_livetalk_remain_mins">Minuuttia jäljellä: %1$s kotimaan tai %2$s ulkomaan</string>
   <string name="alwaysUsePrompt">Muista valintani</string>
   <string name="apply_password_action">OK</string>
-  <string name="apply_password_confirm_dlg_msg">Käytä nykyistä lukitusruudun salasanaa myös päästääksesi %s asetuksiin.</string>
+  <string name="apply_password_confirm_dlg_msg">Käytä nykyistä lukitusnäytön salasanaa myös päästääksesi %s asetuksiin.</string>
   <string name="apply_password_confirm_dlg_title">%s salasana</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigointipainikkeet on pois päältä, tuplanapauta mitä tahansa painiketta ottaaksesi ne käyttöön</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigointipainikkeet on päällä</string>
@@ -40,10 +40,10 @@
   <string name="fm_record_smaple_prefix_miui">FM nauhoitukset</string>
   <string name="force_exit_message">%1$s lopetettiin</string>
   <string name="force_exit_skip_message">%1$s ei voi lopettaa, koska järjestelmä käyttää sitä.</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Voit palata takaisin Kotiruudulle painamalla kevyesti Koti-painiketta. Mene Asetukset &gt; Lisäasetukset &gt; Painikkeet ja laita päälle napauta Kotiruudulle asetus.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Voit palata takaisin Kotinäytölle painamalla kevyesti Koti-painiketta. Mene Asetukset &gt; Lisäasetukset &gt; Painikkeet ja laita päälle napauta Kotinäytölle asetus.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ei nyt</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Mene Asetuksiin</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Nopea napautus Kotiruudulle</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Nopea napautus Kotinäytölle</string>
   <string name="frequent_phrases">Usein käytetyt lauseet</string>
   <string name="global_actions_airplane_mode">Lentokone</string>
   <string name="global_actions_reboot">Käynnistä uudelleen</string>
@@ -93,7 +93,7 @@
   <string name="screen_button_notification_title">Navigointipainikkeet on pois päältä</string>
   <string name="screen_on_proximity_sensor_hint">Laita toiminto pois päältä painamalla Takaisin- ja Äänenvoimakkuus ylös -painikkeita samanaikaisesti.</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Laita tämä toiminto pois päältä painamalla Äänenvoimakkuus ylös painiketta.</string>
-  <string name="screen_on_proximity_sensor_summary">Älä peitä ruudulla näkyvää oranssia aluetta</string>
+  <string name="screen_on_proximity_sensor_summary">Älä peitä näytöllä näkyvää oranssia aluetta</string>
   <string name="screen_on_proximity_sensor_title">Estä taskusoittaminen</string>
   <string name="screen_paper_mode_enter_toast">Luku-tila on päällä. Voit laittaa toiminnon pois päältä menemällä Asetukset &gt; Näyttö &gt; Luku-tila.</string>
   <string name="screen_rotation_freeze_message">Automaattinen kääntäminen pois käytöstä.</string>
@@ -122,7 +122,7 @@
   <string name="status_bar_toggle_auto_brightness">Kirkkaus</string>
   <string name="status_bar_toggle_battery_saver">Akun säästäjä</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_cast">Ruudun jako</string>
+  <string name="status_bar_toggle_cast">Näytön jako</string>
   <string name="status_bar_toggle_data">Mobiilidata</string>
   <string name="status_bar_toggle_edit">Järjestä</string>
   <string name="status_bar_toggle_flight_mode">Lentokone</string>

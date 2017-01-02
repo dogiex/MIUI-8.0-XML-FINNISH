@@ -201,7 +201,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="mdb_restore_mode">Palautus-tila</string>
   <string name="mdb_usb_disconnection_exit">USB katkaistu</string>
   <string name="media_projection_action_text">Aloita nyt</string>
-  <string name="media_projection_dialog_text">%s aloittaa kaappaamaan kaiken mitä näkyy ruudullasi.</string>
+  <string name="media_projection_dialog_text">%s aloittaa kaappaamaan kaiken mitä näkyy näytölläsi.</string>
   <string name="media_projection_remember_text">Älä näytä uudelleen</string>
   <string name="megabyte_per_second">Mt/s</string>
   <string name="mland">Marshmallow Land</string>
@@ -315,9 +315,9 @@ Liu'uta alas lukitaksesi"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi yhdistetty</string>
   <string name="status_bar_style_settings">Ilmoitukset</string>
   <string name="status_bar_volte_label">HD</string>
-  <string name="task_access_locked_app_msg">Sovelluslukko kytkettiin päälle</string>
+  <string name="task_access_locked_app_msg">Sovelluslukko laitettiin päälle</string>
   <string name="title_usb_accessory">USB-lisävaruste</string>
-  <string name="torch_activity_hint">Paina ja pidä [icon] kytkeäksesi taskulampun päälle lukitusruudussa</string>
+  <string name="torch_activity_hint">Laita taskulamppu päälle lukitusnäytössä pitämällä pohjassa [icon]</string>
   <string name="torch_activity_name">Taskulamppu</string>
   <string name="torch_closed">Taskulamppu pois päältä</string>
   <string name="torch_opened">Taskulamppu päällä</string>

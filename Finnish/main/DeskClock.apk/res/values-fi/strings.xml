@@ -115,7 +115,7 @@
   <string name="system_time_setting">Asetukset</string>
   <string name="time">Aika</string>
   <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Lopeta ääni napauttamalla ruutua</string>
+  <string name="timer_alarm_cancel_pad">Lopeta ääni napauttamalla näyttöä</string>
   <string name="timer_alarm_dot_matrix_label">AJASTIN</string>
   <string name="timer_alert_alert_silenced">Ajastin hiljennetty %d minuutin jälkeen.</string>
   <string name="timer_clock_alert_text">Aseta ajastin</string>

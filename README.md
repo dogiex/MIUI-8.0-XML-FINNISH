@@ -84,6 +84,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiDrive.apk
 - MiDrop.apk
 - MiGalleryLockScreen.apk
+- MiPlay.apk
 - MiuiHome.apk
 - MiuiKeyguard
 - miui.apk

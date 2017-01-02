@@ -89,7 +89,7 @@
   <string name="count_ge_media">%d videos</string>
   <string name="count_ji_quan">All %d Eps</string>
   <string name="count_qi">Ep. %s</string>
-  <string name="create_tencent_shortcut_message">Tencent videon pikakuvake luotu Kotiruudulle</string>
+  <string name="create_tencent_shortcut_message">Tencent videon pikakuvake luotu Kotinäytölle</string>
   <string name="current_price">Nykyinen hinta</string>
   <string name="data_buffering">Puskuroidaan…</string>
   <string name="datastream_alert_download">Using your mobile data connection to download videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>

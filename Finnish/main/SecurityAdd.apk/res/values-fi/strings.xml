@@ -20,7 +20,7 @@
   <string name="game_more_improve">Rajoita sovelluksien taustatyöskentelyä ja latausnopeutta säästääksesi akkua ja kaistanleveyttä pelaamista varten</string>
   <string name="game_setting">Peliasetukset</string>
   <string name="gs_app_back_self_start">Akun Säästäjä</string>
-  <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Kotiruudultasi. Voit palauttaa asetuksen menemällä Turvallisuus, Asetukset.</string>
+  <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Kotinäytöltäsi. Voit palauttaa asetuksen menemällä Tietoturva &gt; Asetukset.</string>
   <string name="gs_dialog_confirm_close_title">Pois päältä</string>
   <string name="gs_game_duration">Aika</string>
   <string name="gs_game_net_priority">Yhteyden prioriteetti</string>
@@ -43,8 +43,8 @@
   <string name="month_report_disconnect_tip">Verkkoon ei saada yhteyttä</string>
   <string name="month_report_follow_service_negative">Ei kiitos</string>
   <string name="month_report_follow_service_positive">Seuraa</string>
-  <string name="month_report_follow_service_summary">Pysy ajantasalla turvallisuus uutisista ja tiedoista seuraamalla MIUI:n Turvallisuus sovelluksen virallista tiliä.</string>
-  <string name="month_report_follow_service_title">Turvallisuus päivitykset</string>
+  <string name="month_report_follow_service_summary">Pysy ajantasalla tietoturvauutisista ja tiedoista seuraamalla MIUI:n Tietoturvasovelluksen virallista tiliä.</string>
+  <string name="month_report_follow_service_title">Tietoturvapäivitykset</string>
   <string name="month_report_history_activity_label">Raporttien historia</string>
   <string name="month_report_network_dialog_description">Sallitaanko tämän sovelluksen yhdistää internettiin hakeakseen raporttien tiedot?</string>
   <string name="month_report_network_dialog_positive">Salli</string>
@@ -52,7 +52,7 @@
   <string name="month_report_result_share">Jaa</string>
   <string name="month_report_share_img_fail">Jakaminen epäonnistui</string>
   <string name="month_report_share_loading">Pieni hetki…</string>
-  <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, laita tämä toiminto päälle Turvallisuus sovelluksen Asetuksista.</string>
+  <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, laita tämä toiminto päälle Tietoturvasovelluksen Asetuksista.</string>
   <string name="month_report_warning_dialog_positive">Päälle</string>
   <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>

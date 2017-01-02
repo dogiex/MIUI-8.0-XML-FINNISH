@@ -8,5 +8,5 @@
   <string name="legacy_title">VPN on yhdistetty</string>
   <string name="prompt">Yhteyspyyntö</string>
   <string name="session">Käyttökerta</string>
-  <string name="warning">%s haluaa tehdä asetukset VPN-yhteydellä, jonka kautta sovellus voi valvoa verkkoliikennettä. Hyväksy vain, jos lähde on luotettava. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; näkyy ruudun yläreunassa, kun VPN on käytössä.</string>
+  <string name="warning">%s haluaa tehdä asetukset VPN-yhteydellä, jonka kautta sovellus voi valvoa verkkoliikennettä. Hyväksy vain, jos lähde on luotettava. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; näkyy näytön yläreunassa, kun VPN on käytössä.</string>
 </resources>

@@ -1399,7 +1399,7 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="fingerprint_enroll_button_add">Lisää toinen</string>
   <string name="fingerprint_enroll_button_next">Seuraava</string>
   <string name="fingerprint_first_open_screen_password_tittle">Sormenjälki (aseta Lukitusnäytön salasana ennen käyttöä)</string>
-  <string name="fingerprint_for_keyguard_disabled">Sormenjälki on otettu pois käytöstä turvallisuus asetuksista.</string>
+  <string name="fingerprint_for_keyguard_disabled">Sormenjälki on otettu pois käytöstä tietoturvaasetuksista.</string>
   <string name="fingerprint_identify_input_password_msg">Syötä salasana</string>
   <string name="fingerprint_identify_msg">Luetaan sormenjälkeä…</string>
   <string name="fingerprint_identify_try_again_msg">Sormenjäljen luku epäonnistui, yritä uudelleen</string>

@@ -226,7 +226,7 @@
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Seuraa ja lopeta puheluita</string>
   <string name="HIPS_Perm_read_notification_sms">Palvelu SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Lukea Palvelu SMS</string>
-  <string name="HIPS_Perm_use_sip">Video services</string>
+  <string name="HIPS_Perm_use_sip">Videopalvelut</string>
   <string name="HIPS_Perm_use_sip_Desc">Use Session Initiation Protocol to stream video</string>
   <string name="HIPS_SecurityPrompt_Accept">Salli (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Salli</string>
@@ -263,7 +263,7 @@
   <string name="Su_Unavailable">Root oikeudet ei ole saatavilla tässä MIUI versiossa. Sinun pitää asentaa MIUI kehittäjäversio saadaksesi root oikeudet.</string>
   <string name="SysOpt_Boost_AutoStart">Käynnistyksen käyttöluvat</string>
   <string name="SysOpt_Boost_AutoStart_Group">Käynnistä automaattisesti</string>
-  <string name="SysOpt_Boost_Boot">Boot</string>
+  <string name="SysOpt_Boost_Boot">Käynnistys</string>
   <string name="SysOpt_Boost_Receiver">Tausta</string>
   <string name="app_name">Käyttölupien hallinta</string>
   <string name="current_permission_template">%1$s of %2$s</string>
@@ -281,7 +281,7 @@
   <string name="permission_group_title_settings_related">Asetukset</string>
   <string name="permission_request_title">Käyttöluvan pyyntö</string>
   <string name="permission_warning_template">Salli %1$s to %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" ei ole käyttölupaa %2$s. Voit vaihtaa sovelluksen käyttöluvat koska tahansa asetuksista Turvallisuus &gt; Käyttöluvat."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" ei ole käyttölupaa %2$s. Voit vaihtaa sovelluksen käyttöluvat koska tahansa asetuksista Tietoturva &gt; Käyttöoikeudet."</string>
   <string name="screen_overlay_button">Avaa asetukset</string>
   <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöluvan, laita ensin näytön overlay pois päältä asetuksista Asetukset &gt; Sovellukset</string>
   <string name="screen_overlay_title">Näytön overlay tunnistettu</string>
