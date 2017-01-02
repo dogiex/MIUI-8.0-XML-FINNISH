@@ -516,7 +516,7 @@
   <string name="total_clean">Puhdistettu yhteensä: %s</string>
   <string name="total_clean_text">Tyhjennä</string>
   <string name="traffic_top">TOP 5 dataa vievää sovellusta</string>
-  <string name="update_date_format">d.MM.yyyy</string>
+  <string name="update_date_format">d.M.yyyy</string>
   <string name="virus_scan">Virus skanneri</string>
   <string name="vungle_ad_name">Vungle广告</string>
   <string name="white_list_ad_header">Mainos-tiedostot: %d</string>
@@ -525,6 +525,6 @@
   <string name="white_list_large_file_header">Suuret tiedostot ja videot: %d</string>
   <string name="white_list_residual_header">Jäljet: %d</string>
   <string name="white_list_title">Poikkeukset</string>
-  <string name="year_month_day_format">"d. MMM'ta' yyyy"</string>
+  <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yesterday">Eilen</string>
 </resources>

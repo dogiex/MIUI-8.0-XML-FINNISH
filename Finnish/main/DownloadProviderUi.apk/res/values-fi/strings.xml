@@ -276,10 +276,10 @@
   <string name="search_favorite_title">Suosikit</string>
   <string name="search_history">Hakuhistoria</string>
   <string name="search_history_empty">Ei kohteita</string>
-  <string name="search_history_month">d.MM.</string>
+  <string name="search_history_month">d.M.</string>
   <string name="search_history_title">Historia</string>
   <string name="search_history_today">Tänään</string>
-  <string name="search_history_year">d.MM.yyyy</string>
+  <string name="search_history_year">d.M.yyyy</string>
   <string name="search_history_yesterday">Eilen</string>
   <string name="search_home_download_popup">Mene takaisin Latauksiin</string>
   <string name="search_home_vif_show_more">Lisää</string>

@@ -61,7 +61,7 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="detect_sim_card">Etsi SIM-korttia</string>
   <string name="disable_find_device_error">Laitteen etsintää ei voi laittaa pois päältä. %1$s</string>
   <string name="disable_find_device_success">Laitteen etsintä on pois päältä.</string>
-  <string name="due_date_format">d.MM.yyyy</string>
+  <string name="due_date_format">d.M.yyyy</string>
   <string name="enableAll">Synkronoi kaikki</string>
   <string name="enable_cloud_service_notification">Sinun täytyy aktivoida Mi Pilvi</string>
   <string name="enable_find_device_error">Laitteen etsintää ei voi laittaa päälle. %1$s</string>

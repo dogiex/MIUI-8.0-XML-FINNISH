@@ -78,7 +78,7 @@
   <string name="custom_progress">%d kohdetta</string>
   <string name="data_item_desc">Data</string>
   <string name="data_no_enough_space_message">Laitteesi sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
-  <string name="date_format">HH:mm:ss d.MM.yyyy</string>
+  <string name="date_format">HH:mm:ss d.M.yyyy</string>
   <string name="delete">Poista</string>
   <string name="delete_backup_process">Poistetaan…</string>
   <string name="delete_backup_title">Poista varmuuskopio</string>

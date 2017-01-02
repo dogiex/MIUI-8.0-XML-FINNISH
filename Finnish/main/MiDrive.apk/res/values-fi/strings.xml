@@ -57,7 +57,7 @@
   <string name="login_reg_content">Tallenna tiedostoja ja synkronoi laitteiden kesken.</string>
   <string name="login_reg_title">Käytä Mi Drivea mistä tahansa.</string>
   <string name="megabyteShort">Mt</string>
-  <string name="month_day_format">d. MMM</string>
+  <string name="month_day_format">d.M.</string>
   <string name="move_failed">Leikkaaminen epäonnistui</string>
   <string name="move_failed_retry">Leikkaaminen epäonnistui, odota %1$s ja yritä uudelleen</string>
   <string name="need_get_accounts_permission">Mi Drive tarvitsee pääsyn tiliisi toimiakseen normaalisti.</string>
@@ -129,6 +129,6 @@
   <string name="wait_wifi">Odotetaan Wi-Fiä</string>
   <string name="waiting">Odotetaan</string>
   <string name="wangpan_root_path">My drive</string>
-  <string name="year_month_day_format">d. MMM, yyyy</string>
+  <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yesterday">Eilen</string>
 </resources>

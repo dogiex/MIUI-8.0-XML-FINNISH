@@ -89,6 +89,8 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiuiCompass.apk
 - miuisystem.apk
 - MiuiSystemUi.apk
+- MiWallpaper.apk
+- Mms.apk
 - NetworkAssistant2.apk
 - NfcNci.apk
 - PackageInstaller.apk

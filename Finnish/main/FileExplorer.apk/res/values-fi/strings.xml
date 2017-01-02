@@ -314,7 +314,7 @@
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
   <string name="mobile_network_dialog_title">Mobile data warning</string>
-  <string name="month_day_format">d.MMM.</string>
+  <string name="month_day_format">d.M.</string>
   <string name="move_failed">"Can't cut"</string>
   <string name="move_icon_to_desktop_hint">Create a Home screen shortcut for Explorer to manage files more efficiently.</string>
   <string name="move_icon_to_desktop_success">Shortcut added to Home screen.</string>
@@ -784,7 +784,7 @@
   <string name="xiaomi_btn_bind">Mi Tili</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="xiaomi_login_btn_str">Mi Tili</string>
-  <string name="year_month_day_format">d. MMM yyyy</string>
+  <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yes">Kyllä</string>
   <string name="yesterday">Eilen</string>
   <string name="youliao_ad_msg">"Pidä hauskaa \"Youliao\" kanssa!

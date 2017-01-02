@@ -359,9 +359,9 @@
   <string name="fmt_date_numeric_year_month">M.yyyy</string>
   <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d. MMM</string>
+  <string name="fmt_date_short_month_day">d.M.</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">d. MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d.M.yyyy</string>
   <string name="fmt_date_time">T D</string>
   <string name="fmt_date_time_timezone">T D z</string>
   <string name="fmt_date_timezone">D z</string>
@@ -518,7 +518,7 @@
   <string name="solar_term_winter_begins">Winter Begins</string>
   <string name="solar_term_winter_solstice">Winter Solstice</string>
   <string name="sunday">Sunnuntai</string>
-  <string name="sunday_short">Su</string>
+  <string name="sunday_short">Sunn.</string>
   <string name="sunday_shortest">Su</string>
   <string name="sync_one_time_sync">Napauta synkronoidaksesi ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -562,7 +562,7 @@
   <string name="the_valentines_day">Ystävänpäivä</string>
   <string name="the_water_lantern_festival">Vesi Lyhtyjuhla</string>
   <string name="thursday">Torstai</string>
-  <string name="thursday_short">To</string>
+  <string name="thursday_short">Torst.</string>
   <string name="thursday_shortest">To</string>
   <string name="time_picker_dialog_title">Aseta aika</string>
   <string name="time_picker_label_hour">T</string>
@@ -570,7 +570,7 @@
   <string name="today">Tänään</string>
   <string name="tomorrow">Huomenna</string>
   <string name="tuesday">Tiistai</string>
-  <string name="tuesday_short">Ti</string>
+  <string name="tuesday_short">Tiist.</string>
   <string name="tuesday_shortest">Ti</string>
   <string name="user_agreement">Palveluehdot</string>
   <string name="user_manual">Käyttöohje</string>
@@ -579,7 +579,7 @@
   <string name="website">Verkkosivu</string>
   <string name="webview_reload">Yritä uudelleen</string>
   <string name="wednesday">Keskiviikko</string>
-  <string name="wednesday_short">Ke</string>
+  <string name="wednesday_short">Kesk.</string>
   <string name="wednesday_shortest">Ke</string>
   <string name="xiaomi_mobile">Mi Mobiili</string>
   <string name="yesterday">Eilen</string>

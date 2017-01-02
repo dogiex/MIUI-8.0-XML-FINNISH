@@ -170,8 +170,8 @@
   <string name="current_version_frame">Current version %s</string>
   <string name="current_version_latest">No updates available</string>
   <string name="data_request_error">"Couldn't get info"</string>
-  <string name="day">p</string>
-  <string name="day_string">p</string>
+  <string name="day">pv</string>
+  <string name="day_string">pv</string>
   <string name="decrease">Alas</string>
   <string name="delete">Poista</string>
   <string name="delete_confirm">Poistetaanko laite?</string>
@@ -483,7 +483,7 @@ wait a moment after the action."</string>
   <string name="mode">Mode</string>
   <string name="model_name">Laitteen malli</string>
   <string name="month">kk</string>
-  <string name="month_day_format">d. MMM</string>
+  <string name="month_day_format">d.M.</string>
   <string name="more">More</string>
   <string name="more_fav_channel">更多收藏</string>
   <string name="more_function">更多功能</string>
@@ -985,7 +985,7 @@ To change, long press TV's power button"</string>
   <string name="wind_sweep">Swing</string>
   <string name="wx_not_installed">Asenna WeChat ensin</string>
   <string name="xiaomi_vip">Mi VIP</string>
-  <string name="year_month_day_format">d.MMM.yyyy</string>
+  <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yes">Kyllä</string>
   <string name="yesterday">Eilen</string>
 </resources>
