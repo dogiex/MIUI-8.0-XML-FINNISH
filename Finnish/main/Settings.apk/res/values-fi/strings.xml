@@ -1598,8 +1598,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="high_power_system">Akun käytön optimointi ei ole käytettävissä.</string>
   <string name="history_details_title">Historiatiedot</string>
   <string name="home_app_uninstall_button">Poista tämä sovellus</string>
-  <string name="home_key">Etusivu</string>
-  <string name="home_settings">Etusivu</string>
+  <string name="home_key">Koti</string>
+  <string name="home_settings">Koti</string>
   <string name="home_work_profile_not_supported">Ei tue työprofiileja</string>
   <string name="ignore_optimizations_off">Optimoi</string>
   <string name="ignore_optimizations_off_desc">Pidentää akun kestoa.</string>
@@ -2489,7 +2489,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_wifi">WLAN</string>
   <string name="ppp_number">ppp_number</string>
   <string name="pref_button_light">Painikkeiden valot</string>
-  <string name="pref_button_light_summary">Valaise Valikko-, Koti ja Takaisin-painikkeet</string>
+  <string name="pref_button_light_summary">Valaise Valikko-, Koti- ja Takaisin-painikkeet</string>
   <string name="pref_edge_handgrip">Reunan säätimet</string>
   <string name="pref_operational_key">Navigointipainikkeet</string>
   <string name="pref_volume_launch_camera_summary">Paina Äänenvoimakkuutta alas kaksi kertaa käynnistääksesi Kameran</string>
@@ -3404,9 +3404,9 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_app_enable_keyguard">Lukitusnäyttö</string>
   <string name="status_bar_app_enable_message">Merkit</string>
   <string name="status_bar_key_position_custom">Muokattu painikkeen sijainti</string>
-  <string name="status_bar_screen_button_desc">Swipe down to hide screen buttons</string>
-  <string name="status_bar_screen_button_key">Screen buttons</string>
-  <string name="status_bar_screen_button_key_can_hide">Screen buttons can be hidden</string>
+  <string name="status_bar_screen_button_desc">Piilota näyttöpainikkeet pyyhkäisemällä alas</string>
+  <string name="status_bar_screen_button_key">Näyttöpainikkeet</string>
+  <string name="status_bar_screen_button_key_can_hide">Näyttöpainikkeet voidaan piilottaa</string>
   <string name="status_bar_screen_key_back">Takaisin-painike</string>
   <string name="status_bar_screen_key_home">Koti-painike</string>
   <string name="status_bar_screen_key_menu">Valikko-painike</string>
@@ -3477,7 +3477,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_wimax_mac_address">4G MAC -osoite</string>
   <string name="status_write_success">Onnistui!</string>
   <string name="storage_detail_apps">Sovellukset</string>
-  <string name="storage_detail_audio">Audio</string>
+  <string name="storage_detail_audio">Ääni</string>
   <string name="storage_detail_cached">Välimuistitiedot</string>
   <string name="storage_detail_dialog_other">"Muu-luokka sisältää sovellusten tallentamat jaetut tiedostot, internetistä tai Bluetoothin kautta ladatut tiedostot, Android-tiedostot ja muita vastaavia tietoja. 
 

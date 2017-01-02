@@ -67,6 +67,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - DownloadProviderUi.apk
 - Email.apk
 - ExternalStorageProvider.apk
+- FileExplorer.apk
 - FindDevice.apk
 - framework-res.apk
 - framework-ext-res.apk
