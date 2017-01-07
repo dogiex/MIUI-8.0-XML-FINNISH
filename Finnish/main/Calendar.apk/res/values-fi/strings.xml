@@ -144,7 +144,7 @@
   <string name="edit_event_calendar_label">Kalenteri</string>
   <string name="edit_event_choose_date">Valitse päivämäärä</string>
   <string name="edit_event_confirm_message">Hylätäänkö muutokset?</string>
-  <string name="edit_event_from_label">Alkupvm</string>
+  <string name="edit_event_from_label">Alkaa</string>
   <string name="edit_event_input_year">Syötä vuosi</string>
   <string name="edit_event_label">Tiedot</string>
   <string name="edit_event_show_all">Näytä kaikki</string>
@@ -152,7 +152,7 @@
   <string name="edit_event_tab_birthday">Syntymäpäivä</string>
   <string name="edit_event_tab_countdown">Laskenta</string>
   <string name="edit_event_tab_event">Tapahtuma</string>
-  <string name="edit_event_to_label">Loppupvm</string>
+  <string name="edit_event_to_label">Loppuu</string>
   <string name="edit_label">Muokkaa</string>
   <string name="email_guests_label">Lähetä sähköposti osallistujille</string>
   <string name="email_picker_label">Sähköposti ja</string>
@@ -296,6 +296,9 @@
   <string name="no_network_btn">Yritä uudestaan</string>
   <string name="no_syncable_calendars">Ei kalentereita</string>
   <string name="no_title_label">(Ei otsikkoa)</string>
+  <string name="no_visiable_calendar_message">Sinun täytyy valita kalenteritili. Jatka napauttamalla Valitse tili.</string>
+  <string name="no_visiable_calendar_select_account">Valitse tili</string>
+  <string name="no_visiable_calendar_title">Valitse kalenteritili</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">ei synkronoitu</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
@@ -311,6 +314,7 @@
   <string name="preferences_alerts_ringtone_title">Ääni</string>
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
+  <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
   <string name="preferences_build_version">Ohjelmistoversio</string>
   <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
