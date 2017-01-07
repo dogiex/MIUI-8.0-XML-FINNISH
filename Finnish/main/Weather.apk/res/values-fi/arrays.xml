@@ -137,14 +137,6 @@
         <item>11</item>
         <item>12</item>
     </string-array>
-	<string-array name="aqi_value">
-		<item>Hyvä</item>
-		<item>Tyydyttävä</item>
-		<item>Kohtuullisen saastunut</item>
-		<item>Heikko</item>
-		<item>Hyvin heikko</item>
-		<item>Vaikea</item>
-	</string-array>
     <string-array name="wind_unit_simple">
         <item>boforiasteikko</item>
         <item>km/h</item>
