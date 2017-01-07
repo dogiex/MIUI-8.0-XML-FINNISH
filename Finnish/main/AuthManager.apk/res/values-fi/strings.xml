@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Sovellukset</string>
-  <string name="Dashboard_HIPS_Disable_Content">"MIUI ei valvo sovelluksien käyttölupapyyntöjä."</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI ei valvo sovelluksien käyttölupapyyntöjä.</string>
   <string name="Dashboard_HIPS_Disable_Title">Käyttöluvat</string>
   <string name="Dashboard_Log">Lokit</string>
   <string name="Dashboard_Log_Clear_Content">Kaikki lokikirjat tyhjennetään.</string>
@@ -22,27 +22,27 @@
   <string name="Dashboard_Perm_SU_Desc">Seurataan %1$d sovelluksia, joilla on root oikeudet</string>
   <string name="Dashboard_Perm_SU_Disabled">Root käyttöoikeus on pois päältä</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Root oikeudet ei ole käytössä vakaassa MIUI-versiossa</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Myönnettyäsi root oikeuden kolmannenosapuolen sovellukselle voi aiheuttaa järjestelmän epätasapainoa, käyttäjätietojen menetystä, tai jopa laitteen fyysistä vauriota. Sinun pitää asentaa kehittäjäversio MIUI:sta, jotta voit sallia root oikeudet."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Myönnettyäsi root oikeuden kolmannenosapuolen sovellukselle voi aiheuttaa järjestelmän epätasapainoa, käyttäjätietojen menetystä, tai jopa laitteen fyysistä vauriota. Sinun pitää asentaa kehittäjäversio MIUI:sta, jotta voit sallia root oikeudet.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Lataa MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Root oikeudet</string>
   <string name="Generic_Canceling">Peruutetaan…</string>
-  <string name="Generic_Check">Check</string>
-  <string name="Generic_Clean">Clean</string>
+  <string name="Generic_Check">Tarkasta</string>
+  <string name="Generic_Clean">Tyhjennä</string>
   <string name="Generic_Configuration">Asetukset</string>
-  <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
+  <string name="Generic_Copyright">LBE Privacy Guardin tarjoama</string>
   <string name="Generic_Disable">Pois päältä</string>
   <string name="Generic_Enable">Päälle</string>
-  <string name="Generic_Good">Good</string>
+  <string name="Generic_Good">Hyvä</string>
   <string name="Generic_HideSystemApp">Piilota järjestelmäsovellukset</string>
-  <string name="Generic_InvalidInput">Entry invalid</string>
+  <string name="Generic_InvalidInput">Virheellinen merkintä</string>
   <string name="Generic_Loading">Ladataan…</string>
   <string name="Generic_MonitoredApp">Tarkkaillaan (%1$d)</string>
-  <string name="Generic_Operating">Working…</string>
-  <string name="Generic_Optimize">Optimize</string>
+  <string name="Generic_Operating">Työskennellään…</string>
+  <string name="Generic_Optimize">Optimoi</string>
   <string name="Generic_Service_Disabled">Pois</string>
   <string name="Generic_Service_Enabled">Päällä</string>
-  <string name="Generic_Shortcut">Contextual menu</string>
+  <string name="Generic_Shortcut">Kohdevalikko</string>
   <string name="Generic_ShowSystemApp">Näytä järjestelmäsovellukset</string>
   <string name="Generic_Summary_Disabled">Pois</string>
   <string name="Generic_Summary_Enabled">Päällä</string>
@@ -53,12 +53,12 @@
   <string name="Generic_UserApp">Ladattu (%d)</string>
   <string name="Generic_Version">Versio %1$s</string>
   <string name="HIPS_Action_Accept">Salli</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Salli&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">Salli</string>
   <string name="HIPS_Action_Accept_Once">Salli Kerran</string>
   <string name="HIPS_Action_Prompt">Kysy</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Kysy&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">Kysy</string>
   <string name="HIPS_Action_Reject">Kiellä</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Kiellä&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">Kiellä</string>
   <string name="HIPS_Action_Reject_Once">Kiellä Kerran</string>
   <string name="HIPS_Group_DataPrivacy">Yksityisyys</string>
   <string name="HIPS_Group_Expense">Turvallisuus</string>
@@ -109,7 +109,7 @@
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s sovellusta voi poistaa näyttölukituksen</string>
   <string name="HIPS_Perm_EndCall">lopettaa puhelut</string>
   <string name="HIPS_Perm_External_Storage">Pääsy ja lupa muokata tiedostoja sisäiseltä muistilta</string>
-  <string name="HIPS_Perm_External_Storage_Desc">"Lisätä ja poistaa tiedostoja laitteen sisäiseltä muistilta"</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Lisätä ja poistaa tiedostoja laitteen sisäiseltä muistilta</string>
   <string name="HIPS_Perm_GetCallState">päästä käsiksi puhelimen tarkkaan tilaan</string>
   <string name="HIPS_Perm_ListenCallState">lukea puhelimen tarkka tila</string>
   <string name="HIPS_Perm_Location">Hae sijainnin tietoja</string>
@@ -145,12 +145,12 @@
   <string name="HIPS_Perm_Notification_Hint">%1$s sovellusta voi näyttää ilmoituksia</string>
   <string name="HIPS_Perm_PhoneID">Hae laitteen tietoja</string>
   <string name="HIPS_Perm_PhoneID_Desc">Päästä käsiksi puhelinnumeroon, IMEA ja IMSI koodeihin</string>
-  <string name="HIPS_Perm_PhoneID_Hint">"%1$s sovellusta voi lukea laitteesi IMEI ja IMSI koodit"</string>
-  <string name="HIPS_Perm_PhoneID_ICCID">"lukea laitteen ICCID"</string>
-  <string name="HIPS_Perm_PhoneID_IMEI">"lukea laitteen IMEI koodin"</string>
-  <string name="HIPS_Perm_PhoneID_IMEISN">"lukea laitteen IMEI SN koodin"</string>
-  <string name="HIPS_Perm_PhoneID_IMSI">"lukea laitteen IMSI koodin"</string>
-  <string name="HIPS_Perm_PhoneID_Number">"lukea laitteen identiteetin"</string>
+  <string name="HIPS_Perm_PhoneID_Hint">%1$s sovellusta voi lukea laitteesi IMEI ja IMSI koodit</string>
+  <string name="HIPS_Perm_PhoneID_ICCID">lukea laitteen ICCID</string>
+  <string name="HIPS_Perm_PhoneID_IMEI">lukea laitteen IMEI koodin</string>
+  <string name="HIPS_Perm_PhoneID_IMEISN">lukea laitteen IMEI SN koodin</string>
+  <string name="HIPS_Perm_PhoneID_IMSI">lukea laitteen IMSI koodin</string>
+  <string name="HIPS_Perm_PhoneID_Number">lukea laitteen identiteetin</string>
   <string name="HIPS_Perm_PromptAll">Kysy kaikki</string>
   <string name="HIPS_Perm_ROOT">Hakea root oikeudet</string>
   <string name="HIPS_Perm_ROOT_Desc">hakea root oikeudet</string>
@@ -227,7 +227,7 @@
   <string name="HIPS_Perm_read_notification_sms">Palvelu SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Lukea Palvelu SMS</string>
   <string name="HIPS_Perm_use_sip">Videopalvelut</string>
-  <string name="HIPS_Perm_use_sip_Desc">Use Session Initiation Protocol to stream video</string>
+  <string name="HIPS_Perm_use_sip_Desc">Käytä Session Initiation Protokollaa videon suoratoistoon</string>
   <string name="HIPS_SecurityPrompt_Accept">Salli (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Salli</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Salli Kerran (%d)</string>
@@ -245,14 +245,14 @@
   <string name="HIPS_SecurityPrompt_Remember">Muista valinta</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s yrittää %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d käyttölupaa</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d käyttölupia - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d käyttölupia - Luotettu</string>
   <string name="Privacy_App_Finish">OK</string>
   <string name="Privacy_App_Installed">Asennettu onnistuneesti</string>
   <string name="Privacy_App_Launch">Suorita</string>
   <string name="Privacy_App_Log">Lokit</string>
   <string name="Privacy_App_Manage">Tiedot</string>
   <string name="Privacy_App_Trust">Kysy käyttölupaa</string>
-  <string name="Privacy_App_TrustDialog_Content">"Sinulta ei kysytä käyttölupaa, kun tämä sovellus yrittää päästä toisiin paikkoihin järjestelmässä."</string>
+  <string name="Privacy_App_TrustDialog_Content">Sinulta ei kysytä käyttölupaa, kun tämä sovellus yrittää päästä toisiin paikkoihin järjestelmässä.</string>
   <string name="Privacy_App_TrustDialog_Title">Sovelluskäyttöluvat</string>
   <string name="Privacy_App_Trust_Summary_Off">Näytä ilmoitus, kun tämä sovellus yrittää päästä toisiin paikkoihin järjestelmässä.</string>
   <string name="Privacy_App_Trust_Summary_On">Näytä ilmoitus, kun tämä sovellus yrittää päästä toisiin paikkoihin järjestelmässä.</string>
@@ -266,7 +266,7 @@
   <string name="SysOpt_Boost_Boot">Käynnistys</string>
   <string name="SysOpt_Boost_Receiver">Tausta</string>
   <string name="app_name">Käyttölupien hallinta</string>
-  <string name="current_permission_template">%1$s of %2$s</string>
+  <string name="current_permission_template">%1$s/%2$s</string>
   <string name="default_permission_description">suorita tuntematon toiminto</string>
   <string name="grant_confirm_question">Haluatko sallia seuraavat käyttöluvat? Se saa pääsyn seuraaviin:</string>
   <string name="grant_dialog_button_allow">Salli</string>
@@ -275,15 +275,15 @@
   <string name="location_warning">%1$s on sijaintipalveluiden tarjoaja tälle laitteelle. Sijainnin pääsyä voi muokata sijainnin asetuksista.</string>
   <string name="never_ask_again">Älä kysy ikinä</string>
   <string name="ok">OK</string>
-  <string name="permission_group_title_charges_related">Charges</string>
+  <string name="permission_group_title_charges_related">Maksut</string>
   <string name="permission_group_title_media_related">Multimedia</string>
   <string name="permission_group_title_privacy_related">Yksityisyys</string>
   <string name="permission_group_title_settings_related">Asetukset</string>
   <string name="permission_request_title">Käyttöluvan pyyntö</string>
-  <string name="permission_warning_template">Salli %1$s to %2$s ?</string>
+  <string name="permission_warning_template">Salli %1$s käyttää %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" ei ole käyttölupaa %2$s. Voit vaihtaa sovelluksen käyttöluvat koska tahansa asetuksista Tietoturva &gt; Käyttöoikeudet."</string>
   <string name="screen_overlay_button">Avaa asetukset</string>
-  <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöluvan, laita ensin näytön overlay pois päältä asetuksista Asetukset &gt; Sovellukset</string>
-  <string name="screen_overlay_title">Näytön overlay tunnistettu</string>
+  <string name="screen_overlay_message">Vaihtaaksesi tämän käyttöluvan, laita ensin näytön peittokuva pois päältä asetuksista Asetukset &gt; Sovellukset</string>
+  <string name="screen_overlay_title">Näytön peittokuva tunnistettu</string>
   <string name="wakepath_confirm_start_activity">Salli %1$s:n avata %2$s?</string>
 </resources>

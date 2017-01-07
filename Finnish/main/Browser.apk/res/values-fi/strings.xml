@@ -308,6 +308,7 @@
   <string name="find_on_page_next">Seuraava</string>
   <string name="find_on_page_prev">Edellinen</string>
   <string name="find_previous">Etsi edellinen</string>
+  <string name="fling_on_border_gesture_hint">Voit valita tälle eleelle toiminnon Asetuksista</string>
   <string name="force_quick_search_title">Hae</string>
   <string name="force_touch_bookmark_history_title">Kirjanmerkit &amp; historia</string>
   <string name="force_touch_infoflow_title">News</string>
@@ -327,6 +328,7 @@
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Lisätty Kotinäytölle</string>
+  <string name="hint">Vihje</string>
   <string name="history_saved_webpage">Tallenna sivu</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Poista</string>
@@ -411,6 +413,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Sammuta Lentokonetila yhdistääksesi</string>
   <string name="miuichromium_error_page_btn_close">Sulje</string>
   <string name="miuichromium_error_page_btn_refresh">Päivitä</string>
+  <string name="miuichromium_error_page_btn_report_issue">Ilmoita ongelmasta</string>
   <string name="miuichromium_error_page_diagnose">Verkkodiagnostiikka</string>
   <string name="miuichromium_error_page_diagnose_banner">Verkkodiagnostiikka</string>
   <string name="miuichromium_error_page_diagnose_certificate">Verkkoprotokollaa ei voitu vahvistaa</string>
@@ -535,8 +538,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_file_download_default_path_prefix">Oletussijainti: %s</string>
   <string name="pref_file_download_save_modify_default_path">Latausten sijainti</string>
   <string name="pref_file_download_save_title">Lataukset</string>
-  <string name="pref_fling_on_border_enabled">Pyyhkäise näyttöä reunalta vaihtaaksesi välilehtiä</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Pyyhkäise näyttöä vasemmasta tai oikeasta reunasta vaihtaaksesi välilehtiä</string>
+  <string name="pref_fling_on_border">Pyyhkäise reunalta</string>
+  <string name="pref_fling_on_border_title_summary">Pyyhkäise näyttöä vasemmasta tai oikeasta reunasta</string>
   <string name="pref_font_size_category">Tekstin koko</string>
   <string name="pref_force_userscalable">Ota skaalaus käyttöön</string>
   <string name="pref_force_userscalable_summary">Ohita sivuston skaalauksenhallintapyyntö</string>

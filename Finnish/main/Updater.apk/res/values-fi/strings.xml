@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device">About phone</string>
+  <string name="about_device">Tietoa puhelimesta</string>
   <string name="active_xiaomi_account">Active</string>
   <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>
-  <string name="active_xiaomi_account_title">Activate Mi Account</string>
+  <string name="active_xiaomi_account_title">Aktivoi Mi Tili</string>
+  <string name="alpha_apply">Liity Betatestaus ohjelmaan</string>
+  <string name="alpha_cancel">Poista liittyminen Betatestaus ohjelmaan</string>
+  <string name="alpha_cancel_cancel">Peruuta</string>
+  <string name="alpha_cancel_confirm">Poistetaanko liittyminen nyt?</string>
+  <string name="alpha_cancel_ok">OK</string>
+  <string name="alpha_no_network">Liity yhdistämällä verkkoon</string>
   <string name="app_name">Päivittäjä</string>
-  <string name="apply_title">Updating (%s)</string>
+  <string name="apply_title">Päivitetään (%s)</string>
   <string name="apply_update_dialog_cancel_button">Peruuta</string>
   <string name="apply_update_dialog_update_button">Päivitä</string>
   <string name="auto_agree_clause">Privacy Policy updated</string>
@@ -88,7 +94,9 @@
   <string name="internal_build">Internal</string>
   <string name="later">Later</string>
   <string name="loading">Requesting…</string>
-  <string name="log_share">Share</string>
+  <string name="log_share">Jaa</string>
+  <string name="menu_more_button">Valikko</string>
+  <string name="menu_title_apply_for_alpha">Liity Betatestaus ohjelmaan</string>
   <string name="menu_title_current_version_log">Mitä on uutta?</string>
   <string name="menu_title_download_current_rom">Lataa päivitys</string>
   <string name="menu_title_pick_rom_file">Valitse päivityspaketti</string>
@@ -99,7 +107,7 @@
   <string name="miui_summary_now_version">"Can't connect to the network"</string>
   <string name="miui_summary_slogan">"  Yours by design  "</string>
   <string name="miui_summary_updating">"  Päivitetään…  "</string>
-  <string name="monthly_build">Monthly</string>
+  <string name="monthly_build">Kuukausittainen</string>
   <string name="my_best_update">Best update</string>
   <string name="my_expect_update">Expectations</string>
   <string name="my_rank">"Update status: "</string>
@@ -254,7 +262,7 @@ Couldn't submit feedback"</string>
   <string name="vote_not_recommend">"Don't recommend"</string>
   <string name="vote_recommend">Recommend this update</string>
   <string name="vote_submit">Submit</string>
-  <string name="weekly_build">Weekly</string>
+  <string name="weekly_build">Viikottainen</string>
   <string name="welcom_button">OK</string>
   <string name="welcom_message">"You're ready to rock"</string>
   <string name="welcom_title">Welcome to MIUI 7</string>

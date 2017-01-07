@@ -32,7 +32,7 @@
   <string name="already_voted">Äänestetty</string>
   <string name="already_voted_toast">Olet jo äänestänyt tänään</string>
   <string name="app_name">Sää</string>
-  <string name="aqi_data_source">tarjoaja Caiyun Weather</string>
+  <string name="aqi_data_source">tarjoaja Colorful Clouds</string>
   <string name="aqi_desc">Ilmanlaatuindeksi</string>
   <string name="aqi_detail_24_hours">Tuntikohtainen Ennustus</string>
   <string name="aqi_detail_5_days">Päiväkohtainen Ennustus</string>
@@ -63,8 +63,8 @@
   <string name="common_loading_text">Pieni hetki…</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_drawer_on_top">%1$s päivän ennustus</string>
-  <string name="daily_forcast_no_stable_direction">Ei tuulta</string>
-  <string name="daily_forcast_no_wind">&lt;12km/h</string>
+  <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
+  <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
   <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -104,6 +104,7 @@
   <string name="indices_title_sport">Urheilu</string>
   <string name="indices_title_uv">UV-indeksi</string>
   <string name="indices_title_visibility">Näkyvyys</string>
+  <string name="information_manager_extension">Sään lisäosa</string>
   <string name="information_manager_information">Säätiedot</string>
   <string name="information_manager_wlan">Näytä, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="information_menu_title"/>
@@ -134,12 +135,15 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="no_vote_ratio">Vastaan %1$s%%</string>
   <string name="open">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
+  <string name="other">Muu</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
   <string name="realtime_humidity_title">Suhteellinen Kosteus</string>
   <string name="realtime_wind_default_title">Tuuli</string>
   <string name="refresh_fail">Verkkoon ei saada yhteyttä</string>
   <string name="retry">Yritä uudelleen</string>
+  <string name="search_weather">Sää</string>
+  <string name="search_weather_keywords">Lämpötila;Sää ennustus;Sää;Ilmanlaatu;Saaste;Kosteus</string>
   <string name="set">Asetukset</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>

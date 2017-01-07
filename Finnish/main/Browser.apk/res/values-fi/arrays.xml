@@ -41,4 +41,9 @@
         <item>Viesti Selaimesta</item>
         <item>Seuraa Olympialaisia Mi:llä</item>
     </string-array>
+	<string-array name="pref_fling_on_border_gesture_entries">
+        <item>Sivu takaisin eteenpäin</item>
+        <item>Vaihda välilehtiä</item>
+        <item>Ei mitään</item>
+    </string-array>
 </resources>

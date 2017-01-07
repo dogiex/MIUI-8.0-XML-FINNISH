@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään…</item>
+        <item>Autentikoidaan…</item>
+        <item>Haetaan IP-osoitetta…</item>
+        <item>Yhdistetty</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan yhteyttä…</item>
+        <item>Yhteys katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään huonoa yhteyttä väliaikaisesti</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään kohteeseen %1$s…</item>
+        <item>Autentikoidaan %1$s kanssa…</item>
+        <item>Haetaan IP-osoitetta kohteesta %1$s…</item>
+        <item>Yhdistetty %1$s</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan yhteyttä kohteeseen %1$s…</item>
+        <item>Yhteys katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään huonoa yhteyttä väliaikaisesti</item>
+    </string-array>
+</resources>

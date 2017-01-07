@@ -13,7 +13,6 @@
   <string name="bugreport_dump_complete_notification_title">Luo virheraportti</string>
   <string name="bugreport_dump_start_notification_summary">Tämä kestää useita minuutteja.</string>
   <string name="bugreport_dump_start_notification_title">Luodaan virheraporttia…</string>
-  <string name="bugreport_feedback_from">Lähettäjä: %s</string>
   <string name="bugreport_tool_log">Luo bugiraportti</string>
   <string name="bugreport_tool_log_toast">Loki tallennettu kansioon %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Luodaan bugiraporttia (kestää noin minuutin)</string>

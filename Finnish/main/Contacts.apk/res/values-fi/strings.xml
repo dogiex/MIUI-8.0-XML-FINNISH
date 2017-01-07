@@ -266,7 +266,6 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="data_charge">Top up datan lataus</string>
   <string name="data_left">Dataa jäljellä</string>
   <string name="data_unit">Mt</string>
-  <string name="date_picker_label">Muistuta minua kolme päivää ennen ja uudelleen sinä päivänä, kun</string>
   <string name="date_time_set">Käytä</string>
   <string name="date_year_toggle">Anna vuosi</string>
   <string name="default_ringtone">Oletussoittoääni</string>
@@ -1071,7 +1070,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="search_contacts_display">Yhteystiedot;Näyttäminen</string>
   <string name="search_contacts_more">Järjestä;Yhteystiedot</string>
   <string name="search_contacts_recovery">Yhteystiedot</string>
-  <string name="search_contacts_setting">Yhteystietojen asetukset;Näytä kuvat ja tiedot;Määritä yhteystietojen kuva;Tuo ja vie;Jaa;Tuo sd kortilta;Tuo sim kortilta;Tuo toisesta puhelimesta;Vie sd kortista;Vie sim kortista;Jaa näkyvät yhteystiedot;Yhteystietojen näyttäminen;Piilota vajaat numerot;Näytä SIM-kortin yhteystiedot;Määritä yhteystietoluettelo;Älykkäät ryhmät;Järjestä yhteystietoja;Yhdistä yhteystietojen kaksoiskappaleet;Poista usea;Tyhjennä tiedot;Indeksoi tiedot uudelleen;t9;SIM kortit;SIM kortin tallennustila;Yhteystietojen palauttaminen</string>
+  <string name="search_contacts_setting">Yhteystietojen asetukset;Näytä kuvat ja tiedot;Määritä yhteystietojen kuva;Tuo ja vie;Jaa;Tuo sd kortilta;Tuo sim kortilta;Tuo toisesta puhelimesta;Vie sd kortista;Vie sim kortista;Jaa näkyvät yhteystiedot;Yhteystietojen näyttäminen;Piilota vajaat numerot;Näytä SIM-kortin yhteystiedot;Määritä yhteystietoluettelo;Älykkäät ryhmät;Järjestä yhteystietoja;Yhdistä yhteystietojen kaksoiskappaleet;Poista usea;Tyhjennä tiedot;Indeksoi tiedot uudelleen;t9;SIM kortit;SIM kortin tallennustila;Yhteystietojen palauttaminen;Yheystietojen kuvat</string>
   <string name="search_display_only_phones">Yhteystiedot;Näyttäminen</string>
   <string name="search_display_sim_contacts">Yhteystiedot;Näyttäminen</string>
   <string name="search_export_to_sdcard">Yhteystiedot;Vie;sd kortti</string>
@@ -1195,8 +1194,10 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="strequentList">Suosikit</string>
   <string name="success_message_import_from_account">Yhteystieto tuotu</string>
   <string name="summary_kind_title">Yhteenveto</string>
-  <string name="t9_search_guide_pinyin">Syötä 2 ja 8, hakeaksesi esim. Alan Turing</string>
-  <string name="t9_search_guide_zhuyin">Syötä 2 ja 8, hakeaksesi esim. Alan Turing</string>
+  <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
+  <string name="t9_search_guide_pinyin_title2">Syötä 6 ja 4 etsiäksesi Mika Häkkinen</string>
+  <string name="t9_search_guide_zhuyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
+  <string name="t9_search_guide_zhuyin_title2">Syötä 5 ja 4 etsiäksesi Joonas Heikkinen</string>
   <string name="take_new_photo">Ota uusi kuva</string>
   <string name="take_photo">Ota valokuva</string>
   <string name="titleJoinContactDataWith">Yhdistä yhteystiedot</string>

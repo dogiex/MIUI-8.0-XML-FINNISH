@@ -351,7 +351,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_wifi_ap_scan_check_title">WLAN AP Scan</string>
   <string name="cit_wifi_ap_scan_retry">Scanning again…</string>
   <string name="cit_wifi_ap_scanning">Scanning…</string>
-  <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
+  <string name="cit_wifi_fail_to_scan">Verkkoja ei voi etsiä</string>
   <string name="cit_wifi_state_refresh">Refresh</string>
   <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
 </resources>

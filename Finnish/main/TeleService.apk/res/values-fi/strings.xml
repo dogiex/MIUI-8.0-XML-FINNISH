@@ -1077,8 +1077,10 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_edit_title">SIP-tilin tiedot</string>
   <string name="sip_menu_discard">Hylkää</string>
   <string name="sip_menu_save">Tallenna</string>
+  <string name="sip_profile_create_error">uutta SIP-profiilia ei voi luoda</string>
   <string name="sip_receive_calls">Vastaanota saapuvia puheluita</string>
   <string name="sip_receive_calls_summary">Käyttää enemmän akkua</string>
+  <string name="sip_save_register_error">uutta SIP-profiilia ei voi tallentaa ja rekisteröidä</string>
   <string name="sip_settings">SIP-asetukset</string>
   <string name="sip_system_decide">Automaattinen</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>

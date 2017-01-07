@@ -27,6 +27,7 @@
   <string name="incorrect_pukcode_remaining_attempts">Väärä PUK-koodi, %d yritystä jäljellä</string>
   <string name="input_password_after_boot_msg">Avaa laitteen lukitus syöttämällä salasana</string>
   <string name="input_password_hint_text">Syötä salasana</string>
+  <string name="input_pattern_hint_text">Piirrä lukituksen poistokuviosi</string>
   <string name="input_pin_code">Syötä PIN-koodi</string>
   <string name="input_puk_code">Syötä PUK-koodi</string>
   <string name="invalid_confirm_pin_hint">PIN-koodit eivät täsmää</string>
