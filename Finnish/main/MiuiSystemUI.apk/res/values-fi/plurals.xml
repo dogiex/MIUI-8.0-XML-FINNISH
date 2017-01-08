@@ -9,7 +9,7 @@
         <item quantity="one">Piilotetaanko tämän sovelluksen ilmoitukset?</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Selkeää</item>
+        <item quantity="other">Selkeä</item>
         <item quantity="one">Aurinkoinen</item>
     </plurals>
 </resources>
