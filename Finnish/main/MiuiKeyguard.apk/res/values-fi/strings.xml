@@ -34,8 +34,8 @@
   <string name="invalid_sim_pin_hint">PIN-koodin pitää sisältää neljästä kahdeksaan numeroa</string>
   <string name="invalid_sim_puk_hint">PUK-koodin pitää olla vähintään kahdeksan numeroa pitkä</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virta-painiketta pohjassa</string>
-  <string name="lock_screen_date">"EEEE, d. MMMM'ta'"</string>
-  <string name="lock_screen_date_12">"EEEE, d. MMMM'ta'"</string>
+  <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
+  <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="lockscreen_access_pattern_cell_added">Solu lisätty</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio poistettu</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>

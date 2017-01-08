@@ -306,8 +306,8 @@
   <string name="resource_trial_fail_message">Varmista, että järjestelmäsi kello on asetettu oikeaan aikaan.</string>
   <string name="resource_trial_fail_title">Kokeiluajan asettaminen epäonnistui</string>
   <string name="resource_trial_hours">(kokeilu: %1$d t)</string>
-  <string name="resource_trial_hours_minutes">(kokeilu: %1$d t %2$d m)</string>
-  <string name="resource_trial_minutes">(kokeilu: %1$d m)</string>
+  <string name="resource_trial_hours_minutes">(kokeilu: %1$d t %2$d min)</string>
+  <string name="resource_trial_minutes">(kokeilu: %1$d min)</string>
   <string name="resource_unknow_error">Tapahtui tuntematon virhe</string>
   <string name="resource_update">Päivitä</string>
   <string name="resource_user_know">OK</string>

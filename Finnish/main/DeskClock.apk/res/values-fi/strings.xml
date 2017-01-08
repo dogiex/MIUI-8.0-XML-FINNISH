@@ -52,7 +52,7 @@
   <string name="force_touch_add_alarm">Lisää hälytys</string>
   <string name="force_touch_enter_stopwatch">Sekuntikello</string>
   <string name="force_touch_enter_timer">Ajastin</string>
-  <string name="full_wday_month_day_no_year">"EEEE, d. MMMM'ta'"</string>
+  <string name="full_wday_month_day_no_year">"EEEE d. MMMM'ta'"</string>
   <string name="hour">1 tunti</string>
   <string name="hour_unit">t +</string>
   <string name="hours">%s tuntia</string>
@@ -121,7 +121,7 @@
   <string name="timer_clock_alert_text">Aseta ajastin</string>
   <string name="timer_continue">Jatka</string>
   <string name="timer_got_it">OK</string>
-  <string name="timer_item_duration_display">%1$d min %2$d sek</string>
+  <string name="timer_item_duration_display">%1$d min %2$d s</string>
   <string name="timer_item_label_hint">Ajastimen nimi</string>
   <string name="timer_item_picker_hour">T</string>
   <string name="timer_item_picker_minute">M</string>

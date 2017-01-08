@@ -393,10 +393,10 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="open_micloud_sync">Laita Mi Pilven synkronointi päälle</string>
   <string name="other_settings">Muut asetukset</string>
   <string name="other_sync_item">Muut synkronoitavat kohteet</string>
-  <string name="passed_synced_time_day">Synkronoitu %dd sitten</string>
-  <string name="passed_synced_time_hour">Synkronoitu %1$d t %2$d m sitten</string>
+  <string name="passed_synced_time_day">Synkronoitu %d pv sitten</string>
+  <string name="passed_synced_time_hour">Synkronoitu %1$d t %2$d min sitten</string>
   <string name="passed_synced_time_min">Synkronoitu %d min sitten</string>
-  <string name="passed_synced_time_sec">Synkronoitu %d sek sitten</string>
+  <string name="passed_synced_time_sec">Synkronoitu %d s sitten</string>
   <string name="password">Syötä salasanasi</string>
   <string name="phone_number_may_required_dspt_provision">"Tämä palvelu saattaa vaatia puhelinnumerosi. "</string>
   <string name="phone_number_required_dspt_provision">"Tämä palvelu vaatii puhelinnumerosi. "</string>

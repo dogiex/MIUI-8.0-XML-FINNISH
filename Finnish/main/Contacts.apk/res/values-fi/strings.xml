@@ -926,7 +926,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="picker_join_title">Yhdistä %s kanssa</string>
   <string name="picker_number_title">Valitse numero</string>
   <string name="picker_postal_title">Valitse postitoimipaikka</string>
-  <string name="picker_recent_list_empty">Ei viimeisintä yhteystietoja</string>
+  <string name="picker_recent_list_empty">Ei viimeaikaisia yhteystietoja</string>
   <string name="pkgLabel">Yhteystiedot ja puhelinnäppäimistö</string>
   <string name="play_add_incall_show_entry">Toista tai lisää video</string>
   <string name="play_incall_show_entry">Toista video</string>

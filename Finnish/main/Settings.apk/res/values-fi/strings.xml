@@ -352,7 +352,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="band_mode_set">Aseta</string>
   <string name="band_mode_succeeded">Onnistui</string>
   <string name="band_mode_title">Aseta GSM/UMTS-taajuus</string>
-  <string name="baseband_version">Baseband-versio</string>
+  <string name="baseband_version">Baseband versio</string>
   <string name="batch_delete_saved_network">Poistetaanko tallennetut verkot: %s?</string>
   <string name="batch_delete_saved_networks">Poista kaikki valitut verkot</string>
   <string name="battery_action_app_details">Sovelluksen tiedot</string>
@@ -1391,7 +1391,7 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="fingerprint_enroll_button_add">Lisää toinen</string>
   <string name="fingerprint_enroll_button_next">Seuraava</string>
   <string name="fingerprint_first_open_screen_password_tittle">Sormenjälki (aseta Lukitusnäytön salasana ennen käyttöä)</string>
-  <string name="fingerprint_for_keyguard_disabled">Sormenjälki on otettu pois käytöstä tietoturvaasetuksista.</string>
+  <string name="fingerprint_for_keyguard_disabled">Sormenjälki on otettu pois käytöstä tietoturva-asetuksista.</string>
   <string name="fingerprint_identify_input_password_msg">Syötä salasana</string>
   <string name="fingerprint_identify_msg">Luetaan sormenjälkeä…</string>
   <string name="fingerprint_identify_try_again_msg">Sormenjäljen luku epäonnistui, yritä uudelleen</string>
@@ -1409,7 +1409,7 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="fingerprint_usage_category_title">Sormenj. käyttökohde</string>
   <string name="finish_application">Pakota lopetus</string>
   <string name="finish_button_label">Valmis</string>
-  <string name="firmware_version">Android-versio</string>
+  <string name="firmware_version">Android versio</string>
   <string name="floating_window_switch_label">Laita kelluvat ikkunat päälle</string>
   <string name="floating_window_switch_label_disable">Laita kelluvat ikkunat pois päältä</string>
   <string name="fluency_mode">Järjestelmän animaatiot</string>
@@ -1646,7 +1646,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="internal_format">Tyhjennä sisäinen tallennustila</string>
   <string name="internal_format_summary">Tyhjentää kaikki tiedot sisäiseltä tallennustilalta</string>
   <string name="internal_media_format_button_text">Tyhjennä sisäinen tallennustila</string>
-  <string name="internal_media_format_desc">Tyhjennetäänkö sisäinen tallennustila? &lt;b&gt;Kaikki&lt;/b&gt; tiedot poistetaan. Laite käynnistetään uudelleen tyhjentämisen jälkeen.</string>
+  <string name="internal_media_format_desc">Tyhjennetäänkö sisäinen tallennustila? Kaikki tiedot poistetaan. Laite käynnistetään uudelleen tyhjentämisen jälkeen.</string>
   <string name="internal_media_format_final_desc">Tyhjennetäänkö sisäinen tallennustila? Et voi peruuttaa tätä toimintoa! Laite käynnistyy uudelleen tyhjentämisen jälkeen.</string>
   <string name="internal_media_format_title">Tyhjennä sisäinen tallennustila</string>
   <string name="internal_memory">Sisäinen tallennustila</string>
@@ -1662,7 +1662,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="keep_legacy_fingerprint">Säilytä</string>
   <string name="keep_screen_on">Pysy käynnissä</string>
   <string name="keep_screen_on_summary">Näyttö ei sammu puhelimen latautuessa</string>
-  <string name="kernel_version">Kernel-versio</string>
+  <string name="kernel_version">Kernel versio</string>
   <string name="key_position_cat">Painikkeiden sijainnit</string>
   <string name="key_settings">Painikkeet</string>
   <string name="key_settings_title">Painikkeet</string>

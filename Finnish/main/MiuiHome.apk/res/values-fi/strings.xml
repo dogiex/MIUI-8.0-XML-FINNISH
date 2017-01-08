@@ -130,7 +130,7 @@
   <string name="gadget_weather_loading">Ei tietoa</string>
   <string name="gadget_weather_low_temp">Alhainen lämpötila</string>
   <string name="gadget_weather_theme_type">Laitteen tyyppi</string>
-  <string name="gadget_weather_time_format">"EEEE, d. MMMM'ta'"</string>
+  <string name="gadget_weather_time_format">"EEEE d. MMMM'ta'"</string>
   <string name="gadget_weather_title">Sää</string>
   <string name="gadget_weather_title_14">Sää</string>
   <string name="gadget_weather_title_24">Sää</string>

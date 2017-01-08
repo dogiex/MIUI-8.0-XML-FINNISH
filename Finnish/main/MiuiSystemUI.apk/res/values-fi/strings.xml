@@ -289,9 +289,9 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="settings_toggle_position_divider_page">%1$d nappulat tämän palkin yläpuolella ovat aktiivisia</string>
   <string name="settings_toggle_position_reset">Aseta nappulat uudelleen</string>
   <string name="share">Jaa</string>
-  <string name="status_bar_clock_date_format">"EEEE, d. MMMM'ta'"</string>
-  <string name="status_bar_date_format">"EEEE, d. MMMM'ta'"</string>
-  <string name="status_bar_date_format_12">"EEEE, d. MMMM'ta'"</string>
+  <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>
+  <string name="status_bar_date_format">"EEEE d. MMMM'ta'"</string>
+  <string name="status_bar_date_format_12">"EEEE d. MMMM'ta'"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Tänään: %1$s   Jäljellä: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Raja ylitetty: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -351,12 +351,12 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="usb_storage_message">Olet yhdistettynä tietokoneeseesi USB:n kautta. Napauta alla olevaa nappia, jos tahdot kopioida tiedostoja tietokoneesi ja Androidin USB-muistin välillä.</string>
   <string name="usb_storage_notification_message">Valitse kopioidaksesi tiedostoja tietokoneeltasi/tietokoneeseesi.</string>
   <string name="usb_storage_notification_title">USB yhdistetty</string>
-  <string name="usb_storage_stop_message">"Before turning off USB storage, make sure you've unmounted (“ejected”) your Android‘s USB storage from your computer."</string>
-  <string name="usb_storage_stop_notification_message">Select to turn off USB storage.</string>
-  <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
+  <string name="usb_storage_stop_message">Ennen kuin laitat USB-tallennustilan pois päältä, varmista että olet poistanut turvallisesti Android USB-tallennustilan tietokoneeltasi.</string>
+  <string name="usb_storage_stop_notification_message">Laita USB-tallennustila pois päältä valitsemalla.</string>
+  <string name="usb_storage_stop_notification_title">Laita USB-tallennustila pois päältä</string>
   <string name="usb_storage_stop_title">USB-muisti on käytössä</string>
   <string name="usb_storage_title">USB yhdistetty</string>
-  <string name="user_guide_for_notification">"Liu'uta sormella alas vetääksesi ilmoitusalueen esiin"</string>
+  <string name="user_guide_for_notification">Vedä ilmoitusalue esiin pyyhkäisemällä sormella alas</string>
   <string name="user_guide_for_toggle">Nappuloiden listaa voi liikuttaa vaakatasossa</string>
   <string name="user_guide_for_toggle_list">Hallitse nappuloita</string>
   <string name="vpn_text">Näytä asetukset napauttamalla.</string>
