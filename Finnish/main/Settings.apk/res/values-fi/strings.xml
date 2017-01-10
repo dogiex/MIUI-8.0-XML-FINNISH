@@ -774,7 +774,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="cellular_data_title">Mobiilitiedonsiirto</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Vaihda</string>
-  <string name="change_password">Vaihda näytönlukitus</string>
+  <string name="change_password">Vaihda näytön lukitus</string>
   <string name="change_security_lock">Kokeile muita keinoja lukituksen poistoon</string>
   <string name="change_storage">Vaihda tallennustila</string>
   <string name="charging_sounds_title">Laturin kytkemisääni</string>
