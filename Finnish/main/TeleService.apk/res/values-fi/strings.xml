@@ -571,7 +571,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="label_cdp">SIM corporate unlock PIN</string>
   <string name="label_ndp">SIM-verkko, PIN-koodin lukituksen poisto</string>
   <string name="label_nsdp">SIM network subset unlock PIN</string>
-  <string name="label_puk">Enter PUK</string>
+  <string name="label_puk">Syötä PUK-koodi</string>
   <string name="label_puk2_code">Anna PUK2-koodi</string>
   <string name="label_rcdp">RUIM corporate unlock PIN</string>
   <string name="label_rdp">RUIM unlock PIN</string>
@@ -594,7 +594,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="list_language_dtitle">Kielet</string>
   <string name="list_language_summary">Valitse uutisten kieli</string>
   <string name="list_language_title">Kieli</string>
-  <string name="livetalk_setting">Top-up package</string>
+  <string name="livetalk_setting">Top-up paketti</string>
   <string name="livetalk_white_list_number_title">White list of without use Top-up package</string>
   <string name="load_networks_progress">Haetaan…</string>
   <string name="local_disable">Paikallisuutiset pois käytöstä</string>
@@ -654,7 +654,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="msim_not_set_summary">Ei asetettu</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Soita</string>
-  <string name="msim_set_icc_card_error">ICC card error</string>
+  <string name="msim_set_icc_card_error">ICC korttivirhe</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Ei voi asettaa puhelun aikana</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM-kortin virhe</string>
   <string name="msim_setting_categery_title">SIM-kortin asetukset</string>
@@ -664,8 +664,8 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="msim_setting_sim_info_editor_title">Muokkaa SIM-kortin tietoja</string>
   <string name="msim_sim_lock">Lukittu</string>
   <string name="msim_sim_radio_off">Pois</string>
-  <string name="msim_switch_data_conn_toast">Swapped SIM cards. Network type has changed. View additional info in SIM cards and mobile networks in the Settings menu.</string>
-  <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 only supports GSM networks. Preferred network type for this slot has been changed to 2G only.</string>
+  <string name="msim_switch_data_conn_toast">SIM-kortteja vaihdettu. Verkon tyyppi on vaihtunut. Näet lisää tietoa asetuksista Asetukset &gt; SIM-kortit &amp; matkapuhelinverkot.</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">SIM2-paikka tukee vain GSM-verkkoja. Tälle paikalle vaihdettiin ensisijaisen verkon tyypiksi Vain 2G.</string>
   <string name="multi_category_disable">Useat luokat pois käytöstä</string>
   <string name="multi_category_enable">Useat luokat käytössä</string>
   <string name="name">Nimi</string>
@@ -678,22 +678,22 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="network_4G">4G (suositus)</string>
   <string name="network_error_message">Virheilmoitus</string>
   <string name="network_global">Maailmanlaajuinen</string>
-  <string name="network_id">Network ID</string>
+  <string name="network_id">Verkon ID</string>
   <string name="network_info_message">Verkkoviesti</string>
   <string name="network_lte">LTE (suositus)</string>
   <string name="network_message">Verkon viesti</string>
   <string name="network_query_error">Virhe haettaessa verkkoja.</string>
   <string name="network_settings_auto_select_title">Valitaanko verkko manuaalisesti?</string>
   <string name="network_settings_automatically_option">Valitse automaattisesti ensisijainen verkko (%s)</string>
-  <string name="network_settings_confirm_message">Your device will disconnect from the network while searching for available networks.</string>
-  <string name="network_settings_data_connected_change">Mobile data will be turned off automatically while your device is searching for available networks.</string>
-  <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
-  <string name="network_settings_forbidden">%s (forbidden)</string>
+  <string name="network_settings_confirm_message">Laitteesi katkaisee yhteyden nykyisestä verkosta saatavilla olevien verkkojen haun ajaksi.</string>
+  <string name="network_settings_data_connected_change">Mobiilidata laitetaan automaattisesti pois päältä saatavilla olevien verkkojen haun ajaksi.</string>
+  <string name="network_settings_duringcall">Operaatio ei ole sallittu puhelun aikana</string>
+  <string name="network_settings_forbidden">%s (kielletty)</string>
   <string name="network_settings_information">Laitetaanko mobiilidata pois päältä?</string>
   <string name="network_settings_next">Seuraava</string>
-  <string name="network_settings_query_failed_message">"Couldn't search for mobile networks."</string>
-  <string name="network_settings_select_automatic_hint">"Can't register on the network you selected.
-Using preferred network instead."</string>
+  <string name="network_settings_query_failed_message">Mobiiliverkkojen haku epäonnistui.</string>
+  <string name="network_settings_select_automatic_hint">"Valitsemaasi verkkoon rekisteröinti epäonnistui.
+Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="network_settings_title">Matkapuhelinverkot</string>
   <string name="network_settings_turn_off">pois</string>
   <string name="network_settings_warn_message">Laitteesi yhdistyy vain verkkoihin, jotka valitset manuaalisesti.</string>
@@ -729,9 +729,9 @@ Using preferred network instead."</string>
   <string name="ok">OK</string>
   <string name="oldPin2Label">Vanha PIN2-koodi</string>
   <string name="oldPinLabel">Vanha PIN-koodi</string>
-  <string name="old_password_label">Current 4-digit password</string>
-  <string name="old_pin2_label">PIN2</string>
-  <string name="old_pin_label">Old PIN</string>
+  <string name="old_password_label">Nykyinen 4-numeron salasana</string>
+  <string name="old_pin2_label">PIN2-koodi</string>
+  <string name="old_pin_label">Vanha PIN-koodi</string>
   <string name="onHold">Pidossa</string>
   <string name="onscreenAddCallText">Lisää puhelu</string>
   <string name="onscreenAudioText">Ääni</string>
@@ -745,7 +745,7 @@ Using preferred network instead."</string>
   <string name="onscreenSwapCallsText">Vaihda</string>
   <string name="onscreenVideoCallText">Videopuh.</string>
   <string name="open_miui">Avaa</string>
-  <string name="operation_successfully">Done</string>
+  <string name="operation_successfully">Valmis</string>
   <string name="optional_summary">&lt;Valinnainen&gt;</string>
   <string name="ota_activate">Aktivoi</string>
   <string name="ota_call_end">Takaisin</string>
@@ -775,9 +775,9 @@ Suosittelemme siirtymään alueelle, jolla signaali on vahvempi (ikkunan lähell
 
 Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="other_settings">Muut puheluasetukset</string>
-  <string name="other_settings_category">Other</string>
-  <string name="overseas_roaming_setting">Data roaming</string>
-  <string name="password_changed">Password changed</string>
+  <string name="other_settings_category">Muu</string>
+  <string name="overseas_roaming_setting">Data roaming-tila</string>
+  <string name="password_changed">Salasana vaihdettu</string>
   <string name="password_title">Salasana</string>
   <string name="path_answer_state_setting_title">Järjestelmäsovellukset/Puheluasetukset/Saapuvan puhelun asetukset</string>
   <string name="path_antispam_setting">Järjestelmäsovellukset/Puheluasetukset/Estolista</string>
@@ -834,15 +834,15 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="phone_entered_ecm_text">Käytössä hätäpuhelujen takaisinsoittotila</string>
   <string name="phone_in_ecm_call_notification_text">Verkkoyhteys pois käytöstä</string>
   <string name="phone_in_ecm_notification_title">Hätäpuhelujen takaisinsoittotila</string>
-  <string name="phone_number_hint_text">Phone number</string>
+  <string name="phone_number_hint_text">Puhelinnumero</string>
   <string name="pin2_attempts">"
 %d yritystä jäljellä."</string>
   <string name="pin2_changed">PIN2-koodi päivitetty</string>
   <string name="pin2_error_exception">Verkko- tai SIM-korttivirhe</string>
-  <string name="pin2_invalid">Sallittuja numeroita ei päivitetty, koska annoit väärän PIN-koodin.</string>
-  <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long.</string>
+  <string name="pin2_invalid">Sallittuja numeroita ei päivitetty, koska annoit virheellisen PIN-koodin.</string>
+  <string name="pin2_invalid_or_name_is_too_long">Syöttämäsi PIN-koodi on virheellinen tai syöttämäsi nimi on liian pitkä.</string>
   <string name="pin2_lock_warning">"
-PIN2 related functions will be locked after another failed attempt."</string>
+PIN2-koodin aiheiset toiminnot lukitaan yhden väärän yrityksen jälkeen.."</string>
   <string name="pin2_or_fdn_invalid">FDN-numeroa ei päivitetty. PIN2 on virheellinen tai puhelinnumero hylättiin.</string>
   <string name="pin2_unblocked">PIN2-koodi ei ole enää estetty</string>
   <string name="pin_attempts">"
@@ -853,9 +853,9 @@ PIN2 related functions will be locked after another failed attempt."</string>
 Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string>
   <string name="pin_progress_change_pin">Vaihdetaan PIN-koodia…</string>
   <string name="pin_progress_change_pin2">Vaihdetaan PIN2-koodia…</string>
-  <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
-  <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
-  <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
+  <string name="pin_progress_set_fdn_lock">Asetetaan FDN lukitustilaa…</string>
+  <string name="pin_progress_set_icc_lock">Asetetaan ICC lukitustilaa…</string>
+  <string name="pin_progress_unlock_icc">Avataan SIM-kortin lukitusta…</string>
   <string name="please_login_mi_accout">Kirjaudu</string>
   <string name="port_title">Porttinumero</string>
   <string name="preference_auto_ip_summary_disable">Pois</string>
@@ -864,7 +864,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preference_data_usage_title">Aseta datan raja</string>
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_off">Pois</string>
-  <string name="preference_dial_pad_touch_tone_piano">Piano äänet</string>
+  <string name="preference_dial_pad_touch_tone_piano">Pianon äänet</string>
   <string name="preference_dial_pad_touch_tone_title">Numeronvalinnan näppäinäänet</string>
   <string name="preference_telocation_summary_countrycode_off">Älä lisää maakoodia automaattisesti</string>
   <string name="preference_telocation_summary_countrycode_on">Lisää maakoodi automaattisesti</string>
@@ -883,8 +883,8 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_mode_cdma_summary">Ensisijainen verkkotila: CDMA</string>
   <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA w/o EvDo</string>
   <string name="preferred_network_mode_dialogtitle">Ensisijainen verkko</string>
-  <string name="preferred_network_mode_dialogtitle_cmcc">Network mode</string>
-  <string name="preferred_network_mode_evdo_only_choice">EvDo only</string>
+  <string name="preferred_network_mode_dialogtitle_cmcc">Verkkotila</string>
+  <string name="preferred_network_mode_evdo_only_choice">Vain EvDo</string>
   <string name="preferred_network_mode_evdo_only_summary">Ensisijainen verkkotila: vain EvDo</string>
   <string name="preferred_network_mode_global_choice">Maailmanlaajuinen</string>
   <string name="preferred_network_mode_global_summary">Ensisijainen verkkotila: Maailmanlaajuinen</string>
@@ -892,7 +892,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_mode_gsm_only_summary">Ensisijainen verkkotila: vain GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA auto</string>
   <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
-  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferred</string>
+  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA ensisijainen</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Ensisijainen verkkotila: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Ensisijainen verkkotila: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Ensisijainen verkkotila: LTE/CDMA</string>
@@ -917,14 +917,14 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_mode_td_scdma_lte_choice">TD-SCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
   <string name="preferred_network_mode_td_scdma_lte_summary">Ensisijaisen verkon tyyppi: TD-SCDMA/LTE</string>
-  <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA only</string>
-  <string name="preferred_network_mode_td_scdma_only_summary">Ensisijaisen verkon tyyppi: TD-SCDMA only</string>
+  <string name="preferred_network_mode_td_scdma_only_choice">Vain TD-SCDMA</string>
+  <string name="preferred_network_mode_td_scdma_only_summary">Ensisijaisen verkon tyyppi: Vain TD-SCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_choice">TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Ensisijaisen verkon tyyppi: TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Ensisijaisen verkon tyyppi: TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Ensisijainen verkko</string>
-  <string name="preferred_network_mode_wcdma_only_choice">WCDMA only</string>
+  <string name="preferred_network_mode_wcdma_only_choice">Vain WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Ensisijainen verkkotila: vain WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Ensisijainen verkkotila: ensisijaisesti WCDMA</string>
   <string name="preferred_network_restrict_network_changed_incall">Mobiiliverkkoa ei voi vaihtaa kesken puhelun</string>
@@ -946,14 +946,14 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Lähettävän välityspalvelimen osoite</string>
   <string name="pstn_connection_service_label">Sisäiset SIM-kortit</string>
-  <string name="pstn_phone">Cell phone call</string>
-  <string name="psw_enter_new">New password</string>
-  <string name="psw_enter_old">Old password</string>
-  <string name="psw_reenter_new">Enter password again</string>
+  <string name="pstn_phone">Matkapuhelin puhelu</string>
+  <string name="psw_enter_new">Uusi salasana</string>
+  <string name="psw_enter_old">Vanha salasana</string>
+  <string name="psw_reenter_new">Syötä salasana uudelleen</string>
   <string name="puk2_blocked">PUK2-koodi on pysyvästi estetty.</string>
-  <string name="puk2_label">Enter PUK2 code</string>
+  <string name="puk2_label">Syötä PUK2-koodi</string>
   <string name="puk2_requested">Virheellinen salasana. SIM-kortti on lukittu. Anna PUK2-koodi.</string>
-  <string name="puk_label">Enter PUK code</string>
+  <string name="puk_label">Syötä PUK-koodi</string>
   <string name="puk_lock_warning">"
 Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_requested">Virheellinen salasana. PIN-koodi on estetty. PUK-koodi on pyydetty.</string>
@@ -1069,11 +1069,11 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_account_list">SIP-tilit</string>
   <string name="sip_accounts">SIP-tilit</string>
   <string name="sip_accounts_title">Tilit</string>
-  <string name="sip_add_account_tip_text">To use internet calling, add an SIP account</string>
+  <string name="sip_add_account_tip_text">Käyttääksesi internet-puheluita, lisää SIP-tili</string>
   <string name="sip_always_send_keepalive">Lähetä aina</string>
   <string name="sip_call_options_entry_1">Kaikki puhelut, kun verkko on käytettävissä</string>
   <string name="sip_call_options_entry_2">Vain SIP-puhelut</string>
-  <string name="sip_call_options_entry_3">Ask for each call</string>
+  <string name="sip_call_options_entry_3">Kysy jokaiseen puheluun</string>
   <string name="sip_call_options_title">Käytä SIP-puheluita</string>
   <string name="sip_call_options_wifi_only_entry_1">Kaikki puhelut</string>
   <string name="sip_call_options_wifi_only_title">Käytä SIP-puheluita (vain Wi-Fi)</string>
@@ -1177,8 +1177,8 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="time_end">To</string>
   <string name="time_end_hour">time end hour</string>
   <string name="time_end_minute">time end minute</string>
-  <string name="time_formate_am">AM</string>
-  <string name="time_formate_pm">PM</string>
+  <string name="time_formate_am">ap.</string>
+  <string name="time_formate_pm">ip.</string>
   <string name="time_interval_char">:</string>
   <string name="time_start">From</string>
   <string name="time_start_hour">time start hour</string>
