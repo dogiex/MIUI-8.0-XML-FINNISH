@@ -28,7 +28,7 @@
   <string name="camera_setting">Kamera-asetukset</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Nopean kuvan tila</string>
-  <string name="camera_snap_mode_title_detail">Näytä tiedot napauttamalla/string>
+  <string name="camera_snap_mode_title_detail">Näytä tiedot napauttamalla</string>
   <string name="cannot_connect_camera_once">Kameraan ei saada yhteyttä</string>
   <string name="cannot_connect_camera_twice">Kameraan ei saada vieläkään yhteyttä. Kokeile käynnistää laite uudelleen.</string>
   <string name="cannot_move_warning_message">Otetaan kuvaa, pidä laite vakaana</string>
