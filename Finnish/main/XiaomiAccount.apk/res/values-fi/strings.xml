@@ -316,7 +316,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_use_generated_pwd_title">Muista salasanasi</string>
   <string name="passport_user_agreement">Käyttäjäsopimus</string>
   <string name="passport_user_agreement_p1">Hyväksyn </string>
-  <string name="passport_user_agreement_p2">Käyttäjäsopimuksen</string>
+  <string name="passport_user_agreement_p2">Palveluehdot</string>
   <string name="passport_user_agreement_p3"> ja </string>
   <string name="passport_user_agreement_p4">Tietosuojakäytännön</string>
   <string name="passport_vcode_notification_title">Kirjautumisesi vahvistus on kesken</string>

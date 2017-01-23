@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Hyväksy</string>
+  <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
   <string name="app_name">Provision</string>
   <string name="back">Takaisin</string>
   <string name="congratulation_label">Olet valmis rokkaamaan!</string>
@@ -38,7 +39,7 @@
   <string name="other_settings_upload_debug_log_title">Lähetä diagnostiikkatietoja automaattisesti</string>
 
   <string name="other_settings_user_experience">Käyttäjäkokemusohjelma</string>
-  <string name="other_settings_user_experience_summary">Auta parantamaan MIUI:ta lähettämällä nimettömänä käyttötietoja (%s)</string>
+  <string name="other_settings_user_experience_summary">Auta parantamaan MIUI:ta lähettämällä käyttötietoja nimettömänä</string>
   <string name="pref_title_data_slot">Ensisijainen data SIM-kortti</string>
   <string name="pref_title_voice_slot">Ensisijainen äänen SIM-kortti</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
