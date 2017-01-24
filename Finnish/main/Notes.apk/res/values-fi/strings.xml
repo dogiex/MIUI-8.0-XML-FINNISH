@@ -105,7 +105,6 @@
   <string name="search_label">Haetaan…</string>
   <string name="search_path_notes">Järjestelmäsovellukset/Muistio</string>
   <string name="search_setting_description">Hae tekstiä muistioistasi</string>
-  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Synkronoi muistiot</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui</string>
   <string name="sina_share_fail_content_repeat">Jakaminen epäonnistui, sisältö on jo olemassa…</string>
