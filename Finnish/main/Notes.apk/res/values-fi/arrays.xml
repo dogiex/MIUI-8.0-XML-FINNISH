@@ -8,6 +8,10 @@
         <item>Kamera</item>
         <item>Galleria</item>
     </string-array>
+    <string-array name="note_sort_way">
+        <item>Lajiteltu luomispäivän mukaan</item>
+        <item>Lajiteltu muokkaamispäivän mukaan</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Nimi</item>
         <item>Lempinimi</item>
@@ -30,32 +34,37 @@
     <string-array name="welcome_notes_content">
         <item>"Tervetuloa Muistioon
 "</item>
-        <item>"Tap to create a note
+        <item>"Luo muistio
+Napauta plussaa luodaksesi muistion."</item>
+        <item>"Valitse mallipohjia
+Käytä mallipohjia vaihtaaksesi muistioiden taustoja ja tyylejä.
+Napauta muistion oikeassa alakulmassa olevaa painiketta valitaksesi mallipohjan."</item>
+        <item>"Luo kansioita
+Järjestä muistiosi kansioihin.
+On 2 tapaa luoda kansio:
+1. Napauta kansion kuvaketta vasemmassa yläkulmassa ja napauta sitten plussaa.
+2. Pidä muistiota pohjassa, kunnes ponnahdusikkuna ilmestyy, valitse sen jälkeen \"Siirrä kansioon\" - \"Uusi kansio\"."</item>
+        <item>"Piilota muistiot
+Suojaa yksityiset muistiot salasanalla.
+On 2 tapaa piilottaa muistio:
+1. Napauta \"Lisää\" painiketta muistion oikeassa yläkulmassa ja valitse \"Piilota\".
+2. Pidä muistiota pohjassa, kunnes ponnahdusikkuna ilmestyy, valitse sen jälkeen \"Piilota\"."</item>
+        <item>"Ja lisää mahtavia ominaisuuksia!
+  - Kuvia, muistilistoja, muistutuksia.
+
+Lisää kuvia
+Napauta kuva kuvaketta muistion alareunassa lisätäksesi kuvan.
+Voit ottaa kuvan tai valita sellaisen Galleriasta.
+Kun muistio sisältää kuvan, tätä kuvaa käytetään muistion minikuvana ruudukkonäkymässä.
+
+Luo muistilistoja
+Valintaruutu on muistilistan olennainen osa.
+Napauta valintaruutu kuvaketta muistion alareunassa lisätäksesi valintaruudun tekstikappaleeseen.
+Napauta rasti ruutuun, kun tehtävä on tehty.
+
+Aseta muistutuksia
+Aseta muistutuksia suoraan muistioista.
+Napauta \"Lisää\" painiketta muistion oikeassa yläkulmassa, valitse sen jälkeen \"Muistutus\", asettaaksesi muistutusajan.
 "</item>
-        <item>"Choose beautiful theme
-"</item>
-        <item>"Create note folder
-"</item>
-        <item>"Protect private notes
-"</item>
-        <item>"And more great features!
-  - Sync with Mi Cloud
-  - Set reminders"</item>
-    </string-array>
-    <integer-array name="welcome_notes_color">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <string-array name="welcome_notes_image">
-        <item>guide_1</item>
-        <item></item>
-        <item>guide_3_1,guide_3_2</item>
-        <item>guide_4</item>
-        <item>guide_5_1,guide_5_2</item>
-        <item></item>
     </string-array>
 </resources>

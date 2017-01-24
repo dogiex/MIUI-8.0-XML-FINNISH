@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="note_terms">
-        <item quantity="other">%1$s muistiinpanoa</item>
-        <item quantity="one">%1$s muistiinpano</item>
+        <item quantity="other">%1$s muistiota</item>
+        <item quantity="one">%1$s muistio</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s kansiota</item>
