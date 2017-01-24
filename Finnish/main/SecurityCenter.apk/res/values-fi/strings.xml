@@ -909,7 +909,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="path_networkassistant_4">Järjestelmäsovellukset/Tietoturva/Datan käyttö/Testaa verkko</string>
   <string name="path_permcenter">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet</string>
   <string name="path_powercenter">Järjestelmäsovellukset/Tietoturva/Akun käyttö</string>
-  <string name="path_powercenter_powerrank">Akku/Akun käyttö</string>
+  <string name="path_powercenter_powerrank">Akku &amp; suorituskyky/Akun käyttö</string>
   <string name="path_securitycenter">Järjestelmäsovellukset/Tietoturva</string>
   <string name="path_securitycenter_settings">Järjestelmäsovellukset/Tietoturva</string>
   <string name="pay_charge">Osta lisää dataa</string>
@@ -925,7 +925,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="permission_close_permission_control_dialog_msg">Kun käyttöoikeuden hallinta on pois päältä, sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin.</string>
   <string name="permission_close_permission_control_dialog_title">Laitetaanko pois päältä?</string>
   <string name="permission_exception_summary">Joillakin sovelluksilla ei ole käyttöoikeutta yhdistää internettiin</string>
-  <string name="permission_exception_title">View network permissions</string>
+  <string name="permission_exception_title">Näytä verkon käyttöoikeudet</string>
   <string name="permission_group_title_others">Muut</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin. Voit laittaa tämän toiminnon päälle Käyttöoikeus asetuksista.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Käyttöoikeuden hallinta</string>

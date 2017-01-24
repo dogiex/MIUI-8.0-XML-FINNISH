@@ -425,8 +425,8 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="battery_saver_turn_on_automatically_never">Ei koskaan</string>
   <string name="battery_saver_turn_on_automatically_pct">kun akkua jäljellä %1$s</string>
   <string name="battery_saver_turn_on_automatically_title">Käynnistä automaattisesti</string>
-  <string name="battery_settings">Akku</string>
-  <string name="battery_settings_title">Akku</string>
+  <string name="battery_settings">Akku &amp; suorituskyky</string>
+  <string name="battery_settings_title">Akku &amp; suorituskyky</string>
   <string name="battery_since_reset">Akun käyttö tilastojen tyhjentämisen jälkeen</string>
   <string name="battery_since_unplugged">Akun käyttö laturin irrottamisen jälkeen</string>
   <string name="battery_stats_camera_on_label">Kamera käytössä</string>
