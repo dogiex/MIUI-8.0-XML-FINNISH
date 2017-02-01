@@ -21,48 +21,48 @@
         <item quantity="one">%d päivä</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s will be added</item>
-        <item quantity="one">%1$d photo of %2$s will be added</item>
+        <item quantity="other">%1$d kuvaa %2$s kuvasta lisätään</item>
+        <item quantity="one">%1$d kuva %2$s kuvasta lisätään</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d photos of %2$s will be added</item>
-        <item quantity="one">%1$d photo of %2$s will be added</item>
+        <item quantity="other">%1$d kuvaa %2$s kuvasta lisätään</item>
+        <item quantity="one">%1$d kuva %2$s kuvasta lisätään</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Shared to %d people</item>
-        <item quantity="one">Shared to %d person</item>
+        <item quantity="other">Jaettu %d henkilölle</item>
+        <item quantity="one">Jaettu henkilölle %d</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">Delete %1$d photos %2$s?</item>
-        <item quantity="one">Delete this photo %2$s?</item>
+        <item quantity="other">Poistetaanko %1$d kuvaa %2$s?</item>
+        <item quantity="one">Poistetaanko tämä kuva %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Delete %1$d videos %2$s?</item>
-        <item quantity="one">Delete this video %2$s?</item>
+        <item quantity="other">Poistetaanko %1$d videota %2$s?</item>
+        <item quantity="one">Poistetaanko tämä video %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">Delete %1$d items %2$s?</item>
-        <item quantity="one">Delete %1$d item %2$s?</item>
+        <item quantity="other">Poistetaanko %1$d kohdetta %2$s?</item>
+        <item quantity="one">Poistetaanko %1$d kohde %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d items)</item>
-        <item quantity="one">(%d item)</item>
+        <item quantity="other">(%d kohdetta)</item>
+        <item quantity="one">(%d kohde)</item>
     </plurals>
     <plurals name="album_count">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d kuvaa</item>
+        <item quantity="one">%d kuva</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d items | %2$s</item>
-        <item quantity="one">%1$d item | %2$s</item>
+        <item quantity="other">%1$d kohdetta | %2$s</item>
+        <item quantity="one">%1$d kohde | %2$s</item>
     </plurals>
     <plurals name="backuped">
-        <item quantity="other">%1$d items have been backed up</item>
-        <item quantity="one">%1$d item has been backed up</item>
+        <item quantity="other">%1$d kohdetta varmuuskopioitiin</item>
+        <item quantity="one">%1$d kohde varmuuskopioitiin</item>
     </plurals>
     <plurals name="backup_waiting">
-        <item quantity="other">%1$d items are waiting to be backed up</item>
-        <item quantity="one">%1$d item is waiting to be backed up</item>
+        <item quantity="other">%1$d kohdetta odottaa varmuuskopiointia</item>
+        <item quantity="one">%1$d kohde odottaa varmuuskopiointia</item>
     </plurals>
     <plurals name="network_unsatisfied">
         <item quantity="other">Verkkovirhe. %1$d kohdetta odottaa varmuuskopiointia.</item>
@@ -81,12 +81,12 @@
         <item quantity="one">Laitteen tallennustilaa ei ole tarpeeksi. %1$d kohde odottaa varmuuskopiointia.</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d photos waiting to back up</item>
-        <item quantity="one">1 photo waiting to back up</item>
+        <item quantity="other">%1$d kuvaa odottaa varmuuskopiointia</item>
+        <item quantity="one">1 kuva odottaa varmuuskopiointia</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videos waiting to back up</item>
-        <item quantity="one">1 video waiting to back up</item>
+        <item quantity="other">%1$d videota odottaa varmuuskopiointia</item>
+        <item quantity="one">1 video odottaa varmuuskopiointia</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d kohdetta odottaa varmuuskopiointia</item>
@@ -97,16 +97,16 @@
         <item quantity="one">Varmuuskopioidaan kuva…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Backing up %1$d videos…</item>
-        <item quantity="one">Backing up video…</item>
+        <item quantity="other">Varmuuskopioidaan %1$d videota…</item>
+        <item quantity="one">Varmuuskopioidaan video…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Backing up %1$d items…</item>
-        <item quantity="one">Backing up 1 item…</item>
+        <item quantity="other">Varmuuskopioidaan %1$d kohdetta…</item>
+        <item quantity="one">Varmuuskopioidaan 1 kohde…</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">"Couldn't download %1$d files"</item>
-        <item quantity="one">"Couldn't download %1$d file"</item>
+        <item quantity="other">%1$d tiedoston lataaminen epäonnistui</item>
+        <item quantity="one">%1$d tiedoston lataaminen epäonnistui</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d kohdetta valittu</item>
