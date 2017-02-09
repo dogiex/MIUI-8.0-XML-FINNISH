@@ -17,13 +17,6 @@ For more info visit:
 
 Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
-##Lahjoita
-  Teen tätä käännösprojektia harrastuksena ja aina, kun siihen minulta löytyy aikaa.  
-  Pyrin kuitenkin pitämään käännöksen ajan tasalla parhaani mukaan.  
-  Käännös ei ole vielä 100% valmis, mutta tulee olemaan pikku hiljaa. :)  
-  Mikäli haluat tukea projektia, voit lahjoittaa minulle kahvia/olutta [PayPalin kautta](https://paypal.me/dogiex)  
-  Kiitos tuesta! :)
-
 ##Bugit
   Virheet, bugit ja parannusehdotukset voit kertoa [Issues välilehdellä](https://github.com/dogiex/MIUI-8.0-XML-FINNISH/issues)  
   Ennen kuin ilmoitat bugista, kokeile muuttaa järjestelmän kieli englanniksi ja kokeilla samaa, missä bugi ilmeentyi.  
@@ -32,6 +25,13 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
   Muista kertoa tarkasti, mitä teit ja missä bugi ilmestyi.  
   Kuvakaappaus on enemmän kuin tervetullutta!  
   Muista myös linkata Logcat!  
+
+##Lahjoita
+  Teen tätä käännösprojektia harrastuksena ja aina, kun siihen minulta löytyy aikaa.  
+  Pyrin kuitenkin pitämään käännöksen ajan tasalla parhaani mukaan.  
+  Käännös ei ole vielä 100% valmis, mutta tulee olemaan pikku hiljaa. :)  
+  Mikäli haluat tukea projektia, voit lahjoittaa minulle kahvia/olutta [PayPalin kautta](https://paypal.me/dogiex)  
+  Kiitos tuesta! :)
 
 ###Credits:
 - Dogiex
@@ -85,6 +85,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiDrop.apk
 - MiGalleryLockScreen.apk
 - MiPlay.apk
+- MiuiGallery.apk
 - MiuiHome.apk
 - MiuiKeyguard
 - miui.apk
