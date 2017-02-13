@@ -92,6 +92,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - miui.apk
 - MiuiCompass.apk
 - miuisystem.apk
+- MiuiScanner.apk
 - MiuiSystemUi.apk
 - MiWallpaper.apk
 - Mms.apk
