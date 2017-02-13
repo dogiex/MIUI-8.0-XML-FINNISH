@@ -19,8 +19,8 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
-  <string name="audio_focus_exit_button_text">Turn off Audio Focus</string>
-  <string name="burst_shoot_exit_button_text">Turn off Burst Shoot</string>
+  <string name="audio_focus_exit_button_text">Laita Äänitarkennus pois päältä</string>
+  <string name="burst_shoot_exit_button_text">Laita Burst Shoot pois päältä</string>
   <string name="camera_disabled">Kamera on poistettu käytöstä</string>
   <string name="camera_error_title">Kamera virhe</string>
   <string name="camera_label">Kamera</string>
@@ -101,7 +101,7 @@
   <string name="pref_camera_audio_capture_title">Ääni</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Valitaksesi kohteen, napauta yhtäaikaa kaksi diagonaalista pistettä sen reunoille. Kun kohde on paikoillaan, kamera ottaa kuvan automaattisesti.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Ota kuva valituista paikoillaan olevista kohteista</string>
-  <string name="pref_camera_auto_chroma_flash_title">Salama</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Keskipainotettu</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Kehyksen keskiarvo</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Pistemittaus</string>
@@ -144,7 +144,7 @@
   <string name="pref_camera_delay_capture_entry_10s">10s</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
-  <string name="pref_camera_delay_capture_entry_audio">Aäni</string>
+  <string name="pref_camera_delay_capture_entry_audio">Ääni</string>
   <string name="pref_camera_delay_capture_title">Ajastin</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
@@ -199,7 +199,7 @@
   <string name="pref_camera_jpegquality_entry_low">Matala</string>
   <string name="pref_camera_jpegquality_entry_normal">Normaali</string>
   <string name="pref_camera_jpegquality_title">Kuvanlaatu</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Paina &amp; pidä Sulkija-painiketta</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Sulkija-painikkeen pitkä painallus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burst shoot</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Tarkenna</string>
   <string name="pref_camera_long_pressing_shutter_title">Paina &amp; pidä Sulkija-painiketta lukitaksesi AE/AF/AWB</string>
@@ -291,11 +291,11 @@
   <string name="pref_camera_video_duration_entry_30">30 minuuttia</string>
   <string name="pref_camera_video_duration_entry_mms">30 sekuntia (MMS)</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Valotus</string>
-  <string name="pref_camera_volumekey_function_entry_shutter">Suljin</string>
+  <string name="pref_camera_volumekey_function_entry_shutter">Sulkija</string>
   <string name="pref_camera_volumekey_function_entry_volume">Äänenvoimakkuus</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoomaa</string>
   <string name="pref_camera_volumekey_function_title">Äänenvoimakkuuspainikkeiden toiminnot</string>
-  <string name="pref_camera_watermark_title">Lisää aikaleima kuviin</string>
+  <string name="pref_camera_watermark_title">Lisää kuviin vesileima</string>
   <string name="pref_camera_whitebalance_entry_auto">Automaattinen</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Pilvinen</string>
   <string name="pref_camera_whitebalance_entry_daylight">Päivänvalo</string>
@@ -369,7 +369,7 @@
   <string name="simple_mode_button_asd_flash">Laita Salama tallennus pois päältä</string>
   <string name="simple_mode_button_asd_hdr">Laita HDR tallennus pois päältä</string>
   <string name="simple_mode_button_text_audio_capture">Laita äänitarkennus pois päältä</string>
-  <string name="simple_mode_button_text_color_effect">Laita filtteri pois päältä</string>
+  <string name="simple_mode_button_text_color_effect">Laita suodatin pois päältä</string>
   <string name="simple_mode_button_text_delay_capture">Laita ajastin pois päältä</string>
   <string name="simple_mode_button_text_face_beauty">Laita Kaunista pois päältä</string>
   <string name="simple_mode_button_text_fast_video">Laita hidastus pois päältä</string>
