@@ -108,6 +108,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - Settings.apk
 - SettingsProvider.apk
 - Shell.apk
+- SoundRecorder.apk
 - Stk.apk
 - Tag.apk
 - Telecom.apk

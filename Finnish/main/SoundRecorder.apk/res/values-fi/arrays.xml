@@ -5,22 +5,22 @@
         <item>AMR</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
+        <item>Musiikki</item>
+        <item>Ääni</item>
     </string-array>
     <string-array name="interview_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
-        <item>Interview</item>
+        <item>Musiikki</item>
+        <item>Ääni</item>
+        <item>Haastattelu</item>
     </string-array>
     <string-array name="record_quality_entries">
-        <item>High</item>
-        <item>Standard</item>
-        <item>Low</item>
+        <item>Korkea</item>
+        <item>Normaali</item>
+        <item>Matala</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, ~192kbit/s, ~90MB/h</item>
-        <item>MP3, ~100kbit/s, ~45MB/h</item>
-        <item>MP3, ~75kbit/s, ~32MB/h</item>
+        <item>MP3, ~192 kbit/s, ~90 Mt/t</item>
+        <item>MP3, ~100 kbit/s, ~45 Mt/t</item>
+        <item>MP3, ~75 kbit/s, ~32 Mt/t</item>
     </string-array>
 </resources>

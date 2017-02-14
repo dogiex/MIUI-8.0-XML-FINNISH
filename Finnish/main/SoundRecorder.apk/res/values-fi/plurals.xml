@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">%d recordings downloaded</item>
-        <item quantity="one">%d recording downloaded</item>
+        <item quantity="other">%d nauhoitusta ladattu</item>
+        <item quantity="one">%d nauhoitus ladattu</item>
     </plurals>
     <plurals name="local_records_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
     </plurals>
     <plurals name="unsynced_records_count">
-        <item quantity="other">%d not synced</item>
-        <item quantity="one">%d not synced</item>
+        <item quantity="other">%d synkronoimatonta</item>
+        <item quantity="one">%d synkronoimatonta</item>
     </plurals>
 </resources>
