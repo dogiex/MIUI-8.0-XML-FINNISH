@@ -38,7 +38,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="fragment_tab_title_nonsys">Asennetut sovellukset</string>
   <string name="fragment_tab_title_sys">Järjestelmäsovellukset</string>
   <string name="full_screen_enter">Siirry koko näytön tilaan</string>
-  <string name="full_screen_exit">Poistu koko näytön tilasta/string>
+  <string name="full_screen_exit">Poistu koko näytön tilasta</string>
   <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Toiminto saattaa vaikuttaa verkkoyhteyteen, sijaintipalveluun, Radioon, Ajastimeen jne. Tämä määritys on sopiva useammille sovelluksille, mutta jos tietty sovellus käyttäytyy taustalla epänormaalisti, voit muokata asetuksia sovelluskohtaisesti.</string>
   <string name="hide_mode_ultimate_desc">Ultimate-tila on päällä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta laittamalla Akun säästäjä pois päältä.</string>
   <string name="high">Suorituskyky</string>
