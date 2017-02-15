@@ -100,6 +100,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - NfcNci.apk
 - Notes.apk
 - PackageInstaller.apk
+- PowerKeeper.apk
 - PrintSpooler.apk
 - Provision.apk
 - ProxyHandler.apk
