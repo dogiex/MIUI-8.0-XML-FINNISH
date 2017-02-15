@@ -10,6 +10,6 @@
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
         <item quantity="other">Suorita vielä %1$d askelta avataksesi kaikki kohteet</item>
-        <item quantity="one">Suorita vielä %1$d askel avataksesi kaikki kohteet/item>
+        <item quantity="one">Suorita vielä %1$d askel avataksesi kaikki kohteet</item>
     </plurals>
 </resources>
