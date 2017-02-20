@@ -229,6 +229,7 @@
   <string name="item_num_selected">%1$d valittu</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date_full">Siirry päivään</string>
+  <string name="label_recent_events">近期事件</string>
   <string name="limit">限行</string>
   <string name="limit_after_tomorrow">后天</string>
   <string name="limit_card_limit_desc">限行尾号</string>
@@ -253,7 +254,6 @@
   <string name="limit_tips_bar_title">点击设置限行通知提醒，爱车限行早知道</string>
   <string name="limit_today">今天</string>
   <string name="limit_tomorrow">明天</string>
-  <string name="label_recent_events">近期事件</string>
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
   <string name="loading">Ladataan…</string>
@@ -314,8 +314,8 @@
   <string name="preferences_alerts_ringtone_title">Ääni</string>
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
-  <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
   <string name="preferences_build_version">Ohjelmistoversio</string>
+  <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>

@@ -116,8 +116,8 @@
   <string name="provision_title">Valitse teema</string>
   <string name="purchased_list">Ostetut</string>
   <string name="purchased_list_current">MIUI 8</string>
-  <string name="purchased_list_legacy">Legacy teemat</string>
   <string name="purchased_list_format">%1$s ostettu</string>
+  <string name="purchased_list_legacy">Legacy teemat</string>
   <string name="reload">Yritä uudelleen</string>
   <string name="resource_account_abnormal_state">Tilivirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="resource_account_fail_to_add">Tilin lisääminen epäonnistui</string>

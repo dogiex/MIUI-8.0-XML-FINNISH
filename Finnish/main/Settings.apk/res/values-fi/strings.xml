@@ -2935,8 +2935,8 @@ Näytön kiinnityksen käyttö:
   <string name="search_accessibility_screen_magnification_title">Suurennuseleet</string>
   <string name="search_accessibility_settings">Esteettömyys</string>
   <string name="search_account_list">Muut tilit</string>
-  <string name="search_airplane_mode">Lentokone-tila</string>
   <string name="search_advanced_settings">Lisäasetukset;Wifi;Wifi asetukset;WLAN asetukset</string>
+  <string name="search_airplane_mode">Lentokone-tila</string>
   <string name="search_alarm_sound_title">Hälytyksen oletusääni</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam</string>
   <string name="search_apn_settings">APN;Access Point Names</string>
@@ -3080,8 +3080,8 @@ Näytön kiinnityksen käyttö:
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Teksti puheeksi -toisto</string>
   <string name="search_turn_on_security_lock">Valitse näytön lukitus;Näytön lukitus;Lisää näytön lukitus;näytönlukitus</string>
-  <string name="search_usb_tethering_button_text">USB jako;jako;USB</string>
   <string name="search_unlock_set">Automaattinen näytön lukitus;Lukitusnäytön teksti;Nuku;Herätä lukitusnäyttö;Salasana;Tasku-tila;Avaa lukitus Bluetooth-laitteella</string>
+  <string name="search_usb_tethering_button_text">USB jako;jako;USB</string>
   <string name="search_user_agreement">Palveluehdot</string>
   <string name="search_user_dict_settings_title">Henkilökohtainen sanakirja</string>
   <string name="search_vibrate_in_silent_title">Käytä värinää äänettömässä tilassa</string>
