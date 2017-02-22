@@ -230,7 +230,6 @@
   <string name="paused_waiting_for_network">Odotetaan verkkoyhteyttä</string>
   <string name="paused_waiting_to_retry">Odotetaan uudelleenyritystä</string>
   <string name="period_of_validity">Voimassaolo:</string>
-  <string name="pref_download_revert_default">Oletus</string>
   <string name="pref_download_settings_title">Latauksen koon raja</string>
   <string name="pref_download_storage_path">Luo uusi kansio latauksille</string>
   <string name="pref_sniff_shortcut">Luo pikakuvake</string>
@@ -266,7 +265,6 @@
   <string name="resume_download">Jatka</string>
   <string name="retry_after_network_available">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="retry_download">Yritä uudelleen</string>
-  <string name="revert_default">Palauta oletusasetukset</string>
   <string name="revert_download_path">Käytetäänkö latauksille oletussijaintia?</string>
   <string name="save_path">"Tallenna lataukset: "</string>
   <string name="save_text">Säästä ￥%1$s</string>
@@ -375,7 +373,6 @@
   <string name="text_showmore_infoflow">Näytä lisää lähteitä</string>
   <string name="third_web_cancel">Peruuta</string>
   <string name="third_web_confirm">OK</string>
-  <string name="third_web_default">Muista tämä sijainti</string>
   <string name="third_web_filename_hint">Nimi</string>
   <string name="third_web_filesize">Koko</string>
   <string name="third_web_savepath">Sijainti</string>

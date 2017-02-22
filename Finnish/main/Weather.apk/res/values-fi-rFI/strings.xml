@@ -139,7 +139,6 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
   <string name="realtime_humidity_title">Suhteellinen Kosteus</string>
-  <string name="realtime_wind_default_title">Tuuli</string>
   <string name="refresh_fail">Verkkoon ei saada yhteyttä</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_weather">Sää</string>

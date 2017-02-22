@@ -4,9 +4,6 @@
   <string name="accessibility_speakerphone_enabled">Kaiutin käytössä.</string>
   <string name="add_vm_number_str">Lisää numero</string>
   <string name="can_not_dial_while_vt_prompt">Ei voi soittaa videopuhelun ollessa käynnissä</string>
-  <string name="change_default_dialer_dialog_title">Vaihdetaanko oletuspuhelusovellus?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">Asetetaanko %s oletuspuhelusovellukseksi?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">Asetetaanko oletuspuhelusovellukseksi %1$s sovelluksen %2$s sijaan?</string>
   <string name="dial_conference_fail_prompt">Konferenssipuhelua ei voida yhdistää suoraan, koska nykyinen verkkosi ei tue VoLTE-puheluita.</string>
   <string name="dial_vt_fail_prompt">Nykyinen verkko ei tue VoLTE-puheluita. Vaihdetaanko normaaliin äänipuheluun?</string>
   <string name="duplicate_video_call_not_allowed">Puhelua ei voi lisätä juuri nyt.</string>

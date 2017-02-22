@@ -31,7 +31,6 @@
   <string name="configure_input_methods">Valitse näppäimistöt</string>
   <string name="copy">Kopioi</string>
   <string name="cut">Leikkaa</string>
-  <string name="default_name">Oletus</string>
   <string name="enable_livetalk_summary">Säästä jopa 70% puhelinlaskua</string>
   <string name="enable_livetalk_title">Laita Top-up paketti päälle</string>
   <string name="fc_dialog_body">Lähetetäänkö vikaraportti Xiaomille tutkittavaksi? Tämä saattaa sisältää henkilökohtaiseksi tunnistettavia tietoja. Raporttiasi käytetään vian korjaamista varten, eikä sitä tulla jakamaan eteenpäin mainostamista varten.</string>

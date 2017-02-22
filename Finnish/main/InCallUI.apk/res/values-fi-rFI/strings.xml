@@ -7,7 +7,6 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Tuntematon numero</string>
   <string name="antispam_provider">Tunnistanut %s</string>
-  <string name="areacode_set_default">Aseta oletukseksi</string>
   <string name="callFailed_cb_enabled">Et voi soittaa, jos puhelunesto on päällä.</string>
   <string name="callFailed_congestion">Verkko varattu</string>
   <string name="callFailed_dialToDial">Dial request modified to dial with different number.</string>
@@ -84,7 +83,6 @@
   <string name="conference_caller_name_me">Minä</string>
   <string name="contactPhoto">Yhteystiedon kuva</string>
   <string name="contacts_icon_label">Yhteystiedot</string>
-  <string name="default_area_code_setting">Oletus aluekoodi</string>
   <string name="description_image_button_answer">Vastaa pyyhkäisemällä ylös</string>
   <string name="description_image_button_dialpad">Numerovalitsin</string>
   <string name="description_image_button_eight">kahdeksan</string>
@@ -154,7 +152,6 @@
   <string name="modify_call_option_vt_tx">Videon lähetys</string>
   <string name="modify_call_prompt_no">Ei</string>
   <string name="modify_call_prompt_yes">Kyllä</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Nykyinen verkko on epävakaa. Vaihdetaan normaaliin puheluun, josta operaattorisi saattaa laskuttaa sinua.</string>
   <string name="network_error_title">Epävakaa verkko</string>
   <string name="no_balance_message">Top-up -paketin raha on loppu. Voit silti tehdä normaalin puhelun, josta operaattorisi saattaa laskuttaa sinua.</string>

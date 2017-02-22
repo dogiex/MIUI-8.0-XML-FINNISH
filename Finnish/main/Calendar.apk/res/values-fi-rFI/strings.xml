@@ -51,7 +51,6 @@
   <string name="birthday_event_description_day_before_yesterday">Toissapäivänä</string>
   <string name="birthday_event_description_days_ago">%1$s päivää sitten</string>
   <string name="birthday_event_description_days_later">%1$s päivän kuluttua</string>
-  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s on %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Tänään</string>
   <string name="birthday_event_description_tomorrow">Huomenna</string>
@@ -115,7 +114,6 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Päivä</string>
   <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
-  <string name="default_reminder_mode">Muistutukset</string>
   <string name="delete_calendar">退订</string>
   <string name="delete_label">Poista</string>
   <string name="delete_recurring_event_title">Poistetaanko %s?</string>
@@ -315,17 +313,12 @@
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
   <string name="preferences_build_version">Ohjelmistoversio</string>
-  <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
-  <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
-  <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
   <string name="preferences_notification_ringtone_title">Ääni</string>
   <string name="preferences_title">Kalenteri</string>
   <string name="preferences_use_home_tz_descrip">Näyttää kalenterit ja tapahtumien ajat oman aikavyöhykkeesi ajassa matkustaessasi</string>
   <string name="preferences_use_home_tz_title">Käytä kotiaikavyöhykettä</string>
-  <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Viikko alkaa päivänä</string>
   <string name="preferences_week_start_day_title">Viikko alkaa päivänä</string>
   <string name="refresh">刷新</string>

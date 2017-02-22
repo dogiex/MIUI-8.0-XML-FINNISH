@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">Puhelulokin tiedot</string>
   <string name="account_container_title">Tuotu</string>
-  <string name="account_default">Puhelin</string>
   <string name="account_phone">Vain puhelin, ei synkronoitu</string>
   <string name="account_sim">SIM-kortti</string>
   <string name="account_sim2">SIM-kortti %d</string>
@@ -158,7 +157,6 @@
   <string name="clearFrequentsConfirmation_title">Tyhjennetäänkö usein käytetyt?</string>
   <string name="clearFrequentsProgress_title">Tyhjennetään usein käytetyt...</string>
   <string name="clear_copy_number_description">Tyhjennä kopioitu numero</string>
-  <string name="clear_default">Poista oletus</string>
   <string name="clear_digits">Tyhjennä puhelinnumero</string>
   <string name="click_close">Sulje koskettamalla</string>
   <string name="clip_dialog_title">Soitetaanko kopioituun numeroon?</string>
@@ -268,7 +266,6 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="data_unit">Mt</string>
   <string name="date_time_set">Käytä</string>
   <string name="date_year_toggle">Anna vuosi</string>
-  <string name="default_ringtone">Oletussoittoääni</string>
   <string name="deleteConfirmation">Tämä yhteystieto poistetaan.</string>
   <string name="deleteConfirmationDetail">Poistetaanko \"%s\"?</string>
   <string name="deleteConfirmation_title">Poistetaanko tämä yhteystieto?</string>
@@ -959,7 +956,6 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="preference_contacts_display">Näkymän asetukset</string>
   <string name="preference_contacts_filter">Määritä yhteystietoluettelo</string>
   <string name="preference_contacts_more">Järjestele yhteystietoja</string>
-  <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_human">Ihmisääni</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon ääni</string>
   <string name="preference_dial_pad_touch_tone_switch">Puhelinnäppäimistön ääni</string>
@@ -1106,7 +1102,6 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="service_provider">Hakemisto</string>
   <string name="service_provider_detail">Hakemiston tiedot</string>
   <string name="set_data_package">Aseta datan käyttöraja ensiksi</string>
-  <string name="set_default">Aseta oletukseksi</string>
   <string name="set_photo_failed_msg">Kuvaa ei voitu asettaa</string>
   <string name="share_error">Tätä yhteystietoa ei voida jakaa</string>
   <string name="share_over_limit">Yli 1000, ei voida jakaa</string>
@@ -1244,7 +1239,6 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="vcard_import_failed">vCard-tietojen tuominen epäonnistui.</string>
   <string name="vcard_import_request_rejected_message">vCard-tuontipyyntö hylättiin. Yritä myöhemmin uudelleen.</string>
   <string name="vcard_import_will_start_message">%s tuodaan pian.</string>
-  <string name="vcard_import_will_start_message_with_default_name">Tiedosto tuodaan pian.</string>
   <string name="vcard_info_send_error">Ei voi lähettää vCard-virheen vuoksi</string>
   <string name="vcard_unknown_filename">yhteystieto</string>
   <string name="video_call">Video-puhelu</string>

@@ -108,7 +108,6 @@
 3. Our HD Vvideo plug-in will be installed automatically.
 4. This application needs to connect to the internet to work normally."</string>
   <string name="declaration_content_td_custom">This application needs to connect to the internet to work normally.</string>
-  <string name="defaults">Default</string>
   <string name="delete">Poista</string>
   <string name="delete_action_text">Poista (%d)</string>
   <string name="delete_addon">Poista</string>

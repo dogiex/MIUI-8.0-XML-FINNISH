@@ -245,8 +245,6 @@
   <string name="download_btn_select_none">Poista valinnat</string>
   <string name="download_complete">Lataus valmis</string>
   <string name="download_completed">Ladattu</string>
-  <string name="download_default_path_txt">Muista tämä valinta</string>
-  <string name="download_dialog_default_path_invalid">Latauksien sijainti, jonka olet valinnut on viallinen. Tallennetaan oletuskansioon...</string>
   <string name="download_dialog_file_length_hint_txt">Tiedoston koko: </string>
   <string name="download_dialog_file_length_lessthan1kb">vähemmän kuin 1 Kt</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ei voitu ladata</string>
@@ -526,17 +524,9 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_enable_news">Uutiset</string>
   <string name="pref_enable_novels">Kirjat</string>
   <string name="pref_enable_videos">Videot</string>
-  <string name="pref_extras_reset_default">Palauta oletukseksi</string>
-  <string name="pref_extras_reset_default_dlg">Palautetaanko asetukset oletusarvoihin?</string>
-  <string name="pref_extras_reset_default_summary">Palauta oletusasetukset</string>
-  <string name="pref_extras_reset_default_title">Palauta oletukset</string>
   <string name="pref_extras_send_feedback">Lähetä palautetta</string>
   <string name="pref_extras_title">Lisäasetukset</string>
   <string name="pref_extras_title_version">Version tiedot</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">Tallenna tiedostot Selaimen oletuskansioon</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Palauta oletus sijainti</string>
-  <string name="pref_file_download_default_path_prefix">Oletussijainti: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Latausten sijainti</string>
   <string name="pref_file_download_save_title">Lataukset</string>
   <string name="pref_fling_on_border">Pyyhkäise reunalta</string>
   <string name="pref_fling_on_border_title_summary">Pyyhkäise näyttöä vasemmasta tai oikeasta reunasta</string>
@@ -610,7 +600,6 @@ Poistutaanko tältä sivulta?"</string>
   <string name="quicklink_saved_before">Tämä sivu on jo lisätty</string>
   <string name="quicklink_user_define_webpage_title">Nimi</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
-  <string name="quicklinks_group_default_subtitle">Tyhjä</string>
   <string name="quicklinks_management">Suosittu</string>
   <string name="quicklinks_most_visited">Lisää aloitus-sivulle</string>
   <string name="quicklinks_most_visited_subtitle">Näytä viimeksi vieraillut sivut uudella välilehdellä</string>
@@ -779,7 +768,6 @@ Poistutaanko tältä sivulta?"</string>
   <string name="v5_edit_mode_title_empty">0 valittu</string>
   <string name="v5_select_all">Valitse kaikki</string>
   <string name="version_check_button_checking">Tarkastetaan…</string>
-  <string name="version_check_button_default">Tarkasta päivitykset</string>
   <string name="version_check_button_download_failed">Jatka latausta</string>
   <string name="version_check_button_downloading">Ladataan…</string>
   <string name="version_check_button_install">Asenna</string>

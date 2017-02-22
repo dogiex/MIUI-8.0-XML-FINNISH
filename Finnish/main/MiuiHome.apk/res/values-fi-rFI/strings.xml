@@ -56,10 +56,6 @@
   <string name="current_preview">Esikatselu</string>
   <string name="current_wallpaper">Nykyinen</string>
   <string name="custom_wallpaper_picker">Selaa</string>
-  <string name="default_folder_title_game">Pelit</string>
-  <string name="default_folder_title_recommend">Lisää sovelluksia</string>
-  <string name="default_folder_title_security">Järjestelmä</string>
-  <string name="default_folder_title_tools">Työkalut</string>
   <string name="delete">Poista</string>
   <string name="delete_screen">Poista näyttö</string>
   <string name="delete_wallpaper_message">Poistetaanko %1$d taustakuva?</string>
@@ -207,7 +203,6 @@
   <string name="preferences_general_title">Lisäasetukset</string>
   <string name="preferences_title">Käynnistimen asetukset</string>
   <string name="process"/>
-  <string name="recommend_apps_default_title">Tyhjä</string>
   <string name="recommend_apps_notice">Mainostetut sovellukset</string>
   <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
   <string name="recommend_apps_tips">Tämä toiminto vaatii internet-yhteyden toimiakseen normaalisti. Laita tämä toiminto pois päältä koskettamalla tämän kansion nimeä.</string>

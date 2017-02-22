@@ -143,7 +143,6 @@
   <string name="deepclean_title_uninstall_apps">Harvoin käytetyt sovellukset</string>
   <string name="deepclean_video_content">Poista jo katsotut tai tarpeettomat videot</string>
   <string name="deepclean_video_summary_empty">Kaikki näyttää hyvältä</string>
-  <string name="default_cache_type">Data Tiedostot</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Poista kuvat myös Mi Pilvestä</string>
   <string name="dialog_content_select_all_confirm">Säilytetäänkö tämän kuvan kopio?</string>
   <string name="dialog_msg_add_white_list_error">Tiedosto ei tue poikkeuksiin lisäämistä</string>
@@ -343,7 +342,6 @@
   <string name="low_memory_warning_dialog_ok_button">Poista</string>
   <string name="low_memory_warning_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
   <string name="mainbtn_text_quick_cleanup">Puhdista %s</string>
-  <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>
   <string name="megabyteShort">Mt</string>
   <string name="memeory_check_content">%1$d sovellusta, muisti %2$s</string>
   <string name="month_day_format">"d. MMMM'ta'"</string>

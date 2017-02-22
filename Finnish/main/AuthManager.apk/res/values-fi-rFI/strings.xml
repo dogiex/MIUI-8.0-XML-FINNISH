@@ -267,7 +267,6 @@
   <string name="SysOpt_Boost_Receiver">Tausta</string>
   <string name="app_name">Käyttölupien hallinta</string>
   <string name="current_permission_template">%1$s/%2$s</string>
-  <string name="default_permission_description">suorita tuntematon toiminto</string>
   <string name="grant_confirm_question">Haluatko sallia seuraavat käyttöluvat? Se saa pääsyn seuraaviin:</string>
   <string name="grant_dialog_button_allow">Salli</string>
   <string name="grant_dialog_button_deny">Kiellä</string>

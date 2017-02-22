@@ -73,7 +73,6 @@
   <string name="download_title_full_download">Getting info…</string>
   <string name="edit_comment">Add comments</string>
   <string name="edit_comment_title">Edit comment</string>
-  <string name="edit_text_default">Write a comment</string>
   <string name="emegency_build">"Build "</string>
   <string name="expect">Expectations</string>
   <string name="experimental_build">Alpha</string>

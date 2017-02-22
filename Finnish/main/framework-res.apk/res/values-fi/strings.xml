@@ -45,7 +45,6 @@
   <string name="action_bar_up_description">Siirry ylös</string>
   <string name="action_menu_overflow_description">Lisää asetuksia</string>
   <string name="action_mode_done">Valmis</string>
-  <string name="activity_chooser_view_dialog_title_default">Valitse toiminto</string>
   <string name="activity_chooser_view_see_all">Näytä kaikki</string>
   <string name="activity_list_empty">Osuvia toimintoja ei löytynyt.</string>
   <string name="activity_resolver_use_always">Aina</string>
@@ -180,13 +179,6 @@ käyttäen numeroa %s"</string>
   <string name="day">päivä</string>
   <string name="days">päivää</string>
   <string name="decline">Hylkää</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Vastaaja</string>
-  <string name="default_audio_route_category_name">Järjestelmä</string>
-  <string name="default_audio_route_name">Puhelin</string>
-  <string name="default_audio_route_name_dock_speakers">Telineen kaiuttimet</string>
-  <string name="default_audio_route_name_headphones">Kuulokkeet</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Poista</string>
   <string name="deleteText">Poista</string>
   <string name="deleted_key">%1$s poistettiin</string>
@@ -385,7 +377,6 @@ käyttäen numeroa %s"</string>
   <string name="imTypeHome">Pikaviestin (koti)</string>
   <string name="imTypeOther">Muu</string>
   <string name="imTypeWork">Työ</string>
-  <string name="ime_action_default">Suorita</string>
   <string name="ime_action_done">Valmis</string>
   <string name="ime_action_go">Siirry</string>
   <string name="ime_action_next">Seuraava</string>
@@ -410,7 +401,6 @@ Haluatko varmasti siirtyä pois tältä sivulta?"</string>
   <string name="js_dialog_before_unload_positive_button">Poistu tältä sivulta</string>
   <string name="js_dialog_before_unload_title">Vahvista siirtyminen</string>
   <string name="js_dialog_title">Sivu %s sanoo:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Liitä kuulokkeet kuullaksesi, mitä näppäimiä painat kirjoittaessasi salasanaa.</string>
   <string name="keyboard_password_character_no_headset">Piste.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -515,7 +505,6 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
   <string name="lockscreen_access_pattern_start">Kuvio aloitettu</string>
-  <string name="lockscreen_carrier_default">Ei yhteyttä.</string>
   <string name="lockscreen_emergency_call">Hätäpuhelu</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Puhelimen lukituksen poisto epäonnistui %d kertaa. Jos teet vielä %d epäonnistunutta yritystä, puhelimeen palautetaan tehdasasetukset ja kaikki käyttäjätiedot häviävät.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Piirsit lukituksenpoistokuvion väärin %d kertaa. Jos piirrät kuvion väärin vielä %d kertaa, sinua pyydetään poistamaan puhelimesi lukitus Google-sisäänkirjautumisen avulla.
@@ -1061,8 +1050,6 @@ tilille %s."</string>
   <string name="restr_pin_incorrect">Virheellinen</string>
   <string name="restr_pin_try_later">Yritä myöhemmin uudelleen</string>
   <string name="revoke">Peruuta</string>
-  <string name="ringtone_default">Oletussoittoääni</string>
-  <string name="ringtone_default_with_actual">Oletussoittoääni (%1$s)</string>
   <string name="ringtone_picker_title">Soittoäänet</string>
   <string name="ringtone_silent">Ei mitään</string>
   <string name="ringtone_unknown">Tuntematon soittoääni</string>
@@ -1295,7 +1282,6 @@ Haluatko sulkea sen?"</string>
   <string name="wifi_calling_off_summary">Ei käytössä</string>
   <string name="wifi_connect_alert_message">Sovellus %1$s yrittää yhdistää Wi-Fi-verkkoon %2$s.</string>
   <string name="wifi_connect_alert_title">Sallitaanko yhteys?</string>
-  <string name="wifi_connect_default_application">Sovellus</string>
   <string name="wifi_no_internet">Wi-Fi ei ole yhteydessä internetiin.</string>
   <string name="wifi_no_internet_detailed">Näet lisää vaihtoehtoja koskettamalla</string>
   <string name="wifi_p2p_dialog_title">Suora Wi-Fi-yhteys</string>
@@ -1322,9 +1308,6 @@ Haluatko sulkea sen?"</string>
   <string name="year">vuosi</string>
   <string name="years">vuotta</string>
   <string name="yes">OK</string>
-  <string name="zen_mode_default_events_name">Tapahtuma</string>
-  <string name="zen_mode_default_weekends_name">Viikonloppuna</string>
-  <string name="zen_mode_default_weeknights_name">Arki-iltaisin</string>
   <string name="zen_mode_downtime_feature_name">Vapaalla</string>
   <string name="zen_mode_feature_name">Älä häiritse</string>
   <string name="zen_mode_forever">Kunnes poistat tämän käytöstä</string>

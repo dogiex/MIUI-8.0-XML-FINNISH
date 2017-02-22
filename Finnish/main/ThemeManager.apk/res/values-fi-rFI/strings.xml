@@ -6,7 +6,6 @@
   <string name="add_resource_detail_fail">Lähdettä ei voi lisätä</string>
   <string name="all_resources">Kaikki</string>
   <string name="app_name">Teemat</string>
-  <string name="apply_default_font_tip">Käytetäänkö järjestelmän nykyistä fonttia?</string>
   <string name="apply_font_btn_exclude">Ei nyt</string>
   <string name="apply_font_btn_reboot">Käynnistä uudelleen</string>
   <string name="apply_font_tip">Käytä teeman fonttia käynnistämällä laite uudelleen.</string>
@@ -110,7 +109,6 @@
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="present_local_themes">Ladatut</string>
   <string name="present_online_themes">Hae lisää teemoja ilmaiseksi</string>
-  <string name="provision_default_theme_title">Oletus</string>
   <string name="provision_loading_tips">Pieni hetki…</string>
   <string name="provision_second_title">Valitse useista oletusteemoista yksi</string>
   <string name="provision_title">Valitse teema</string>
@@ -125,7 +123,6 @@
   <string name="resource_account_login_before_action">Kirjaudu Mi Tiliisi nyt</string>
   <string name="resource_account_login_title">Kirjaudu sisään</string>
   <string name="resource_account_switch">Vaihda</string>
-  <string name="resource_alarm_default">Hälytys</string>
   <string name="resource_app_name">Lähteiden Selain</string>
   <string name="resource_apply">Aseta</string>
   <string name="resource_apply_trial">Kokeile nyt</string>
@@ -147,7 +144,6 @@
   <string name="resource_comment_date">%2$02d.%1$02d.</string>
   <string name="resource_comment_edit_comment">Lisää kommentteja</string>
   <string name="resource_comment_edit_comment_waiting">Tarkistetaan historiaa…</string>
-  <string name="resource_comment_edit_text_default">Kirjoita kommentti</string>
   <string name="resource_comment_edit_title">Kommentoi teemaa %1$s</string>
   <string name="resource_comment_entry_tips">Kommentit (%1$s)</string>
   <string name="resource_comment_expand_full_text">Laajenna tekstit▼</string>
@@ -155,7 +151,6 @@
   <string name="resource_comment_good_comments">Positiivinen</string>
   <string name="resource_comment_invalid">Arvostele teema koskettamalla tähtiä</string>
   <string name="resource_comment_loading_list">Pieni hetki…</string>
-  <string name="resource_comment_name_default">Käyttäjä %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Ei kommentteja</string>
   <string name="resource_comment_publish">Lähetä</string>
@@ -172,8 +167,6 @@
   <string name="resource_comment_upload_success">Kommenttisi käydään lyhyesti läpi ja näytetään sen jälkeen.</string>
   <string name="resource_continue">Seuraava</string>
   <string name="resource_data_empty">Sisältö on tyhjä.</string>
-  <string name="resource_default">Oletus soittoääni</string>
-  <string name="resource_default_name">Lähde</string>
   <string name="resource_delete">Poista</string>
   <string name="resource_delete_all">Poistetaanko %1$d valittua lähdettä?</string>
   <string name="resource_delete_confirm">Poistetaanko nämä lähteet?</string>
@@ -237,7 +230,6 @@
   <string name="resource_no_match_app">Tälle toiminnolle ei löytynyt yhtään sovellusta.</string>
   <string name="resource_no_network_text">Verkkoon ei saada yhteyttä.</string>
   <string name="resource_no_result">Tuloksia ei löytynyt</string>
-  <string name="resource_notification_default">Ilmoitukset</string>
   <string name="resource_on_trial">Kokeilu: %1$s</string>
   <string name="resource_online">Online</string>
   <string name="resource_pack_confirm">Vaikka olet jo ostanut %1$d osaa tästä teemasta, on silti halvempaa ostaa koko teema.</string>
@@ -258,7 +250,6 @@
   <string name="resource_ranking">Suosittu</string>
   <string name="resource_ranking_free">Ilmainen</string>
   <string name="resource_ranking_purchase">Maksullinen</string>
-  <string name="resource_ringtone_default">Soittoäänet</string>
   <string name="resource_ringtone_playing_error">Virhe</string>
   <string name="resource_ringtone_volume_mute">Soittoääni on äänettömällä</string>
   <string name="resource_save_to_note">Tallenna Muistioon</string>
@@ -357,7 +348,6 @@
   <string name="theme_component_title_wallpaper">Kotinäyttö</string>
   <string name="theme_current_using_has_update">Teeman päivitys saatavilla</string>
   <string name="theme_description_title_customized">Kustomoitu</string>
-  <string name="theme_description_title_default">Oletus</string>
   <string name="theme_empty_redirect">Takaisin Teemakauppaan</string>
   <string name="theme_favorite_add_fail">Suosikkeihin lisääminen epäonnistui</string>
   <string name="theme_favorite_add_success">Lisätty suosikkeihin</string>

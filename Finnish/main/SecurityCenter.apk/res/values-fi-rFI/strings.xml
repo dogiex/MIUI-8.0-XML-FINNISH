@@ -30,7 +30,6 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="activity_title_auto_start_manager">Käynnistys</string>
   <string name="activity_title_create_shortcut">Hallitse pikakuvakkeita</string>
   <string name="activity_title_deep_clean">Syväpuhdistus</string>
-  <string name="activity_title_default_apps_manager">Oletus sovellukset</string>
   <string name="activity_title_garbage_cleanup">Puhdistaja</string>
   <string name="activity_title_license_manager">Käyttöoikeudet</string>
   <string name="activity_title_memory">Muisti</string>
@@ -120,7 +119,6 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="apps_item_sign_dialog_content">"%s allekirjoitus on eri, kuin App Store version. Poistetaanko tämä sovellus ja asennetaanko virallinen versio? Huom: Ristiriitaisen allekirjoituksen omaavan sovelluksen asentaminen saattaa johtaa sovellusdatan menettämiseen."</string>
   <string name="apps_item_sign_dialog_title">Asenna virallinen sovellus</string>
   <string name="apps_item_sign_install_button_text">Korvaa</string>
-  <string name="apps_item_sms_default_set_success">Asetettu onnistuneesti</string>
   <string name="apps_item_sms_reset_button_text">Palauta oletukset</string>
   <string name="apps_item_sms_title">Viestien oletussovelluksen asetukset</string>
   <string name="apps_item_summary_sms">%s on käyttöoikeus viesteihisi, se saattaa aiheuttaa turvallisuusongelmia</string>
@@ -573,7 +571,6 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="hints_virus_app_list_item_summary">sovellus</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Kuvaus:</string>
-  <string name="hints_virus_lib_update_default_summary">Edellisen päivityksen aika tuntematon</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Tämä sovellus on suuri riski puhelimesi tietoturvalle.</string>
   <string name="history_details_title">Historian tiedot</string>
@@ -619,7 +616,6 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="last_check_date_yesterday">"Skannattu eilen "</string>
   <string name="last_check_never_checked">Skannaa nyt</string>
   <string name="last_checked_date2">Skannattu %d päivää sitten</string>
-  <string name="last_checked_default">Skannattu %s päivää sitten</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Juhlapyhä</string>
   <string name="legal_workday_invalidate">Ma-Pe (juhlapyhän tiedot vanhentunut)</string>
@@ -638,7 +634,6 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="lock_screen_warning_category">Lukitusnäytön ilmoitukset</string>
   <string name="lock_screen_warning_switch_summary">Näytä varoitus lukitusnäytöllä, kun datan käyttö ylittää tietyn rajan</string>
   <string name="lock_screen_warning_switch_title">Näytä varoitukset lukitusnäytöllä</string>
-  <string name="lock_screen_warning_value">Datan käyttö varoitus</string>
   <string name="lock_settings_title">Lukitusnäyttö ja salasana</string>
   <string name="lockpassword_confirm_your_password_header">Vahvista salasana</string>
   <string name="lockpassword_confirm_your_pattern_header">Vahvista kuvio</string>
@@ -875,10 +870,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="optimize_result_button_to_set">Aseta</string>
   <string name="optimize_result_button_update_now">Päivitä</string>
   <string name="optimize_result_summary_sucurity_risk">Jotkut tietoturvatoiminnot ovat pois päältä. Tee laitteestasi turvallisempi laittamalla nämä toiminnot päälle:</string>
-  <string name="optimize_result_summary_system_default_settings">Parannat järjestelmän vakautta ja tietoturvaa käyttämällä MIUI:n oletussovelluksia.</string>
   <string name="optimize_result_title_sucurity_risk">Tietoturvariskejä löytyi</string>
-  <string name="optimize_result_title_system_default_settings">Oletusasetukset ovat muuttuneet</string>
-  <string name="optimize_result_toast_system_default_settings">Oletusasetukset palautettiin</string>
   <string name="optimize_result_toast_system_no_item_selected">Ei valittuja kohteita</string>
   <string name="optmizingbar_optimize_done">Optimoitu</string>
   <string name="optmizingbar_ready">Optimoidaan…</string>
@@ -1081,7 +1073,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="pref_title_virus_white_list">Poikkeukset</string>
   <string name="pref_traffic_manage_title">Datan käyttö</string>
   <string name="pref_version">Versio %s</string>
-  <string name="pref_warning_values">Datan käytön varoitustaso</string>
   <string name="pref_whitelist_setting">Data roamingin poikkeukset</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
@@ -1163,8 +1154,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="quick_optimize_sub_summary_text">Lisättiin %s akun kestoon</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Puhelin käyttää paljon akkua, korjaa se</string>
   <string name="quick_optimize_suggest_battery_over_heat">Puhelin käy ylikuumana, korjaa se</string>
-  <string name="reach_daily_limit_value_body">Vähennä mobiilidatan käyttöäsi.</string>
-  <string name="reach_daily_limit_value_title">Päiväkohtaisen datan raja saavutettu</string>
   <string name="recently_reject_message">Hylättiin %1$s asennus ja %2$d muuta sovellusta</string>
   <string name="recently_reject_message_one">Hylättiin %1$s asennuspyyntöä</string>
   <string name="recommend_app">Suositeltavat sovellukset</string>
@@ -1226,7 +1215,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="safe_result_item_info_app_sign">Ei epävirallisia sovelluksia</string>
   <string name="safe_result_item_info_app_virus">Ei viruksia tai riskialttiita sovelluksia</string>
   <string name="safe_result_item_info_sms_auth">Rajoita kolmannen osapuolen sovelluksia pääsemästä vahvistuskoodeihin</string>
-  <string name="safe_result_item_info_sms_default">Vaihda oletusviestintä sovellukseen</string>
   <string name="safe_result_item_info_sms_url">Suojaa ilkeiltä tekstiviesti URL-osoitteilta</string>
   <string name="safe_result_item_info_system_antivirus">Suojaa phishing viruksilta</string>
   <string name="safe_result_item_info_system_root">Root turvallinen</string>
@@ -1358,7 +1346,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="summary_cmcc_app_check">Joitakin sovelluksia ei voitu vahvistaa</string>
   <string name="summary_consume_power">Lämpenemisen ongelmia löytyi, ne voivat vaikuttaa akun elinikään</string>
   <string name="summary_data_flow">Hallitse mobiilidatan käyttöä, jotta vältät lisämaksuilta</string>
-  <string name="summary_default_app">%s ei ole asetettu järjestelmän oletussovellukseksi</string>
   <string name="summary_dev">Vältä haittaohjelmia ja suojaa henkilökohtaiset tiedot</string>
   <string name="summary_find_device">Paikanna ja lukitse laitteesi mistä tahansa</string>
   <string name="summary_flow_notification">Näytä kuukausittainen datan käyttötilastot ilmoitusalueella</string>
@@ -1439,7 +1426,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_upload_success">Kiitos palautteestasi!</string>
   <string name="tc_sms_report_direction">SMS inquiry code</string>
   <string name="tc_sms_report_do_report">Lähetä</string>
-  <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
@@ -1504,7 +1490,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_consume_power">Akkuongelmia löytyi</string>
   <string name="title_consume_power_rank">Akun käyttö</string>
   <string name="title_data_flow">Hallitse mobiilidataa</string>
-  <string name="title_default_app">MIUI %s ei ole asetettu oletukseksi</string>
   <string name="title_dev_no">Kehittäjäasetukset päällä</string>
   <string name="title_dev_yes">Kehittäjäasetukset pois päältä</string>
   <string name="title_find_device">Etsi laite</string>
@@ -1549,7 +1534,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_add_virus_white_list_success">Lisättiin poikkeuksiin. Katso kohteet Tietoturvan asetuksista.</string>
   <string name="toast_auto_traffic_correct">Datan käyttö säädetään automaattisesti</string>
   <string name="toast_cleaner_cloudscan">Puhdistaja käyttää verkkotunnisteita</string>
-  <string name="toast_default_app">"%1$s aseta järjestelmän oletukseksi %2$s"</string>
   <string name="toast_flow_notification">Datan käytön ilmoitukset laitettiin päälle</string>
   <string name="toast_garbage_lib">Puhdistajan automaattiset päivitykset laitettiin päälle</string>
   <string name="toast_lockscreen_glogin_empty_password">Salasana vaaditaan</string>

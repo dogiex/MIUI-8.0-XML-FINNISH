@@ -395,7 +395,6 @@
   <string name="match_data_error_tips">"Couldn't get info
 Go back to continue"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
-  <string name="match_direction_default">Do direction buttons work?</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
   <string name="match_dvd_intro_play">Release when DVD starts playing</string>
   <string name="match_dvd_intro_stop">Release when DVD playback stops</string>
@@ -419,7 +418,6 @@ Then answer the question"</string>
   <string name="match_mibox_sencond">    · Control your Mi TV with this device.</string>
   <string name="match_mibox_third">    · Add other Mi devices automatically</string>
   <string name="match_name_power">Power</string>
-  <string name="match_number_default">Do number buttons work?</string>
   <string name="match_power_confirm_tip_frame">Onko %1$s päällä?</string>
   <string name="match_power_main_tip_frame">Onko %1$s päällä?</string>
   <string name="match_stb_intro_left">Release when cursor moves left</string>
@@ -430,7 +428,6 @@ Then answer the question"</string>
   <string name="match_stb_name_up">Up</string>
   <string name="match_stb_seletion_des">Choose your location</string>
   <string name="match_succuss">"You're all set"</string>
-  <string name="match_tip_default">Does device respond?</string>
   <string name="match_tip_eject">Does the eject button work?</string>
   <string name="match_tip_exit">Does the exit button work?</string>
   <string name="match_tip_ff">Does the fast forward button work?</string>
@@ -764,7 +761,6 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="save_share_title">Save the remote on this device?</string>
   <string name="scaning">Searching…</string>
   <string name="scanning_milink">Searching for devices…</string>
-  <string name="scene_default">Default</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Screenshot</string>

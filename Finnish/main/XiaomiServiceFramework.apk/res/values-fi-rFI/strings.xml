@@ -6,7 +6,6 @@
   <string name="activate_auto_sms_notification_desc_2_cards">Tekstiviesti on lähetetty SIM-kortilta %s \"Etsi laite\" aktivointia varten</string>
   <string name="activate_auto_sms_notification_title">SIM-kortin aktivointi</string>
   <string name="activate_feature_call_log_sync">Synkronoi puheluhistoria</string>
-  <string name="activate_feature_default_name">Mi palvelut</string>
   <string name="activate_feature_find_device">Etsi laite</string>
   <string name="activate_feature_live_talk">Top-up paketti</string>
   <string name="activate_feature_mms_sync">Synkronoi viestit</string>

@@ -2,7 +2,6 @@
 <resources>
   <string name="click_to_enter_text">Näytä napauttamalla</string>
   <string name="confirm_pin_msg">Syötä PIN-koodi uudelleen</string>
-  <string name="default_lockscreen_unlock_hint_text">Avaa pyyhkäisemällä ylös</string>
   <string name="delete">Poista</string>
   <string name="emergency_call_string">Hätäpuhelu</string>
   <string name="experimental_try_string">Yritä</string>

@@ -63,7 +63,6 @@ Voit my&amp;#246;s suurentaa sormesi alla olevan kohteen v&amp;#228;liaikaisesti
 
 Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&amp;#228;imist&amp;#246;ss&amp;#228; ja siirtymispalkissa."</string>
   <string name="accessibility_screen_magnification_title">Suurennuseleet</string>
-  <string name="accessibility_service_default_description">Ei kuvausta.</string>
   <string name="accessibility_services_title">Palvelut</string>
   <string name="accessibility_settings">Esteettömyys</string>
   <string name="accessibility_settings_title">Esteettömyysasetukset</string>
@@ -221,7 +220,6 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="app_launch_domain_links_title">Sovelluslinkit</string>
   <string name="app_launch_open_domain_urls_summary">Avaa kysymättä</string>
   <string name="app_launch_open_domain_urls_title">Avaa tuetut linkit</string>
-  <string name="app_launch_other_defaults_title">Muut oletusarvot</string>
   <string name="app_launch_supported_domain_urls_title">Tuetut linkit</string>
   <string name="app_link_open_always">Avaa tässä sovelluksessa.</string>
   <string name="app_link_open_ask">Kysy aina.</string>
@@ -337,7 +335,6 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="background_data_dialog_title">Ei taustatietoja?</string>
   <string name="background_data_summary">Sovell. voivat synkr., läh. &amp; vast.ottaa tietoa milloin vain</string>
   <string name="background_process_stop_description">Tämä on vanha sovellusprosessi, joka on käynnissä siltä varalta, että sitä tarvitaan uudelleen. Sen pysäyttäminen ei ole yleensä tarpeen.</string>
-  <string name="backup_configure_account_default_summary">Mikään tili ei tällä hetkellä tallenna varmuuskopioituja tietoja</string>
   <string name="backup_configure_account_title">Varmuuskopiointitili</string>
   <string name="backup_data_summary">Varmuuskopioi sovelluksen tiedot, WLAN-salasanat ja muut asetukset Googlen palvelimille</string>
   <string name="backup_data_title">Tietojen varmuuskopiointi</string>
@@ -593,8 +590,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_pb_remember_choice">Älä kysy uudestaan</string>
   <string name="bluetooth_permission_request">Bluetooth-yhteyspyyntö</string>
   <string name="bluetooth_phonebook_request">PBAP-pyyntö</string>
-  <string name="bluetooth_pin_values_hint">Yleensä 0000 tai 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Pitää olla 16 merkkiä</string>
   <string name="bluetooth_preference_connected_devices">Yhdistetyt laitteet</string>
   <string name="bluetooth_preference_device_settings">Laiteasetukset</string>
   <string name="bluetooth_preference_found_devices">Saatavilla olevat laitteet</string>
@@ -1060,17 +1055,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
   <string name="defalut_launcher_title">Oletuskäynnistin</string>
-  <string name="default_app">(Oletus)</string>
-  <string name="default_apps_title">Oletussovellukset</string>
-  <string name="default_assist_none">Ei mitään</string>
-  <string name="default_assist_title">Avustajasovellus</string>
-  <string name="default_browser_title">Selainsovellus</string>
-  <string name="default_browser_title_none">Ei oletusselain</string>
-  <string name="default_emergency_app">Hätäsovellus</string>
-  <string name="default_input_method">Valitse oletusnäppäimistö</string>
-  <string name="default_phone_title">Puhelinsovellus</string>
-  <string name="default_sound">Oletusääni</string>
-  <string name="default_usb_mode">USB-yhteys</string>
   <string name="delete">Poista</string>
   <string name="delete_fingerprint_confirm_msg">Poistetaanko sormenjälki?</string>
   <string name="delete_fingerprint_text">Poista sormenjälki</string>
@@ -1103,7 +1087,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_display_layout_title">Toiminnot</string>
   <string name="device_edit_title">Nimeä laite uudelleen</string>
   <string name="device_feedback">Lähetä palautetta tästä laitteesta</string>
-  <string name="device_info_default">Tuntematon</string>
   <string name="device_info_label">Laitteen tiedot</string>
   <string name="device_info_not_available">Ei käytettävissä</string>
   <string name="device_info_settings">Puhelimen tila</string>
@@ -1653,7 +1636,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="internal_storage">Sisäinen tallennustila</string>
   <string name="internal_storage_sentence">sisäinen tallennustila</string>
   <string name="invalid_location">Asennussijainti on virheellinen.</string>
-  <string name="invalid_size_value">Paketin koko ei voitu laskea.</string>
   <string name="ipaddr_label">IP-osoite:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ja %2$s</string>
@@ -1666,7 +1648,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="key_position_cat">Painikkeiden sijainnit</string>
   <string name="key_settings">Painikkeet</string>
   <string name="key_settings_title">Painikkeet</string>
-  <string name="keyboard_layout_default_label">Oletus</string>
   <string name="keyboard_layout_dialog_setup_button">Määritä näppäimistöasettelut</string>
   <string name="keyboard_layout_dialog_switch_hint">Vaihda painamalla Ctrl+välilyönti</string>
   <string name="keyboard_layout_dialog_title">Valitse näppäimistöasettelu</string>
@@ -1688,8 +1669,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="keywords_app_permissions">sovellusten käyttöoikeuksien suojaus</string>
   <string name="keywords_battery">virta käyttö lataus</string>
   <string name="keywords_date_and_time">kello 24-tuntinen</string>
-  <string name="keywords_default_apps">oletussovellukset</string>
-  <string name="keywords_default_phone_app">oletuspuhelinsovellus</string>
   <string name="keywords_display">näyttö kosketusnäyttö</string>
   <string name="keywords_display_auto_brightness">näytön himmennys kosketusnäyttö akku</string>
   <string name="keywords_display_brightness_level">näytön himmennys kosketusnäyttö akku</string>
@@ -1705,7 +1684,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="keywords_location">lähellä olevat paikat sijaintihistoria sijainnin ilmoittaminen</string>
   <string name="keywords_location_mode">tarkkuus</string>
   <string name="keywords_lockscreen">pyyhkäise salasana lukituksenpoistokuvio PIN-koodi</string>
-  <string name="keywords_more_default_sms_app">tekstiviesti tekstiviestien lähetys viestit viestien lähetys</string>
   <string name="keywords_more_mobile_networks">matkapuhelin kännykkä operaattori langaton tiedonsiirto 4g 3g 2g lte</string>
   <string name="keywords_network_reset">nollaus tehdasasetusten palautus</string>
   <string name="keywords_printing">tulostin</string>
@@ -1730,9 +1708,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="last_synced">Viimeksi synkronoitu: %1$s</string>
   <string name="last_time_used_label">Viimeinen käyttöaika</string>
   <string name="lattice_smartcover_title">Säleikkö etukuori</string>
-  <string name="launch_by_default">Avaa oletuksena</string>
-  <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
-  <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
   <string name="launcher_title">Kotinäyttö</string>
   <string name="launching_cit">Käynnistetään CIT</string>
@@ -1779,7 +1754,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="local_backup_password_toast_validation_failure">Varasalasanan asetus epäonnistui</string>
   <string name="local_backup_section_summary">Varmuuskopioi järjestelmäasetukset, tilitiedot ja sovellukset</string>
   <string name="local_backup_section_title">Varmuuskopiointi</string>
-  <string name="locale_default">Oletus</string>
   <string name="locale_settings">Sijainti</string>
   <string name="location_access_summary">Anna pyytäneille sovelluksille lupa käyttää sijaintitietoja</string>
   <string name="location_access_title">Sijaintitietojen käyttö</string>
@@ -2234,18 +2208,11 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nfc_how_it_works_title">Maksaminen päätteellä</string>
   <string name="nfc_more_title">Lisää…</string>
   <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
-  <string name="nfc_payment_default">Oletusmaksusovellus</string>
-  <string name="nfc_payment_default_not_set">Ei asetettu</string>
-  <string name="nfc_payment_favor_default">Aina</string>
   <string name="nfc_payment_favor_open">Paitsi jos jokin toinen maksusovellus on auki</string>
   <string name="nfc_payment_how_it_works">Toimintatapa</string>
   <string name="nfc_payment_no_apps">Maksa puhelimella myymälöissä</string>
   <string name="nfc_payment_pay_with">Maksa napauttamalla maksamisen päätteellä tällä sovelluksella:</string>
-  <string name="nfc_payment_set_default">Käytetäänkö sovellusta %1$s aina kun maksat napauttamalla?</string>
-  <string name="nfc_payment_set_default_instead_of">Käytetäänkö sovellusta %1$s sovelluksen %2$s sijaan aina kun maksat napauttamalla?</string>
-  <string name="nfc_payment_set_default_label">Valitaanko asetukseksi?</string>
   <string name="nfc_payment_settings_title">Napauttamalla maksaminen</string>
-  <string name="nfc_payment_use_default">Käytä oletusta</string>
   <string name="nfc_quick_toggle_summary">Salli tiedonsiirto, kun puhelin koskettaa toista laitetta</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Turvaelementin sijainti</string>
@@ -2261,7 +2228,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="no_battery_summary">Ei akun käyttöä täyteen lataamisen jälkeen</string>
   <string name="no_connected_devices">Ei yhdistettyjä laitteita</string>
   <string name="no_data_usage">Tietoja ei käytetty.</string>
-  <string name="no_default_apps">Ei oletussovelluksia</string>
   <string name="no_device_admins">Laitteen järjestelmänvalvojia ei saatavilla</string>
   <string name="no_internet_access_remember">Älä kysy uudelleen tässä verkossa</string>
   <string name="no_internet_access_text">Tässä verkossa ei ole internetyhteyttä. Säilytetäänkö yhteys?</string>
@@ -2490,7 +2456,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="pref_volume_wake_title">Herätä Äänenvoimakkuuspainikkeella</string>
   <string name="preference_change_password_title">Vaihda salasana</string>
   <string name="preferred_app_settings">Oletukset</string>
-  <string name="preferred_app_settings_default">Oletus</string>
   <string name="preferred_app_settings_not_selected">Ei valittu</string>
   <string name="preferred_app_settings_reset">Palauta oletukseksi</string>
   <string name="preferred_app_settings_reset_button">Palauta</string>
@@ -2613,7 +2578,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="provision_skip">Ohita</string>
   <string name="proxy_action_text">Valmis</string>
   <string name="proxy_clear_text">Tyhjennä</string>
-  <string name="proxy_defaultView_text">Palauta oletukset</string>
   <string name="proxy_error">Huomio</string>
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">Portti-kentän täytyy olla tyhjä, jos isäntä-kenttä on tyhjä.</string>
@@ -2752,8 +2716,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="resetting_second_space_passwd">Nollataan Toisen tilan salasanaa</string>
   <string name="resolver_settings_label">Lajittele</string>
   <string name="resource_ringtone_volume_mute">Soittoäänesi on tällä hetkellä äänetön</string>
-  <string name="restore_default_apn">Palautetaan APN-oletusasetuksia</string>
-  <string name="restore_default_apn_completed">APN-oletusasetukset on palautettu.</string>
   <string name="restr_pin_enter_admin_pin">Anna järjestelmänvalvojan PIN-koodi</string>
   <string name="restriction_bluetooth_config_summary">Salli Bluetooth-parien ja -asetuksien muokkaaminen</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -3343,9 +3305,6 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="smartcover_sensitive_summary">Lukitse tai avaa puhelimen lukitus automaattisesti älykotelon avulla</string>
   <string name="smartcover_sensitive_title">Älykotelo</string>
   <string name="sms_application_title">Tekstiviestisovellus</string>
-  <string name="sms_change_default_dialog_text">Haluatko, että oletussovellus on %1$s eikä enää %2$s?</string>
-  <string name="sms_change_default_dialog_title">Vaihdetaanko tekstiviestisovellus?</string>
-  <string name="sms_change_default_no_previous_dialog_text">Käytetäänkö tekstiviestisovellusta %s?</string>
   <string name="sms_delivered_sound_dialog_title">Valitse toimitetun viestin ääni</string>
   <string name="sms_delivered_sound_title">Viestien toimitusääni</string>
   <string name="sms_messages_title">Tekstiviestit</string>
@@ -3722,16 +3681,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="trusted_credentials_system_tab">Järjestelmä</string>
   <string name="trusted_credentials_user_tab">Käyttäjä</string>
   <string name="tts_data_installed_summary">Puhesynteesiin tarvittavat äänet on jo asennettu</string>
-  <string name="tts_default_lang_summary">Asettaa puhutulle tekstille kielikohtaisen äänen</string>
-  <string name="tts_default_lang_title">Kieli</string>
-  <string name="tts_default_pitch_summary">Vaikuttaa puhutun tekstin äänenkorkeuteen</string>
-  <string name="tts_default_pitch_title">Äänenkorkeus</string>
-  <string name="tts_default_rate_summary">Tekstin puhumisnopeus</string>
-  <string name="tts_default_rate_title">Puheen nopeus</string>
-  <string name="tts_default_sample_string">Tämä on esimerkki puhesynteesistä.</string>
-  <string name="tts_default_settings_section">Oletusasetukset</string>
-  <string name="tts_default_synth_summary">Aseta puhesynteesimoottori puhuttua tekstiä varten</string>
-  <string name="tts_default_synth_title">Oletusmoottori</string>
   <string name="tts_engine_error">Valitsemaasi syntetisaattoria ei voi käyttää.</string>
   <string name="tts_engine_error_config">Määritä</string>
   <string name="tts_engine_error_reselect">Valitse toinen moottori</string>
@@ -3892,8 +3841,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="usb_use_charging_only">Vain lataus</string>
   <string name="usb_use_file_transfers">Tiedostojen siirtäminen (MTP)</string>
   <string name="usb_use_photo_transfers">Kuvien siirtäminen (PTP)</string>
-  <string name="use_default_tts_settings_summary">Alla olevat oletusasetukset ohittavat sovelluksen asetukset.</string>
-  <string name="use_default_tts_settings_title">Käytä aina omia asetuksiani</string>
   <string name="use_location_summary">Anna Googlen käyttää sijaintia hakutulosten ja muiden palveluiden parantamiseen.</string>
   <string name="use_location_title">Sijainti ja Google-haku</string>
   <string name="use_personalized_ad_service">Käytä mainostuksen tunnistusta</string>
@@ -4469,7 +4416,6 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla "&lt;b&gt;Takaisin&lt;/b&gt;.</
   <string name="wifi_switch_to_gsm_title">Käytetäänkö GSM?</string>
   <string name="wifi_tether_checkbox_text">Kannettava Wi-Fi Hotspot</string>
   <string name="wifi_tether_configure_ap_text">Luo Wi-Fi Hotspot</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s kannettava Wi-Fi Hotspot</string>
   <string name="wifi_tether_enabled_subtext">Kannettava yhteyspiste %1$s käytössä</string>
   <string name="wifi_tether_failed_subtext">Kannettavan Wi-Fi Hotspotin virhe</string>

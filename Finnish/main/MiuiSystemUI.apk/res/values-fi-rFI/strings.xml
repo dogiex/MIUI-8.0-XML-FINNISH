@@ -185,7 +185,6 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="kilobyte_per_second">Kt/s</string>
   <string name="label_view">Katso</string>
   <string name="lland">L Land</string>
-  <string name="lockscreen_carrier_default">Ei palvelua</string>
   <string name="long_screenshot_not_support_msg">Nykyinen sovellus ei tue pitkiä kuvakaappauksia.</string>
   <string name="long_screenshot_out_of_memory_error">Epäonnistui liian suuren kuvan vuoksi</string>
   <string name="long_screenshot_processing">Prosessoidaan…</string>

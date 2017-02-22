@@ -163,7 +163,6 @@
   <string name="callFailed_user_not_member_of_CUG"/>
   <string name="callUnanswered_forwarded">Soita vastaamattomiin ja siirrettyihin</string>
   <string name="call_advanced_setting_title">Lisäasetukset</string>
-  <string name="call_background_default">Oletus</string>
   <string name="call_background_lock_wallpaper">Lukitusnäytön taustakuva</string>
   <string name="call_background_setting">Puhelun taustakuva</string>
   <string name="call_barring">Puhelunesto</string>
@@ -270,21 +269,17 @@
   <string name="cfnrc_title_cta">Siirrä kun ei saatavilla</string>
   <string name="cfnry_title">Siirrä kun ei vastata</string>
   <string name="cfu_title">Siirrä puhelut aina</string>
-  <string name="change_default_data_card">Mobiilidatan oletus SIM-kortti</string>
-  <string name="change_default_data_card_summary">Näyttää siltä, että vaihdoit SIM-kortteja. Asetetaanko tämä SIM-kortti mobiilidatayhteyden oletukseksi?</string>
   <string name="change_num">Päivitä</string>
   <string name="change_password">Vaida eston salasana</string>
   <string name="change_pin">Vaihda SIM-kortin PIN-koodi</string>
   <string name="change_pin2">Vaihda PIN2-koodi</string>
   <string name="clir_choices_hide_number">Piilota numero</string>
-  <string name="clir_choices_network_default">Verkon oletus</string>
   <string name="clir_choices_show_number">Näytä numero</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Sulje</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
   <string name="cmcc_ut_data_enable_prompt">VoLTE verkkoon ei voitu yhdistää. Laita mobiilidatayhteytesi päälle nyt.</string>
   <string name="command_error_fdn_failure">Sinun täytyy ensin laittaa FDN pois päältä</string>
-  <string name="config_default_data_sim">Asetukset</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">väärä</string>
   <string name="config_world_mode"/>
@@ -299,7 +294,6 @@
   <string name="connect_disconnect_vibrate_title">Värise, kun puheluusi vastataan</string>
   <string name="connect_disconnect_vibrate_weak">Kevyt</string>
   <string name="connect_later">Tähän verkkoon ei saa yhteyttä juuri nyt. Yritä myöhemmin uudelleen.</string>
-  <string name="connection_service_default_label">Oletusyhteyspalvelu</string>
   <string name="contactAddFailed">Yhteystietoa ei voi lisätä SIM-kortille</string>
   <string name="contactAddSuccess">Yhteystieto lisättiin SIM-kortille.</string>
   <string name="contactPhoto">yhteyshenkilön valokuva</string>
@@ -314,8 +308,6 @@
   <string name="data_enable_summary">Salli tiedonsiirto</string>
   <string name="data_enabled">Datayhteys käytössä</string>
   <string name="deactivate_all">Peruuta kaikki</string>
-  <string name="default_notification_description">Oletusääni (%1$s)</string>
-  <string name="default_preference_summary">&lt;Ei asetettu&gt;</string>
   <string name="delete">Poista</string>
   <string name="deleteAllSimEntries">Poista kaikki SIM-kortin yhteystiedot</string>
   <string name="deleteSimContacts">Poistetaan SIM-kortin yhteystietoja</string>
@@ -638,10 +630,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mobile_network_settings_not_available">Tämä käyttäjä ei saa muuttaa matkapuhelinverkon asetuksia</string>
   <string name="mobile_networks">Matkapuhelinverkon asetukset</string>
   <string name="msim_apn_not_set">Ei asetettu</string>
-  <string name="msim_default_setting">Oletusasetukset</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
-  <string name="msim_disable_sim_card_summary_default_card">"This card is currently set as your default SIM. If you stop using it, you won't be able to make calls or use your mobile data connection.You can stop this SIM card after setting another SIM as your default card."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">You may not be able to make calls or use your mobile data connection. Stop using %s SIM card?</string>
   <string name="msim_disable_sim_card_title">Lopeta SIM-kortin käyttö</string>
   <string name="msim_enable_sim">Laita päälle</string>
   <string name="msim_general_setting">Asetukset</string>
@@ -862,7 +851,6 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preference_category_ringtone">Soittoääni ja värinä</string>
   <string name="preference_data_usage_summary">Hallitse mobiilidatan käyttöä asettamalla datan raja</string>
   <string name="preference_data_usage_title">Aseta datan raja</string>
-  <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_off">Pois</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon äänet</string>
   <string name="preference_dial_pad_touch_tone_title">Numeronvalinnan näppäinäänet</string>
@@ -1005,7 +993,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="respond_via_sms_cannot_empty">Reject messages can not be empty</string>
   <string name="respond_via_sms_confirmation_format">Viesti lähetetty henkilölle %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Nopea vastaus</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Palauta oletukset</string>
   <string name="respond_via_sms_setting_summary">Muokkaa nopeita vastauksia</string>
   <string name="respond_via_sms_setting_title">Nopeat vastaukset</string>
   <string name="response_error">Odottamaton vastaus verkosta.</string>
@@ -1059,7 +1046,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Nimi</string>
   <string name="sim_contact_number">Numero</string>
-  <string name="sim_description_default">SIM-kortti, paikka: %s</string>
   <string name="sim_description_emergency_calls">Vain hätäpuhelut</string>
   <string name="sim_label_emergency_calls">Hätäpuhelut</string>
   <string name="sim_ndp_dismiss_text">Hylkää</string>
@@ -1112,7 +1098,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sum_cfu_enabled_no_number">Numeroon ei saada yhteyttä</string>
   <string name="sum_cw_disabled">Ilmoita puhelun aikana saapuvista puheluista</string>
   <string name="sum_cw_enabled">Ilmoita puhelun aikana saapuvista puheluista</string>
-  <string name="sum_default_caller_id">Puheluja soitettaessa käytä operaattorin oletusasetuksia numeroni näyttämiseen</string>
   <string name="sum_fdn">Hallinnoi sallittuja numeroita</string>
   <string name="sum_fdn_change_pin">Vaihda PIN-koodi käyttääksesi sallittuja numeroita</string>
   <string name="sum_fdn_manage_list">Hallinnoi puhelinnumeroluetteloa</string>
@@ -1215,7 +1200,6 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voice_report_unknown_num">Tuntematon numero</string>
   <string name="voicemail">Vastaaja</string>
   <string name="voicemail_abbreviated">Vast.:</string>
-  <string name="voicemail_default">Operaattorisi</string>
   <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">Ääni</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Värinä</string>

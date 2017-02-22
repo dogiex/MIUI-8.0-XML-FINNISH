@@ -582,7 +582,6 @@
   <string name="custom_select_title_select_all">Valitse kaikki</string>
   <string name="custom_select_title_select_item">Valitse kohteet</string>
   <string name="debugging_tip">Luodaan virheenkorjaustiedot</string>
-  <string name="default_album_name">Uusi albumi</string>
   <string name="delete">Poista</string>
   <string name="delete_album_failed">Albumin poisto epäonnistui</string>
   <string name="delete_album_msg_format">Poistetaanko \"%2$s\" albumi %1$s %3$s?</string>
@@ -979,7 +978,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="slideshow_interval_dialog_title">Syötä intervalli</string>
   <string name="slideshow_interval_invalid">Intervallin täytyy olla 3 ja 3600 sekunnin välillä</string>
   <string name="slideshow_interval_title">Näytä jokaista diaa</string>
-  <string name="slideshow_interval_value">%1$d sekuntia</string>
   <string name="slim_after_backuped_summary">Korvaa laitteella olevat alkuperäiset kuvat optimoiduilla versioilla, kun ne ovat varmuuskopioitu Mi Pilveen. Alkuperäiset kuvat ovat silti käytettävissä Mi Pilvessä. Tämä voi säästää paljon paikallista tallennustilaa.</string>
   <string name="slim_after_backuped_title">Optimoi paikallinen tallennustila varmuuskopioinnin jälkeen</string>
   <string name="slim_introduce">Korvaa laitteella olevat alkuperäiset kuvat optimoiduilla versioilla, kun ne ovat varmuuskopioitu Mi Pilveen. Alkuperäiset kuvat ovat silti käytettävissä Mi Pilvessä.</string>

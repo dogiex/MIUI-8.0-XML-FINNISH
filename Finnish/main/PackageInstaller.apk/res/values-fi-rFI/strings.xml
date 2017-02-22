@@ -103,7 +103,6 @@
   <string name="cta_dialog_title">Internet-yhteys</string>
   <string name="current_permission_template">%1$s/%2$s</string>
   <string name="current_permissions_category">Nykyiset käyttöoikeudet</string>
-  <string name="default_permission_description">suorita tuntematon toiminto</string>
   <string name="devicePerms">Laitteen käyttö</string>
   <string name="dlg_app_replacement_statement">"Sovellus, jota olet asentamassa, korvaa toisen sovelluksen.
 
