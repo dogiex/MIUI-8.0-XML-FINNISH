@@ -86,6 +86,7 @@
   <string name="call_telex">Soita teleksinumeroon</string>
   <string name="call_tty_tdd">Soita tekstipuhelimeen</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Soita työnumeroon</string>
   <string name="call_work_mobile">Soita matkapuhelimeen (työ)</string>
   <string name="call_work_pager">Soita hakulaitteeseen (työ)</string>
@@ -387,6 +388,10 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="dialog_voicemail_airplane_mode_message">Soittaaksesi ääniviestin, laita lentokonetila pois päältä.</string>
   <string name="dialog_voicemail_not_ready_message">Asettaksesi ääniviestin, mene Valikko &gt; Asetukset.</string>
   <string name="directory_search_label">Osoitekirja</string>
+  <string name="disclaimer_text">"Keltaiset sivut hakee saldosi tiedot lähettämällä tekstiviestin. Operaattorisi saattaa päivittää tämän tiedon viiveellä, joten saamasi tieto ei saata olla tarkka. Jos huomaat virheen, voit kertoa siitä lähettämällä tekstiviestin meille parantaaksemme palvelua. 
+
+Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päivässä."</string>
+  <string name="disclaimer_title">Vastuuvapauslauseke</string>
   <string name="display_all_contacts">Kaikki yhteystiedot</string>
   <string name="display_more_groups">Lisää ryhmiä…</string>
   <string name="display_only_phones">Piilota vajaat numerot</string>
@@ -1046,6 +1051,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="remove_blacklist_dialog_message">Poistetaanko yhteystieto estolistalta?</string>
   <string name="remove_blacklist_dialog_title">Poista yhteystieto estolistalta</string>
   <string name="remove_duplicate">MIUI auttaa etsimään ja yhdistämään yhteystietojen kaksoiskappaleet. Aloittaaksesi, napauta Yhdistä-ikonia ruudun alareunassa.</string>
+  <string name="report_inquiry_mms">Lähetä tekstiviesti</string>
   <string name="restore_nickname">Palauta</string>
   <string name="ret_sign">"
 "</string>

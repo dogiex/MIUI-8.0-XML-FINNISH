@@ -219,6 +219,7 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Lisää</string>
   <string name="packaging_dialog_content">Luodaan raporttia…</string>
+  <string name="permission_granted">%1$s käyttöoikeus myönnetty</string>
   <string name="pic_not_exist">Tätä kuvaa ei ole olemassa</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">Palautteesi ja virhelokit lähetetään Mi:n palvelimille.</string>
@@ -253,7 +254,9 @@
   <string name="tab_title_chat">UKK</string>
   <string name="tab_title_my_reports">Minun raportit</string>
   <string name="tab_title_report">Palaute</string>
+  <string name="time_in_justnow">Juuri nyt</string>
   <string name="title_answer_feedback_main">Löysimme vastauksia!</string>
+  <string name="title_bbs_feedback_main">Lisätietoja Mi puhelimista</string>
   <string name="title_frequent_question_feedback_main">UKK</string>
   <string name="title_mi_family">Mi Homes nearby</string>
   <string name="title_nonsystem_app">Muut sovellukset</string>

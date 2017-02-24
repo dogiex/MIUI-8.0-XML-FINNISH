@@ -3,6 +3,8 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
+  <string name="accessibility_guide_first">Seuraavalla näytöllä valitse \"Palvelut\" välilehti aktivoidaksesi 139 Postilaatikon Automaattinen Määritys</string>
+  <string name="accessibility_guide_second">Sen jälkeen paina kytkintä oikeassa yläkulmassa, paina \"Vahvista\" jatkaaksesi.</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille %s.</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -135,7 +137,7 @@
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Säilytä</string>
   <string name="account_setup_options_title">Tilin asetukset</string>
   <string name="account_setup_outgoing_port_label">Portti</string>
-  <string name="account_setup_outgoing_require_login_label">Vaadi kirjautuminen</string>
+  <string name="account_setup_outgoing_require_login_label">Sinun täytyy kirjautua sisään</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP-palvelin</string>
   <string name="account_setup_security_policies_required_fmt">Palvelin %s vaatii, että sen sallitaan hallita joitakin Android-laitteen suojaustoiminnoista. Haluatko määrittää tämän tilin loppuun?</string>
   <string name="account_setup_security_required_title">Suojauksen etähallinta</string>
@@ -200,6 +202,14 @@
   <string name="auto_advance_help_title">Viestin poistamisen jälkeen, näytä…</string>
   <string name="auto_advance_label">Poista viestiketju</string>
   <string name="auto_advance_summary">Valitse mihin viestiin siirrytään viestin poistamisen jälkeen</string>
+  <string name="auto_mail_describe">139 Sähköpostipalvelun Automaattinen Määritys voi auttaa sinua täyttämään postilaatikkosi kirjautumistiedot. Haluatko ottaa tämän ominaisuuden käyttöön?</string>
+  <string name="auto_mail_disable_txt">Ei käytössä</string>
+  <string name="auto_mail_enable_txt">Ota käyttöön</string>
+  <string name="auto_mail_go_email">Postilaatikko</string>
+  <string name="auto_mail_name">AutoMail</string>
+  <string name="auto_mail_title_note">Etsi valinta \"139 Postilaatikon Automaattinen Määritys\", paina sitä aloittaaksesi.</string>
+  <string name="auto_mail_window_description">139 Sähköpostipalvelun Automaattinen Määritys</string>
+  <string name="auto_mail_window_label">139 Postilaatikon Automaattinen Määritys</string>
   <string name="auto_sync_off">Tilin synkronointi ei ole käytössä.</string>
   <string name="battery_saver">Akun säästäjä</string>
   <string name="battery_saver_keywords">akun säästäjä;sähköposti akku</string>
@@ -235,6 +245,7 @@
   <string name="clear_display_images_whitelist_title">Tyhjennä kuvien näyttöluvat</string>
   <string name="click_download_all_content">[ Lataa sisältö napauttamalla ]</string>
   <string name="click_to_reload">Päivitä näyttö napauttamalla</string>
+  <string name="close">Sulje</string>
   <string name="collapse_recipient_details">Näytä vastaanottajan tiedot</string>
   <string name="colon">:</string>
   <string name="compose">Kirjoita viesti</string>
@@ -243,6 +254,9 @@
   <string name="compose_picturesexceedlimits">Et voi lisätä viestin sisälle yli 5 kuvaa</string>
   <string name="compose_send">Lähetä</string>
   <string name="compose_sent">Viesti lähetetty</string>
+  <string name="config">139 Postilaatikon Puhelinnumero Määritetty</string>
+  <string name="config_cancel">Peruuta</string>
+  <string name="config_retry">Yritä uudelleen</string>
   <string name="confirm">OK</string>
   <string name="confirm_before_delete">Vahvista ennen poistamista</string>
   <string name="confirm_before_delete_keywords">vahvista ennen poistamista;poista vahvista</string>
@@ -292,8 +306,8 @@
   <string name="conversation_item_mark_read">Luettu</string>
   <string name="conversation_item_mark_unread">Lukematon</string>
   <string name="conversation_photo_welcome_text">Valitse keskustelu koskettamalla lähettäjän kuvaa.</string>
-  <string name="conversation_quick_button_approve">Hyväksy</string>
-  <string name="conversation_quick_button_disapprove">Älä hyväksy</string>
+  <string name="conversation_quick_button_approve">OK</string>
+  <string name="conversation_quick_button_disapprove">Peruuta</string>
   <string name="conversation_quick_button_received">Vastaanotettu</string>
   <string name="conversation_view">Keskustelu näkymä</string>
   <string name="conversation_view_keywords">keskustelu näkymä;sähköposti keskustelu</string>
@@ -354,6 +368,7 @@
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Pikavastaukset</string>
   <string name="elided_padding_token"> </string>
+  <string name="email_address">Sähköpostiosoite</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Sähköposti</string>
   <string name="email_package_name">com.android.email</string>
@@ -369,6 +384,7 @@
   <string name="empty_trash_dialog_title">Tyhjennetäänkö roskakori?</string>
   <string name="enable_sync_in_account_settings">Laita päälle asetuksissa: %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
+  <string name="error">virhe</string>
   <string name="exception_cancel">"
         Tämä tapahtuma on peruttu
         koska:
@@ -393,6 +409,10 @@
   <string name="file_not_found_redownload">Tiedostoa ei löytynyt</string>
   <string name="file_rar_not_support">Salattuja rar-tiedostoja ei voi avata</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Napauta painiketta lähettääksesi \"%s\" kaikille keskustelussa oleville henkilöille</string>
+  <string name="float_window_content">Havaitsi, että käytät postilaatikkoa, täytä 139 Sähköpostin käyttäjätunnus ja salasana automaattisesti painamalla Vahvista.</string>
+  <string name="float_window_info">Älä käytä puhelinta 139 postilaatikon määrityksen aikana, jotta määritykseen ei tule virheitä.</string>
+  <string name="float_window_title">Määritys…</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -461,6 +481,7 @@
   <string name="header_category_other">Palaute</string>
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
+  <string name="help_config">Määritä itse</string>
   <string name="hide_atts_remaining">Piilota %1$d liitetiedostoa</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -489,6 +510,7 @@
   <string name="local_search">Paikallinen haku</string>
   <string name="local_search_result">%s hakutulosta synkronoiduissa viesteissä</string>
   <string name="login">Kirjaudu sisään</string>
+  <string name="login139">CMCC Kirjaudu sisään yhdellä avaimella</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
   <string name="long_press_to_select_tip">Valitse yksi keskustelu koskettamalla sitä pitkään ja valitse sitten lisää keskusteluja koskettamalla niitä.</string>
@@ -605,6 +627,7 @@
   <string name="mute">Ohita</string>
   <string name="network_error">Ei yhteyttä</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
+  <string name="network_tip">Todennus epäonnistui, tarkasta verkkoyhteytesi</string>
   <string name="network_try_again">Tarkasta verkkoyhteys ja yritä uudelleen</string>
   <string name="network_unavailable">Verkko ei saatavilla</string>
   <string name="new_incoming_messages_one">Uusi viesti lähettäjältä %s. Näytä.</string>
@@ -619,8 +642,11 @@
   <string name="no_conversations">Ei viestejä</string>
   <string name="no_mails">Ei sähköpostia.</string>
   <string name="no_matched_attachment">Ei hakutuloksia.</string>
+  <string name="no_remind">Ei muistutusta</string>
   <string name="not_subject">(Ei otsikkoa)</string>
   <string name="not_synced_title">Tiliä ei ole synkronoitu</string>
+  <string name="note_text">Mahdollista China Mobilen verkon kautta tai tekstiviestivahvistuksella, saattaa aiheuttaa ylimääräisiä maksuja flowiin tai tekstiviestiin.</string>
+  <string name="note_title">139 Sähköpostin Automaattinen Määritys</string>
   <string name="notification_action_archive">Arkistoi</string>
   <string name="notification_action_delete">Poista</string>
   <string name="notification_action_remove_label">Poista tunniste</string>
@@ -633,6 +659,7 @@
   <string name="oauth_error_description">Todennus epäonnistui</string>
   <string name="oauth_gmail_login_notify">Syötä Google tilisi käyttäjänimi ja salasana tulevalla kirjautumissivulla.</string>
   <string name="oauth_login_continue">Jatka</string>
+  <string name="oauth_login_continue_qq">Hanki kirjautumiseen vahvistuskoodi &gt;</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="outbox_alert_button_no_resend">Älä lähetä</string>
@@ -656,6 +683,10 @@
   <string name="outbox_alert_select_operation">Valitse toimenpide</string>
   <string name="outbox_alert_title_sent_failed">Sähköpostin lähettäminen epäonnistui</string>
   <string name="outbox_no_mails">Tyhjä</string>
+  <string name="overlays_fail_tip">Olemme pahoillamme, että postilaatikkosi ei määrittynyt onnistuneesti, avaa kelluvan Ikkunan käyttöoikeudet ja yritä uudelleen</string>
+  <string name="overlays_ok">Avaa käyttöoikeudet</string>
+  <string name="overlays_tip">Avaa kelluvan Ikkunoiden käyttöoikeudet ja nauti 139 postilaatikon automaattisesta määrityksestä.</string>
+  <string name="overlays_title">Avaa kelluvan Ikkunan käyttöoikeudet</string>
   <string name="parase_setup_data">Haetaan dataa…</string>
   <string name="password_expire_warning_content_title">Näytönlukituksen salasana vanhentuu pian</string>
   <string name="password_expire_warning_dialog_content_fmt">Näytönlukituksen PIN-koodi tai salasana tulee vaihtaa pian, tai tilin %s tiedot poistetaan. Haluatko vaihtaa koodin nyt?</string>
@@ -684,6 +715,7 @@
   <string name="permission_access_provider_label">Käytä sähköpostintarjoajan tietoja</string>
   <string name="permission_read_attachment_desc">Antaa sovelluksen lukea sähköpostiliitteitä.</string>
   <string name="permission_read_attachment_label">Lue sähköpostiliitteitä</string>
+  <string name="permission_tip">Määritys epäonnistui, salli määrityksessä puheluiden ja tekstiviestien käyttöoikeudet</string>
   <string name="phone">puhelin</string>
   <string name="photo_load_failed">Kuvan lataus epäonnistui</string>
   <string name="photo_view_count" formatted="false">%d/%d</string>
@@ -744,6 +776,17 @@
   <string name="push_wps_confirm_message">Kokeile WPS Officea tämän liitetiedoston avaamiseen.</string>
   <string name="push_wps_confirm_title">Kokeile WPS Officea</string>
   <string name="push_wps_no_response_app">Tämän toimenpiteen käsittelemiseen ei löydetty sovellusta</string>
+  <string name="qq_bar_open_imap">Ota käyttöön</string>
+  <string name="qq_bar_send_message">Lähetä tekstiviesti</string>
+  <string name="qq_login_basecode">Kirjaudutaan QQ Sähköpostiin selaimessa. Syötä salasanasi.</string>
+  <string name="qq_login_get_auth">Epäonnistuiko tekstiviestivahvistuksen lähettäminen? Käytä salasanan turvakysymyksiä</string>
+  <string name="qq_login_open_imap">Paina \"Ota käyttöön\" ottaaksesi \"IMAP/SMTP\" käyttöön</string>
+  <string name="qq_login_origin_setting">Kirjaudu syöttämällä käyttäjänimi ja salasana &gt;</string>
+  <string name="qq_login_send_message">Paina \"Lähetä tekstiviesti\" saadaksesi vahvistuskoodin</string>
+  <string name="qq_login_webview">Kirjaudutaan QQ Sähköpostiin selaimessa. Syötä salasanasi.</string>
+  <string name="qq_next_generation_auth_toast">Suorita toisen tason salasanasuojaus loppuun käyttämällä selainta</string>
+  <string name="qq_uthentication_failed">Todennus epäonnistui, kirjaudu sisään uudelleen</string>
+  <string name="qq_webview_loading">Ohitetaan, odota hetki...</string>
   <string name="questionnair_body_invisibility">Viestejä ei näytetä</string>
   <string name="questionnair_confirm_delete">Poista</string>
   <string name="questionnair_instability">Kaatuilee useasti</string>
@@ -845,7 +888,7 @@
   <string name="senders_split_token">, </string>
   <string name="sending">Lähetetään…</string>
   <string name="sending_message">Lähetetään viestiä…</string>
-  <string name="sending_quick_reply">Lähetetään sähköpostia \"%s\"</string>
+  <string name="sending_quick_reply">Lähetetään \"%s\"</string>
   <string name="sent_folder_selection_title">Valitse lähet. kansio tilille %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate
 \u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
@@ -875,6 +918,7 @@
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="sms_tip">Todennus epäonnistui, tarkasta, ettei antivirus ohjelma estä tekstiviestejä</string>
   <string name="smtp_password_error">Lähtevän sähköpostin palvelimen salasana on väärin</string>
   <string name="sort_attachment">Järjestä</string>
   <string name="special_text_1">写道:</string>
@@ -957,6 +1001,13 @@
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
 Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran, tai &lt;b&gt;Vaihda Synkronointiasetuksia&lt;/b&gt; laittamalla tälle tilille sähköpostin automaattisen synkronoinnin päälle.</string>
   <string name="wait_for_sync_title">Odotetaan synkronointia</string>
+  <string name="wait_help_context">odota</string>
+  <string name="webview_logout">Haluatko varmasti luovuttaa kirjautumisen? Yritä uudelleen!</string>
+  <string name="webview_logout_cancel">En yritä enää</string>
+  <string name="webview_logout_sure">Yritä vielä kerran</string>
+  <string name="webview_sslerror_handle_cancel">Peruuta</string>
+  <string name="webview_sslerror_handle_continue">Jatka</string>
+  <string name="webview_sslerror_handle_hitmessage">Varmennevirhe! Jatka tälle verkkosivulle (ei suositella)?</string>
   <string name="widget_all_mail">Kaikki Sähköpostit</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Muu</string>
