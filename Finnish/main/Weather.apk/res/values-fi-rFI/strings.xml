@@ -112,10 +112,10 @@
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Asenna</string>
-  <string name="international_detail_menu_title">Yksityiskohdat</string>
+  <string name="international_detail_menu_title">Tiedot</string>
   <string name="international_details_pressure_title">PAINE</string>
   <string name="international_details_real_feel_title">TUNTUU KUIN®</string>
-  <string name="international_details_title">Yksityiskohdat</string>
+  <string name="international_details_title">Tiedot</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">TUULI</string>

@@ -116,7 +116,7 @@
   <string name="detail">Tiedot</string>
   <string name="detail_comment_empty">Tyhjä</string>
   <string name="develop_version">Beta updates</string>
-  <string name="development_setting">Kehittäjän asetukset</string>
+  <string name="development_setting">Kehittäjäasetukset</string>
   <string name="device_empty_hint">Tyhjä</string>
   <string name="device_media_empty_hint">Tyhjä</string>
   <string name="di_count_ji">Ep. %d</string>

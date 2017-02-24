@@ -386,7 +386,7 @@
   <string name="operation_deleting">Poistetaan…</string>
   <string name="operation_favorite">Lisää suosikkeihin</string>
   <string name="operation_hide_sys">Älä näytä piilotettuja tiedostoja</string>
-  <string name="operation_info">Yksityiskohdat</string>
+  <string name="operation_info">Tiedot</string>
   <string name="operation_like">Suosikki</string>
   <string name="operation_move">Leikkaa</string>
   <string name="operation_moving">Siirretään…</string>

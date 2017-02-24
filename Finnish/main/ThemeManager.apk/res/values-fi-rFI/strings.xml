@@ -173,7 +173,7 @@
   <string name="resource_delta_update_failed">Ladataan teema uudelleen…</string>
   <string name="resource_delta_update_successful">Teema päivitetty</string>
   <string name="resource_delta_update_total">%1$d delta päivitystä säästetty %2$s</string>
-  <string name="resource_detail">Yksityiskohdat</string>
+  <string name="resource_detail">Tiedot</string>
   <string name="resource_detail_comment_title">Kommentit</string>
   <string name="resource_detail_description_pic_text">%1$d kuvaketta yhteensä</string>
   <string name="resource_detail_header_theme_designer_title">Suunnittelija: %1$s</string>
@@ -184,7 +184,7 @@
   <string name="resource_detail_recommend_other_themes">Käyttäjät tykkäsivät myös</string>
   <string name="resource_detail_update_log_title">Päivityksiä</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_detail_window_title">%1$s yksityiskohdat</string>
+  <string name="resource_detail_window_title">%1$s tiedot</string>
   <string name="resource_download">Lataa</string>
   <string name="resource_download_notification_title_many">%1$s teemaa ladattu</string>
   <string name="resource_download_notification_title_one">Teema ladattu</string>

@@ -865,7 +865,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="optimize_result_button_purchase">Osta</string>
   <string name="optimize_result_button_purchase_flow">Näytä kaikki</string>
   <string name="optimize_result_button_realname_now">Vahvista</string>
-  <string name="optimize_result_button_see_detaills">Yksityiskohdat</string>
+  <string name="optimize_result_button_see_detaills">Tiedot</string>
   <string name="optimize_result_button_to_open">Laita päälle</string>
   <string name="optimize_result_button_to_set">Aseta</string>
   <string name="optimize_result_button_update_now">Päivitä</string>
@@ -1250,7 +1250,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="security_app_lock">Sovelluslukko</string>
   <string name="security_scan_card_clean_now">Skannaa</string>
   <string name="security_scan_optimizing">Optimoidaan…</string>
-  <string name="see_detail">Yksityiskohdat</string>
+  <string name="see_detail">Tiedot</string>
   <string name="see_more">Lisää</string>
   <string name="select_pattern">Valitse kuvio</string>
   <string name="set_applock_password">Aseta salasana</string>
