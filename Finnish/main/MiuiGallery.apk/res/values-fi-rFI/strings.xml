@@ -549,7 +549,7 @@
   <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Hetket</string>
   <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
-  <string name="confirm_download_video_message">Aloittaaksesi katselun, lopeta ensin tämän videon lataaminen. Lataus jatkuu, kun WLAN on käytettävissä.</string>
+  <string name="confirm_download_video_message">Aloittaaksesi katselun, lopeta ensin tämän videon lataaminen. Lataus jatkuu, kun Wi-Fi on käytettävissä.</string>
   <string name="confirm_download_video_title">Lataa video</string>
   <string name="confirm_face">Osuma</string>
   <string name="confirm_hidden_recommend_group">OK</string>
@@ -662,11 +662,11 @@
   <string name="face_album_empty">"Kuvia ei ole tarpeeksi henkilöiden tunnistamista varten.
 Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_album_empty_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Yhdistä WLAN-verkkoon synkronoidaksesi</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Yhdistä Wi-Fi-verkkoon synkronoidaksesi</string>
   <string name="face_album_long_tap_tip">Valitaksesi useita henkilöitä tai vaihtaaksesi ryhmän asetuksia, paina &amp; pidä pohjassa profiilikuvaa</string>
   <string name="face_album_new_name_hint">Uusi nimi</string>
   <string name="face_album_not_named">Nimeämätön</string>
-  <string name="face_album_pending_enable_tip">Kuvat lajitellaan, kun olet yhteydessä WLAN-verkkoon</string>
+  <string name="face_album_pending_enable_tip">Kuvat lajitellaan, kun olet yhteydessä Wi-Fi-verkkoon</string>
   <string name="face_album_rename_hint">Syötä nimi</string>
   <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Lajittele kuvat automaattisesti niissä esiintyvien henkilöiden mukaan.</string>
@@ -769,7 +769,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="loading_image">Ladataan kuvaa…</string>
   <string name="loading_image_thumbnail">Ladataan esikatselukuvaa…</string>
   <string name="loading_members">Ladataan jäseniä</string>
-  <string name="loading_suspend">Lataaminen pysäytetty. Lataamista jatketaan, kun WLAN on käytettävissä.</string>
+  <string name="loading_suspend">Lataaminen pysäytetty. Lataamista jatketaan, kun Wi-Fi on käytettävissä.</string>
   <string name="loading_video">Ladataan videota…</string>
   <string name="loading_video_thumbnail">Ladataan videon kansikuvaa…</string>
   <string name="local_space_full_button_text">Tee tilaa</string>
@@ -798,7 +798,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="need_to_turn_on_network">Laite ei ole yhteydessä internettiin</string>
   <string name="need_to_turn_on_sync">Laita Mi Pilven synkronointi päälle</string>
   <string name="need_to_turn_on_sync_first">Laita ensin Mi Pilven synkronointi päälle</string>
-  <string name="need_to_turn_on_wlan">Yhdistä ensin WLAN-verkkoon</string>
+  <string name="need_to_turn_on_wlan">Yhdistä ensin Wi-Fi-verkkoon</string>
   <string name="network_connected_rescan">Verkkoon ei voi yhdistää</string>
   <string name="network_unsatisfied_button_text">Yhdistä verkkoon</string>
   <string name="new_album_invalid_char">Nimi ei voi sisältää merkkiä \"%s\", syötä kirjain tai numero.</string>
@@ -985,7 +985,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="slim_now">Optimoi nyt</string>
   <string name="slim_result_size">Säästettiin %1$s</string>
   <string name="slim_result_title">Optimoitu onnistuneesti</string>
-  <string name="slim_tip_msg">Kuvat optimoidaan kun laitteesi on yhdistettynä WLAN-verkkoon. Lataa alkuperäiset kuvat napauttamalla \"Lataa kuva\" valikkoa kuvan tiedot-sivulta.</string>
+  <string name="slim_tip_msg">Kuvat optimoidaan kun laitteesi on yhdistettynä Wi-Fi-verkkoon. Lataa alkuperäiset kuvat napauttamalla \"Lataa kuva\" valikkoa kuvan tiedot-sivulta.</string>
   <string name="slim_tip_title">Optimoidaan tallennustilaa</string>
   <string name="slimming">Optimoidaan…</string>
   <string name="start_debug">Debuggaa Galleria</string>
@@ -1051,7 +1051,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="video_editor_cancel">Peruuta</string>
   <string name="video_editor_done">Valmis</string>
   <string name="video_editor_down_load_later">Myöhemmin</string>
-  <string name="video_editor_down_load_no_wifi_tips">Lataa yhdistämällä WLAN-verkkoon</string>
+  <string name="video_editor_down_load_no_wifi_tips">Lataa yhdistämällä Wi-Fi-verkkoon</string>
   <string name="video_editor_down_load_now">Lataa</string>
   <string name="video_editor_encode_video">Muunnetaan videota…</string>
   <string name="video_editor_encode_video_error">Videon muunnos epäonnistui</string>

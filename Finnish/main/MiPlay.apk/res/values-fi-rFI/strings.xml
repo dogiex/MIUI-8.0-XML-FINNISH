@@ -3,8 +3,8 @@
   <string name="app_name">Mediapalvelin</string>
   <string name="cancel">Peruuta</string>
   <string name="enable_wifi_btn">Laita päälle</string>
-  <string name="enable_wifi_message">Laita WLAN päälle etsiäksesi ja yhdistääksesi lähellä oleviin laitteisiin.</string>
-  <string name="enable_wifi_title">Laita WLAN päälle</string>
+  <string name="enable_wifi_message">Laita Wi-Fi päälle etsiäksesi ja yhdistääksesi lähellä oleviin laitteisiin.</string>
+  <string name="enable_wifi_title">Laita Wi-Fi päälle</string>
   <string name="media_feature_projection">Peilaa näyttö</string>
   <string name="media_status_error">Virhe</string>
   <string name="media_status_started">Yhdistetty</string>

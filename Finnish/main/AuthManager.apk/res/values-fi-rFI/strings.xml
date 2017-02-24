@@ -139,7 +139,7 @@
   <string name="HIPS_Perm_Network_Recv">Saapunut data</string>
   <string name="HIPS_Perm_Network_Send">Lähtevä data</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Tuntematon osoite</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Näyttää ilmoituksia</string>
   <string name="HIPS_Perm_Notification_Desc">näyttää ilmoituksia näytön ilmoitusvälilehdellä</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s sovellusta voi näyttää ilmoituksia</string>
@@ -202,12 +202,12 @@
   <string name="HIPS_Perm_VideoRecorder">Pääsy kameraan</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">pääsy kameraan kuvien tai videon ottamiseksi</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s sovelluksella on pääsy kameraan kuvien tai videon ottamiseksi</string>
-  <string name="HIPS_Perm_WIFINetwork">Käytä WLAN verkkoa</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">yhdistä internettiin käyttäen WLAN yhteyttä</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s sovellusta voi yhdistää internettiin käyttäen WLAN verkkoa</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Muuta WLAN yhteyttä</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">laita WLAN päälle tai pois</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s sovelllusta voi laittaa WLAN päälle tai pois</string>
+  <string name="HIPS_Perm_WIFINetwork">Käytä Wi-Fi verkkoa</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">yhdistä internettiin käyttäen Wi-Fi yhteyttä</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s sovellusta voi yhdistää internettiin käyttäen Wi-Fi verkkoa</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Muuta Wi-Fi yhteyttä</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">laita Wi-Fi päälle tai pois</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s sovelllusta voi laittaa Wi-Fi päälle tai pois</string>
   <string name="HIPS_Perm_Wakelock">Estä laitetta menemästä nukkumaan</string>
   <string name="HIPS_Perm_Wakelock_Desc">estä laitetta nukkumasta</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s sovellusta voi estää laitetta menemästä nukkumatilaan</string>

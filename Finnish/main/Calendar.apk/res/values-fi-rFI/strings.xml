@@ -109,7 +109,7 @@
   <string name="daily">Päivittäin</string>
   <string name="data_notice_change_settings">更改设置</string>
   <string name="data_notice_continue_confirm">继续使用</string>
-  <string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在WLAN下同步订阅日历大图”。</string>
+  <string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在Wi-Fi下同步订阅日历大图”。</string>
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Päivä</string>

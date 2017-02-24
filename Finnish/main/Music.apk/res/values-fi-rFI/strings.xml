@@ -501,7 +501,7 @@
   <string name="notification_headset_custom">Dismiss</string>
   <string name="notification_headset_info">Tap to view settings.</string>
   <string name="notification_headset_settings">Headphones connected</string>
-  <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
+  <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>
   <string name="notification_play_summary">View current and next song, display lyrics on Home screen</string>
   <string name="notification_play_title">Notification shade widget</string>
   <string name="notification_recommend_summary">Learn about new music trends and app promotions</string>
@@ -550,9 +550,9 @@
   <string name="please_select_song">Choose a song first</string>
   <string name="power_save_mode_dialog_msg">The device is in Power Save Mode. Start downloading right now?</string>
   <string name="pref_download_settings_title">Download size limit</string>
-  <string name="pref_summary_any_bytes_popup">Always wait for WLAN connection to download files</string>
+  <string name="pref_summary_any_bytes_popup">Always wait for Wi-Fi connection to download files</string>
   <string name="pref_summary_enable_max_bytes_popup">Show popup notification when using mobile data connection to download content</string>
-  <string name="pref_summary_max_bytes_limit_format">Wait for WLAN if file size exceeds %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Wait for Wi-Fi if file size exceeds %s</string>
   <string name="pref_summary_no_limit_popup">Unlimited</string>
   <string name="pref_title_enable_max_bytes_popup">Show data usage prompt</string>
   <string name="preferences_title">Settings</string>
@@ -693,7 +693,7 @@
   <string name="sub_explanation_message">"Mi Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
   <string name="subed">On</string>
   <string name="suggest_text">People who liked this also liked</string>
-  <string name="sync_only_in_wifi">Only sync using WLAN</string>
+  <string name="sync_only_in_wifi">Only sync using Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Sync your music across all your devices with Mi Cloud. Using your mobile data connection to sync music will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="tab_album">Albums</string>
   <string name="tab_album_list">Albums</string>
@@ -777,12 +777,12 @@
   <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
   <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
+  <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Data usage warning</string>
   <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
-  <string name="wifi_required_body" formatted="false">"You must use WLAN to complete this %s download. 
+  <string name="wifi_required_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
 
-Touch %s to start this download the next time you're connected to a WLAN network."</string>
+Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
   <string name="wifi_required_title">Download too large for operator network</string>
 </resources>

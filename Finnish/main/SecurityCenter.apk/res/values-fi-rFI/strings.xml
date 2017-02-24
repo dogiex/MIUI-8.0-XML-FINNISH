@@ -103,7 +103,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_check_reason_background_gps">GPS käynnissä taustalla</string>
   <string name="app_check_reason_wakelock">Järjestelmän virransäästö ei ole asetettu</string>
   <string name="app_check_reason_wakeup_alarm">Lukitusnäyttö herää useasti</string>
-  <string name="app_check_reason_wifi_scan">Useita WLAN skannauksia</string>
+  <string name="app_check_reason_wifi_scan">Useita Wi-Fi skannauksia</string>
   <string name="app_check_sub_title_text">Ratkaise akkuongelmat optimoimalla sovellukset</string>
   <string name="app_detail">Tiedot</string>
   <string name="app_install_intercept">Estä asennus</string>
@@ -193,7 +193,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="auto_task_operation_string_split">;</string>
   <string name="auto_task_operation_sync">Synkronoi</string>
   <string name="auto_task_operation_vibration">Värinä</string>
-  <string name="auto_task_operation_wifi">WLAN</string>
+  <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back">Takaisin</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="battery_capacity_title">Akun kapasiteetti</string>
@@ -207,7 +207,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="battery_desc_radio">Radion kuluttama virta</string>
   <string name="battery_desc_standby">Puhelimen ollessa käyttämättä kuluttama virta</string>
   <string name="battery_desc_voice">Äänipuheluiden kuluttama virta</string>
-  <string name="battery_desc_wifi">WLANin kuluttama virta</string>
+  <string name="battery_desc_wifi">Wi-Fiin kuluttama virta</string>
   <string name="battery_estimate_charge_time_title">Latausaika</string>
   <string name="battery_estimate_usage_time_title">Käyttöaika</string>
   <string name="battery_health_left_battery_text">Akkua jäljellä</string>
@@ -367,7 +367,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="confirm_reject_all_permission">Estä kaikkia sovelluksia käyttämästä tätä toimintoa?</string>
   <string name="connect_internet_by_mobiledata">Mobiilidatayhteys</string>
   <string name="connect_internet_by_usbshare">Jaettu internet-yhteys USB:n kautta</string>
-  <string name="connect_internet_by_wifi">WLAN</string>
+  <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="connecting">Yhdistetään…</string>
   <string name="continue_install">Asenna</string>
   <string name="convenient_mode">Avaa sovelluksien lukko kerralla</string>
@@ -495,7 +495,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="firewall_restrict_android_dialog_title">Huomio</string>
   <string name="firewall_rule_group_title_mobile">Mobiili</string>
   <string name="firewall_rule_group_title_roaming">Ulkomaan roaming</string>
-  <string name="firewall_rule_group_title_wifi">WLAN</string>
+  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s on rajoitettu käyttämästä %2$s verkkoja</string>
   <string name="five_percent_total_pkg">%s (5%% kuukausittaisesta datasta)</string>
   <string name="flow_rank_title">Datan käyttö</string>
@@ -519,7 +519,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="handle_bar_title_apps">Sovellukset</string>
   <string name="handle_bar_title_paysms">Viestit</string>
   <string name="handle_bar_title_system">Järjestelmä</string>
-  <string name="handle_bar_title_wifi">WLAN</string>
+  <string name="handle_bar_title_wifi">Wi-Fi</string>
   <string name="handle_text_cache">Välimuisti</string>
   <string name="handle_text_memory">Muisti</string>
   <string name="handle_text_system">Järjestelmä</string>
@@ -623,7 +623,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="legal_workday_message">(Ohita juhlapyhät)</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="load_fail">Lataaminen epäonnistui</string>
-  <string name="load_only_under_wlan">Lataa uutiset, kun yhteydessä WLAN-verkkoon</string>
+  <string name="load_only_under_wlan">Lataa uutiset, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="local_ip_exception_summary">Paikallista IP-osoitetta ei saatu. Lähettääksesi raportin MIUI:lle, avaa Palaute-sovellus ja lähetä lokitiedosto laitteestasi.</string>
   <string name="lock_mode_title">Lukitusasetukset</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s käytetty lukitusnäytöllä</string>
@@ -698,7 +698,7 @@ Huippu: %1$s%2$s | %3$s käytetty"</string>
   <string name="main_toolbar_firewall">Rajoita datan käyttöä</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobiilidata</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
-  <string name="main_toolbar_internet_by_wifi">WLAN</string>
+  <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_statistic">Datan käyttötilastot</string>
   <string name="main_traffic_overlimit_text">yli</string>
@@ -998,7 +998,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_settings_shape">Graafinen</string>
   <string name="power_settings_title">Aseta</string>
   <string name="power_settings_top">Yläpalkki</string>
-  <string name="power_wifi">WLAN</string>
+  <string name="power_wifi">Wi-Fi</string>
   <string name="pref_about">Tietoa</string>
   <string name="pref_about_traffic_title">Datan käytön asetukset</string>
   <string name="pref_add_traffic_pkg">Lisäksi ostettu data</string>
@@ -1187,7 +1187,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="result_sms_title_antispam">Uhattu ilkeillä tekstiviesti URL-osoitteilla</string>
   <string name="result_sms_title_auth">Taloudellisen tekstiviestivuodon vaara on olemassa</string>
   <string name="result_virus_header">Löytyi %d virusta ja turvatonta sovellusta</string>
-  <string name="result_wifi_header">WLAN riskejä havaittu</string>
+  <string name="result_wifi_header">Wi-Fi riskejä havaittu</string>
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Sallitaanko mobiilidatan roaming?</string>
   <string name="roaming_limit_dialog_message">Päiväkohtaisen roaming datan raja saavutettiin.</string>
@@ -1209,7 +1209,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="safe_result_header_title_app">Sovelluksen tietoturva</string>
   <string name="safe_result_header_title_sms">Viestien tietoturva</string>
   <string name="safe_result_header_title_system">Järjestelmän tietoturva</string>
-  <string name="safe_result_header_title_wifi">WLAN tietoturva</string>
+  <string name="safe_result_header_title_wifi">Wi-Fi tietoturva</string>
   <string name="safe_result_item_button_monitor">Seuranta-asetukset</string>
   <string name="safe_result_item_empty_monitor">Ei maksusovelluksia on suojattu</string>
   <string name="safe_result_item_info_app_sign">Ei epävirallisia sovelluksia</string>
@@ -1221,9 +1221,9 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="safe_result_item_info_system_scan">Maksujen seuranta on päällä</string>
   <string name="safe_result_item_info_system_version">MIUI on ajan tasalla</string>
   <string name="safe_result_item_info_wifi_arp">Ei ARP hyökkäyksiä</string>
-  <string name="safe_result_item_info_wifi_connection">WLAN yhdistetty</string>
+  <string name="safe_result_item_info_wifi_connection">Wi-Fi yhdistetty</string>
   <string name="safe_result_item_info_wifi_dns">DNS palvelin turvallinen</string>
-  <string name="safe_result_item_info_wifi_encryption">WLAN salattu</string>
+  <string name="safe_result_item_info_wifi_encryption">Wi-Fi salattu</string>
   <string name="safe_result_item_info_wifi_fake">Ei feikki</string>
   <string name="safepay_alert_dialog_button_continue">Jatka</string>
   <string name="safepay_alert_dialog_button_risk">Korjaa</string>
@@ -1295,7 +1295,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="sp_background_risk_type_root">Järjestelmä on rootattu</string>
   <string name="sp_background_risk_type_sign">Epävirallinen sovellus on käynnissä</string>
   <string name="sp_background_risk_type_virus">Virus on käynnissä taustalla</string>
-  <string name="sp_background_risk_type_wifi">Tämä WLAN-verkko on vaarallinen</string>
+  <string name="sp_background_risk_type_wifi">Tämä Wi-Fi-verkko on vaarallinen</string>
   <string name="sp_button_text_ignore_alert_title">Sivuuta tämä kohde?</string>
   <string name="sp_empty_title_sign_exception">Lisää sovellus poikkeuksiin painamalla sitä pitkään</string>
   <string name="sp_monitored_apps_count_zero">Ei maksusovelluksia on suojattu</string>
@@ -1311,7 +1311,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="sp_settings_check_item_title_sign_exception">Allekirjoituksien poikkeukset</string>
   <string name="sp_settings_check_item_title_update">Järjestelmän päivitykset</string>
   <string name="sp_settings_check_item_title_virus_exception">Viruksien poikkeukset</string>
-  <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Ei kohteita</string>
   <string name="sp_settings_group_title_check_item">Usea kohde</string>
   <string name="sp_settings_group_title_ime">Turvallisen IME asetukset</string>
@@ -1631,15 +1631,15 @@ Tap to top up your balance."</string>
   <string name="usage_type_cpu_foreground">CPU etuala</string>
   <string name="usage_type_data_recv">Mobiilidataa vastaanotettu</string>
   <string name="usage_type_data_send">Mobiilidataa lähetetty</string>
-  <string name="usage_type_data_wifi_recv">WLAN dataa vastaanotettu</string>
-  <string name="usage_type_data_wifi_send">WLAN dataa lähetetty</string>
+  <string name="usage_type_data_wifi_recv">Wi-Fi dataa vastaanotettu</string>
+  <string name="usage_type_data_wifi_send">Wi-Fi dataa lähetetty</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Aika ilman signaalia</string>
   <string name="usage_type_on_time">Käynnissäoloaika</string>
   <string name="usage_type_phone">Puhelin</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Pidä hereillä</string>
-  <string name="usage_type_wifi_running">WLAN käynnissä</string>
+  <string name="usage_type_wifi_running">Wi-Fi käynnissä</string>
   <string name="usb_adb_input_apply_step_1">"This might lead to leaks and loss of private information. We don't recommend doing this unless you're a developer."</string>
   <string name="usb_adb_input_apply_step_2">Developers can use special software to imitate gestures, change settings, and grant permissions via USB.</string>
   <string name="usb_adb_input_apply_step_3">Sallitaanko nyt?</string>
@@ -1661,14 +1661,14 @@ Tap to top up your balance."</string>
   <string name="warning_open_mi_sim">Laita Mi SIM päälle</string>
   <string name="white_list_risk_app_header">Vaaralliset sovellukset: %d</string>
   <string name="white_list_trojan_header">Troijalaiset: %d</string>
-  <string name="wifi_exception_summary">Testaa saatavilla olevat WLAN verkot</string>
-  <string name="wifi_exception_title">Testaa WLAN verkko</string>
+  <string name="wifi_exception_summary">Testaa saatavilla olevat Wi-Fi verkot</string>
+  <string name="wifi_exception_title">Testaa Wi-Fi verkko</string>
   <string name="wifi_item_status_connection_no">Ei yhdistetty</string>
   <string name="wifi_item_status_connection_yes">Yhdistetty</string>
   <string name="wifi_item_title_arp_attack">ARP hyökkäykset</string>
-  <string name="wifi_item_title_connection">WLAN yhteys</string>
+  <string name="wifi_item_title_connection">Wi-Fi yhteys</string>
   <string name="wifi_item_title_dns">DNS palvelimen turvallisuus</string>
-  <string name="wifi_item_title_encryption">WLAN salaus</string>
-  <string name="wifi_item_title_fake">Tunnista vale WLAN</string>
+  <string name="wifi_item_title_encryption">Wi-Fi salaus</string>
+  <string name="wifi_item_title_fake">Tunnista vale Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Ei internet-yhteyttä</string>
 </resources>

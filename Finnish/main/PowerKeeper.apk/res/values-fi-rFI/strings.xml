@@ -125,7 +125,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_event_user_define_title">Uusia tapahtumia</string>
   <string name="power_event_view_event_title">Käynnistimet</string>
   <string name="power_hide_mode_app_list_summary">Sovellusasetukset</string>
-  <string name="power_hide_mode_summary">Säästä akkua rajoittamalla yksittäisten sovelluksien taustaprosesseja, WLAN- ja mobiilidata-yhteyksiä, sekä GPS:ää</string>
+  <string name="power_hide_mode_summary">Säästä akkua rajoittamalla yksittäisten sovelluksien taustaprosesseja, Wi-Fi- ja mobiilidata-yhteyksiä, sekä GPS:ää</string>
   <string name="power_hide_mode_title">Hallitse sovelluksien akun käyttöä</string>
   <string name="power_keeper">Akun säästäjä</string>
   <string name="power_mode_cpu_state_high">Suorituskyky</string>

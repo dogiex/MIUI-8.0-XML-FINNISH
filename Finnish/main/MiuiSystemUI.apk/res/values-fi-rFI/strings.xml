@@ -368,7 +368,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="wifi_disabled_generic">Pois päältä</string>
   <string name="wifi_disabled_network_failure">IP-kokoonpanovirhe</string>
   <string name="wifi_disabled_password_failure">Todennusvirhe</string>
-  <string name="wifi_disabled_wifi_failure">WLAN-yhteysvirhe</string>
+  <string name="wifi_disabled_wifi_failure">Wi-Fi-yhteysvirhe</string>
   <string name="wifi_fail_to_scan">Verkkoja ei voi etsiä</string>
   <string name="wifi_no_internet">Internetyhteyttä ei havaittu, yhteyttä ei muodosteta automaattisesti uudelleen.</string>
   <string name="wifi_not_in_range">Ei kantoalueella</string>

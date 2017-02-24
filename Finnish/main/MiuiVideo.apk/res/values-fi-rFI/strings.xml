@@ -35,7 +35,7 @@
   <string name="all_ep">All ep</string>
   <string name="all_episode">All Episodes</string>
   <string name="app_charging_wifi_mode">Charging to update app</string>
-  <string name="app_charging_wifi_mode_summary">Update app automatically when connected to WLAN and in charging</string>
+  <string name="app_charging_wifi_mode_summary">Update app automatically when connected to Wi-Fi and in charging</string>
   <string name="app_latest_version">No updates available</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installed</string>
@@ -45,7 +45,7 @@
   <string name="app_upgrade_version">Update available</string>
   <string name="app_version">Version</string>
   <string name="app_wifi_mode">Update automatically</string>
-  <string name="app_wifi_mode_summary">Update app automatically when launch app and connected to WLAN</string>
+  <string name="app_wifi_mode_summary">Update app automatically when launch app and connected to Wi-Fi</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>
@@ -141,7 +141,7 @@
   <string name="download_start_message">Ladataanko ja asennetaanko %1$s?</string>
   <string name="download_task_with">%d työtä</string>
   <string name="download_url_waiting">Haetaan URL-osoitetta…</string>
-  <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
+  <string name="download_url_waiting_no_wifi">Pending for Wi-Fi unavailable</string>
   <string name="download_with">Ladataan %1$s/%2$s</string>
   <string name="downloading_app_plugin">Ladataan %1$s…</string>
   <string name="edit">Muokkaa</string>
@@ -244,7 +244,7 @@
   <string name="offline">Offline</string>
   <string name="offline_add_queue_fail">"Couldn't download \"%1$s\""</string>
   <string name="offline_alert_title">Data usage</string>
-  <string name="offline_alert_wifi">Downloads will begin when your device connects to a WLAN network.</string>
+  <string name="offline_alert_wifi">Downloads will begin when your device connects to a Wi-Fi network.</string>
   <string name="offline_already_in">\"%1$s\" is already waiting to download</string>
   <string name="offline_created_order">Added \"%1$s\" is already waiting to download</string>
   <string name="offline_loaded">Offline video</string>

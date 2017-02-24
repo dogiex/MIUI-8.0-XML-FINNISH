@@ -41,7 +41,7 @@
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
   <string name="new_record_name">Uusi nauhoitus</string>
   <string name="no_file">Tyhjä</string>
-  <string name="notification_message_all_paused">Odotetaan WLAN-yhteyttä.</string>
+  <string name="notification_message_all_paused">Odotetaan Wi-Fi-yhteyttä.</string>
   <string name="notification_playback">Toistetaan…</string>
   <string name="notification_recording">Nauhoitetaan…</string>
   <string name="notification_recording_ticker">Puhelin mykistetty</string>
@@ -124,7 +124,7 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s voi nauhoittaa noin %2$s</string>
   <string name="toast_uninstall_fileexplorer">Tiedostoselain-sovellusta ei ole asennettu</string>
-  <string name="wifi_recommended_body" formatted="false">Käyttämällä mobiilidata-yhteyttä tämän tiedoston (%s) lataamiseen lisää datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja. Jos haluat odottaa ja ladata tiedoston WLAN-yhteydellä, napauta %s.</string>
+  <string name="wifi_recommended_body" formatted="false">Käyttämällä mobiilidata-yhteyttä tämän tiedoston (%s) lataamiseen lisää datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja. Jos haluat odottaa ja ladata tiedoston Wi-Fi-yhteydellä, napauta %s.</string>
   <string name="wifi_recommended_title">Datan käyttövaroitus</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

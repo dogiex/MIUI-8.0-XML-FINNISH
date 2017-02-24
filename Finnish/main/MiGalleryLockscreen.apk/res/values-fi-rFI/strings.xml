@@ -42,5 +42,5 @@
   <string name="theme_apply_success">Lukitusnäyttö asetettu</string>
   <string name="theme_applying">Asetetaan…</string>
   <string name="wlan_download">Päivitä Wi-Fi-yhteydellä</string>
-  <string name="wlan_download_cn">Päivitä WLAN-yhteydellä</string>
+  <string name="wlan_download_cn">Päivitä Wi-Fi-yhteydellä</string>
 </resources>

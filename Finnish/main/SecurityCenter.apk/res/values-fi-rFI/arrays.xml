@@ -24,9 +24,9 @@
         <item>Eilen (data)</item>
         <item>Tänään (data)</item>
         <item>Tässä kuussa (data)</item>
-        <item>Eilen WLAN</item>
-        <item>Tänään WLAN</item>
-        <item>Tässä kuussa WLAN</item>
+        <item>Eilen Wi-Fi</item>
+        <item>Tänään Wi-Fi</item>
+        <item>Tässä kuussa Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Eilen (data)</item>
@@ -44,16 +44,16 @@
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobiilidatan käyttö "</item>
-        <item>"WLAN käyttö "</item>
+        <item>"Wi-Fi käyttö "</item>
         <item>"Dataa säästetty "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobiilidatan käyttö "</item>
-        <item>"WLAN käyttö "</item>
+        <item>"Wi-Fi käyttö "</item>
     </string-array>
     <string-array name="traffic_sort_type">
         <item>"Mobiilidatan käyttö "</item>
-        <item>"WLAN käyttö "</item>
+        <item>"Wi-Fi käyttö "</item>
         <item>"Dataa säästetty "</item>
         <item>Mi Datapaketti</item>
     </string-array>

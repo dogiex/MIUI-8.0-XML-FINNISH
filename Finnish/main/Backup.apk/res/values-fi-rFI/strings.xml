@@ -13,7 +13,7 @@
   <string name="auto_backup_choose_empty">Ei varmuuskopioita.</string>
   <string name="auto_backup_choose_title">Valitse asiat, jotka varmuuskopioidaan</string>
   <string name="auto_backup_date">Päivät</string>
-  <string name="auto_backup_only_wifi">Vain, kun WLAN on yhteydessä</string>
+  <string name="auto_backup_only_wifi">Vain, kun Wi-Fi on yhteydessä</string>
   <string name="auto_backup_open">Varmuuskopioi automaattisesti</string>
   <string name="auto_backup_progress">Varmuuskopioidaan…</string>
   <string name="auto_backup_select_user_apps">Valitse sovellukset</string>
@@ -191,7 +191,7 @@ http://www.miliao.com
   <string name="sc_precondition_failed">Sinun täytyy ensiksi lisätä sähköposti Mi Tilillesi.</string>
   <string name="sc_request_timeout">Pyyntö aikakatkaistiin</string>
   <string name="sc_service_unavailable">Mi Pilvi ei ole saatavilla</string>
-  <string name="sc_unaccess_password_file">WLAN verkon salasanaa ei löydy</string>
+  <string name="sc_unaccess_password_file">Wi-Fi verkon salasanaa ei löydy</string>
   <string name="sc_unauthorized">Kirjaudu uudestaan</string>
   <string name="sd_not_available">Aseta SD-kortti nyt</string>
   <string name="sdcard_no_enough_space">Ei ole tarpeeksi tilaa</string>
@@ -293,7 +293,7 @@ Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
   <string name="trans_progress_subdescript_waiting">Odotetaan vastaanottoa %s</string>
   <string name="trans_receiver">"Olen vastaanottaja"</string>
   <string name="trans_receiver_time_remained">"%s jäljellä.
-Älä sammuta WLAN Hotspottia.
+Älä sammuta Wi-Fi Hotspottia.
 Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_receiving_completed">Vastaanotettu onnistuneesti</string>
   <string name="trans_restoring">Palautetaan…</string>
@@ -314,7 +314,7 @@ Samanlaiset tiedostot uudella laitteella korvataan"</string>
   <string name="trans_sender_searching_ensurance">"Varmista, että vanha laite on päällä
 Odotetaan vanhan laitteen yhdistämistä…"</string>
   <string name="trans_sender_time_remained">"%s jäljellä.
-Älä sammuta WLANia.
+Älä sammuta Wi-Fi-verkkoa.
 Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_sending_completed">Lähetetty onnistuneesti</string>
   <string name="trans_show_qr_code_label">Yhdistä vanha laite</string>
@@ -335,7 +335,7 @@ ja Mi Siirtäjä on päällä"</string>
   <string name="user_notice_declaration_ignore">"Älä näytä uudestaan"</string>
   <string name="user_notice_message">Jotkut toiminnot tarvitsevat internet yhteyden toimiakseen normaalisti.</string>
   <string name="user_notice_title">Huomio</string>
-  <string name="wifi_title">WLAN asetukset</string>
+  <string name="wifi_title">Wi-Fi asetukset</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$s t</string>
   <string name="xiaomi_connect_download_manager_fail">Lataamista ei voitu aloittaa. Varmista, että Download Manager toimii normaalisti.</string>

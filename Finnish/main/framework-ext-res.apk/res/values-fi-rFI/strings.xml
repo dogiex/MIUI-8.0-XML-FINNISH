@@ -104,7 +104,7 @@
   <string name="security_permission_denied_text">Pääsy kielletty</string>
   <string name="security_permission_failed_text">Sisäinen virhe, yritä myöhemmin uudelleen</string>
   <string name="security_permission_validate_warning">Kiitos, että autat tekemään MIUI:sta paremman!</string>
-  <string name="security_permission_wifi_and_data_opened_text">WLAN and mobiilidata laitettu päälle</string>
+  <string name="security_permission_wifi_and_data_opened_text">Wi-Fi and mobiilidata laitettu päälle</string>
   <string name="security_permission_xiaomi_account_missed_text">Syötä Mi Tilisi ID</string>
   <string name="select">Valitse</string>
   <string name="select_all">Valitse kaikki</string>
@@ -139,7 +139,7 @@
   <string name="status_bar_toggle_sync">Synkronointi</string>
   <string name="status_bar_toggle_torch">Taskulamppu</string>
   <string name="status_bar_toggle_vibrate">Värinä</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="translation_more">Lisää</string>
   <string name="translation_query_error">Tuloksia ei löytynyt</string>

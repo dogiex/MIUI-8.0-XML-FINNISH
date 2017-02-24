@@ -46,7 +46,7 @@
   <string name="err_type_system_summary">Muisti, suorituskyky, jne.</string>
   <string name="err_type_systemapp">MIUI sovellukset</string>
   <string name="err_type_translate">Kieli</string>
-  <string name="err_type_wifi">WLAN</string>
+  <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Koti</string>
   <string name="err_type_xiaomi_service">Asiakaspalvelu</string>
   <string name="error_no_connection">Verkkoon ei saada yhteyttä</string>
@@ -265,7 +265,7 @@
   <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>
   <string name="toast_feedback_collect_store">Kerätään lokeja…</string>
   <string name="toast_feedback_network_unavailable">Verkkoon ei saada yhteyttä</string>
-  <string name="toast_feedback_pending_wlan">Raportit lähetetään, kun olet yhteydessä WLAN verkkoon</string>
+  <string name="toast_feedback_pending_wlan">Raportit lähetetään, kun olet yhteydessä Wi-Fi verkkoon</string>
   <string name="toast_feedback_submitted">Raportti lähetetty</string>
   <string name="toast_feedback_submitting">Lähetetään…</string>
   <string name="toast_feedbackservice_in_submit">Käsitellään edellistä palautetta…</string>
