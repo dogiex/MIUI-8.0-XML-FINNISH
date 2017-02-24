@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="prefEntries_max_bytes_limit">
-        <item>Rajaton</item>
-        <item>100Mt</item>
-        <item>20Mt</item>
-        <item>10Mt</item>
-        <item>5Mt</item>
-        <item>2Mt</item>
-        <item>1Mt</item>
-        <item>512Kt</item>
-        <item>Odota aina Wi-Fi-yhteyttä</item>
-    </string-array>
     <string-array name="video_type">
         <item>avi</item>
         <item>rmvb</item>
