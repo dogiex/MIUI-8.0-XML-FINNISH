@@ -151,7 +151,7 @@
   <string name="mi_insurance">Mi Vakuutus</string>
   <string name="mi_pass">Mi Passi</string>
   <string name="mi_pay_identity">Henkilöllisyys</string>
-  <string name="micloud_space_info">%s saatavilla</string>
+  <string name="micloud_space_info">%s käytettävissä</string>
   <string name="mili_center">Mi Krediitit</string>
   <string name="mipay_center">Mi Lompakko</string>
   <string name="miui_provision_find_status_text">"Tämä laite on liitettynä jo olemassa olevaan Mi Tiliin (%1$s), vahvista laite syöttämällä salasana.

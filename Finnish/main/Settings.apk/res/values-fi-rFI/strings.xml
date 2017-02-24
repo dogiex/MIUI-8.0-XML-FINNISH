@@ -2033,7 +2033,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="memory_performance">Tehokkuus</string>
   <string name="memory_settings_title">Muisti</string>
   <string name="memory_size">Tallennustilaa yhteensä</string>
-  <string name="memory_title">Saatavilla: %1$s Yhteensä: %2$s</string>
+  <string name="memory_title">Käytettävissä: %1$s Yhteensä: %2$s</string>
   <string name="memory_usage">Muistin käyttötiedot</string>
   <string name="memory_usage_apps">Sovellusten käyttämä muisti</string>
   <string name="memory_use_running_format">%1$s / %2$s</string>

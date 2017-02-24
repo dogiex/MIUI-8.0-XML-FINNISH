@@ -162,7 +162,7 @@
   <string name="dialog_type_text">Asiakirjat</string>
   <string name="dialog_type_video">Videot</string>
   <string name="directory_info_divider">"  |  "</string>
-  <string name="disk_available">Saatavilla: </string>
+  <string name="disk_available">Käytettävissä: </string>
   <string name="disk_total">Yhteensä: </string>
   <string name="dislike_toast">Tämän tyylisiä videoita ei suositella sinulle.</string>
   <string name="dislike_video">En ole kiinnostunut</string>
@@ -446,9 +446,9 @@
   <string name="phone_storage_cal">Tarkistetaan…</string>
   <string name="phone_storage_clean">Puhdista</string>
   <string name="phone_storage_doc_title">Asiakirjat: </string>
-  <string name="phone_storage_free_title">Saatavilla: </string>
+  <string name="phone_storage_free_title">Käytettävissä: </string>
   <string name="phone_storage_image_title">Kuvat: </string>
-  <string name="phone_storage_info_str">%1$s/%2$s saatavilla</string>
+  <string name="phone_storage_info_str">%1$s/%2$s käytettävissä</string>
   <string name="phone_storage_other_title">Muu: </string>
   <string name="phone_storage_size_tip">Tiedostoselaimen tallennustilan laskeminen saattaa poiketa muista sovelluksista</string>
   <string name="phone_storage_video_title">Videot: </string>
@@ -590,12 +590,12 @@
   <string name="sticker_btn_str_explore_tab">Tutki tuhansittain hauskoja juttuja!</string>
   <string name="stop_server">Lopeta palvelin</string>
   <string name="storage_cloned_app">Kloonattujen sovelluksien tallennustila</string>
-  <string name="storage_info_detail">Saatavilla: %1$s Yhteensä: %2$s</string>
+  <string name="storage_info_detail">Käytettävissä: %1$s Yhteensä: %2$s</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB-tallennustila</string>
   <string name="storage_warning">Ulkoista tallennustilaa ei voi käyttää</string>
-  <string name="sys_size_enable">" saatavilla"</string>
+  <string name="sys_size_enable">" käytettävissä"</string>
   <string name="tab_category">Kategoriat</string>
   <string name="tab_claim">Claim</string>
   <string name="tab_common_app">Sovellukset ja kansiot</string>

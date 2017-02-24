@@ -105,7 +105,7 @@
   <string name="paused">Pysäytetty</string>
   <string name="petabyteShort">Pt</string>
   <string name="pick_from_fileexplor_failed">Päivitä Tiedostoselain ensin.</string>
-  <string name="quota_info">Mi Drive: %1$s saatavilla, %2$s yhteensä</string>
+  <string name="quota_info">Mi Drive: %1$s käytettävissä, %2$s yhteensä</string>
   <string name="rename_alert">Jos muutat tämän tiedoston tiedostomuotoa, se ei saata enää aueta.</string>
   <string name="rename_failed">Saman niminen tiedosto on jo olemassa.</string>
   <string name="sd_full">SD-korttisi on täynnä.</string>

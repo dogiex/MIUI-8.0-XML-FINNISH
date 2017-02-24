@@ -603,7 +603,7 @@
   <string name="stick_conversation">Kiinnitä nykyinen keskustelu</string>
   <string name="sticked_conversation">Keskustelu on jo kiinnitetty</string>
   <string name="storage_dialog_attachments">MMS liitetiedostot:</string>
-  <string name="storage_dialog_available_space">Saatavilla oleva tila:</string>
+  <string name="storage_dialog_available_space">Käytettävissä oleva tila:</string>
   <string name="storage_dialog_database">Tietokanta:</string>
   <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">MMS koko:</string>
