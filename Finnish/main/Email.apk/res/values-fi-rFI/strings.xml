@@ -409,7 +409,6 @@
   <string name="file_not_found_redownload">Tiedostoa ei löytynyt</string>
   <string name="file_rar_not_support">Salattuja rar-tiedostoja ei voi avata</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
-  <string name="first_quick_default_reply">Napauta painiketta lähettääksesi \"%s\" kaikille keskustelussa oleville henkilöille</string>
   <string name="float_window_content">Havaitsi, että käytät postilaatikkoa, täytä 139 Sähköpostin käyttäjätunnus ja salasana automaattisesti painamalla Vahvista.</string>
   <string name="float_window_info">Älä käytä puhelinta 139 postilaatikon määrityksen aikana, jotta määritykseen ei tule virheitä.</string>
   <string name="float_window_title">Määritys…</string>
@@ -1001,7 +1000,6 @@
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
 Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran, tai &lt;b&gt;Vaihda Synkronointiasetuksia&lt;/b&gt; laittamalla tälle tilille sähköpostin automaattisen synkronoinnin päälle.</string>
   <string name="wait_for_sync_title">Odotetaan synkronointia</string>
-  <string name="wait_help_context">odota</string>
   <string name="webview_logout">Haluatko varmasti luovuttaa kirjautumisen? Yritä uudelleen!</string>
   <string name="webview_logout_cancel">En yritä enää</string>
   <string name="webview_logout_sure">Yritä vielä kerran</string>
