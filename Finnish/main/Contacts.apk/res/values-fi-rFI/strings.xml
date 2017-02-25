@@ -205,7 +205,7 @@
   <string name="contact_detail_miprofile_accept_success_toast">Yhteystietokortit vaihdettu</string>
   <string name="contact_detail_miprofile_binded_label">Verified</string>
   <string name="contact_detail_miprofile_exchange_closed">Tähän Mi Tiliin ei ole liitettynä puhelinnumeroa
-Yhteystietokortit on kytketty pois päältä"</string>
+Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_detail_miprofile_privacy_settings">Vaadi käyttölupaa katsoessa</string>
   <string name="contact_detail_miprofile_request">Vaihda yhteystietokortteja</string>
   <string name="contact_detail_miprofile_request_fail_toast">Pyyntöä ei voitu lähettää</string>
@@ -218,13 +218,13 @@ Yhteystietokortit on kytketty pois päältä"</string>
   <string name="contact_detail_miprofile_subtitle">Kortit on jo vaihdettu</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Verkkoon ei saada yhteyttä</string>
   <string name="contact_detail_profile_switch_fail_toast">Jotain meni palvelimien kanssa pieleen</string>
-  <string name="contact_detail_profile_switch_off">Kytke yhteystietokortit pois päältä</string>
-  <string name="contact_detail_profile_switch_off_fail_toast">Yhteystietokorttien kytkeminen pois päältä epäonnistui</string>
-  <string name="contact_detail_profile_switch_off_success_toast">Yhteystietokortit kytketty pois päältä</string>
+  <string name="contact_detail_profile_switch_off">Poista yhteystietokortit käytöstä</string>
+  <string name="contact_detail_profile_switch_off_fail_toast">Yhteystietokorttien poistaminen käytöstä epäonnistui</string>
+  <string name="contact_detail_profile_switch_off_success_toast">Yhteystietokortit poistettu käytöstä</string>
   <string name="contact_detail_profile_switch_on">Näytä yhteystiedon profiilikuvat</string>
-  <string name="contact_detail_profile_switch_on_fail_toast">Yhteystietokorttien kytkeminen päälle epäonnistui</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Kytke yhteystietokortit päälle koskettamalla</string>
-  <string name="contact_detail_profile_switch_on_success_toast">Yhteystietokortit kytketty päälle</string>
+  <string name="contact_detail_profile_switch_on_fail_toast">Yhteystietokorttien ottaminen käyttöön epäonnistui</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Ota yhteystietokortit käyttöön koskettamalla</string>
+  <string name="contact_detail_profile_switch_on_success_toast">Yhteystietokortit otettu käyttöön</string>
   <string name="contact_directory_description">Hakemisto %1$s</string>
   <string name="contact_edit_save_error_empty">Yhteystieto on tyhjä</string>
   <string name="contact_edit_title_edit">Muokkaa yhteystietoa</string>
@@ -703,7 +703,7 @@ Syy: %s"</string>
   <string name="miprofile_edit_title">Muokkaa profiilia</string>
   <string name="miprofile_error_accept_self">Sinun käyntikorttiasi ei voida vaihtaa</string>
   <string name="miprofile_error_no_miaccount">Kirjaudu sisään Mi Tilillesi</string>
-  <string name="miprofile_error_not_opened">Kytke käyntikortit pois päältä</string>
+  <string name="miprofile_error_not_opened">Poista käyntikortit käytöstä</string>
   <string name="miprofile_error_not_set">Sinun käyntikorttia ei ole synkronoitu palvelimelle</string>
   <string name="miprofile_error_unknown">Tuntematon virhe</string>
   <string name="miprofile_find_miprofile_title">Lisää profiili</string>
@@ -741,7 +741,7 @@ Syy: %s"</string>
   <string name="miprofile_save_alertdialog_title">Käyntikortti vastaanotettu</string>
   <string name="miprofile_switch_off_alertdialog_message">Et voi vaihtaa käyntikortteja toisten henkilöiden kanssa.</string>
   <string name="miprofile_switch_on_alertdialog_message">Vaihda käyntikortteja nähdäksesi päivitetyn profiilikuvan.</string>
-  <string name="miprofile_switch_on_alertdialog_positive">Kytke päälle</string>
+  <string name="miprofile_switch_on_alertdialog_positive">Ota käyttöön</string>
   <string name="miprofile_switch_on_alertdialog_title">Profiilikuva päivitetty</string>
   <string name="missing_name">(Ei nimeä)</string>
   <string name="missing_required_permission">Olet poistanut käytöstä tarvittavan käyttöoikeuden.</string>

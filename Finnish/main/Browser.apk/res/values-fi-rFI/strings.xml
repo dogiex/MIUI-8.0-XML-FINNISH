@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Lisää</string>
   <string name="abc_action_mode_done">Valmis</string>
   <string name="abc_action_mode_select_all">Valitse kaikki</string>
-  <string name="accept_cookies_confirm_message">Jotkus sivut saattaa käyttäytyä omituisesti, jos kytket tämän ominaisuuden pois päältä.</string>
+  <string name="accept_cookies_confirm_message">Jotkus sivut saattaa käyttäytyä omituisesti, jos poistat tämän ominaisuuden käytöstä.</string>
   <string name="accessibility_button_clear">Tyhjennä teksti</string>
   <string name="accessibility_date_picker_month">Kuukausi</string>
   <string name="accessibility_date_picker_week">Viikko</string>
@@ -282,7 +282,7 @@
   <string name="empty_bookmark">Tyhjä</string>
   <string name="empty_history_hint">Historia on tyhjä</string>
   <string name="empty_snapshot_hint">Tyhjä</string>
-  <string name="enable_geolocation_confirm_message">Jotkut sivustot saattavat käyttäytyä omituisesti, jos kytket tämän toiminnon pois päältä.</string>
+  <string name="enable_geolocation_confirm_message">Jotkut sivustot saattavat käyttäytyä omituisesti, jos poistat tämän toiminnon käytöstä.</string>
   <string name="enter_developer_mode">Siirry kehittäjätilaan</string>
   <string name="enter_incongnito_mode">Siirry näkymättömään tilaan</string>
   <string name="error_console_eval_button_text">Arvioi</string>
@@ -426,14 +426,14 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_homepage">Etusivu</string>
   <string name="miuichromium_error_page_mobile">Mobiilidata</string>
   <string name="miuichromium_error_page_network_hijack">Nykyinen verkko ei ole turvallinen</string>
-  <string name="miuichromium_error_page_network_off">Kytke Wi-Fi tai mobiilidata päälle</string>
+  <string name="miuichromium_error_page_network_off">Ota Wi-Fi tai mobiilidata käyttöön</string>
   <string name="miuichromium_error_page_no_network">Verkkoon ei saada yhteyttä</string>
   <string name="miuichromium_error_page_reload">Päivitä</string>
   <string name="miuichromium_error_page_safe_network">Vikatila</string>
   <string name="miuichromium_error_page_server_error">Liian monta laitetta yrittää yhdistää</string>
   <string name="miuichromium_error_page_title">Tapahtui virhe</string>
   <string name="miuichromium_error_page_unknown_error">Hupsista, jotain meni mönkään</string>
-  <string name="miuichromium_error_page_wlan">Kytke Wi-Fi päälle</string>
+  <string name="miuichromium_error_page_wlan">Ota Wi-Fi käyttöön</string>
   <string name="miuishare_account_activate_confirmation">Aktivointi vaaditaan</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>
   <string name="miuishare_account_login_cancel">Peruuta</string>
@@ -494,7 +494,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="permission_alert_window">Salli ponnahdusikkunat käyttääksesi tätä toimintoa</string>
   <string name="permission_unknown">Tuntematon toiminto</string>
   <string name="popup_window_attempt">Sallitaanko tämän sivuston avata ponnahdusikkuna?</string>
-  <string name="positive_confirm_message">Kytke pois päältä kuitenkin</string>
+  <string name="positive_confirm_message">Poista käytöstä</string>
   <string name="pref_accessibility">Esteettömyys</string>
   <string name="pref_accessibility_title">Esteettömyys</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one tap in the address bar</string>
@@ -617,7 +617,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="readmode_recommend_message">Olet lukenut tämän kirjan jo. :)</string>
   <string name="readmode_refresh">Päivitä</string>
   <string name="readmodelist_bookmarks_to_show">Lukulista</string>
-  <string name="remember_passwords_confirm_message">Tämän toiminnon kytkeminen pois päältä voi vaikuttaa käyttökokemukseen.</string>
+  <string name="remember_passwords_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>
   <string name="remove_bookmark">Poista kirjanmerkki</string>
   <string name="remove_bookmark_group">Poista ryhmä</string>
   <string name="remove_from_bookmarks">Poista kirjanmerkeistä</string>
@@ -642,7 +642,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="save_file">Tallenna %s tiedosto</string>
   <string name="save_file_already_exist_alert_message">Samalla nimellä oleva tiedosto on jo olemassa, haluatko korvata tiefoston?</string>
   <string name="save_file_already_exist_alert_title">Korvataanko tiedosto?</string>
-  <string name="save_form_data_confirm_message">Tämän toiminnon kytkeminen pois päältä voi vaikuttaa käyttökokemukseen.</string>
+  <string name="save_form_data_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>
   <string name="save_image_failed">Kuvaa ei voitu tallentaa</string>
   <string name="save_image_success">Kuva tallennettu</string>
   <string name="save_page_capture_tip">Avaa ilmoituspalkki, josta näet ottamasi kuvakaappauksen.</string>
@@ -679,9 +679,9 @@ Poistutaanko tältä sivulta?"</string>
   <string name="secure_download_in_xiaomi_market">Lataa Sovelluskaupasta</string>
   <string name="secureaccess">Vaihda Turva-tilaan</string>
   <string name="secureaccess_cancel">Hylkää</string>
-  <string name="security_url_confirm_message">Tämän toiminnon kytkeminen pois päältä voi aiheuttaa turvallisuusriskejä.</string>
+  <string name="security_url_confirm_message">Tämän toiminnon poistaminen käytöstä voi aiheuttaa turvallisuusriskejä.</string>
   <string name="security_warning">Suojausvaroitus</string>
-  <string name="security_warnings_confirm_message">Tämän toiminnon kytkeminen pois päältä voi aiheuttaa turvallisuusriskejä.</string>
+  <string name="security_warnings_confirm_message">Tämän toiminnon poistaminen käytöstä voi aiheuttaa turvallisuusriskejä.</string>
   <string name="select_dot">Tekstin valinta</string>
   <string name="select_download_device">Valitse laite</string>
   <string name="send_comment_button">Lähetä</string>
@@ -689,9 +689,9 @@ Poistutaanko tältä sivulta?"</string>
   <string name="senddesktop">Kotinäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
   <string name="share_page_text">"Katso ihmeessä tämä 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Tämän sivun URL-osoite lähetetään Xiaomin palvelimille tarkastettavaksi, jotta se on turvallinen. Voit kytkeä tämän toiminnon pois päältä koska tahansa Asetuksista.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Tämän sivun URL-osoite lähetetään Xiaomin palvelimille tarkastettavaksi, jotta se on turvallinen. Voit poistaa tämän toiminnon käytöstä koska tahansa Asetuksista.</string>
   <string name="show_security_tip_dialog_title">Palveluehdot</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Sää-palvelut tarvitsee sijaintitietojasi näyttääkseen tarkan säätiedon selaimessasi. Voit kytkeä tämän toiminnon pois päältä Asetuksista.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Sää-palvelut tarvitsee sijaintitietojasi näyttääkseen tarkan säätiedon selaimessasi. Voit poistaa tämän toiminnon käytöstä Asetuksista.</string>
   <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
   <string name="skip_button_label">Ohita</string>
   <string name="skip_current_version">Ohita tämä versio</string>
@@ -749,7 +749,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="up_to_loading_tips">Vapauta päivittääksesi</string>
   <string name="update_no_network_toast">Verkkoon ei saada yhteyttä</string>
   <string name="updating_chrome">Päivitetään Chromea...</string>
-  <string name="uploads_disabled">Tiedostojen lähetys on kytketty pois päältä</string>
+  <string name="uploads_disabled">Tiedostojen lähetys on poistettu käytöstä</string>
   <string name="url_copy_done">URL kopioitiin leikepöydälle</string>
   <string name="url_find_on_page_result">Näytä Selaimessa</string>
   <string name="url_find_on_page_result_item">Näytä kaikki kohteen \"%s\" tekstit</string>
@@ -834,7 +834,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="voice_title_listening">Kuunnellaan…</string>
   <string name="voice_title_please">Aloita puhuminen…</string>
   <string name="voice_title_speech_again">Puhetta ei ymmärretty</string>
-  <string name="weather_location_confirm_message">Kytkemällä tämä toiminto pois päältä voi vaikuttaa käyttökokemukseen.</string>
+  <string name="weather_location_confirm_message">Poistamalla tämän ominaisuuden käytöstä voi vaikuttaa käyttökokemukseen.</string>
   <string name="webpage_bookmark_title">Kirjanmerkit</string>
   <string name="webpage_history_title">Historia</string>
   <string name="webpage_title">Kirjanmerkit &amp; Historia</string>

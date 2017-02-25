@@ -7,7 +7,7 @@
   <string name="about_settings_summary">Näytä lakitiedot, tila, ohjelmiston versio</string>
   <string name="ac_enable_summary">Aseta sovellukselle salasana</string>
   <string name="ac_enable_title">Sovelluslukko</string>
-  <string name="ac_privacy_mode_sum">Vaadi salasana Vieras-tilan poiskytkemiseksi</string>
+  <string name="ac_privacy_mode_sum">Vaadi salasana Vieras-tilan poistamiseksi käytöstä</string>
   <string name="ac_privacy_mode_title">Salasana</string>
   <string name="ac_set_apps_title">Valitse lukitettavat sovellukset</string>
   <string name="accelerometer_summary_off">Vaihda suuntaa automaattisesti, kun puhelinta käännetään</string>
@@ -633,7 +633,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_tethering_available_subtext">Puhelimen internetyhteys jaetaan</string>
   <string name="bluetooth_tethering_device_connected_subtext">Puhelimen internetyhteys jaettu 1 laitteelle</string>
   <string name="bluetooth_tethering_devices_connected_subtext">Puhelimen internetyhteys jaettu %1$d laitteelle</string>
-  <string name="bluetooth_tethering_errored_subtext">Ei kytketty</string>
+  <string name="bluetooth_tethering_errored_subtext">Ei yhdistetty</string>
   <string name="bluetooth_tethering_off_subtext">Puhelimen internetyhteyttä ei jaeta</string>
   <string name="bluetooth_tethering_off_subtext_config">Jakaa laitteen %1$d internetyhteyden</string>
   <string name="bluetooth_tethering_overflow_error">Voidaan yhdistää korkeintaan %1$d laitteeseen.</string>
@@ -772,7 +772,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="change_password">Vaihda näytön lukitus</string>
   <string name="change_security_lock">Kokeile muita keinoja lukituksen poistoon</string>
   <string name="change_storage">Vaihda tallennustila</string>
-  <string name="charging_sounds_title">Laturin kytkemisääni</string>
+  <string name="charging_sounds_title">Laturin yhdistämisen ääni</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Tarkasta päivitykset</string>
   <string name="checkbox_notification_same_as_incoming_call">Käytä ilmoituksille puhelun äänenvoimakkuutta</string>
@@ -885,10 +885,10 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
 
 Tehdasasetukset on palautettava, jotta voit jatkaa puhelimen käyttöä. Tehdasasetusten palautuksen jälkeen voit määrittää puhelimen asetukset uudelleen ja palauttaa Google-tiliisi mahdollisesti varmuuskopioidut tiedot."</string>
   <string name="crypt_keeper_data_corrupt_title">Salauksen purku onnistui</string>
-  <string name="crypt_keeper_decrypt_methods">Jos olet salannut puhelimesi ja kytkenyt näytön lukituksen (kuvion, PIN-koodin tai salasanan avulla), sinun pitää vapauttaa lukitus salauksen purkamiseksi aina virran kytkemisen jälkeen. Ainoa vaihtoehtoinen tapa poistaa  salaus on suorittaa palautus tehdasasetuksiin, jolloin kaikki tiedot katoavat.</string>
+  <string name="crypt_keeper_decrypt_methods">Jos olet salannut puhelimesi ja ottanut näytön lukituksen käyttöön (kuvion, PIN-koodin tai salasanan avulla), sinun pitää vapauttaa lukitus salauksen purkamiseksi aina virran kytkemisen jälkeen. Ainoa vaihtoehtoinen tapa poistaa  salaus on suorittaa palautus tehdasasetuksiin, jolloin kaikki tiedot katoavat.</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Jos olet salannut laitteen, sinun täytyy syöttää salasana, PIN-koodi, tai kuvio aina, kun käynnistät laitteen, jotta salaus puretaan.</string>
   <string name="crypt_keeper_decrypt_methods_title">Puretaan laitteen salausta</string>
-  <string name="crypt_keeper_desc">"Voit salata tilisi, asetukset, ladatut sovellukset tietoineen, median ja muut tiedostot. Jos olet salannut puhelimesi ja kytkenyt näytön lukituksen (kuvion, PIN-koodin tai salasanan avulla), sinun pitää vapauttaa lukitus salauksen purkamiseksi aina virran kytkemisen jälkeen. Ainoa vaihtoehtoinen tapa poistaa  salaus on suorittaa palautus tehdasasetuksiin, jolloin kaikki tiedot katoavat.
+  <string name="crypt_keeper_desc">"Voit salata tilisi, asetukset, ladatut sovellukset tietoineen, median ja muut tiedostot. Jos olet salannut puhelimesi ja ottanut näytön lukituksen käyttöön (kuvion, PIN-koodin tai salasanan avulla), sinun pitää vapauttaa lukitus salauksen purkamiseksi aina virran kytkemisen jälkeen. Ainoa vaihtoehtoinen tapa poistaa  salaus on suorittaa palautus tehdasasetuksiin, jolloin kaikki tiedot katoavat.
 
 Salaaminen kestää ainakin tunnin. Akun täytyy olla alussa ladattu, ja puhelimen pitää olla pistorasiaan kiinnitettynä koko prosessin ajan. Jos keskeytät sen, tiedot häviävät kokonaan tai osittain."</string>
   <string name="crypt_keeper_dialog_need_password_message">Sinun on asetettava lukitusnäytön PIN-koodi tai salasana ennen salauksen aloittamista.</string>
@@ -2869,7 +2869,7 @@ Näytön kiinnityksen käyttö:
   <string name="sd_memory">USB-tallennustila</string>
   <string name="sd_mount">Ota USB-tila käyttöön</string>
   <string name="sd_mount_summary"/>
-  <string name="sdcard_changes_instructions">Muutokset tulevat voimaan, kun USB-kaapeli kytketään uudelleen.</string>
+  <string name="sdcard_changes_instructions">Muutokset tulevat voimaan, kun USB-kaapeli yhdistetään uudelleen.</string>
   <string name="sdcard_format">Tyhjennä USB-tila</string>
   <string name="sdcard_setting">USB-tallennustila</string>
   <string name="sdcard_settings_available_bytes_label">Tavuja käytettävissä:</string>
@@ -3945,7 +3945,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vibrate_in_normal_title">Käytä värinää soidessa</string>
   <string name="vibrate_in_silent_title">Käytä värinää äänettömässä tilassa</string>
   <string name="vibrate_input_devices">Käytä värinää</string>
-  <string name="vibrate_input_devices_summary">Ohjaa värinä peliohjaimeen, jos ohjain on kytketty.</string>
+  <string name="vibrate_input_devices_summary">Ohjaa värinä peliohjaimeen, jos ohjain on yhdistetty.</string>
   <string name="vibrate_on_touch_title">Käytä värinää kosketettaessa</string>
   <string name="vibrate_when_ringing_title">Värinä myös puheluille</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>

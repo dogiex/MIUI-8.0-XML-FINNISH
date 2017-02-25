@@ -303,9 +303,9 @@
   <string name="select_sub_file_download">Valitse ladattava tiedosto</string>
   <string name="select_subfile_all">Valitse kaikki</string>
   <string name="selected_count">Valittu %1$d/%2$d</string>
-  <string name="setting_close_debug">Virheenkorjaustila kytketty pois päältä</string>
-  <string name="setting_debug_fail">Virheenkorjaustilaa ei voitu kytkeä päälle</string>
-  <string name="setting_open_debug">Virheenkorjaustila kytketty päälle. Napauta tähän 6 kertaa kytkeäksesi virheenkorjaustilan pois päältä.</string>
+  <string name="setting_close_debug">Virheenkorjaustila poistettu käytöstä</string>
+  <string name="setting_debug_fail">Virheenkorjaustilaa ei voitu ottaa käyttöön</string>
+  <string name="setting_open_debug">Virheenkorjaustila otettu käyttöön. Napauta tähän 6 kertaa poistaaksesi virheenkorjaustilan käytöstä.</string>
   <string name="shortcut_dialog_content">Luo pikakuvake Koti-näytölle etsiäksesi lähteitä suoraan.</string>
   <string name="shortcut_dialog_create">Luo</string>
   <string name="shortcut_dialog_title">Luodaanko Koti-näytölle pikakuvake?</string>
@@ -381,13 +381,13 @@
   <string name="title_tips">Huomio</string>
   <string name="title_unbind_xunlei">Poista Xunlei Tilisi</string>
   <string name="toast_only_wifi_download">Lataa tämä tiedosto yhdistämällä Wi-Fi-verkkoon</string>
-  <string name="toast_xunlei_engine_open">Xunlei latauksen kiihdyttäjä kytkettiin päälle</string>
+  <string name="toast_xunlei_engine_open">Xunlei latauksen kiihdyttäjä otettiin käyttöön</string>
   <string name="torrent_file_error">Tätä torrent-tiedostoa ei voitu jäsentää</string>
   <string name="torrent_no_subfile">Ei alitiedostoja tässä torrentissa</string>
   <string name="total_speedup">Nopeuden kiihdytys (yhteensä)</string>
   <string name="turn_off_xunlei_message">Saatat kohdata hitaampia latausnopeuksia.</string>
   <string name="turn_off_xunlei_tips">Xunlei latauksen kiihdyttäjä on pois päältä</string>
-  <string name="turn_off_xunlei_title">Kytke Xunlei pois päältä</string>
+  <string name="turn_off_xunlei_title">Poista Xunlei käytöstä</string>
   <string name="unbind_xunlei_2_success">Xunlei Tili luotu</string>
   <string name="unbind_xunlei_success">Kirjauduttiin ulos Xunlei Tililtä</string>
   <string name="unit_cn_hundredmillions">00M</string>
@@ -410,7 +410,7 @@
   <string name="xl_bind_account">Lisää olemassaoleva Xunlei Tili </string>
   <string name="xl_extend">Lisää</string>
   <string name="xl_highway_autoopen">High-speed kanava</string>
-  <string name="xl_highway_autoopen_info">Kytke high-speed kanava päälle automaattisesti</string>
+  <string name="xl_highway_autoopen_info">Ota high-speed kanava käyttöön automaattisesti</string>
   <string name="xl_highway_title">High-speed kanava:   </string>
   <string name="xl_month_vip_open">Kuukausittainen jäsenyys (%1$s Mi Krediittiä)</string>
   <string name="xl_month_vip_renew">Uusi yhdeksi kuukaudeksi (%1$s Mi Krediittiä)</string>
@@ -435,7 +435,7 @@
   <string name="xunlei_account_has_unbind_message">Xunlei Tili poistettu</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-  <string name="xunlei_close_tips_button">Kytke päälle</string>
+  <string name="xunlei_close_tips_button">Ota käyttöön</string>
   <string name="xunlei_close_tips_content">Xunlei latauksen kiihdyttäjä.</string>
   <string name="xunlei_close_tips_title">Kiihdytä latauksiasi</string>
   <string name="xunlei_gaosu">Xunlei latauksen kiihdyttäjä</string>

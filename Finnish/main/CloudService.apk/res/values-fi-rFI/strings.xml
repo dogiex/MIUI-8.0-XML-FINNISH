@@ -2,7 +2,7 @@
 <resources>
   <string name="access_denied">Pääsy kielletty</string>
   <string name="account">Tili</string>
-  <string name="account_related">Laitteesi on kytkettynä jo olemassa olevaan Mi Tiliin(%s). Yhdistä verkkoon ja todenna laitteesi.</string>
+  <string name="account_related">Laitteesi on linkitettynä jo olemassa olevaan Mi Tiliin(%s). Yhdistä verkkoon ja todenna laitteesi.</string>
   <string name="activate">Aktivoi</string>
   <string name="activate_finddevice">Yhdistä verkkoon ja aktivoi laitteesi</string>
   <string name="activate_number_change_dialog_message">Valitse puhelinnumero, joka näytetään muille laitteille, kun käytät VoIP-puheluita.</string>

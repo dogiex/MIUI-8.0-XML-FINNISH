@@ -42,7 +42,7 @@
   <string name="authorize_detail">Estetty %d sovellusta</string>
   <string name="auto_clean_switch_off">Pois</string>
   <string name="auto_clean_switch_on">Päällä</string>
-  <string name="auto_cleaner_open">Kytke päälle</string>
+  <string name="auto_cleaner_open">Ota käyttöön</string>
   <string name="back">Takaisin</string>
   <string name="browser_scan_history_desc">Selainhistoria</string>
   <string name="browser_search_history_desc">Etsityt kohteet</string>
@@ -366,7 +366,7 @@
   <string name="notification_title_of_garbage_cleanup">Roskien koko</string>
   <string name="notify_when">Saa ilmoitus, kun roskien koko yltää 100Mt</string>
   <string name="ok">OK</string>
-  <string name="open">Kytke päälle</string>
+  <string name="open">Ota käyttöön</string>
   <string name="open_app">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
   <string name="optimizecenter_data_support_cm">Tarjoaja Clean Master</string>
@@ -444,7 +444,7 @@
   <string name="search_history">Hakuhistoria</string>
   <string name="see_more">Lisää</string>
   <string name="set_immediately">Aseta</string>
-  <string name="seton_immediately">Kytke päälle</string>
+  <string name="seton_immediately">Ota käyttöön</string>
   <string name="share">Jaa</string>
   <string name="similar_image_desc">Poista samankaltaiset kuvat</string>
   <string name="similar_image_empty">Kaksoiskappaleita ei löytynyt</string>

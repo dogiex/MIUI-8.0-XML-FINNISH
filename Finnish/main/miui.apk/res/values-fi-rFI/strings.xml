@@ -482,7 +482,7 @@
   <string name="send_sms_for_sync_title">Datankäyttövaroitus</string>
   <string name="sim_changed_reactivate_int_notice">Operaattorisi saattaa veloittaa kansainvälisen tekstiviestin lähetyksestä tämän palvelun uudelleenaktivoimiseksi.</string>
   <string name="sim_changed_reactivate_notice">Operaattorisi saattaa veloittaa tekstiviestin lähetyksestä tämän palvelun uudelleenaktivoimiseksi.</string>
-  <string name="sim_in_airplane_mode">Kytke lentokone-tila pois päältä.</string>
+  <string name="sim_in_airplane_mode">Poista lentokone-tila käytöstä.</string>
   <string name="sim_locked">SIM-kortti on lukittu.</string>
   <string name="sim_not_ready">SIM-kortti on käytössä. Yritä myöhemmin uudelleen.</string>
   <string name="sim_unavailable">SIM-kortti ei ole käytettävissä.</string>

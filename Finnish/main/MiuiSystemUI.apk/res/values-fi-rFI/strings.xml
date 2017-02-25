@@ -158,7 +158,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="dlg_error_title">USB-toiminto epäonnistui</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Ajotila käytössä - Aja varovaisesti</string>
-  <string name="enable_power_save_mode">Kytke Akun säästäjä päälle</string>
+  <string name="enable_power_save_mode">Ota Akun säästäjä käyttöön</string>
   <string name="expanded_confirm_disable_notification">Piilota</string>
   <string name="expanded_notification_manager">Hallitse ilmoituksia</string>
   <string name="ext_media_badremoval_notification_message">Poista USB-muisti turvallisesti ennen sen ottamista irti laitteesta välttääksesi tiedostojen menettämistä.</string>
@@ -260,8 +260,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="return_to_incall_screen">Palaa takaisin puheluun</string>
   <string name="save_mode_btn_ok">OK</string>
   <string name="saved_network">Tallentaja %1$s</string>
-  <string name="screen_button_notification_text">Kytkeäksesi ne päälle, paina Koti ja Virta-painiketta samaan aikaan.</string>
-  <string name="screen_button_notification_title">Navigointi-painikkeet on pois päältä</string>
+  <string name="screen_button_notification_text">Ota ne käyttöön painamalla Koti ja Virta-painiketta samaan aikaan.</string>
+  <string name="screen_button_notification_title">Navigointi-painikkeet on poistettu käytöstä</string>
   <string name="screen_pinning_description">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys koskettamalla pohjaan Koti- ja Virtapainiketta yhtäaikaan.</string>
   <string name="screen_pinning_description_accessible">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys koskettamalla pohjaan Koti- ja Virtapainiketta yhtäaikaan.</string>
   <string name="screen_pinning_negative">Ei kiitos</string>

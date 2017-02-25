@@ -121,12 +121,12 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Aina</item>
-        <item>Vain, kun laturi on kytketty</item>
+        <item>Vain, kun laturi on liitetty</item>
         <item>Ei koskaan</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Aina</item>
-        <item>Vain, kun laturi on kytketty</item>
+        <item>Vain, kun laturi on liitetty</item>
         <item>Ei koskaan</item>
     </string-array>
     <string-array name="data_usage_data_range">
@@ -498,7 +498,7 @@
     <string-array name="usb_connection_mode_entries">
         <item>Kysy yhdistettäessä</item>
         <item>Vain lataus</item>
-        <item>Kytke SD-kortti</item>
+        <item>Aseta SD-kortti</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 sekuntia</item>
