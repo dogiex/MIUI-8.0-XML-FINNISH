@@ -5,10 +5,10 @@
   <string name="applications">Sovellukset</string>
   <string name="category_others">Muu</string>
   <string name="category_setting">Asetukset</string>
-  <string name="close_panel">Laita Pikavalikko pois päältä</string>
+  <string name="close_panel">Poista Pikavalikko käytöstä</string>
   <string name="customize_entries">Valitse pikatoiminnot</string>
-  <string name="enable_touch_assistant">Laita Pikavalikko päälle</string>
-  <string name="enabled_for_pad_hint">Toimi, kun \"Estä navigointi-painikkeet vaaka-asennossa\" on laitettu päälle</string>
+  <string name="enable_touch_assistant">Ota Pikavalikko käyttöön</string>
+  <string name="enabled_for_pad_hint">Toimi, kun \"Estä navigointi-painikkeet vaaka-asennossa\" on otettu käyttöön</string>
   <string name="function_settings">Pikatoiminnon asetukset</string>
   <string name="hide_touch_assistant">Piilota automaattisesti</string>
   <string name="hide_touch_assistant_intro">Piilota Pikavalikko valituissa sovelluksissa.</string>
@@ -38,7 +38,7 @@
   <string name="nfc_all_mipay_card_not_in_use">Mi Maksua ei ole aktivoitu</string>
   <string name="nfc_trans_card_not_in_use">Matkustuskortti ei ole aktivoitu</string>
   <string name="not_working">%s (Ei toimi)</string>
-  <string name="open_panel">Laita Pikavalikko päälle</string>
+  <string name="open_panel">Ota Pikavalikko käyttöön</string>
   <string name="pay_entry_dialog_title_select">Aseta avattava sovellus</string>
   <string name="pay_entry_dialog_title_setting">Aseta sovellus</string>
   <string name="pref_category_mipay">NFC oikotiet</string>

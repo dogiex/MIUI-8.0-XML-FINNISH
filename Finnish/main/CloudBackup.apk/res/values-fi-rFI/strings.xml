@@ -93,7 +93,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="menu_item_sort_size">Koko</string>
   <string name="miui_device_name">Android</string>
   <string name="name_model">"%1$s's %2$s"</string>
-  <string name="open_wifi">Laita Wi-Fi päälle</string>
+  <string name="open_wifi">Ota Wi-Fi käyttöön</string>
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>

@@ -12,7 +12,7 @@
   <string name="afternoon">ip.</string>
   <string name="am">ap.</string>
   <string name="birthday">Syntymäpäivä</string>
-  <string name="check_phone_error_title">Synkronointi on pois päältä</string>
+  <string name="check_phone_error_title">Synkronointi ei käytössä</string>
   <string name="check_phone_io_error">Verkkoon ei saada yhteyttä</string>
   <string name="chinese_day_1">初一</string>
   <string name="chinese_day_10">初十</string>
@@ -340,10 +340,10 @@
   <string name="empty"/>
   <string name="eras_ad">jKr.</string>
   <string name="eras_bc">eKr.</string>
-  <string name="error_forbidden">Synkronointi on otettu pois päältä Mi Tilisi johtuneiden ongelmien vuoksi.</string>
-  <string name="error_not_acceptable">Synkronointi on otettu pois päältä.</string>
+  <string name="error_forbidden">Synkronointi on poistettu käytöstä Mi Tilissäsi johtuneiden ongelmien vuoksi.</string>
+  <string name="error_not_acceptable">Synkronointi on poistettu käytöstä.</string>
   <string name="error_title">Synkronointi epäonnistui</string>
-  <string name="error_unauthorized">Synkronointi on otettu pois päältä liian monen kirjautumisyrityksen takia.</string>
+  <string name="error_unauthorized">Synkronointi on käytöstä liian monen kirjautumisyrityksen takia.</string>
   <string name="evening">ip.</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>

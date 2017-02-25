@@ -8,10 +8,10 @@
   <string name="device_locked">Tämä laite on lukittu</string>
   <string name="device_lost">Tämä laite on hukattu</string>
   <string name="disable_find_device_error">Etsi laite-toimintoa ei voida sammuttaa. %1$s</string>
-  <string name="disable_find_device_success">Etsi laite-toiminto on pois päältä</string>
+  <string name="disable_find_device_success">Etsi laite-toiminto ei käytössä</string>
   <string name="doing_extra_login_steps">Varmistetaan kirjautumista…</string>
   <string name="enable_find_device_error">Etsi laite-toimintoa ei voida ottaa käyttöön. %1$s</string>
-  <string name="enable_find_device_success">Etsi laite-toiminto on päällä</string>
+  <string name="enable_find_device_success">Etsi laite-toiminto on käytössä</string>
   <string name="find_device">Etsi laite</string>
   <string name="find_device_crash">Etsi laite-toiminto sulkeutui odottamattomasti.</string>
   <string name="find_device_error_account_sys_timeout">Mi Tiliin ei saada yhteyttä. </string>

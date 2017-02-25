@@ -26,7 +26,7 @@
   <string name="config_restrict_function_title">Rajoita taustasovelluksia</string>
   <string name="config_restrict_running_description">Sovellukset suljetaan virran säästämiseksi</string>
   <string name="config_restrict_running_title">Rajoita taustatyöskentelyä</string>
-  <string name="config_suggest_description">"Pidä tärkeät prosessit päällä tunnistamalla sovellukset ja niiden taustatyöskentelyt.
+  <string name="config_suggest_description">"Pidä tärkeät prosessit käytössä tunnistamalla sovellukset ja niiden taustatyöskentelyt.
 Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="config_suggest_suffix_title">MIUI Akun säästäjä (suositus)</string>
   <string name="config_suggest_title">MIUI Akun säästäjä</string>
@@ -40,7 +40,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="full_screen_enter">Siirry koko näytön tilaan</string>
   <string name="full_screen_exit">Poistu koko näytön tilasta</string>
   <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Toiminto saattaa vaikuttaa verkkoyhteyteen, sijaintipalveluun, Radioon, Ajastimeen jne. Tämä määritys on sopiva useammille sovelluksille, mutta jos tietty sovellus käyttäytyy taustalla epänormaalisti, voit muokata asetuksia sovelluskohtaisesti.</string>
-  <string name="hide_mode_ultimate_desc">Ultimate-tila on päällä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta laittamalla Akun säästäjä pois päältä.</string>
+  <string name="hide_mode_ultimate_desc">Ultimate-tila on käytössä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta poistamalla Akun säästäjä käytöstä.</string>
   <string name="high">Suorituskyky</string>
   <string name="hints_loading_text">Pieni hetki…</string>
   <string name="location_disable_description">Taustalla olevat sovellukset voivat käyttää sijaintipalvelua hetkittäin, mutta jatkuva käyttö on rajoitettu</string>
@@ -87,9 +87,9 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_data_connect_summary">Salli sovelluksien yhdistää verkkoon taustalla</string>
   <string name="power_config_data_connect_title">Data-yhteys</string>
   <string name="power_config_disable_description">MIUI ei rajoita taustatyöskentelyjä</string>
-  <string name="power_config_disable_title">Pois</string>
+  <string name="power_config_disable_title">Ei käytössä</string>
   <string name="power_config_enhance_description">MIUI will restrict all background activity when possible</string>
-  <string name="power_config_enhance_title">Päällä</string>
+  <string name="power_config_enhance_title">Käytössä</string>
   <string name="power_config_event_delete">Poista</string>
   <string name="power_config_idle_notification_summary">Näytä vain sovelluksen ensimmäinen ilmoitus</string>
   <string name="power_config_idle_notification_title">Näytä vain ensimmäinen ilmoitus</string>
@@ -106,8 +106,8 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_select_apps_title">Sovellukset</string>
   <string name="power_config_title">Asetukset</string>
   <string name="power_config_ultimate_description">MIUI jäädyttää taustalla olevat sovellukset</string>
-  <string name="power_config_ultimate_off_already">Ultimate-tila pois päältä</string>
-  <string name="power_config_ultimate_on_already">Ultimate-tila päällä</string>
+  <string name="power_config_ultimate_off_already">Ultimate-tila ei käytössä</string>
+  <string name="power_config_ultimate_on_already">Ultimate-tila käytössä</string>
   <string name="power_config_ultimate_title">Ultimate</string>
   <string name="power_config_ultimate_unlock_already">Kaikki kohteet avattu</string>
   <string name="power_configure_screen_brightness_enable">Aseta näytön kirkkaus</string>
@@ -119,8 +119,8 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_dialog_lcd_mode_title">Näyttö-tila</string>
   <string name="power_dialog_new_event_fail">Uusia tapahtumia ei voitu lisätä</string>
   <string name="power_dialog_ok">OK</string>
-  <string name="power_dialog_power_keeper_disable">Laitetaanko Akun säästäjä pois päältä?</string>
-  <string name="power_dialog_power_keeper_enable">Laitetaanko Akun säästäjä päälle?</string>
+  <string name="power_dialog_power_keeper_disable">Poistetaanko Akun säästäjä käytöstä?</string>
+  <string name="power_dialog_power_keeper_enable">Otetaanko Akun säästäjä käyttöön?</string>
   <string name="power_dialog_screen_brightness_title">Kirkkaus</string>
   <string name="power_event_user_define_title">Uusia tapahtumia</string>
   <string name="power_event_view_event_title">Käynnistimet</string>

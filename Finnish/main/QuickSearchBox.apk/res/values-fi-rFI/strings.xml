@@ -51,9 +51,9 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="permission_prompt_title">Halutko lisää?</string>
   <string name="recent_apps">Viimeaikaiset sovellukset</string>
   <string name="recent_apps_filter">Piilota sovellukset, joita et käytä</string>
-  <string name="recent_close_content">"Laitetaanko tämä toiminto pois päältä nyt?
+  <string name="recent_close_content">"Poistetaanko tämä ominaisuus käytöstä nyt?
 Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
-  <string name="recent_close_title">Laita toiminto pois päältä</string>
+  <string name="recent_close_title">Poista ominaisuus käytöstä</string>
   <string name="recent_delete_content">"Piilotetaanko nämä sovellukset nyt?
 Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="recent_delete_negative">Peruuta</string>
@@ -61,8 +61,8 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="recent_delete_title">Piilota sovellukset</string>
   <string name="recent_edit">Muokkaa</string>
   <string name="recent_edit_done">Valmis</string>
-  <string name="recent_filter_functions">Toiminnot pois päältä</string>
-  <string name="recent_function">Toiminnot</string>
+  <string name="recent_filter_functions">Ominaisuudet ei käytössä</string>
+  <string name="recent_function">Ominaisuudet</string>
   <string name="recently_shortcut_label">Viimeaikaiset pikakuvakkeet</string>
   <string name="remove_from_history">Halutko poistaa tämän kohteen hakuhistoriasta?</string>
   <string name="remove_from_history_failed">Poistaminen historiasta epäonnistui.</string>

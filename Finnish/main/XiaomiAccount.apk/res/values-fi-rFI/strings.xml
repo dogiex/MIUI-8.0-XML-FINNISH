@@ -83,7 +83,7 @@
   <string name="continue_action">Jatka</string>
   <string name="cta_declaration_agree_and_continue">Hyväksy</string>
   <string name="cta_declaration_exit">Poistu</string>
-  <string name="cta_declaration_message">Kirjautuaksesi Mi Tilillesi, sinun täytyy olla yhteydessä internettiin. Sijaintipalvelut ja synkronointi Mi Pilven kanssa laitetaan päälle. Varmuuskopioidaksesi tiedostoja, tämä sovellus tarvitsee pääsyn yhteystietoihisi, viesteihisi, puheluhistoriaasi ja nauhoituksiisi. Emme käytä tietoja markkinointitarkoituksiin emmekä jaa niitä kolmansille osapuolille. Mi tilille kirjautumisen jälkeen Mi VIP ja Mi palvelut yhdistävät internettiin.</string>
+  <string name="cta_declaration_message">Kirjautuaksesi Mi Tilillesi, sinun täytyy olla yhteydessä internettiin. Sijaintipalvelut ja synkronointi Mi Pilven kanssa otetaan käyttöön. Varmuuskopioidaksesi tiedostoja, tämä sovellus tarvitsee pääsyn yhteystietoihisi, viesteihisi, puheluhistoriaasi ja nauhoituksiisi. Emme käytä tietoja markkinointitarkoituksiin emmekä jaa niitä kolmansille osapuolille. Mi tilille kirjautumisen jälkeen Mi VIP ja Mi palvelut yhdistävät internettiin.</string>
   <string name="cta_declaration_title">Käyttöehdot</string>
   <string name="current_location_title">Nykyinen sijainti</string>
   <string name="delete_action">Poista</string>
@@ -157,8 +157,8 @@
   <string name="miui_provision_find_status_text">"Tämä laite on liitettynä jo olemassa olevaan Mi Tiliin (%1$s), vahvista laite syöttämällä salasana.
 (Lukituksen avausnumero: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Näyttää siltä, että käytät Mi Tiliä Ensimmäisessä tilassa.</string>
-  <string name="multi_user_not_show_sync_activity_message_2">Tällaisessa tapauksessa kaikki tiedot synkronoidaan Toisen tilasi kanssa. Tämän välttämiseksi, älä laita Mi Pilven synkronointia päälle.</string>
-  <string name="multi_user_not_show_sync_activity_title">Älä laita Mi Pilven synkronointia päälle</string>
+  <string name="multi_user_not_show_sync_activity_message_2">Tällaisessa tapauksessa kaikki tiedot synkronoidaan Toisen tilasi kanssa. Tämän välttämiseksi, älä ota Mi Pilven synkronointia käyttöön.</string>
+  <string name="multi_user_not_show_sync_activity_title">Älä ota Mi Pilven synkronointia käyttöön</string>
   <string name="my_device_title">Nykyinen laite</string>
   <string name="no_network_btn">Päivitä</string>
   <string name="no_network_title">Verkkoon ei saada yhteyttä.</string>

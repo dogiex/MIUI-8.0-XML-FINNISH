@@ -67,7 +67,7 @@
   <string name="dlg_import_blacklist">Lisätään…</string>
   <string name="dlg_import_whitelist">Lisätään…</string>
   <string name="dlg_keyword_ok">Tallenna</string>
-  <string name="dlg_message_not_open_stranger_identify">Laittaaksesi ominaisuuden päälle, mene Asetukset &gt; Puhelin.</string>
+  <string name="dlg_message_not_open_stranger_identify">Ottaaksesi ominaisuuden käyttöön, mene Asetukset &gt; Puhelin.</string>
   <string name="dlg_no_block">Poistetaanko esto tältä numerolta?</string>
   <string name="dlg_no_block_ok">Poista esto</string>
   <string name="dlg_remove_address_blacklist">Poistetaanko tämä sijainti estolistalta?</string>
@@ -157,7 +157,7 @@
   <string name="note_list_none">Lista on tyhjä</string>
   <string name="note_sms_none">Ei viestejä</string>
   <string name="one_address_choose_hint">%s1</string>
-  <string name="open_callwait">Päällä</string>
+  <string name="open_callwait">Käytössä</string>
   <string name="organization">Yritys</string>
   <string name="phone">Puhelin</string>
   <string name="read_all_sms">Lue kaikki</string>

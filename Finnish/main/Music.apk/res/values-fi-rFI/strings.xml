@@ -65,8 +65,8 @@
   <string name="avoid_to_use_traffic_title">Käytä vain Wi-Fi-yhteyttä musiikin suoratoistoon</string>
   <string name="back_confirm">Siirrä sovellus taustalle napauttamalla uudelleen</string>
   <string name="baidu_music">Baidu musiikki</string>
-  <string name="being_disable_auto_payment">Laitetaan pois päältä…</string>
-  <string name="being_enable_auto_payment">Laitetaan päälle…</string>
+  <string name="being_disable_auto_payment">Poistetaan käytöstä…</string>
+  <string name="being_enable_auto_payment">Otetaan käyttöön…</string>
   <string name="bill_list_fragment_title">Listat</string>
   <string name="bluetooth_device">Bluetooth äänilaite</string>
   <string name="buffering">Puskuroidaan…</string>

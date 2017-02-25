@@ -122,8 +122,8 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="capability_title_canRequestFilterKeyEvents">Tarkkailla kirjoittamaasi tekstiä</string>
   <string name="capability_title_canRequestTouchExploration">Ottaa kosketuksella tutkimisen käyttöön</string>
   <string name="capability_title_canRetrieveWindowContent">Noutaa ikkunan sisältöä</string>
-  <string name="capital_off">POIS</string>
-  <string name="capital_on">PÄÄLLÄ</string>
+  <string name="capital_off">EI KÄYTÖSSÄ</string>
+  <string name="capital_on">KÄYTÖSSÄ</string>
   <string name="car_mode_disable_notification_message">Poistu autotilasta koskettamalla tätä.</string>
   <string name="car_mode_disable_notification_title">Autotila käytössä</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
@@ -721,7 +721,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="paste">Liitä</string>
   <string name="peerTtyModeFull">Toinen käyttäjä vaihtoi TTY-tilaksi TÄYSI</string>
   <string name="peerTtyModeHco">Toinen käyttäjä vaihtoi TTY-tilaksi HCO</string>
-  <string name="peerTtyModeOff">Toinen käyttäjä vaihtoi TTY-tilaksi POIS PÄÄLTÄ</string>
+  <string name="peerTtyModeOff">Toinen käyttäjä vaihtoi TTY-tilaksi EI KÄYTÖSSÄ</string>
   <string name="peerTtyModeVco">Toinen käyttäjä vaihtoi TTY-tilaksi VCO</string>
   <string name="perm_costs_money">tämä voi maksaa</string>
   <string name="permdesc_accessCoarseLocation">Antaa sovelluksen käyttää likimääräistä sijaintiasi. Sijainnin määrittävät sijaintipalvelut verkon sijaintilähteiden kuten radiomastojen ja Wi-Fi-verkkojen avulla. Sijaintipalveluiden täytyy olla käytössä ja laitteesi saatavilla, jotta sovellus voi käyttää niitä. Sovellus voi määrittää tämän luvan avulla likimääräisen sijaintisi.</string>

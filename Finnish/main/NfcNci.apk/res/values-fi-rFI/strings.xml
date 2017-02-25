@@ -28,7 +28,7 @@
   <string name="inbound_me_profile_text">Lisää tämä henkilö yhteystietoihin koskettamalla.</string>
   <string name="inbound_me_profile_title">Kontakti saatu NFC:n välityksellä</string>
   <string name="nfcUserLabel">NFC</string>
-  <string name="nfc_enabled_dialog">NFC on pois päältä. Haluatko laittaa sen päälle NFC Palvelua varten?</string>
+  <string name="nfc_enabled_dialog">NFC ei ole käytössä. Haluatko ottaa sen käyttöön NFC Palvelua varten?</string>
   <string name="no">EI</string>
   <string name="ok">OK</string>
   <string name="outbound_me_profile_text">Anna tälle henkilölle yhteystietosi koskettamalla.</string>

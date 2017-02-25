@@ -67,7 +67,7 @@
   <string name="class_0_message_activity">Luokan 0 viesti</string>
   <string name="close">Sulje</string>
   <string name="cloud_recommend_msg">Synkronoi viestit Mi Pilveen napauttamalla.</string>
-  <string name="cloud_state_disabled">Mi Pilven synkronointi on pois päältä</string>
+  <string name="cloud_state_disabled">Mi Pilven synkronointi ei ole käytössä</string>
   <string name="cloud_state_sync_finished">Synkronoitu Mi Pilveen</string>
   <string name="cloud_state_syncing">Synkronoidaan Mi Pilveen…</string>
   <string name="compressing">Kuva on liian iso. Pakataan…</string>
@@ -189,7 +189,7 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Lähetetäänkö viestit %1$s &gt; %2$s?</string>
   <string name="found_old_messages_title">Lähetä viestit toisesta SIM-korteistasi?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Synkronoidaksesi viestit Mi Pilvestä, kirjaudu Mi Tilillesi ja laita tekstiviestien synkronointi päälle.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Synkronoidaksesi viestit Mi Pilvestä, kirjaudu Mi Tilillesi ja ota tekstiviestien synkronointi käyttöön.</string>
   <string name="found_wild_messages_guide_settings_desc">Synkronoi viestit Mi Pilvestä Viestiasetuksista.</string>
   <string name="found_wild_messages_guide_sync_not_started">Synkronointi ei ole alkanut vielä</string>
   <string name="found_wild_messages_title">Synkronoi viestit Mi Pilvestä</string>
@@ -336,7 +336,7 @@
   <string name="mx_enable_ex">Mi Viesti &amp; Ääni</string>
   <string name="mx_enable_popup_msg">Mi Viestillä voit lähettää viestejä toisille MIUI:n käyttäjille ilman kuluja.</string>
   <string name="mx_filter_message_from_stranger">Estä Mi Viestit tuntemattomilta numeroilta</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">Tulet silti saamaan normaaleja tekstiviestejä tuntemattomilta numeroilta. Voit laittaa tämän toiminnon päälle tai pois päältä milloin tahansa asetuksista Viestit &amp; Asetukset.</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Tulet silti saamaan normaaleja tekstiviestejä tuntemattomilta numeroilta. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa asetuksista Viestit &amp; Asetukset.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Estä Mi Viestit tuntemattomilta numeroilta</string>
   <string name="mx_filter_message_from_stranger_summary">Tulet silti saamaan normaaleja tekstiviestejä tuntemattomilta numeroilta</string>
   <string name="mx_msg">Mi Viesti</string>
@@ -346,13 +346,13 @@
   <string name="mx_on_sim_2">Mi Viesti SIM-kortti 2</string>
   <string name="mx_online">Aktivoitu</string>
   <string name="mx_reactivate">Aktivoi Mi Viesti uudelleen</string>
-  <string name="mx_recommend_msg">Laita Mi Viesti päälle koskettamalla.</string>
+  <string name="mx_recommend_msg">Ota Mi Viesti käyttöön koskettamalla.</string>
   <string name="mx_stranger_recommend_msg">Estä Mi Viestit tuntemattomilta numeroilta napauttamalla</string>
   <string name="mx_type_guide">Mi Viestillä voit lähettää viestejä toisille MIUI:n käyttäjille ilman lisäkustannuksia</string>
   <string name="need_download">Synkronoidaan…</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Älyviestit sallii sinun lähettää ilmaiseksi viestejä ja ääntä, tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy laittaa Keltaiset sivut päälle ja yhdistää internettiin käyttääksesi tätä palvelua.</string>
-  <string name="networking_allow_desc_without_mx">Älyviestit sallii sinun tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy laittaa Keltaiset sivut päälle ja yhdistää internettiin käyttääksesi tätä palvelua.</string>
+  <string name="networking_allow_desc">Älyviestit sallii sinun lähettää ilmaiseksi viestejä ja ääntä, tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy ottaa Keltaiset sivut käyttöön ja yhdistää internettiin käyttääksesi tätä palvelua.</string>
+  <string name="networking_allow_desc_without_mx">Älyviestit sallii sinun tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy ottaa Keltaiset sivut käyttöön ja yhdistää internettiin käyttääksesi tätä palvelua.</string>
   <string name="networking_allow_title">Huomio</string>
   <string name="new_message">Kirjoita</string>
   <string name="new_message_arrived">Sinulla on uusi viesti</string>
@@ -386,7 +386,7 @@
   <string name="playing_failed">Ei voida toistaa</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Lisäasetukset</string>
-  <string name="pref_allow_network_access_summary">Laita päälle saadaksesi uusimmat tiedot toimituksista ja muista palveluista.</string>
+  <string name="pref_allow_network_access_summary">Ota käyttöön saadaksesi uusimmat tiedot toimituksista ja muista palveluista.</string>
   <string name="pref_cell_broadcast">Aluelähetykset (CB)</string>
   <string name="pref_collapse_sp_messages_summary">Ryhmitä tekstiviestien ilmoitukset automaattisesti yhteen</string>
   <string name="pref_delivery_ringtone">Toimitetun viestin ääni</string>

@@ -165,7 +165,7 @@
   <string name="cloud_antispam_mark">Raportoi</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
   <string name="cloud_recommend_msg">Synkronoi yhteystiedot Mi Pilveen koskettamalla.</string>
-  <string name="cloud_state_disabled">Synkronointi Mi Pilveen on pois päältä</string>
+  <string name="cloud_state_disabled">Synkronointi Mi Pilveen ei käytössä</string>
   <string name="cloud_state_loading">Ladataan…</string>
   <string name="cloud_state_sync_finished">Synkronoitu Mi Pilven kanssa</string>
   <string name="cloud_state_syncing">Synkronoitu Mi Pilven kanssa</string>
@@ -347,7 +347,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_paired_dialog_title">Noudetaan yhteystietoja…</string>
   <string name="device_pairing_dialog_message">Paritetaan…</string>
   <string name="device_pairing_dialog_title">Parita laitteet</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Laita toisen laitteen \"Bluetooth\" päälle;
+  <string name="device_transfer_by_bluetooth_message">"1. Ota toisen laitteen \"Bluetooth\" käyttöön;
         
 
 - Android laitteilla \"Bluetooth\" asetuksen löytää usein verkkoasetuksen alapuolelta
@@ -355,7 +355,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
 - iOS laitteiden täytyy etsiä \"Bluetooth\" asetusta Asetuksien sisältä
         
 
-2. Android laitteiden täytyy myös laittaa \"Tunnistettavuus\" asetus päälle;
+2. Android laitteiden täytyy myös ottaa \"Tunnistettavuus\" asetus käyttöön;
         
 
 3. Paina \"Seuraava\", ja salli yhteystiedoille käyttöoikeus seuraavassa vaiheessa."</string>
@@ -385,7 +385,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialog_new_group_account">Luo ryhmä tilissä</string>
   <string name="dialog_phone_call_prohibited_message">Puhelua ei tehty</string>
   <string name="dialog_sync_add">Lisää synkronointiryhmä</string>
-  <string name="dialog_voicemail_airplane_mode_message">Soittaaksesi ääniviestin, laita lentokonetila pois päältä.</string>
+  <string name="dialog_voicemail_airplane_mode_message">Soittaaksesi ääniviestin, poista lentokonetila käytöstä.</string>
   <string name="dialog_voicemail_not_ready_message">Asettaksesi ääniviestin, mene Valikko &gt; Asetukset.</string>
   <string name="directory_search_label">Osoitekirja</string>
   <string name="disclaimer_text">"Keltaiset sivut hakee saldosi tiedot lähettämällä tekstiviestin. Operaattorisi saattaa päivittää tämän tiedon viiveellä, joten saamasi tieto ei saata olla tarkka. Jos huomaat virheen, voit kertoa siitä lähettämällä tekstiviestin meille parantaaksemme palvelua. 
@@ -604,10 +604,10 @@ Syy: %s"</string>
   <string name="list_filter_customize">Muokkaa</string>
   <string name="list_filter_phones">Kaikki kontaktit, joilla on puhelinnumero</string>
   <string name="list_filter_single">Yhteystieto</string>
-  <string name="live_talk_switch_on_toast">Live talk on laitettu päälle</string>
+  <string name="live_talk_switch_on_toast">Live talk on käytössä</string>
   <string name="livetalk_charge">Lataa</string>
   <string name="livetalk_left">Jäljellä oleva livetalk</string>
-  <string name="livetalk_switch_on">Laita päälle</string>
+  <string name="livetalk_switch_on">Ota käytöön</string>
   <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">Pieni hetki…</string>
   <string name="loading_group_members">Ladataan ryhmän jäseniä…</string>
@@ -1118,7 +1118,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="shortcutDialContact">Puhelu</string>
   <string name="shortcutMessageContact">Tekstiviesti</string>
   <string name="showAllContactsJoinItem">Näytä kaikki yhteystiedot</string>
-  <string name="simContacts_airplaneMode">Tuodaksesi yhteystietoja SIM-kortilta, aseta Lentokonetila pois päältä</string>
+  <string name="simContacts_airplaneMode">Tuodaksesi yhteystietoja SIM-kortilta, poista Lentokonetila käytöstä</string>
   <string name="simContacts_empty">SIM-kortilla ei ole yhteystietoja</string>
   <string name="simContacts_emptyLoading">Ladataan SIM-kortin yhteystietoja…</string>
   <string name="simContacts_title">SIM-kortin yhteystiedot</string>

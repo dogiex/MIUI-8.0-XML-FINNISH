@@ -4,7 +4,7 @@
   <string name="account_contact_backup_info">Google Tili, Mi Tili, ja Yhteystietojen tiedot</string>
   <string name="account_login">Kirjaudu sisään</string>
   <string name="account_summary">Varmuuskopioi Google Tili, Mi Tili, ja muut käyttäjän tiedot</string>
-  <string name="already_enable_encrypt">Salaus on jo päällä</string>
+  <string name="already_enable_encrypt">Salaus on jo käytössä</string>
   <string name="app_name">Varmuuskopiointi</string>
   <string name="apps_and_data_item_desc">Sovellukset ja tiedot</string>
   <string name="auto_backup">Ajoita rutiinimainen varmuuskopio</string>
@@ -86,8 +86,8 @@
   <string name="deselect_all">Poista valinnat</string>
   <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
-  <string name="disable_encrypt_title">Laita salaaminen pois päältä</string>
-  <string name="enable_encrypt">Laita salaaminen päälle</string>
+  <string name="disable_encrypt_title">Poista salaus käytöstä</string>
+  <string name="enable_encrypt">Ota salaus käyttöön</string>
   <string name="enable_encrypt_fail">Salaaminen epäonnistui</string>
   <string name="enable_encrypt_indicator">Kosketa salaamiseksi</string>
   <string name="enable_encrypt_ok">OK</string>
@@ -140,7 +140,7 @@ http://www.miliao.com
   <string name="miliao_account_login">Kirjaudu sisään Mi jutteluun</string>
   <string name="mms_title">Multimediaviestit</string>
   <string name="multi_select_title">%1$s valittu</string>
-  <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Laita Moni-käyttäjä tila pois päältä jatkaaksesi.</string>
+  <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Poista Moni-käyttäjä tila käytöstä jatkaaksesi.</string>
   <string name="multi_user_mode_dialog_title">Olet Moni-käyttäjä tilassa</string>
   <string name="never">Ei ikinä</string>
   <string name="new_backup">Varmuuskopioi</string>
@@ -240,7 +240,7 @@ http://www.miliao.com
   <string name="task_restore_finished_local">"Palautettu "</string>
   <string name="task_restore_none">Ei palautettavaa</string>
   <string name="task_running_backup_dialog">Varmuuskopiointi on meneillään. Paina OK nähdäksesi tiedot.</string>
-  <string name="task_running_backup_hint">Tämä tehtävä on jo päällä taustalla</string>
+  <string name="task_running_backup_hint">Tämä tehtävä on jo käynnissä taustalla</string>
   <string name="task_running_dialog">Varmuuskopiointi ja palautus on meneillään. Paina OK nähdäksesi tiedot.</string>
   <string name="task_running_hint">Tämä prosessi on jo käynnissä taustalla</string>
   <string name="task_running_restore_dialog">Palautus on meneillään. Paina OK nähdäksesi tiedot.</string>
@@ -311,7 +311,7 @@ Samanlaiset tiedostot uudella laitteella korvataan"</string>
   <string name="trans_sender">"Olen lähettäjä"</string>
   <string name="trans_sender_connectting">Varmista uudella laitteella</string>
   <string name="trans_sender_searching">Etsitään uusia laitteita</string>
-  <string name="trans_sender_searching_ensurance">"Varmista, että vanha laite on päällä
+  <string name="trans_sender_searching_ensurance">"Varmista, että vanha laite on käynnissä
 Odotetaan vanhan laitteen yhdistämistä…"</string>
   <string name="trans_sender_time_remained">"%s jäljellä.
 Älä sammuta Wi-Fi-verkkoa.
@@ -326,8 +326,8 @@ Pidä laitteet lähellä toisiaan."</string>
 Aikaa käytetty: %s"</string>
   <string name="trans_wait_trans_data">"Yhdistetty vanhaan laitteeseen.
 Odotetaan lähetystä…"</string>
-  <string name="trans_waiting_ensurance">"Varmista, että vanha laite on päällä
-ja Mi Siirtäjä on päällä"</string>
+  <string name="trans_waiting_ensurance">"Varmista, että vanha laite on käynnissä
+ja Mi Siirtäjä on käytössä"</string>
   <string name="trans_waiting_for_sender">Odotetaan vanhan laitteen yhdistämistä…</string>
   <string name="unit_byte">t</string>
   <string name="unit_piece">" tiedostoa"</string>

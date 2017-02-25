@@ -13,7 +13,7 @@
   <string name="ad_title">Käyttäjät myös lataavat näitä tällä  %1$s </string>
   <string name="ad_title_other">Käyttäjät, jotka latasivat tämän kuvan, latasivat myös</string>
   <string name="add_flow_fail_haveget_msg">Kokeilujakso on päättynyt.</string>
-  <string name="add_flow_fail_vip_msg">Xunlei Latauksen Kiihdyttäjä on päällä</string>
+  <string name="add_flow_fail_vip_msg">Xunlei Latauksen Kiihdyttäjä on käytössä</string>
   <string name="add_flow_success_msg">%s lisätty tässä kuussa</string>
   <string name="all_downloads">Kaikki lataukset</string>
   <string name="all_fileter">Kaikki</string>
@@ -71,8 +71,8 @@
   <string name="dialog_queued_body">Tämä tiedosto on jonossa tulevaa latausta varten, joten se ei ole vielä saatavilla.</string>
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
-  <string name="dialog_title_recommend">Laita suositellut lähteet pois päältä</string>
-  <string name="disable">Pois</string>
+  <string name="dialog_title_recommend">Poista suositellut lähteet käytöstä</string>
+  <string name="disable">Ei käytössä</string>
   <string name="display_expire_netiv1">Tämä kuukausi</string>
   <string name="do_not_support_url">Tämänkaltainen URL ei ole tuettu</string>
   <string name="doc_filter">Dokumentit</string>
@@ -89,7 +89,7 @@
   <string name="download_info_count_deleted_tasks">%s latausta poistettu</string>
   <string name="download_info_start_deleted_tasks">Poista lataukset</string>
   <string name="download_list_get_free_vip">Xunlei kokeiluaika</string>
-  <string name="download_list_get_hightspeed_flow_auto_open">Xunlei Latauksen Kiihdyttäjä on päällä</string>
+  <string name="download_list_get_hightspeed_flow_auto_open">Xunlei Latauksen Kiihdyttäjä on käytössä</string>
   <string name="download_list_get_hightspeed_flow_pay_ok">Maksu suoritettu.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei kokeiluaika luotu</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Nauti Xunlein nopeammista latauksista</string>
@@ -386,7 +386,7 @@
   <string name="torrent_no_subfile">Ei alitiedostoja tässä torrentissa</string>
   <string name="total_speedup">Nopeuden kiihdytys (yhteensä)</string>
   <string name="turn_off_xunlei_message">Saatat kohdata hitaampia latausnopeuksia.</string>
-  <string name="turn_off_xunlei_tips">Xunlei latauksen kiihdyttäjä on pois päältä</string>
+  <string name="turn_off_xunlei_tips">Xunlei latauksen kiihdyttäjä ei käytössä</string>
   <string name="turn_off_xunlei_title">Poista Xunlei käytöstä</string>
   <string name="unbind_xunlei_2_success">Xunlei Tili luotu</string>
   <string name="unbind_xunlei_success">Kirjauduttiin ulos Xunlei Tililtä</string>
@@ -397,7 +397,7 @@
   <string name="unit_en_thounsand">K</string>
   <string name="valid_in_this_month">Voimassa tämän kuukauden</string>
   <string name="version">Versio %s</string>
-  <string name="vip_auto_speedup">Xunlei latauksen kiihdyttäjä on päällä</string>
+  <string name="vip_auto_speedup">Xunlei latauksen kiihdyttäjä on käytössä</string>
   <string name="vip_expire_show_info">Xunlei jäsenyys on päättynyt.</string>
   <string name="vip_expire_today_show_info">Xunlei jäsenyys on päättynyt.</string>
   <string name="vip_show_info">"5 miljoonaa jäsentä. Kiihdytä latauksia kaikilla laitteillasi."</string>

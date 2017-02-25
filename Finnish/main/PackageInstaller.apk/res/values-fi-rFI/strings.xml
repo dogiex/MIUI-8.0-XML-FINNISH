@@ -19,7 +19,7 @@
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
   <string name="abc_toolbar_collapse_description">Kutista</string>
   <string name="accessibility_no_wifi">Wi-Fi yhteys katkaistu.</string>
-  <string name="accessibility_wifi_off">Wi-Fi pois päältä.</string>
+  <string name="accessibility_wifi_off">Wi-Fi ei käytössä.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi yksi palkki.</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi signaali täynnä.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi kolme palkkia.</string>
@@ -320,8 +320,8 @@ Kaikki aikaisemmat käyttäjätiedot tallennetaan."</string>
   <string name="unknown_apps_admin_dlg_text">Järjestelmänvalvoja ei salli tuntemattomista lähteistä saatujen sovellusten asentamista.</string>
   <string name="unknown_apps_dlg_text">Turv.syistä puhelimesi on asetettu estämään tuntemattomista lähteistä hankittujen sovell. asennus.</string>
   <string name="unknown_installer">Tunnistamaton asennuspaketti</string>
-  <string name="v7_preference_off">POIS</string>
-  <string name="v7_preference_on">PÄÄLLÄ</string>
+  <string name="v7_preference_off">EI KÄYTÖSSÄ</string>
+  <string name="v7_preference_on">KÄYTÖSSÄ</string>
   <string name="virus_scan_caller_unknown">Tuntematon</string>
   <string name="virus_scan_clear">Poista</string>
   <string name="virus_scan_install">Asenna siitä huolimatta</string>

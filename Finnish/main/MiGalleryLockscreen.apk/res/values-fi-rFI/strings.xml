@@ -28,13 +28,13 @@
   <string name="sst_grid_view_select_all">Valitse kaikki</string>
   <string name="sst_grid_view_unselect_all">Poista valinnat</string>
   <string name="sst_no_favor_wallpaper_hint">Suosikeissa ei ole taustakuvia</string>
-  <string name="sst_prov_enable_desc">Laita lukitusnäytön taustakuvan karuselli päälle</string>
-  <string name="sst_prov_enable_title">Laita Taustakuvan Karuselli päälle</string>
+  <string name="sst_prov_enable_desc">Ota lukitusnäytön taustakuvan karuselli käyttöön</string>
+  <string name="sst_prov_enable_title">Ota Taustakuvan Karuselli käyttöön</string>
   <string name="sst_require_one_category_hint">Valitse ainakin yksi kategoria</string>
   <string name="sst_sti_desc">Aseta taustakuvan päivitystiheys</string>
   <string name="sst_sti_title">Päivitystiheys</string>
   <string name="sst_subscribe_title">Kategoriani</string>
-  <string name="sst_wifi_only_desc">Säästä mobiilidataa laittamalla tämä toiminto pois päältä</string>
+  <string name="sst_wifi_only_desc">Säästä mobiilidataa poistamalla tämä ominaisuus käytöstä</string>
   <string name="sst_wifi_only_title">Päivitä taustakuvat mobiilidatalla</string>
   <string name="summary">"Käyttämällä tätä toimintoa hyväksyt meidän &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Tietosuojakäytännön&lt;/a&gt;. Tämä toiminto tarvitsee internet-yhteyden toimiakseen normaalisti."</string>
   <string name="summary_international">"Käyttämällä tätä toimintoa hyväksyt meidän &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Tietosuojakäytännön&lt;/a&gt;. Tämä toiminto tarvitsee internet-yhteyden toimiakseen normaalisti.​"</string>

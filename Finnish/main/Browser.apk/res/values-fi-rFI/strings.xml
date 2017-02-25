@@ -142,7 +142,7 @@
   <string name="close_cloud_tab_tip">Sulje pilvi välilehdet %s?</string>
   <string name="cloud_loading_tips">Vedä alas synkronoidaksesi</string>
   <string name="cloud_no_new_data_toast">Kaikki on ajantasalla</string>
-  <string name="cloud_sync_closed_toast">Ei voitu päivittää, koska synkronointi on pois päältä</string>
+  <string name="cloud_sync_closed_toast">Ei voitu päivittää, koska synkronointi on pois käytöstä</string>
   <string name="cloud_sync_failed_toast">Ei voitu päivittää</string>
   <string name="cloud_tab">Pilvi välilehdet</string>
   <string name="cloud_time_tips">Viimeisin synkronointi</string>
@@ -290,7 +290,7 @@
   <string name="error_console_header_text_maximized">JavaScript konsoli</string>
   <string name="error_console_header_text_minimized">Näytä JavaScript konsoli</string>
   <string name="error_forbidden">Synkronointi on otettu pois käytöstä, koska Mi Tililläsi ilmeni ongelmia.</string>
-  <string name="error_not_acceptable">Synkronointi on pois päältä.</string>
+  <string name="error_not_acceptable">Synkronointi on pois käytöstä.</string>
   <string name="error_title">Synkronointi epäonnistui</string>
   <string name="error_unauthorized">Synkronointi Mi Tililläsi on otettu pois käytöstä liian monen kirjautumisyrityksen takia.</string>
   <string name="exit_browser_warning">Sulje Selain nyt?</string>

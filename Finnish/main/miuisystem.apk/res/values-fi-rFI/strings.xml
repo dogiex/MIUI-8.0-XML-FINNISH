@@ -14,7 +14,7 @@
   <string name="chinese_youth_day">青年节</string>
   <string name="christmas_day">圣诞节</string>
   <string name="clear_and_bright">清明</string>
-  <string name="cloud_state_disabled">Mi Pilven synkronointi on pois päältä</string>
+  <string name="cloud_state_disabled">Mi Pilven synkronointi ei ole käytössä</string>
   <string name="cloud_state_finished">Synkronoitu Mi Pilveen</string>
   <string name="cloud_state_syncing">Synkronoidaan Mi Pilveen</string>
   <string name="cold_dews">寒露</string>

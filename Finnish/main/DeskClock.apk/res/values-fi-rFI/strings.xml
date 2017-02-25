@@ -59,11 +59,11 @@
   <string name="lap">Kierros</string>
   <string name="lap_num">Kierros</string>
   <string name="legal_off_day">Laillinen vapaapäivä</string>
-  <string name="legal_off_day_message">" (Herätys on pois päältä työpäivinä)"</string>
+  <string name="legal_off_day_message">" (Herätys on pois käytöstä työpäivinä)"</string>
   <string name="legal_workday">Laillinen työpäivä</string>
   <string name="legal_workday_invalidate">Tieto vanhentunut (Herätys soi Maanantaista Perjantaihin)</string>
   <string name="legal_workday_invalidate_message">(Tieto vanhentunut. Päivitä Asetuksissa)</string>
-  <string name="legal_workday_message">" (Herätys on pois päältä pyhäpäivinä)"</string>
+  <string name="legal_workday_message">" (Herätys on pois käytöstä pyhäpäivinä)"</string>
   <string name="loading_ringtone">Ladataan soittoääntä…</string>
   <string name="menu_add_worldclock">Lisää kello</string>
   <string name="menu_desk_clock">Kello</string>
@@ -93,7 +93,7 @@
   <string name="shutdown_alarm_title">Sammutetun laitteen herätys</string>
   <string name="silent_alarm_summary">Äänetön</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-  <string name="skip_alarm_once_hint">Pois päältä kerran: %s</string>
+  <string name="skip_alarm_once_hint">Pois käytöstä kerran: %s</string>
   <string name="slider_text">Hiljennä pyyhkäisemällä ylös</string>
   <string name="snooze_confirm_cancel">Peruuta torkku</string>
   <string name="snooze_duration_title">Torkun kesto</string>
@@ -130,8 +130,8 @@
   <string name="timezone_exist_error_message">Tämä aikavyöhyke näytetään jo</string>
   <string name="today">Tänään</string>
   <string name="tomorrow">Huomenna</string>
-  <string name="turn_off_a_repeat_alarm">Laita toistuva herätys pois päältä</string>
-  <string name="turn_off_this_repeat_alarm">Pois päältä kokonaan</string>
+  <string name="turn_off_a_repeat_alarm">Poista toistuva herätys käytöstä</string>
+  <string name="turn_off_this_repeat_alarm">Poista käytöstä kokonaan</string>
   <string name="upcoming_alarm"> Tuleva herätys</string>
   <string name="upcoming_alarm_hint">Voit sulkea tämän herätyksen ennakkoon</string>
   <string name="vibrate_pref_summary">Värise, kun herätys soi</string>

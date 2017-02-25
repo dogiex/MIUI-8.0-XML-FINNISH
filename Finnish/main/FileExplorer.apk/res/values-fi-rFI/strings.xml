@@ -28,7 +28,7 @@
   <string name="app_name_screenshot">Kuvakaappaukset</string>
   <string name="auto_play">Soita automaattisesti, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="auto_play_later">Myöhemmin</string>
-  <string name="auto_play_now">Laita päälle</string>
+  <string name="auto_play_now">Ota käytöön</string>
   <string name="auto_play_recommend">Toista automaattisesti</string>
   <string name="auto_play_recommend_tips">Aloita videoiden toistaminen automaattisesti</string>
   <string name="auto_play_toast">Videot soi automaattisesti. Voit vaihtaa sitä asetuksissa.</string>
@@ -173,7 +173,7 @@
   <string name="downloading">Ladataan</string>
   <string name="editor_commend">Muokkaa</string>
   <string name="empty_comment">Kommentti ei voi olla tyhjä</string>
-  <string name="enable_documentsui">Laita ensin %s päälle asetuksissa Asetukset &gt; Asennetut sovellukset</string>
+  <string name="enable_documentsui">Ota %s ensin käyttöön asetuksissa Asetukset &gt; Asennetut sovellukset</string>
   <string name="enable_sd_card">Syötä SD-kortti tai poista USB-massamuistilaite käytöstä.</string>
   <string name="enable_usb">Yhdistä USB-laite</string>
   <string name="encrypt_error">Tiedostojen piilottaminen epäonnistui, yritä uudelleen</string>
@@ -307,8 +307,8 @@
   <string name="message_reply_suffix">": "</string>
   <string name="message_title">Viestini</string>
   <string name="mi_router_label">Reititin</string>
-  <string name="midrop_msg_1">Laita Mi Siirtäjä toisessa laitteessa päälle</string>
-  <string name="midrop_msg_2">Kun Mi Siirtäjä on päällä, voit etsiä lähellä olevia laitteita ja lähettää tiedostoja</string>
+  <string name="midrop_msg_1">Ota Mi Siirtäjä toisessa laitteessa käyttöön</string>
+  <string name="midrop_msg_2">Kun Mi Siirtäjä on käytössä, voit etsiä lähellä olevia laitteita ja lähettää tiedostoja</string>
   <string name="midrop_send_files">Valitse lähetettävät tiedostot</string>
   <string name="mobile_network_dialog_cancle">Peruuta</string>
   <string name="mobile_network_dialog_confirm">OK</string>
@@ -614,7 +614,7 @@
   <string name="tip">Huomio</string>
   <string name="title_album">Albumit</string>
   <string name="title_app_tags">Sovellukset</string>
-  <string name="title_enable_documentsui">Laita DocumentsUI päälle</string>
+  <string name="title_enable_documentsui">Ota DocumentsUI käyttöön</string>
   <string name="title_expire_video">On vanhentumassa</string>
   <string name="title_recent">Viimeaikainen</string>
   <string name="title_report_video">Raportoi</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_game">Lisää peli</string>
-  <string name="anti_disturb_msg_detail">Laita kaikki ilmoitukset pois päältä saapuvia puheluita lukuunottamatta</string>
+  <string name="anti_disturb_msg_detail">Poista kaikki ilmoitukset käytöstä saapuvia puheluita lukuunottamatta</string>
   <string name="anti_disturb_msg_title">Älä häiritse</string>
   <string name="app_name">Turvallisuuspalvelun lisäosa</string>
   <string name="app_not_installed_toast">Sovellusta ei ole asennettu laitteellesi.</string>
@@ -21,7 +21,7 @@
   <string name="game_setting">Peliasetukset</string>
   <string name="gs_app_back_self_start">Akun Säästäjä</string>
   <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Kotinäytöltäsi. Voit palauttaa asetuksen menemällä Tietoturva &gt; Asetukset.</string>
-  <string name="gs_dialog_confirm_close_title">Pois päältä</string>
+  <string name="gs_dialog_confirm_close_title">Poista käytöstä</string>
   <string name="gs_game_duration">Aika</string>
   <string name="gs_game_net_priority">Yhteyden prioriteetti</string>
   <string name="gs_game_net_priority_detail">Rajoita sovelluksien latausnopeutta pelejä varten</string>
@@ -53,8 +53,8 @@
   <string name="month_report_result_share">Jaa</string>
   <string name="month_report_share_img_fail">Jakaminen epäonnistui</string>
   <string name="month_report_share_loading">Pieni hetki…</string>
-  <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, laita tämä toiminto päälle Tietoturvasovelluksen Asetuksista.</string>
-  <string name="month_report_warning_dialog_positive">Päälle</string>
+  <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, ota tämä ominaisuus käyttöön Tietoturva-sovelluksen Asetuksista.</string>
+  <string name="month_report_warning_dialog_positive">Ota käyttöön</string>
   <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="no_network_btn">Yritä uudelleen</string>
@@ -70,8 +70,8 @@
   <string name="scan_installed_games">Tarkastetaan asennettuja pelejä…</string>
   <string name="setting">Asetukset</string>
   <string name="share">Jaa</string>
-  <string name="shield_keyboard_detail">Tuplanapauta painikkeita laittaaksesi ne takaisin päälle</string>
-  <string name="shield_keyboard_title">Laita painikkeet pois päältä</string>
+  <string name="shield_keyboard_detail">Tuplanapauta painikkeita ottaaksesi ne takaisin käyttöön</string>
+  <string name="shield_keyboard_title">Poista painikkeet käytöstä</string>
   <string name="start">Aloita</string>
   <string name="start_game">Aloita</string>
   <string name="support_game_booster_tips">Käynnistä pelit käyttämällä Pelien nopeuttajaa</string>

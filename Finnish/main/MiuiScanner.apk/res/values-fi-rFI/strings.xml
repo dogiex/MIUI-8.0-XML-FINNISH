@@ -352,7 +352,7 @@
   <string name="web">Verkkosivu:</string>
   <string name="website_details">Verkkosivu:</string>
   <string name="wifi_details">W-Fi:</string>
-  <string name="wifi_open_fail">Langatonta verkkoa (Wi-Fi) ei voitu laittaa päälle</string>
+  <string name="wifi_open_fail">Langatonta verkkoa (Wi-Fi) ei voitu ottaa käyttöön</string>
   <string name="wifi_pwd">Salasana:</string>
   <string name="wifi_security">Turvallisuus:</string>
   <string name="wifi_ssid">SSID:</string>
