@@ -1263,7 +1263,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="settings_battery_over_heat_summary">Vastaanota ilmoituksia, kun laite lämpenee normaalia enemmän</string>
   <string name="settings_battery_over_heat_title">Lämpenemisen ilmoitukset</string>
   <string name="settings_category_other">Muut asetukset</string>
-  <string name="settings_category_overheat">Lämpenee</string>
+  <string name="settings_category_overheat">Lämpeneminen</string>
   <string name="settings_choice_no_notification">Pois</string>
   <string name="settings_power_save_ontime_title">Ajasta</string>
   <string name="settings_title_payment_security">Maksamisen tietoturvan asetukset</string>

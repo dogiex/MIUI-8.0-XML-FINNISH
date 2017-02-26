@@ -2421,7 +2421,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_charging_duration">%1$s – %2$s kunnes täynnä</string>
   <string name="power_charging_duration_ac">%1$s – %2$s kunnes täynnä (laturilataus)</string>
   <string name="power_charging_duration_usb">%1$s – %2$s kunnes täynnä (USB-lataus)</string>
-  <string name="power_charging_duration_wireless">%1$s – %2$s kunnes täynnä (WiFi-lataus)</string>
+  <string name="power_charging_duration_wireless">%1$s – %2$s kunnes täynnä (Wi-Fi-lataus)</string>
   <string name="power_checker">Virran Tarkastaja</string>
   <string name="power_discharge_remaining">%1$s jäljellä</string>
   <string name="power_discharging_duration">%1$s – noin %2$s jäljellä</string>
