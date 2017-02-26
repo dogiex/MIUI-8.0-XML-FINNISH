@@ -146,8 +146,8 @@
   <string name="launcher_not_exist">Tapahtui virhe, mene takaisin Kotinäytölle ja yritä uudelleen.</string>
   <string name="like">Suosikki</string>
   <string name="liked">Lisätty suosikkeihin</string>
-  <string name="loading_desktop">Pieni hetki…</string>
-  <string name="loading_wallpaper">Pieni hetki…</string>
+  <string name="loading_desktop">Odota hetki…</string>
+  <string name="loading_wallpaper">Odota hetki…</string>
   <string name="local_wallpaper">Ladattu</string>
   <string name="lock_screen">Lukitusnäyttö</string>
   <string name="lock_screen_failed_message">Lukitusnäytön taustakuvaa ei voi asettaa</string>

@@ -880,7 +880,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="suggest_use_wifi_rc">*Wifi remote has more functions, such as searching videos, installing apps, etc.</string>
   <string name="supported_by_kookong">Technical support by Youku</string>
   <string name="supporting_soon">Coming soon</string>
-  <string name="swipe_loading">Pieni hetki…</string>
+  <string name="swipe_loading">Odota hetki…</string>
   <string name="switch_place">Choose city</string>
   <string name="technical_support">Technical support</string>
   <string name="temperature">Temp</string>

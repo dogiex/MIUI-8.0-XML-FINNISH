@@ -31,7 +31,7 @@
   <string name="gs_performance_mode">Suorituskyky-tila</string>
   <string name="gs_performance_mode_detail">Nosta prosessorin (CPU) käyttöä suorituskyvyn parantamiseksi</string>
   <string name="install_game_count">Lisättiin %d peliä</string>
-  <string name="loading">Pieni hetki…</string>
+  <string name="loading">Odota hetki…</string>
   <string name="lucky_result_title">红包助手战绩</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="man_add_application">Lisää käynnistyvät sovellukset käsin</string>
@@ -52,7 +52,7 @@
   <string name="month_report_network_dialog_title">Raporttien haku epäonnistui</string>
   <string name="month_report_result_share">Jaa</string>
   <string name="month_report_share_img_fail">Jakaminen epäonnistui</string>
-  <string name="month_report_share_loading">Pieni hetki…</string>
+  <string name="month_report_share_loading">Odota hetki…</string>
   <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, ota tämä ominaisuus käyttöön Tietoturva-sovelluksen Asetuksista.</string>
   <string name="month_report_warning_dialog_positive">Ota käyttöön</string>
   <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
@@ -77,5 +77,5 @@
   <string name="support_game_booster_tips">Käynnistä pelit käyttämällä Pelien nopeuttajaa</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="uninstall_game_count">%d sovellusta poistettu käytöstä</string>
-  <string name="usage_sorted_loading_text">Pieni hetki…</string>
+  <string name="usage_sorted_loading_text">Odota hetki…</string>
 </resources>

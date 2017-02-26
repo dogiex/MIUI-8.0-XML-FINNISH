@@ -123,7 +123,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="input_password_hint">Syötä salasana</string>
   <string name="internet_access_dspt">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
   <string name="license_host_unreachable">Verkkoon ei saada yhteyttä. Näytä tiedot nyt menemällä %s.</string>
-  <string name="loading">Pieni hetki…</string>
+  <string name="loading">Odota hetki…</string>
   <string name="loading_hint">Ladataan</string>
   <string name="master_alert_notif_content">Synkronointi epäonnistui</string>
   <string name="master_alert_notif_dspt_add">%s kohdetta odottaa synkronointia</string>

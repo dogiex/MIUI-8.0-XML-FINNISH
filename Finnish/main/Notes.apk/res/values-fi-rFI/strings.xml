@@ -52,7 +52,7 @@
   <string name="hint_cannot_view_hidden_note_content">Piilotettujen muistioiden sisältöä ei voi näyttää</string>
   <string name="hint_foler_name">Nimi</string>
   <string name="info_note_enter_desktop">Lisätty Kotinäytölle</string>
-  <string name="loading_text">Pieni hetki…</string>
+  <string name="loading_text">Odota hetki…</string>
   <string name="login_sync">Kirjaudu sisään &amp; synkronoi</string>
   <string name="menu_create_folder">Uusi kansio</string>
   <string name="menu_delete">Poista</string>
@@ -153,6 +153,6 @@
   <string name="welcome_note_for_cm">"Ja lisää mahtavia ominaisuuksia!
   - Synkronoi Mi Pilveen
   - Aseta muistutuksia"</string>
-  <string name="widget_content_loading">Pieni hetki…</string>
+  <string name="widget_content_loading">Odota hetki…</string>
   <string name="widget_havenot_content">Luo muistio napauttamalla. Muokkaa kokoa pitämällä widgettiä.</string>
 </resources>

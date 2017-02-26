@@ -636,7 +636,7 @@
   <string name="enable_face_album_summary">Lajittele kuvat automaattisesti niissä esiintyvien henkilöiden mukaan</string>
   <string name="enable_face_album_title">Lajittele henkilöiden mukaan</string>
   <string name="enable_slim_title">Optimoi</string>
-  <string name="enabling_face_feature">Pieni hetki…</string>
+  <string name="enabling_face_feature">Odota hetki…</string>
   <string name="enter_email_hint">Syötä sähköpostiosoite</string>
   <string name="error_album_not_exist">Albumia ei ole olemassa</string>
   <string name="error_cloud_not_active">Mi Pilvessä ei ole kuvia</string>
@@ -658,7 +658,7 @@
   <string name="exit_share_successfully">Poistuttiin %1$s</string>
   <string name="exit_video_play">Poistu</string>
   <string name="expand_people">Näytä lisää henkilöitä</string>
-  <string name="face_album_detecting_tip">Pieni hetki…</string>
+  <string name="face_album_detecting_tip">Odota hetki…</string>
   <string name="face_album_empty">"Kuvia ei ole tarpeeksi henkilöiden tunnistamista varten.
 Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_album_empty_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
@@ -724,7 +724,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="hybrid_network_access_denied">Pääsy verkkoon evätty</string>
   <string name="hybrid_network_unavaliable">Verkkoon ei voi yhdistää</string>
   <string name="hybrid_pull_to_refresh_pull_label">Päivitä vetämällä…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Pieni hetki…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Odota hetki…</string>
   <string name="hybrid_pull_to_refresh_release_label">Päivitä vapauttamalla…</string>
   <string name="hybrid_service_unavailiable">Palvelu ei ole käytettävissä</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
@@ -880,7 +880,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="picker_title_format">Voit valita %d kuvaa</string>
   <string name="picker_title_selection_format">Valitut kuvat: %d</string>
   <string name="picker_title_unlimit">Valitse kuvia</string>
-  <string name="preparing_data">Pieni hetki…</string>
+  <string name="preparing_data">Odota hetki…</string>
   <string name="projection_checkbox_text">Muista tämä näyttö</string>
   <string name="projection_device_connection_failed">Näytön yhdistäminen epäonnistui</string>
   <string name="projection_local_mobile">Tämä puhelin</string>

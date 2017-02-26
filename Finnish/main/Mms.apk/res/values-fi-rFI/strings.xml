@@ -214,7 +214,7 @@
   <string name="hybrid_network_access_denied">Pääsy verkkoon evätty</string>
   <string name="hybrid_network_unavaliable">Verkkoon ei saada yhteyttä</string>
   <string name="hybrid_pull_to_refresh_pull_label">Päivitä vetämällä…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Pieni hetki…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Odota hetki…</string>
   <string name="hybrid_pull_to_refresh_release_label">Päivitä päästämällä irti…</string>
   <string name="hybrid_service_unavailiable">Palvelu ei ole käytettävissä</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
@@ -228,9 +228,9 @@
   <string name="invalid_recipient_message">Korjaa vastaanottajat tai he eivät saa viestiä.</string>
   <string name="kilobyte">Kt</string>
   <string name="layout_selector_title">"Diaesityksen ulkoasu "</string>
-  <string name="loading_all_messages">Pieni hetki…</string>
-  <string name="loading_conversations">Pieni hetki…</string>
-  <string name="loading_mms">Pieni hetki…</string>
+  <string name="loading_all_messages">Odota hetki…</string>
+  <string name="loading_conversations">Odota hetki…</string>
+  <string name="loading_mms">Odota hetki…</string>
   <string name="manage_permission_app_label">Laitteen käyttöoikeudet</string>
   <string name="me">Minä</string>
   <string name="menu_add_black">Estä tämä numero</string>

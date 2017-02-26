@@ -179,7 +179,7 @@
   <string name="jump_rank_hint">Katso tämän päivän lataustilastoja &gt;</string>
   <string name="keep_queued_download">Säilytä</string>
   <string name="load_finish_hint">Voit jatkaa katsomista huomenna</string>
-  <string name="loading">Pieni hetki…</string>
+  <string name="loading">Odota hetki…</string>
   <string name="media_filter">Media</string>
   <string name="member_cost">Vuosittainen</string>
   <string name="menu_all_task_pause">Pysäytä kaikki</string>
@@ -334,7 +334,7 @@
   <string name="sniff_search_install">Asenna</string>
   <string name="sniff_shortcut_cloudconfig_btn">OK</string>
   <string name="sniff_shortcut_cloudconfig_context">Päivitetään lähdettä…</string>
-  <string name="sniff_shortcut_cloudconfig_title">Pieni hetki…</string>
+  <string name="sniff_shortcut_cloudconfig_title">Odota hetki…</string>
   <string name="sniff_shortcut_create">Pikakuvake luotu</string>
   <string name="sniff_shortcut_exist">Pikakuvake on jo olemassa</string>
   <string name="sniff_shortcut_failed">Pikakuvakkeen luonti epäonnistui</string>

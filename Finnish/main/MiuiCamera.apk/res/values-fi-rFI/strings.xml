@@ -396,5 +396,5 @@
   <string name="ubi_focus_capture_fail">Kuvan ottaminen epäonnistui</string>
   <string name="ubifocus_capture_warning_message">Parhaan tuloksen saavuttamiseksi, kuvassasi täytyy kohteiden olla sekä lähellä (alle 1 metrin päässä linssistä) että kaukana</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
-  <string name="wait">Pieni hetki…</string>
+  <string name="wait">Odota hetki…</string>
 </resources>

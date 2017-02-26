@@ -225,5 +225,5 @@
   <string name="voicemail">Vastaaja</string>
   <string name="wait_prompt_str">"Lähetäänkö seuraavat äänet?
 "</string>
-  <string name="waiting_close_airplane_mode">Pieni hetki…</string>
+  <string name="waiting_close_airplane_mode">Odota hetki…</string>
 </resources>

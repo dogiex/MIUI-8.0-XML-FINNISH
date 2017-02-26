@@ -52,7 +52,7 @@
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Peruuta</string>
   <string name="gift_operation_fail_dlg_retry">Yritä uudelleen</string>
-  <string name="gift_operation_waiting">Pieni hetki…</string>
+  <string name="gift_operation_waiting">Odota hetki…</string>
   <string name="gift_owned">Ostettu</string>
   <string name="gift_present">Anna lahja</string>
   <string name="gift_present_dlg_anonymous">Anonyymi lahja</string>
@@ -85,9 +85,9 @@
   <string name="incompatible_dialog_ok">Selvä</string>
   <string name="incompatible_dialog_title">Yhteensopivuusongelmia</string>
   <string name="live_wallpaper">Live taustakuva</string>
-  <string name="loading">Pieni hetki…</string>
+  <string name="loading">Odota hetki…</string>
   <string name="loading_resource_detail_fail">Lähdettä ei voi ladata</string>
-  <string name="loading_resource_detail_info">Pieni hetki…</string>
+  <string name="loading_resource_detail_info">Odota hetki…</string>
   <string name="local_resouce_creator_name">Kehittäjä: %1$s</string>
   <string name="lockscreen_magazine_subscribe">%1$s seuraavaa</string>
   <string name="lockscreen_magazine_summary">Kategoriat</string>
@@ -109,7 +109,7 @@
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="present_local_themes">Ladatut</string>
   <string name="present_online_themes">Hae lisää teemoja ilmaiseksi</string>
-  <string name="provision_loading_tips">Pieni hetki…</string>
+  <string name="provision_loading_tips">Odota hetki…</string>
   <string name="provision_second_title">Valitse useista oletusteemoista yksi</string>
   <string name="provision_title">Valitse teema</string>
   <string name="purchased_list">Ostetut</string>
@@ -150,7 +150,7 @@
   <string name="resource_comment_footer">Tyhjiä kommentteja ei näytetä.</string>
   <string name="resource_comment_good_comments">Positiivinen</string>
   <string name="resource_comment_invalid">Arvostele teema koskettamalla tähtiä</string>
-  <string name="resource_comment_loading_list">Pieni hetki…</string>
+  <string name="resource_comment_loading_list">Odota hetki…</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Ei kommentteja</string>
   <string name="resource_comment_publish">Lähetä</string>
@@ -355,7 +355,7 @@
   <string name="theme_favorite_delete_fail">Suosikeista poistaminen epäonnistui</string>
   <string name="theme_favorite_delete_success">Poistettiin suosikeista</string>
   <string name="theme_favorite_list_empty">Yhtään suosikkiteemaa ei ole vielä.</string>
-  <string name="theme_favorite_waiting">Pieni hetki…</string>
+  <string name="theme_favorite_waiting">Odota hetki…</string>
   <string name="theme_fresh_man_notifaction">Uusia teema saatavilla</string>
   <string name="theme_immediately_apply_tip">Asetetaanko teeman päivitys nyt?</string>
   <string name="theme_import_from_sdcard">Tuo</string>
@@ -368,7 +368,7 @@
   <string name="theme_precast_create_notification_title">Päivitetty MIUI 7:ään</string>
   <string name="theme_precast_update_notification_content">Näytä päivitykset napauttamalla.</string>
   <string name="theme_precast_update_notification_title">MIUI 7 teemat päivitetty</string>
-  <string name="theme_provision_loading_tips">Pieni hetki…</string>
+  <string name="theme_provision_loading_tips">Odota hetki…</string>
   <string name="theme_provision_oper_button_next">Seuraava</string>
   <string name="theme_provision_title">Valitse teema</string>
   <string name="theme_purchased_list_empty">Et ole ostanut yhtään teemaa.</string>
@@ -396,7 +396,7 @@
   <string name="to_activate_the_account">Aktivoi Mi Tilisi nyt</string>
   <string name="wallpaper_crop">Rajaa</string>
   <string name="wallpaper_decoded_error">Taustakuvan lataaminen epäonnistui</string>
-  <string name="wallpaper_loading_text">Pieni hetki…</string>
+  <string name="wallpaper_loading_text">Odota hetki…</string>
   <string name="wallpaper_set_as_both">Aseta molempiin</string>
   <string name="wallpaper_set_as_destop">Aseta Kotinäytölle</string>
   <string name="wallpaper_set_as_lockscreen">Aseta Lukitusnäytölle</string>

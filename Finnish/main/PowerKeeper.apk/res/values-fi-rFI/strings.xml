@@ -42,7 +42,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Toiminto saattaa vaikuttaa verkkoyhteyteen, sijaintipalveluun, Radioon, Ajastimeen jne. Tämä määritys on sopiva useammille sovelluksille, mutta jos tietty sovellus käyttäytyy taustalla epänormaalisti, voit muokata asetuksia sovelluskohtaisesti.</string>
   <string name="hide_mode_ultimate_desc">Ultimate-tila on käytössä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta poistamalla Akun säästäjä käytöstä.</string>
   <string name="high">Suorituskyky</string>
-  <string name="hints_loading_text">Pieni hetki…</string>
+  <string name="hints_loading_text">Odota hetki…</string>
   <string name="location_disable_description">Taustalla olevat sovellukset voivat käyttää sijaintipalvelua hetkittäin, mutta jatkuva käyttö on rajoitettu</string>
   <string name="location_disable_title">Rajoita</string>
   <string name="location_enable_description">Sovellukset voi käyttää sijaintipalvelua taustalla</string>
@@ -148,7 +148,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="set_cpu_powermode">CPU käyttö</string>
   <string name="set_cpufreq_max">MAX CPU taajuus</string>
   <string name="set_lcd_mode">Näyttö-tila</string>
-  <string name="settings_safetylegal_activity_loading">Pieni hetki…</string>
+  <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
   <string name="still">Kuva</string>
   <string name="ui">Normaali</string>
   <string name="user_define_mode">Nimi</string>

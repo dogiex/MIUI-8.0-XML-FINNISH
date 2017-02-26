@@ -421,7 +421,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="descx_finish_scan_system">Viimeistellään järjestelmän tietoturvan skannausta</string>
   <string name="descx_quick_scan_cancel">Skannaus peruutettu</string>
   <string name="descx_quick_scan_done">Skannaus valmis</string>
-  <string name="descx_quick_scan_preparation">Pieni hetki…</string>
+  <string name="descx_quick_scan_preparation">Odota hetki…</string>
   <string name="descx_scanning_item">Skannataan %s</string>
   <string name="descx_start_cleanup_cache">Aloitetaan välimuistin optimointia</string>
   <string name="descx_start_cleanup_memory">Aloitetaan muistin optimointia</string>
@@ -1164,7 +1164,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="reject_usb_install">Kiellettiin seuraavien sovelluksien asennus USB:n kautta</string>
   <string name="renew_ip">Yritä uudelleen</string>
   <string name="repair">Korjaa</string>
-  <string name="repair_loading_text">Pieni hetki…</string>
+  <string name="repair_loading_text">Odota hetki…</string>
   <string name="replace_dns">Korvaa DNS automaattisesti</string>
   <string name="resource_antispam">Estolista</string>
   <string name="resource_antivirus">Virus skanneri</string>
@@ -1625,7 +1625,7 @@ Tap to top up your balance."</string>
   <string name="updating_diagnostic_botton">Analysoidaan dataa…</string>
   <string name="usage_sorted_activity_lable">Datan käyttö</string>
   <string name="usage_sorted_empty_text">Tyhjä</string>
-  <string name="usage_sorted_loading_text">Pieni hetki…</string>
+  <string name="usage_sorted_loading_text">Odota hetki…</string>
   <string name="usage_type_audio">Audio</string>
   <string name="usage_type_cpu">CPU yhteensä</string>
   <string name="usage_type_cpu_foreground">CPU etuala</string>

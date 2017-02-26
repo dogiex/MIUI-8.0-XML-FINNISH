@@ -174,7 +174,7 @@
   <string name="michat_type_list_null">Infoa ei saatu, yritä myöhemmin uudestaan</string>
   <string name="michat_type_picture">Kuva</string>
   <string name="michat_user_quit">Poistuit keskustelusta</string>
-  <string name="michat_wait_for_a_moment">Pieni hetki, apu on matkalla!</string>
+  <string name="michat_wait_for_a_moment">Odota hetki, apu on matkalla!</string>
   <string name="michat_webview_title">Näytä tiedot</string>
   <string name="min_error">%1$s pitäisi olla pidempi.</string>
   <string name="modem_tool_log">Tallenna modeemin lokit</string>

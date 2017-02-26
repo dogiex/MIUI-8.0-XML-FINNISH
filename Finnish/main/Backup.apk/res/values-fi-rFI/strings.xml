@@ -279,7 +279,7 @@ Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
 2. Avaa sovellus ja paina Aloita
 3. Skannaa QR-koodi vanhalla laitteellasi"</string>
   <string name="trans_operate_old_phone_tips2">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä, Napauta [Olen lähettäjä]"</string>
-  <string name="trans_please_waiting">Pieni hetki…</string>
+  <string name="trans_please_waiting">Odota hetki…</string>
   <string name="trans_progress_subdescript_br_receiver">Palautetaan %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_br_sender">Varmuuskopioidaan %1$s, %2$s valmiina</string>
   <string name="trans_progress_subdescript_br_sender_finish">Varmuuskopioitu %s, odotetaan lähettämistä…</string>

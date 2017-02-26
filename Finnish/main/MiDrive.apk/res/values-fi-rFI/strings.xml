@@ -37,7 +37,7 @@
   <string name="file_already_downlaoded">Tiedosto tallennettiin kansioon \"%1$s\"</string>
   <string name="file_change_btn_download">Lataa tiedosto</string>
   <string name="file_change_btn_upload">Lähetä tiedosto</string>
-  <string name="file_loading">Pieni hetki…</string>
+  <string name="file_loading">Odota hetki…</string>
   <string name="file_name_empty">Sinun täytyy syöttää nimi.</string>
   <string name="file_name_invalid">"Tiedoston nimi ei saa sisältää seuraavia merkkejä: /\\:*?&lt;&gt;"</string>
   <string name="file_name_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>

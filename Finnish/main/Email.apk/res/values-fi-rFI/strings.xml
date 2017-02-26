@@ -960,7 +960,7 @@
   <string name="too_large_to_attach_multiple">Vähintään yhtä tiedostoa ei liitetty. Raja %1$s.</string>
   <string name="too_large_to_attach_single">Et voi liittää tiedostoja, joiden koko on yli %1$s.</string>
   <string name="topic_merge">Yhdistä teemat</string>
-  <string name="translation_loading">Pieni hetki…</string>
+  <string name="translation_loading">Odota hetki…</string>
   <string name="translation_no_result">Ei hakutuloksia</string>
   <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
@@ -989,7 +989,7 @@
   <string name="upload_log_yes">Lähetä</string>
   <string name="upload_logs">Lähetä lokitiedostot</string>
   <string name="upload_logs_keywords">lähetä lokit</string>
-  <string name="uploading_logs">Pieni hetki…</string>
+  <string name="uploading_logs">Odota hetki…</string>
   <string name="validation_failed_prompt">Tiliä ei voitu todentaa, tarkasta %s palvelimen asetukset</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>

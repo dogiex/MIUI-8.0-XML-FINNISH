@@ -136,8 +136,8 @@
   <string name="ignore">Ei nyt</string>
   <string name="input_email_address_notice">Käytämme tätä sähköpostia tilisi vahvistamiseen</string>
   <string name="io_error_title">Vahvista verkkosi</string>
-  <string name="just_a_second">Pieni hetki…</string>
-  <string name="loading_micloud_sync_data">Pieni hetki…</string>
+  <string name="just_a_second">Odota hetki…</string>
+  <string name="loading_micloud_sync_data">Odota hetki…</string>
   <string name="local_device">(tämä laite)</string>
   <string name="locating_current_location">Sijainti</string>
   <string name="location_service_not_working">Sijaintipalvelu ei toimi</string>
@@ -402,7 +402,7 @@ Varmista, että muistat näiden kysymyksien vastaukset."</string>
   <string name="update_phone_number_notice_message">Sinun täytyy vahvistaa henkilöllisyytesi ennen kuin voit päivittää puhelinnumerosi.</string>
   <string name="updated_nothing">Päivitetty</string>
   <string name="user_avatar_update_title">Vaihda profiilikuva</string>
-  <string name="user_avatar_uploading">Pieni hetki…</string>
+  <string name="user_avatar_uploading">Odota hetki…</string>
   <string name="verified_apps">Vahvistetut sovellukset</string>
   <string name="verified_devices">Vahvistetut laitteet</string>
   <string name="verify_phone_prompt">Valitse vahvistettava puhelinnumero</string>

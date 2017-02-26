@@ -2800,7 +2800,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_on_proximity_sensor_title">Tasku-tila</string>
   <string name="screen_optimize">Kontrasti</string>
   <string name="screen_paper_mode_adjust_level">Voimakkuus</string>
-  <string name="screen_paper_mode_apps_loading">Pieni hetki…</string>
+  <string name="screen_paper_mode_apps_loading">Odota hetki…</string>
   <string name="screen_paper_mode_apps_title">Käytä Luku-tilaa</string>
   <string name="screen_paper_mode_global_summary">Käytä Luku-tilaa kaikissa sovelluksissa</string>
   <string name="screen_paper_mode_global_title">Kaikki sovellukset</string>
@@ -3360,7 +3360,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_screen_key_recent_apps">Taustasovellukset-painike</string>
   <string name="status_bar_settings">Ilmoitukset ja ilmoituspalkki</string>
   <string name="status_bar_settings_advanced">Lisäasetukset</string>
-  <string name="status_bar_settings_all_app_display_loading">Pieni hetki…</string>
+  <string name="status_bar_settings_all_app_display_loading">Odota hetki…</string>
   <string name="status_bar_settings_app_notification_preferences">Sovellusasetukset</string>
   <string name="status_bar_settings_basic_settings">Asetukset</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>

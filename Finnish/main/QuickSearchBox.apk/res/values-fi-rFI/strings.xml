@@ -39,7 +39,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Haku</string>
   <string name="hot_search">Suositukset</string>
-  <string name="loading">Pieni hetki…</string>
+  <string name="loading">Odota hetki…</string>
   <string name="local_app">Sovellukset</string>
   <string name="local_setting">Asetukset</string>
   <string name="menu_help">Apua</string>

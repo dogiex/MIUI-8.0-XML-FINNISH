@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_recover">Pieni hetki…</string>
+  <string name="about_to_recover">Odota hetki…</string>
   <string name="app_name">Mi Pilvi varmuuskopio​inti</string>
   <string name="as_new_device">Korvaa edellinen Kotinäyttö ja asetukset</string>
   <string name="as_new_device_summary">Poista edelliset Mi Pilvi varmuuskopiot</string>
@@ -50,7 +50,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_back_up_interval_short">Joka päivä</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fi-verkkoon ei saada yhteyttä</string>
   <string name="cloud_back_up_ok_btn">OK</string>
-  <string name="cloud_back_up_opening">Pieni hetki…</string>
+  <string name="cloud_back_up_opening">Odota hetki…</string>
   <string name="cloud_back_up_share_activity_confirm">Päivitä</string>
   <string name="cloud_back_up_share_activity_discription">Hanki lisää tallennustilaa, päivittäiset varmuuskopiot ja lisää.</string>
   <string name="cloud_back_up_share_activity_title">Päivitä Mi Tili</string>

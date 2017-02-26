@@ -6,7 +6,7 @@
   <string name="activity_parse_video_title">Liitä videon linkki</string>
   <string name="activity_rule">Säännöt</string>
   <string name="ad_download">Lataa</string>
-  <string name="ad_downloading">Pieni hetki…</string>
+  <string name="ad_downloading">Odota hetki…</string>
   <string name="add_one">+1</string>
   <string name="add_private">Piilota tiedostot nyt</string>
   <string name="add_private_files">Lisää tiedostoja</string>
@@ -201,7 +201,7 @@
   <string name="file_info_location">Sijainti: </string>
   <string name="file_info_modified">Viimeksi muokattu: </string>
   <string name="file_info_size">Koko: </string>
-  <string name="file_loading">Pieni hetki…</string>
+  <string name="file_loading">Odota hetki…</string>
   <string name="file_name_invalid">Tiedoston nimi ei voi sisältää seuraavia merkkejä: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">Tiedostoa ei ole olemassa</string>
   <string name="folder_name_empty">Kansion nimi ei voi olla tyhjä</string>
@@ -263,7 +263,7 @@
   <string name="like_toast_3">Kirjaudu sisään ja katso tykkäämäsi videot profiilissasi.</string>
   <string name="load_more">Näytä lisää</string>
   <string name="load_sticker_fail">Tarrojen lataaminen epäonnistui</string>
-  <string name="loading">Pieni hetki…</string>
+  <string name="loading">Odota hetki…</string>
   <string name="local_image">Kuvat</string>
   <string name="local_music">Äänitiedostot</string>
   <string name="local_video">Videotiedostot</string>
@@ -498,7 +498,7 @@
   <string name="restoring">Palautetaan…</string>
   <string name="rlv_closing">Suljetaan…</string>
   <string name="rlv_last_refreshing_time">Päivitetty %1$s</string>
-  <string name="rlv_loading_more">Pieni hetki…</string>
+  <string name="rlv_loading_more">Odota hetki…</string>
   <string name="rlv_pull_to_close">Sulje vetämällä alas</string>
   <string name="rlv_pull_to_refresh">Päivitä vetämällä alas</string>
   <string name="rlv_refreshing">Päivitetään…</string>
@@ -583,7 +583,7 @@
   <string name="shortcut_exists">Pikakuvake on jo olemassa</string>
   <string name="shortcut_hotvideos">Suosittuja videoita</string>
   <string name="shortcut_msg">Lisää suosituista videoista pikakuvake Kotinäytölle</string>
-  <string name="smb_loading">Pieni hetki…</string>
+  <string name="smb_loading">Odota hetki…</string>
   <string name="start_server">Aloita palvelin</string>
   <string name="stay_awake_summary">Älä päästä näyttöä nukkumaan FTP:n käytön aikana</string>
   <string name="stay_awake_title">Pidä näyttö hereillä</string>

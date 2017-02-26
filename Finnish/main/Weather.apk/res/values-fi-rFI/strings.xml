@@ -60,7 +60,7 @@
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="commercial">Mainos</string>
-  <string name="common_loading_text">Pieni hetki…</string>
+  <string name="common_loading_text">Odota hetki…</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_drawer_on_top">%1$s päivän ennustus</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>

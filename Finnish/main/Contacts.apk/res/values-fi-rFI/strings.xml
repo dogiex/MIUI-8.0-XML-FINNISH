@@ -609,7 +609,7 @@ Syy: %s"</string>
   <string name="livetalk_left">Jäljellä oleva livetalk</string>
   <string name="livetalk_switch_on">Ota käytöön</string>
   <string name="livetalk_title">Live talk</string>
-  <string name="loading_accounts">Pieni hetki…</string>
+  <string name="loading_accounts">Odota hetki…</string>
   <string name="loading_group_members">Ladataan ryhmän jäseniä…</string>
   <string name="loading_groups">Ladataan ryhmiä…</string>
   <string name="loading_recent">Ladataan viimeisimpiä yhteystietoja…</string>
@@ -1271,7 +1271,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="voip_audio_description">VoIP-puhelu</string>
   <string name="voip_contact_label">Mi Ääni</string>
   <string name="voip_contacts_entry">Mi Ääni</string>
-  <string name="voip_loading_contact">Pieni hetki…</string>
+  <string name="voip_loading_contact">Odota hetki…</string>
   <string name="voip_name">Mi Ääni</string>
   <string name="voip_recommend_msg">Napauta käyttääksesi voip:tä</string>
   <string name="voip_shortcut_name">Mi Ääni</string>
