@@ -341,10 +341,10 @@
   <string name="global_search_title_prenatal">Raskaudenaikainen musiikki</string>
   <string name="global_search_title_radar">Musiikin tunnistus</string>
   <string name="group_artist">Yhtyeet</string>
-  <string name="handle_later">Not now</string>
+  <string name="handle_later">Ei nyt</string>
   <string name="headset_settings">Kuulokkeet &amp; äänitehosteet</string>
-  <string name="higher_quality_music">High quality audio</string>
-  <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
+  <string name="higher_quality_music">Korkea äänenlaatu</string>
+  <string name="higher_quality_music_summary">Suoratoista ja lataa korkeamman bitraten tiedostoja</string>
   <string name="home_tab_local">Musiikkini</string>
   <string name="home_tab_online">Tutustu</string>
   <string name="i_know">OK</string>
