@@ -36,6 +36,9 @@
   <string name="export_to_note">Vie Muistioon</string>
   <string name="fm_record">Radion nauhoitukset</string>
   <string name="invalid_argument">Laiton argumentti</string>
+  <string name="keywords_search_call_record">Nauhoita puhelut;Nauhoita puhelu;Puhelun nauhoitus;Puhelun nauhoitukset</string>
+  <string name="keywords_search_record">Uusi nauhoitus;Lisää nauhoitus;Nauhoitus;Nauhoitukset;Jäljennös;Sovita;Nauhuri;Puhe nauhuri;Ääni nauhuri;Nauhoita sovellus;Nauhoittaja sovellus;Kuinka nauhoitan;Kuinka nauhoitan ääntä;Missä on nauhoitin;MIUI Nauhuri</string>
+  <string name="keywords_search_record_list">Nauhuri;Jäljennös;Jäljennökset;Nauhoita;Jaa nauhoitus;Jaa nauhoituksia;Nauhoitus;Nauhoitukset</string>
   <string name="low_battery_error">Alle 5% akkua jäljellä. Varmistaaksemme, ettei nauhoituksesi katoa, nauhoitus pysäytettiin ja tallennettiin.</string>
   <string name="mark_point_list_title">Merkkauslista</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
@@ -66,6 +69,8 @@
   <string name="recognition_error_format">Laiton äänimuoto</string>
   <string name="recognition_error_internal">Sisäinen virhe</string>
   <string name="recognition_error_stopped">Tunnistus lopetettiin</string>
+  <string name="recognition_status_downloading">Ladataan</string>
+  <string name="record">Nauhoita</string>
   <string name="record_back_pressed_hint">Lopettaaksesi tunnistuksen, kosketa Takaisin-painiketta uudelleen</string>
   <string name="record_download">Lataa Mi Pilvestä</string>
   <string name="record_download_complete">Ladattu</string>

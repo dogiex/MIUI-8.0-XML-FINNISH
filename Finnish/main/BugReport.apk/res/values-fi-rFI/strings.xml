@@ -81,6 +81,7 @@
   <string name="feedback_status_commit_failed_title">Raporttia ei voitu lähettää</string>
   <string name="feedback_status_commit_succ_title">Lähetetty</string>
   <string name="feedback_status_commit_uploading_title">Lähetetään…</string>
+  <string name="feedback_status_forum_reply">Vastaa</string>
   <string name="feedback_status_jira_comment">Lisää kommentti</string>
   <string name="feedback_status_more">Tiedot</string>
   <string name="feedback_status_processing">Käsitellään…</string>
@@ -88,6 +89,7 @@
   <string name="feedback_status_replyed">Vastattu</string>
   <string name="feedback_status_reresolved">Selvitetty</string>
   <string name="feedback_status_supplement">Kuvaile ongelmasi tiedot</string>
+  <string name="feedback_status_supplement_more">Lisää kommentti</string>
   <string name="feedback_submit_failed_notification_desc">Näytä tiedot</string>
   <string name="feedback_submit_failed_notification_retry">Lähetä uudestaan</string>
   <string name="feedback_submit_failed_notification_title">Raporttia ei voitu lähettää</string>

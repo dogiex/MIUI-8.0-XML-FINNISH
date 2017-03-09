@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Poista</string>
   <string name="action_settings">Asetukset</string>
+  <string name="action_title_optimize">Optimoi nyt</string>
   <string name="activity_title_poweranalyze">Testaa akku</string>
   <string name="activity_title_powerconfigure">Akun asetukset</string>
   <string name="activity_title_poweroptimize">Akun säästäjä</string>
@@ -62,6 +63,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="no_applications">Tyhjä</string>
   <string name="none">Ei prosesseja</string>
   <string name="normal">Oletus-tila</string>
+  <string name="notify_app_consume_abnormal_title">vuotaa akkua</string>
   <string name="operation_create_group">Nimi</string>
   <string name="operation_create_group_message">Syötä uuden ryhmän nimi</string>
   <string name="power_checker_recent_btn_title">Virran Asetukset</string>

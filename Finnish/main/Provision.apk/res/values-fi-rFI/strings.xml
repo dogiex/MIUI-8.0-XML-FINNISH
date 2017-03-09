@@ -20,6 +20,8 @@
   <string name="input_method_category">Valitse oletusnäppäimistö, jota käytät sähköpostien tai muistioiden kirjoittamiseen, ja lähes kaikkialla muualla. Muista, että voit asentaa kolmannen osapuolen näppäimistön myöhemmin.</string>
   <string name="input_method_setting">Valitse oletusnäppäimistö</string>
   <string name="install_preinstall_app">Ladataan sovelluksia…</string>
+  <string name="language_picker_other_languages_title">Muut kielet</string>
+  <string name="language_picker_popular_languages_title">Suositut kielet</string>
   <string name="locale_picker_title">Valitse kielesi</string>
   <string name="miui_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso Tietosuojakäytäntö osoitteessa %s.</string>
   <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>
