@@ -160,6 +160,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">Tällaisessa tapauksessa kaikki tiedot synkronoidaan Toisen tilasi kanssa. Tämän välttämiseksi, älä ota Mi Pilven synkronointia käyttöön.</string>
   <string name="multi_user_not_show_sync_activity_title">Älä ota Mi Pilven synkronointia käyttöön</string>
   <string name="my_device_title">Nykyinen laite</string>
+  <string name="my_favorite">Suosikkini</string>
   <string name="no_network_btn">Päivitä</string>
   <string name="no_network_title">Verkkoon ei saada yhteyttä.</string>
   <string name="no_response_retry">Ei vastausta, yritä uudelleen.</string>

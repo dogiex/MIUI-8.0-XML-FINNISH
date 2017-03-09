@@ -20,6 +20,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Syötä Sovelluslukon salasana</string>
   <string name="access_control_recording_intro_header">Lisää Sovelluslukko piirtämällä kuvio</string>
   <string name="access_control_reset_by_account">Nollaa Sovelluslukon salasana kirjautumalla sisään Mi Tilillesi</string>
+  <string name="accessibility_service_description">"开启此功能，即可进行QQ群红包提醒。
+提示：小米红包助手不会通过辅助功能收集用户任何隐私，请放心开启！"</string>
   <string name="action_button_text_100">Optimoi</string>
   <string name="action_button_text_60">Korjaa</string>
   <string name="action_button_text_60_80">Korjaa</string>
@@ -72,6 +74,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Päivitetty eilen klo %s</string>
   <string name="adjust_traffic_data">Aseta datan käyttö</string>
   <string name="after_the_lock_screen">Sovellus menee lukkoon näytön mukana, voit muuttaa tätä Sovelluslukon asetuksissa.</string>
+  <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
+  <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
+  <string name="alarm_lockscreen_btn">开始抢红包</string>
+  <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Valitse virustunnisteet</string>
   <string name="antivirus_choose_engine_disable_toast">Virustunnisteita ei voida vaihtaa skannauksen ollessa käynnissä</string>
@@ -97,6 +103,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">Testaa operaattorin tukiaseman (APN) määritykset.</string>
   <string name="apn_exception_title">Tarkasta APN määritykset</string>
+  <string name="app_alarm_title">%s红包活动</string>
   <string name="app_check_no_issue">Näyttää siltä, että akkuongelmia ei löytynyt. Siistiä!</string>
   <string name="app_check_optimize_title">Optimoi taustasovellukset</string>
   <string name="app_check_reason_background_cpu">CPU taustatyöskentely</string>
@@ -114,6 +121,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_name_na">Datan käyttö</string>
   <string name="app_name_securitycenter">Tietoturva</string>
   <string name="app_not_installed_toast">Sovellus ei ole asennettu laitteellesi.</string>
+  <string name="app_right">小米公司官方出品</string>
+  <string name="app_summary">"微信/QQ/米聊抢红包神器
+支持个人红包与群红包
+春节红包活动，不错过每一个红包"</string>
   <string name="app_version">Versio</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="apps_item_sign_dialog_content">"%s allekirjoitus on eri, kuin App Store version. Poistetaanko tämä sovellus ja asennetaanko virallinen versio? Huom: Ristiriitaisen allekirjoituksen omaavan sovelluksen asentaminen saattaa johtaa sovellusdatan menettämiseen."</string>
@@ -238,6 +249,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="battery_status_unknown">Tuntematon virhe</string>
   <string name="battery_temperature_title">Lämpötila</string>
   <string name="begin_date">Nollaa käytön päivä</string>
+  <string name="best_warning_dialog_button">我知道了</string>
+  <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
+  <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
+  <string name="best_warning_dialog_title">温馨提示</string>
   <string name="bind_xiaomi_account_cancel">Peruuta</string>
   <string name="bind_xiaomi_account_confirm">Lisää</string>
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen. Tili poistetaan automaattisesti jos kirjaudut ulos.</string>
@@ -277,6 +292,12 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="btn_text_start_check">Skannaa</string>
   <string name="btn_text_stop">Pysäytä</string>
   <string name="btn_text_virus_scan">Skannaa</string>
+  <string name="business_have_hongbao">来自%1$s的一个红包</string>
+  <string name="business_lucky_warning">企业红包</string>
+  <string name="button_get_lucky">"小米钱包
+双11脱单活动"</string>
+  <string name="button_lucky_news">红包攻略</string>
+  <string name="button_open">立即开启</string>
   <string name="button_text_accept">Hyväksy</string>
   <string name="button_text_accept_timer">Hyväksy (%d)</string>
   <string name="button_text_cancel">Peruuta</string>
@@ -325,6 +346,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="card_main_deepclean_title">Syväpuhdista</string>
   <string name="card_main_gamebooster_summary">Nopeuta ja paranna pelaamisen kokemusta</string>
   <string name="card_main_gamebooster_title">Pelien nopeuttaja</string>
+  <string name="card_main_hbassistant_summary">Käytä tätä työkalua ottamaan kirjekuoret nopeammin kiinni</string>
+  <string name="card_main_hbassistant_title">Punaisen kirjekuoren avustaja</string>
   <string name="card_main_monthreport_action">Näytä</string>
   <string name="card_main_monthreport_summary">Näytä kuukausittaisia raportteja</string>
   <string name="card_main_monthreport_title">Tietoturvan tilastot</string>
@@ -357,10 +380,18 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="clear_garbage">Tyhjennä roskat vapauttaaksesi tilaa</string>
   <string name="clear_immediately">Puhdista nyt</string>
   <string name="close">Sulje</string>
+  <string name="close_float_view_dialog_message">确定关闭红包助手悬浮窗？关闭后，您将无法快速打开微信摇一摇与支付宝咻一咻页面，并且无法收到最新红包活动消息。</string>
+  <string name="close_float_view_dialog_title">关闭悬浮窗</string>
+  <string name="close_lucky_money_dialog_ok">确认关闭</string>
+  <string name="close_lucky_money_dialog_summary">确定关闭红包助手？关闭后，将无法收到微信、QQ红包提醒，可能导致您错失红包哟。如您想关闭悬浮窗，可在下方进行设置。</string>
+  <string name="close_lucky_money_dialog_title">关闭红包助手</string>
   <string name="cmcc_app_check_dialog_message">Suorita korjaus loppuun käynnistämällä laite uudelleen.</string>
   <string name="cmcc_app_check_dialog_negative">Myöhemmin</string>
   <string name="cmcc_app_check_dialog_positive">Käynnistä uudelleen nyt</string>
   <string name="cmcc_app_check_dialog_title">Järjestelmä korjattu</string>
+  <string name="cmd_lucky">微信摇一摇</string>
+  <string name="cmd_lucky_float">摇一摇</string>
+  <string name="cmd_lucky_summary">快速进入微信摇一摇页面</string>
   <string name="confirmSecondSpacePassword">Vahvista Toisen tilan salasana</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Lisätään Mi Tili</string>
   <string name="confirm_fingerprint_msg">Aseta sormi tunnistimelle</string>
@@ -412,6 +443,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="delete">Poista</string>
   <string name="delete_from_manual_item_white_list">Poista poikkeuksista</string>
   <string name="deleted_apps">Poistetut sovellukset</string>
+  <string name="demo_number">241</string>
   <string name="descx_cleanuping_item">Optimoidaan %s</string>
   <string name="descx_finish_cleanup_cache">Viimeistellään välimuistin optimointia</string>
   <string name="descx_finish_cleanup_memory">Viimeistellään muistin optimointia</string>
@@ -445,6 +477,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="dialog_title_stop_paysafety_scan">Pysäytä</string>
   <string name="dialog_title_stop_virus_scan">Pysäytä virus skannaus</string>
   <string name="disable_air_mode">Poista Lentokone-tila ensin käytöstä</string>
+  <string name="dnd_mode_type">勿扰方式</string>
+  <string name="dnd_no_everything">不进行提醒</string>
+  <string name="dnd_no_sound">仅屏蔽声音</string>
   <string name="dns_exception_summary">Tarkasta reitittimen DNS-asetukset</string>
   <string name="dns_exception_title">Tarkasta DNS-asetukset</string>
   <string name="download">Lataa</string>
@@ -463,6 +498,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="empty_title_system_process_list">Ei järjestelmän prosesseja</string>
   <string name="empty_title_virus_list">Ei viruksia</string>
   <string name="enable_network">Ota verkko ensin käyttöön</string>
+  <string name="enter">进入</string>
   <string name="every_day">Joka päivä</string>
   <string name="examination_score_100">Kaikki näyttää hyvältä!</string>
   <string name="examination_score_100_with_recommend">%d kohdetta voidaan optimoida</string>
@@ -471,6 +507,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="examination_score_80_100_with_recommend">%d kohdetta voidaan optimoida</string>
   <string name="examination_score_80_60">Joitakin kohteita voidaan optimoida</string>
   <string name="examination_score_has_virus">Havaittiin epäilyttäviä sovelluksia.</string>
+  <string name="file_manager_need_update_desc">当前文件管理器版本过低，无法使用随机表情功能，请先更新文件管理器。</string>
+  <string name="file_manager_need_update_title">文件管理器版本过低</string>
   <string name="finger_remind_message">Voit käyttää sormenjälkeä myös Sovelluslukon kanssa.</string>
   <string name="fingerprint_identify_msg">Skannaa sormenjälkesi</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasanasi.</string>
@@ -498,6 +536,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s on rajoitettu käyttämästä %2$s verkkoja</string>
   <string name="five_percent_total_pkg">%s (5%% kuukausittaisesta datasta)</string>
+  <string name="float_window">桌面悬浮窗</string>
+  <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
+  <string name="float_window_tips">小米手机就是快！</string>
   <string name="flow_rank_title">Datan käyttö</string>
   <string name="foreground_traffic">Etuala %s</string>
   <string name="forget_password_button_text">Unohdin salasanani</string>
@@ -511,10 +552,13 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="gateway_exception_summary">Tarkasta reitittimesi ja yritä uudelleen.</string>
   <string name="gateway_exception_summary2">Palvelimeen yhdistäminen epäonnistui</string>
   <string name="gateway_exception_title">Testaa reititin</string>
+  <string name="ge">个</string>
   <string name="gigabyteShort">Gt</string>
+  <string name="give_lucky_money">红包大派送</string>
   <string name="go_to">Jatka</string>
   <string name="go_to_setting_fingerprint">Asetukset</string>
   <string name="goto_set">Aseta</string>
+  <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="handle_bar_summary_wifi_unknown">Tuntematon</string>
   <string name="handle_bar_title_apps">Sovellukset</string>
   <string name="handle_bar_title_paysms">Viestit</string>
@@ -574,6 +618,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Tämä sovellus on suuri riski puhelimesi tietoturvalle.</string>
   <string name="history_details_title">Historian tiedot</string>
+  <string name="hongbao_cancel">取消</string>
+  <string name="hongbao_message_slogon">小米手机就是快!</string>
+  <string name="hongbao_name">小米红包助手</string>
   <string name="hot">Suosittu</string>
   <string name="hot_today">Suosittu tänään</string>
   <string name="info_and_call">Puhelut ja viestit</string>
@@ -592,10 +639,18 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="item_app_permission">Sovelluksen käyttöoikeudet</string>
   <string name="item_dev_mode">Kehittäjäasetukset</string>
   <string name="item_install_monitor">Asennuksen valvonta</string>
+  <string name="item_lucky_alarm_has_been_closed">已结束</string>
   <string name="item_mms">Suodata ei-toivotut viestit</string>
   <string name="item_usb_debug">USB-virheenkorjaus</string>
   <string name="item_virus">Virus</string>
-  <string name="item_virus_lib">Update virus definitions automatically</string>
+  <string name="item_virus_lib">Päivitä virustunnisteet automaattisesti</string>
+  <string name="key_business">key_business</string>
+  <string name="key_lucky_money_notification_settings">key_lucky_money_notification_settings</string>
+  <string name="key_lucky_sound">key_lucky_sound</string>
+  <string name="key_miliao">key_miliao</string>
+  <string name="key_only_group_message">key_only_group_message</string>
+  <string name="key_qq">key_qq</string>
+  <string name="key_wechat">key_wechat</string>
   <string name="keywords_antispam">Estolista;Esto;Musta lista;Älykäs estolista;Petos;Myyjä;Agentti</string>
   <string name="keywords_antivirus">Virus;Riski;Antivirus;Skannaa</string>
   <string name="keywords_cleanmaster">Roska;Puhdista;Nopeuta;Tallennustila;Välimuisti</string>
@@ -616,6 +671,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="last_check_date_yesterday">"Skannattu eilen "</string>
   <string name="last_check_never_checked">Skannaa nyt</string>
   <string name="last_checked_date2">Skannattu %d päivää sitten</string>
+  <string name="last_checked_default">Skannattu %d päivää sitten</string>
+  <string name="later">稍后处理</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Juhlapyhä</string>
   <string name="legal_workday_invalidate">Ma-Pe (juhlapyhän tiedot vanhentunut)</string>
@@ -626,6 +683,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="load_only_under_wlan">Lataa uutiset, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="local_ip_exception_summary">Paikallista IP-osoitetta ei saatu. Lähettääksesi raportin MIUI:lle, avaa Palaute-sovellus ja lähetä lokitiedosto laitteestasi.</string>
   <string name="lock_mode_title">Lukitusasetukset</string>
+  <string name="lock_screen_business_hongbao_message">来自%1$s</string>
+  <string name="lock_screen_hongbao_message">来自“%1$s”</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s käytetty lukitusnäytöllä</string>
   <string name="lock_screen_traffic_guide_notification_title">Hallitse datan käyttöä napauttamalla.</string>
   <string name="lock_screen_traffic_notify_body">Lukittu, koska %2$s klo %1$s, dataa käytetty %3$s</string>
@@ -662,6 +721,30 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="long_click_dialog_summary">Paina listalla olevia kohteita pitkään lisätäksesi ne poikkeuksiin</string>
   <string name="long_click_dialog_title">Huomio</string>
+  <string name="lucky_activity">红包活动</string>
+  <string name="lucky_alarm">红包闹钟</string>
+  <string name="lucky_alarm_app">红包活动倒计时</string>
+  <string name="lucky_alarm_app_after">红包活动已经结束</string>
+  <string name="lucky_alarm_app_tail">倒计时</string>
+  <string name="lucky_alarm_count_down">0:00:00</string>
+  <string name="lucky_alarm_count_down_default">0:00:00</string>
+  <string name="lucky_alarm_item_date">27</string>
+  <string name="lucky_alarm_item_month">11月</string>
+  <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
+  <string name="lucky_alarm_open_title">红包闹钟</string>
+  <string name="lucky_alarm_sound_title">活动声音提醒</string>
+  <string name="lucky_assistant_description">"小米官方出品
+微信/QQ/米聊抢红包神器
+不支持提醒被屏蔽的群，以及开启电脑登录免打扰功能的软件"</string>
+  <string name="lucky_max_chat_title">发来红包最多的群是</string>
+  <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
+  <string name="lucky_news_summary">查看红包攻略及春节相关新闻</string>
+  <string name="lucky_sound_warn">红包声音提醒</string>
+  <string name="lucky_sound_warn_summary">发现群红包时播放提示音</string>
+  <string name="lucky_warn">红包提醒</string>
+  <string name="lucky_warn_summary">当检测到群红包时，自动点亮屏幕进行醒目提示。请关闭社交应用群设置中的“消息免打扰”功能，否则将不能正常提醒。</string>
+  <string name="lucky_warning_count_summary">%1$s个红包</string>
+  <string name="lucky_warning_count_title">发来红包最多的人是</string>
   <string name="main_activity_content_summary_root">Root käyttöoikeus</string>
   <string name="main_activity_content_summary_update">Järjestelmän päivitys</string>
   <string name="main_activity_content_title_scanning">Skannataan…</string>
@@ -748,13 +831,16 @@ Huippu: %1$s%2$s | %3$s käytetty"</string>
   <string name="menu_text_power_manager">Akun käyttö</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
+  <string name="mi_pay_lucky">小米钱包</string>
   <string name="mi_service_app_detail">Datan käytön yksityiskohdat</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework yksityiskohdat</string>
   <string name="mian_page_primary_txt">Ulkomaan roaming</string>
+  <string name="miliao_lucky_warning">米聊红包</string>
   <string name="modifypassword">Vaihda salasana</string>
   <string name="monitor_requests_from_pc">Hallitse USB:n kautta asennettavia sovelluksia</string>
   <string name="month_report_month_report_switch">Näytä kuukausittainen raportti</string>
+  <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
   <string name="msg_update_error_code_success">Valmis</string>
   <string name="msg_update_up">Piilota</string>
   <string name="network_assistant_upgraded_body">Näytä yksityiskohdat napauttamalla.</string>
@@ -810,9 +896,11 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="never">1 kerta</string>
   <string name="news_change">Vaihda</string>
   <string name="next_step_button">Seuraava</string>
+  <string name="no_lucky_money">尚未收到红包</string>
   <string name="no_network">Verkkoon yhdistäminen epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="none_mi_service_app_detail">Tyhjä</string>
+  <string name="not_available">暂无</string>
   <string name="notification_battery_consume_abnormal_summary">Akku on tyhjentynyt %2$s viimeisen %1$d minuutin aikana</string>
   <string name="notification_battery_consume_abnormal_title">Akku tyhjenee liian nopeasti</string>
   <string name="notification_battery_over_heat_summary">Etsi mikä aiheuttaa lämpenemisen ja viilennä laite.</string>
@@ -837,14 +925,22 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="notify_weekly_traffic_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
   <string name="notify_weekly_traffic_title">Käytetty %s tällä viikolla</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s käytetty %2$s tällä viikolla</string>
+  <string name="number_of_lucky_money">已为您提醒红包总量</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">Sovellus ei ole yhteensopiva viimeisimmän Android käyttöoikeusvaatimuksien kanssa. Kielletyt käyttöoikeudet saattaa vaikuttaa siihen, kuin tämä sovellus toimii.</string>
   <string name="open">Avaa</string>
+  <string name="open_alarm_right_now">立刻开启</string>
   <string name="open_app">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
+  <string name="open_dnd_mode">勿扰模式</string>
+  <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
+  <string name="open_lucky">开启小米红包助手</string>
   <string name="open_now">Salli sovelluksen käyttää mobiilidataa</string>
-  <string name="operator_diagnostic">Carrier diagnostics</string>
+  <string name="open_performance_mode">性能模式</string>
+  <string name="open_performance_mode_summary">开启性能模式，抢到红包的机会更大</string>
+  <string name="open_right_now">立刻抢红包</string>
+  <string name="operator_diagnostic">Operaattorin diagnostiikat</string>
   <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
@@ -925,6 +1021,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="permission_with_SMS_and_MMS">SMS ja MMS viesteihin liittyvät käyttöoikeudet</string>
   <string name="permission_with_call_and_contact">Puheluihin, yhteystietoihin ja puheluhistoriaan liittyvät käyttöoikeudet.</string>
   <string name="permit_running_network">Taustalla oleva data</string>
+  <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
   <string name="person_hotpot">Mobiili hotspotit</string>
   <string name="pkg_traffic">Aseta datan käytön raja</string>
   <string name="pm_auto_start_by_other">Pyydetty käynnistys</string>
@@ -1145,6 +1242,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="protection_category_security_title">Tyhjennä (%d)</string>
   <string name="protocol_exception_title">Verkkoprotokollan diagnostiikat</string>
   <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
+  <string name="qq_lucky_warning">QQ红包</string>
   <string name="quick_optimize_checking">Skannataan</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Akun kestoa ei voitu pidentää</string>
   <string name="quick_optimize_no_fix_issue_title">Akkuongelmia ei voitu korjata</string>
@@ -1154,6 +1252,8 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="quick_optimize_sub_summary_text">Lisättiin %s akun kestoon</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Puhelin käyttää paljon akkua, korjaa se</string>
   <string name="quick_optimize_suggest_battery_over_heat">Puhelin käy ylikuumana, korjaa se</string>
+  <string name="random_expression">随机表情</string>
+  <string name="random_expression_summary">随机出现搞笑表情，可分享到微信与QQ</string>
   <string name="recently_reject_message">Hylättiin %1$s asennus ja %2$d muuta sovellusta</string>
   <string name="recently_reject_message_one">Hylättiin %1$s asennuspyyntöä</string>
   <string name="recommend_app">Suositeltavat sovellukset</string>
@@ -1241,6 +1341,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="scanning_bar_system_title">Skannataan järjestelmää…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">%s</string>
+  <string name="secondart_setting_title">红包提醒设置</string>
   <string name="section_clear_acc_item_title">%s. Jos ei vieläkään ole tarpeeksi tallennustilaa, kokeile käyttää Puhdistajaa.</string>
   <string name="section_security_defend_item_title">Suojaa tietosi Sovelluslukolla</string>
   <string name="section_system_item_fixed">Korjattu</string>
@@ -1256,6 +1357,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="set_applock_password">Aseta salasana</string>
   <string name="set_immediately">Aseta</string>
   <string name="seton_immediately">Ota käyttöön</string>
+  <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
   <string name="setting_privacy_password">Aseta Sovelluslukon salasana</string>
   <string name="settings">Datan käytön asetukset</string>
   <string name="settings_battery_consume_abnormal_summary">Vastaanota ilmoituksia, kun akku tyhjenee nopeasti</string>
@@ -1268,7 +1370,12 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="settings_power_save_ontime_title">Ajasta</string>
   <string name="settings_title_payment_security">Maksamisen tietoturvan asetukset</string>
   <string name="settings_title_permission">Käyttöoikeusasetukset</string>
+  <string name="shake_send_sticker">摇一摇发表情</string>
+  <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
   <string name="share">Jaa</string>
+  <string name="shoop_again">支付宝咻一咻</string>
+  <string name="shoop_again_float">咻一咻</string>
+  <string name="shoop_again_summary">快速进入支付宝咻一咻页面</string>
   <string name="show_traffic_dialog_message">Datan käytön tietosi näytetään ilmoitusalueella. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa asetuksista Datan käyttö &gt; Asetukset</string>
   <string name="show_traffic_dialog_title">Näytä käyttö ilmoitusalueella</string>
   <string name="showpattern">Näytä kuvio</string>
@@ -1288,6 +1395,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="skin_change_close_toast">Muutokset tulevat voimaan seuraavalla kerralla, kun käynnistät Tietoturvan</string>
   <string name="sorted_button">Järjestä</string>
   <string name="sorted_dialog_title">Järjestä</string>
+  <string name="sound_try_listen">立即试听</string>
   <string name="sp_back_title_text_zero">Turvallinen</string>
   <string name="sp_background_risk_dialog_summary">, tarkasta ja korjaa maksuongelmat</string>
   <string name="sp_background_risk_dialog_title">Huomio</string>
@@ -1388,6 +1496,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="system_check_content_none">Turvallinen</string>
   <string name="system_header_title">Vapauta %2$s muistia tyhjentämällä %1$d prosessia</string>
   <string name="system_info_remind">Lisää lukkoja estääksesi luvattomat pääsyt sovelluksiisi</string>
+  <string name="system_need_update_desc">当前系统版本过低，无法使用随机表情功能，请先更新MIUI系统。</string>
+  <string name="system_need_update_title">系统版本过低</string>
   <string name="tc_diagnostic_all_error_notification_summary">Raportoi ongelmasta napauttamalla</string>
   <string name="tc_diagnostic_all_error_notification_title">Diagnostiikkaa ei voitu suorittaa loppuun</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Säädä verkon tyyppi napauttamalla</string>
@@ -1458,9 +1568,19 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Kiitos palautteestasi!</string>
   <string name="ten_percent_total_pkg">%s (10%% kuukausittaisesta datasta)</string>
+  <string name="text_alarm_after">"今年的红包活动已全部结束
+期待与您来年重聚"</string>
+  <string name="text_alarm_before">"今年的红包活动即将开始
+财神已就位，敬请期待"</string>
+  <string name="text_alarm_close">"开启红包闹钟
+及时提醒各种红包雨
+不再错过任何红包"</string>
+  <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
   <string name="text_button">Selvä</string>
   <string name="text_day"/>
+  <string name="text_error">相关软件版本过低或未安装</string>
   <string name="text_lock_info">Piirrä lukituksen poistokuvio</string>
+  <string name="text_lucky_alarm_before">红包活动即将开始</string>
   <string name="there_is_no">Kaikki näyttää hyvältä, tule takaisin myöhemmin</string>
   <string name="third_application">Asennetut sovellukset</string>
   <string name="three_percent_total_pkg">%s (3%% kuukausittaisesta datasta)</string>
@@ -1508,6 +1628,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_miui_update">Päivitys saatavilla</string>
   <string name="title_mms_no">Viestin suodatin ei käytössä</string>
   <string name="title_mms_yes">Viestin suodatin käytössä</string>
+  <string name="title_more_setting">更多设置</string>
   <string name="title_network_switch">Verkkoyhteys</string>
   <string name="title_of_app_manage">Sovellukset</string>
   <string name="title_of_auto_launch_manage">Käynnistys</string>
@@ -1548,6 +1669,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_shortcut_install">Pikakuvake asetettiin Kotinäytölle</string>
   <string name="toast_shortcut_uninstall">Pikakuvake poistettiin</string>
   <string name="toast_show_notification">Kiinnitettiin ilmoitusalueelle</string>
+  <string name="toast_update_file_explore">文件管理器版本过低，请到应用商店更新</string>
+  <string name="toast_update_miui_rom">MIUI版本过低，请先更新系统</string>
   <string name="toast_virus_cloudscan">Virus skanneri käyttää verkkotunnisteita</string>
   <string name="toast_virus_in_cloud_scanning">Pilven skannausta ei voi lopettaa</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Kuukausittainen suunnitelma vaihdettu %s.</string>
@@ -1617,11 +1740,18 @@ Tap to top up your balance."</string>
   <string name="traffic_setting_step_num">Datapaketin asetukset</string>
   <string name="traffic_warning_purchase_title">Mobiilidatan käytön varoitus</string>
   <string name="try_recommended_function">Suojaa laitteesi käyttämällä uusia Tietoturvatoimintoja</string>
+  <string name="txv_dnd_end_time_title">结束时间</string>
+  <string name="txv_dnd_start_time">0:00</string>
+  <string name="txv_dnd_start_time_title">起始时间</string>
+  <string name="txv_dnd_type_demo">仅屏蔽声音</string>
+  <string name="txv_dnd_type_title">勿扰方式</string>
+  <string name="txv_lucky_money_group_text">仅提醒群红包</string>
   <string name="unable_connect_internet">Ei internet-yhteyttä</string>
   <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellusdatan.</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>
   <string name="uninstall_app_done">Poistettiin onnistuneesti</string>
   <string name="unlike">Ei kiitos</string>
+  <string name="update_now">立即更新</string>
   <string name="updating_diagnostic_botton">Analysoidaan dataa…</string>
   <string name="usage_sorted_activity_lable">Datan käyttö</string>
   <string name="usage_sorted_empty_text">Tyhjä</string>
@@ -1658,7 +1788,10 @@ Tap to top up your balance."</string>
   <string name="virus_wait_network_dialog_message">Päivitykset ovat suuria. Lataa ne yhdistämällä Wi-Fi-verkkoon.</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Sallitaanko %1$s avata %2$s?</string>
+  <string name="warn_function_no_work">来红包时无法正常提醒？</string>
   <string name="warning_open_mi_sim">Ota Mi SIM käyttöön</string>
+  <string name="weChat_not_found">您的微信版本过低或者未安装</string>
+  <string name="wechat_lucky_warning">微信红包</string>
   <string name="white_list_risk_app_header">Vaaralliset sovellukset: %d</string>
   <string name="white_list_trojan_header">Troijalaiset: %d</string>
   <string name="wifi_exception_summary">Testaa saatavilla olevat Wi-Fi verkot</string>
@@ -1671,4 +1804,5 @@ Tap to top up your balance."</string>
   <string name="wifi_item_title_encryption">Wi-Fi salaus</string>
   <string name="wifi_item_title_fake">Tunnista vale Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Ei internet-yhteyttä</string>
+  <string name="zhifubao_not_found">您的支付宝版本过低或者未安装</string>
 </resources>

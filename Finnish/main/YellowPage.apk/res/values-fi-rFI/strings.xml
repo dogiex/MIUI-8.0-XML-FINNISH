@@ -231,6 +231,9 @@ Check your tracking number."</string>
   <string name="hms_no_subject_view">(No subject)</string>
   <string name="hms_notification">Messages</string>
   <string name="homepage_barcode_prompt">Scan to open homepage.</string>
+  <string name="search_description_express">Query or send express quickly and easily</string>
+  <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
+  <string name="search_title_express">Query or send express</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>

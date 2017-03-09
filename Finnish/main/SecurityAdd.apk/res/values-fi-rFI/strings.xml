@@ -53,6 +53,7 @@
   <string name="month_report_result_share">Jaa</string>
   <string name="month_report_share_img_fail">Jakaminen epäonnistui</string>
   <string name="month_report_share_loading">Odota hetki…</string>
+  <string name="lucky_result_title">红包助手战绩</string>
   <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, ota tämä ominaisuus käyttöön Tietoturva-sovelluksen Asetuksista.</string>
   <string name="month_report_warning_dialog_positive">Ota käyttöön</string>
   <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
