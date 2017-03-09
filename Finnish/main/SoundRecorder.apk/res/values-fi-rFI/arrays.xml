@@ -13,6 +13,18 @@
         <item>Ääni</item>
         <item>Haastattelu</item>
     </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Nauhoita musiikkia paremmalla laadulla</item>
+        <item>Siirrä mikrofonia lähemmäksi äänilähdettä parhaimman äänenlaadun vuoksi</item>
+        <item>Aseta puhelin kahden henkilön väliin nauhoittaaksesi keskustelun selvästi</item>
+        <item>High dynamic range -tekniikan avulla mikrofoni tallentaa tarkempaa ääntä</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Nauhoita 2 kanavaisena, kuuntele stereoääntä kuulokkeilla</item>
+        <item>Siirrä mikrofonia lähemmäksi äänilähdettä parhaimman äänenlaadun vuoksi</item>
+        <item>Aseta puhelin kahden henkilön väliin nauhoittaaksesi keskustelun selvästi</item>
+        <item>High dynamic range -tekniikan avulla mikrofoni tallentaa tarkempaa ääntä</item>
+    </string-array>
     <string-array name="record_quality_entries">
         <item>Korkea</item>
         <item>Normaali</item>

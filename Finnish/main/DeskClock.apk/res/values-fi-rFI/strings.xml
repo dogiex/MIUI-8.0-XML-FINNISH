@@ -18,6 +18,7 @@
   <string name="alarm_volume_summary">Aseta herätyksen äänenvoimakkuus</string>
   <string name="alarm_volume_title">Herätyksen äänenvoimakkuus</string>
   <string name="alarmclock_empty_text">Ei herätyksiä</string>
+  <string name="alarmclock_silent_hint">Herätys on äänettömällä</string>
   <string name="alert">Herätyksen soittoääni</string>
   <string name="analog_gadget">Analoginen kello</string>
   <string name="app_label">Kello</string>
@@ -25,7 +26,7 @@
   <string name="auto_silence_title">Automaattinen hiljennys</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Syntymäpäivä herätys</string>
-  <string name="birthday_alarm_summary">Soita \"Happy Birthday\" syntymäpäivänäsi oletussoittoäänen sijasta</string>
+  <string name="birthday_alarm_summary">Soita \"Paljon onnea vaan\" syntymäpäivänäsi oletussoittoäänen sijasta</string>
   <string name="cancel">Peruuta</string>
   <string name="close_alarm">Sulje herätys</string>
   <string name="common_settings">Asetukset</string>

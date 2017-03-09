@@ -478,10 +478,10 @@
   <string name="select_all">Valitse kaikki</string>
   <string name="select_item">Valitse kohteet</string>
   <string name="send">Lähetä</string>
-  <string name="send_sms_for_sync_notice">Operaattorisi saattaa veloittaa tekstiviestin lähetyksestä tämän palvelun aktivoimiseksi.</string>
-  <string name="send_sms_for_sync_title">Datankäyttövaroitus</string>
-  <string name="sim_changed_reactivate_int_notice">Operaattorisi saattaa veloittaa kansainvälisen tekstiviestin lähetyksestä tämän palvelun uudelleenaktivoimiseksi.</string>
-  <string name="sim_changed_reactivate_notice">Operaattorisi saattaa veloittaa tekstiviestin lähetyksestä tämän palvelun uudelleenaktivoimiseksi.</string>
+  <string name="send_sms_for_sync_notice">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="send_sms_for_sync_title">Datan käyttövaroitus</string>
+  <string name="sim_changed_reactivate_int_notice">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun uudelleenaktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="sim_changed_reactivate_notice">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun uudelleenaktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sim_in_airplane_mode">Poista lentokone-tila käytöstä.</string>
   <string name="sim_locked">SIM-kortti on lukittu.</string>
   <string name="sim_not_ready">SIM-kortti on käytössä. Yritä myöhemmin uudelleen.</string>

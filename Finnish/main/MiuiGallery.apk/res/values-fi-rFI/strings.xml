@@ -663,6 +663,7 @@
   <string name="doodle_mosaic">Mosaiikki</string>
   <string name="doodle_small_size">Pieni</string>
   <string name="doodle_super_big_size">Valtava</string>
+  <string name="double_tap_to_higher_definition">Tuplanapauta uudelleen HD esikatselua varten</string>
   <string name="download_canceled">Lataaminen peruutettu</string>
   <string name="download_retry_message">Tiedostojen lataaminen epäonnistui, tarkasta verkkoyhteys ja yritä uudelleen</string>
   <string name="download_retry_text">Yritä uudelleen</string>
@@ -798,6 +799,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="invite_sharer_title">Kutsu %1$s %2$s</string>
   <string name="invite_tip">Jaa vauvasi kuvia</string>
   <string name="is">Kyllä</string>
+  <string name="is_higher_definition">HD esikatselu</string>
   <string name="kick_owner_user_positive_button_text">Poista</string>
   <string name="kick_owner_user_title">Poistetaanko tämä henkilö?</string>
   <string name="kick_sharer">Poista jaettu katselija</string>
