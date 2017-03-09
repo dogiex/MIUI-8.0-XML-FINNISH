@@ -8,6 +8,11 @@
         <item>Vihreä</item>
         <item>Sininen</item>
     </string-array>
+	<string-array name="pref_fling_on_border_gesture_entries">
+        <item>Sivu takaisin eteenpäin</item>
+        <item>Vaihda välilehtiä</item>
+        <item>Ei mitään</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Oletussivu</item>
         <item>Muu</item>
@@ -40,10 +45,5 @@
     <string-array name="shortcut_dialog_title">
         <item>Viesti Selaimesta</item>
         <item>Seuraa Olympialaisia Mi:llä</item>
-    </string-array>
-	<string-array name="pref_fling_on_border_gesture_entries">
-        <item>Sivu takaisin eteenpäin</item>
-        <item>Vaihda välilehtiä</item>
-        <item>Ei mitään</item>
     </string-array>
 </resources>
