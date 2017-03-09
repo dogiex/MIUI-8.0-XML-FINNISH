@@ -61,6 +61,7 @@
   <string name="card_vote_item_vs">VS</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
+  <string name="connect_fail">Verkkoyhteys on epänormaali. Yritä myöhemmin uudelleen.</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_drawer_on_top">%1$s päivän ennustus</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
@@ -74,6 +75,8 @@
   <string name="daily_forecast_detail">Ennusteen yksityiskohdat</string>
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
+  <string name="daily_forecast_no_data">"Tiedon haku epäonnistui
+päivitä manuaalisesti vetämällä alas tai tarkasta verkkoasetukset"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
@@ -138,7 +141,9 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="other">Muu</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
+  <string name="realtime_cityname_default">Sijainti kaupunki</string>
   <string name="realtime_humidity_title">Suhteellinen Kosteus</string>
+  <string name="realtime_temperature_no_data">N/A</string>
   <string name="refresh_fail">Verkkoon ei saada yhteyttä</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_weather">Sää</string>
@@ -193,6 +198,9 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
+  <string name="weather_alert">Säävaroitukset</string>
+  <string name="wind_direction_no_data">Tuuli</string>
+  <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="yes_vote_num"> | %1$s henkilöä</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>

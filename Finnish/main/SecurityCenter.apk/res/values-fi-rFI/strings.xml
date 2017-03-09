@@ -624,7 +624,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="hot">Suosittu</string>
   <string name="hot_today">Suosittu tänään</string>
   <string name="info_and_call">Puhelut ja viestit</string>
-  <string name="information_setting">Uutissyötteen asetukset</string>
+  <string name="information_setting">Suositukset</string>
   <string name="input_aviable_traffic">Aseta datan käytön raja</string>
   <string name="input_traffic_pkg">Syötä datan käyttö</string>
   <string name="input_used_hint">Syötä datan käyttö</string>
@@ -680,7 +680,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="legal_workday_message">(Ohita juhlapyhät)</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="load_fail">Lataaminen epäonnistui</string>
-  <string name="load_only_under_wlan">Lataa uutiset, kun yhteydessä Wi-Fi-verkkoon</string>
+  <string name="load_only_under_wlan">Lataa vain Wi-Fi-yhteydellä</string>
   <string name="local_ip_exception_summary">Paikallista IP-osoitetta ei saatu. Lähettääksesi raportin MIUI:lle, avaa Palaute-sovellus ja lähetä lokitiedosto laitteestasi.</string>
   <string name="lock_mode_title">Lukitusasetukset</string>
   <string name="lock_screen_business_hongbao_message">来自%1$s</string>
@@ -1256,8 +1256,8 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="random_expression_summary">随机出现搞笑表情，可分享到微信与QQ</string>
   <string name="recently_reject_message">Hylättiin %1$s asennus ja %2$d muuta sovellusta</string>
   <string name="recently_reject_message_one">Hylättiin %1$s asennuspyyntöä</string>
-  <string name="recommend_app">Suositeltavat sovellukset</string>
-  <string name="recommend_news">Suositeltavat lähteet</string>
+  <string name="recommend_app">Suositellut sovellukset</string>
+  <string name="recommend_news">Vastaanota suosituksia</string>
   <string name="recommended">Kiinnostavat</string>
   <string name="reject_all">Rajoita kaikki</string>
   <string name="reject_countdown">Kiellä (%d)</string>

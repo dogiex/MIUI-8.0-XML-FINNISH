@@ -277,7 +277,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_reg_using_other_phone">Käytä vaihtoehtoista puhelinnumeroa</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Luo uusi tili käyttäen "</string>
   <string name="passport_reg_using_phone_number_prompt">Luo tili käyttäen puhelinnumeroa</string>
-  <string name="passport_reg_via_sms_alert">Operaattorisi saattaa veloittaa tekstiviestistä tämän palvelun aktivoimiseksi.</string>
+  <string name="passport_reg_via_sms_alert">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="passport_reging">Luodaan tiliä…</string>
   <string name="passport_register">Luo tili</string>
   <string name="passport_register_account_goto_email">Mene sähköpostiisi</string>

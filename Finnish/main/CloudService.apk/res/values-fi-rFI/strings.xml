@@ -372,13 +372,13 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="mx_dspt_provision">"Mi Viesti antaa sinun lähettää viestejä toisiin MIUI laitteisiin ilman maksua, kun olet yhteydessä Wi-Fi-verkkoon.
 
 Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa Asetuksissa."</string>
-  <string name="mx_dspt_provision_privacy">"Tämä toiminto saattaa vaatia puhelinnumerosi. Operaattorisi saattaa veloittaa tämän toiminnon aktivointia varten lähetettävästä tekstiviestistä.
+  <string name="mx_dspt_provision_privacy">"Tämä toiminto saattaa vaatia puhelinnumerosi. Tämän palvelun aktivoimiseksi saatetaan lähettää tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä.
 
 Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Tämä toiminto saattaa vaatia puhelinnumerosi. Operaattorisi saattaa veloittaa tämän toiminnon aktivointia varten lähetettävästä kahdesta tekstiviestistä.
+  <string name="mx_dspt_provision_privacy_2_sim">"Tämä toiminto saattaa vaatia puhelinnumerosi. Tämän palvelun aktivoimiseksi saatetaan lähettää kaksi tekstiviestiä. Operaattorisi veloittaa sinua tästä viestistä.
 
 Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Tämä toiminto saattaa vaatia puhelinnumerosi. Operaattorisi saattaa veloittaa tämän toiminnon aktivointia varten lähetettävästä tekstiviestistä, kun SIM-kortti on havaittu.
+  <string name="mx_dspt_provision_privacy_no_sim">"Tämä toiminto saattaa vaatia puhelinnumerosi. Kun SIM-kortti havaitaan, tämän palvelun aktivoimiseksi saatetaan lähettää tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä.
 
 Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."</string>
   <string name="mx_dspt_provision_with_voip">Soita muihin MIUI laitteisiin ilmaiseksi käyttäen internet-yhteyttä. Voit ottaa tämän toiminnon käyttöön tai poistaa käytöstä milloin tahansa Asetuksissa. VoIP-palvelua ylläpitää Weihui. Katso Weihui:n Yksityisyyskäytäntö</string>
@@ -466,15 +466,15 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_item_title">Synkronoidaan kohteita</string>
   <string name="sync_off">Ei käytössä</string>
   <string name="sync_on">Käytössä</string>
-  <string name="sync_resend_sms_dspt_provision">" Jos vaihdat SIM-kortteja, operaattorisi saattaa veloittaa sinulta tekstiviestin hinnan, jota käytetään tämän palvelun uudelleenaktivoimiseen."</string>
-  <string name="sync_sub_1_intl_sms">Operaattorisi saattaa veloittaa kansainvälisestä tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
-  <string name="sync_sub_1_sms">Operaattorisi saattaa veloittaa tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Operaattorisi saattaa veloittaa yhdestä kansainvälisestä ja yhdestä maansisäisestä tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
-  <string name="sync_sub_2_intl_sms">Operaattorisi saattaa veloittaa kahdesta kansainvälisestä tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
-  <string name="sync_sub_2_sms">Operaattorisi saattaa veloittaa tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
-  <string name="sync_sub_dspt">Operaattorisi saattaa veloittaa tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
+  <string name="sync_resend_sms_dspt_provision">" Jos vaihdat SIM-kortteja, operaattorisi veloittaa sinulta tekstiviestin hinnan, mikäli se vaaditaan tämän palvelun uudelleenaktivoimiseksi."</string>
+  <string name="sync_sub_1_intl_sms">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="sync_sub_1_sms">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">1 maansisäinen ja 1 kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="sync_sub_2_intl_sms">Kaksi lähtevää kansainvälistä tekstiviestiä saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="sync_sub_2_sms">Kaksi lähtevää tekstiviestiä saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="sync_sub_dspt">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sync_sub_dspt_provision">Synkronoi kuvat, yhteystiedot, musiikki, sovellukset ja muuta kaikkien laitteidesi kesken</string>
-  <string name="sync_sub_int_dspt">Operaattorisi saattaa veloittaa kansainvälisestä tekstiviestistä, jota käytetään tämän palvelun aktivointia varten.</string>
+  <string name="sync_sub_int_dspt">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="title_reg">Luo Mi Tili</string>
   <string name="total_space_upgraded_to">Tilaa yhteensä:%s</string>
   <string name="trying_to_connect_to_network">Yhdistetään verkkoon…</string>

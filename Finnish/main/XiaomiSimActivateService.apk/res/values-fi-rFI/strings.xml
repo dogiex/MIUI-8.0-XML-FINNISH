@@ -2,9 +2,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Aktivoi</string>
-  <string name="activate_auto_sms_notification_desc_1_card">SMS sent to activate \"Find device\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">SMS sent from SIM card %s to activate \"Find device\"</string>
-  <string name="activate_auto_sms_notification_title">SIM card activation</string>
+  <string name="activate_auto_sms_notification_desc_1_card">Tekstiviesti lähetettiin \"Etsi laite\" aktivointia varten</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">Tekstiviesti lähetettiin SIM-kortilta %s \"Etsi laite\" aktivointia varten</string>
+  <string name="activate_auto_sms_notification_title">SIM-kortin aktivointi</string>
   <string name="activate_feature_call_log_sync">Synkronoi puheluhistoria</string>
   <string name="activate_feature_find_device">Etsi laite</string>
   <string name="activate_feature_live_talk">Top-up paketti</string>
@@ -57,9 +57,9 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_desc_new_mixed_sim_cards">"Looks like you've switched SIM cards. 2 text messages (regular and international) will be sent to activate %s. You will be charged by the carrier."</string>
   <string name="activate_popup_desc_new_sim_card">"Looks like you've switched SIM cards. Regular SMS will be sent to activate %s. You will be charged by the carrier."</string>
   <string name="activate_popup_desc_new_sim_card_downlink">"Looks like you've switched SIM cards. Enter current phone number to activate %s."</string>
-  <string name="activate_popup_desc_register_account">Your carrier may charge for an SMS message used to create your Mi Account.</string>
-  <string name="activate_popup_desc_register_account_downlink">Enter your phone number</string>
-  <string name="activate_popup_desc_register_account_intl">Your carrier may charge for an international SMS message used to create your Mi Account.</string>
+  <string name="activate_popup_desc_register_account">Lähtevä tekstiviesti saatetaan vaatia Mi Tilin luomista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="activate_popup_desc_register_account_downlink">Syötä puhelinnumerosi</string>
+  <string name="activate_popup_desc_register_account_intl">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia Mi Tilin luomista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="activate_popup_desc_sim_card">Regular SMS will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_sim_card_downlink">Enter current phone number to activate %s.</string>
   <string name="activate_popup_desc_voip_privacy">Privacy Policy</string>
