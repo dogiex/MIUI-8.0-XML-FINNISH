@@ -52,6 +52,10 @@
         <item quantity="other">Poistetaanko %d kappaletta?</item>
         <item quantity="one">Poistetaanko %d kappale?</item>
     </plurals>
+	<plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Poistetaanko %d kappaletta Mi Pilvestä?</item>
+        <item quantity="one">Poistetaanko %d kappale Mi Pilvestä?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d kappaletta lisätty soittolistalle</item>
         <item quantity="one">Kappale lisätty soittolistalle</item>
@@ -83,5 +87,26 @@
     <plurals name="song_already_favorite">
         <item quantity="other">Kappaleita on lisätty suosikkeihin.</item>
         <item quantity="one">Kappale on lisätty suosikkeihin.</item>
+    </plurals>
+	<plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d kappaletta ei ole varmuuskopioitu (%2$.1f Mt)</item>
+        <item quantity="one">%1$d kappale ei ole varmuuskopioitu (%2$.1f Mt)</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Varmuuskopioi %1$d kappaletta (%2$.1f Mt)</item>
+        <item quantity="one">Varmuuskopioi %1$d kappale (%2$.1f Mt)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Varmuuskopioidaan kappaleita, %1$d kappaletta jäljellä (%2$.1f Mt)</item>
+        <item quantity="one">Varmuuskopioidaan kappaletta, %1$d kappale jäljellä (%2$.1f Mt)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d kappaletta ei ole varmuuskopioitu Mi Pilveen. Pysäytetäänkö nyt?</item>
+        <item quantity="one">%d kappaletta ei ole varmuuskopioitu Mi Pilveen. Pysäytetäänkö nyt?</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Luotu %1$s | yhteensä %2$d kappaletta</item>
+        <item quantity="zero">Luotu %1$s | yhteensä %2$d kappale</item>
+        <item quantity="one">Luotu %1$s | yhteensä %2$d kappale</item>
     </plurals>
 </resources>

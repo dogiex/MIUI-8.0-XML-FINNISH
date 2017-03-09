@@ -79,4 +79,6 @@
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="uninstall_game_count">%d sovellusta poistettu käytöstä</string>
   <string name="usage_sorted_loading_text">Odota hetki…</string>
+  <string name="wlan_change_protection_detail">Älä vaihda Wi-Fi-verkkoon automaattisesti, kun yhteydessä mobiilidataverkkoon</string>
+  <string name="wlan_change_protection_title">Estä verkkojen vaihtaminen</string>
 </resources>

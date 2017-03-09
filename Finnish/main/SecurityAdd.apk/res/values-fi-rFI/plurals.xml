@@ -8,4 +8,13 @@
         <item quantity="other">%d sovellusta poistettu käytöstä</item>
         <item quantity="one">%d sovellusta poistettu käytöstä</item>
     </plurals>
+	<plurals name="found_apps_title">
+        <item quantity="other">%d sovellusta löytyi</item>
+        <item quantity="zero">0 sovellus löytyi</item>
+        <item quantity="one">%d sovellus löytyi</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Hae %d sovelluksen joukosta</item>
+        <item quantity="one">Hae %d sovelluksen joukosta</item>
+    </plurals>
 </resources>

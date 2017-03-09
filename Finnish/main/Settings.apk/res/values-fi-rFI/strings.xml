@@ -2138,6 +2138,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_dirac_mode_general_inear">Yleinen In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac pois</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>

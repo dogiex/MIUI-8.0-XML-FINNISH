@@ -379,6 +379,9 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialer_menu_title">Valikko asetukset</string>
   <string name="dialer_returnToInCallScreen">Palataan puheluun</string>
   <string name="dialer_useDtmfDialpad">Käytä näppäinääniä</string>
+  <string name="dialog_device_info_hardware_version">Laitteistoversio: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI versio: %s</string>
+  <string name="dialog_device_info_title">Versiotiedot</string>
   <string name="dialog_import">Tuo yhteystietoja</string>
   <string name="dialog_import_export">Tuo/vie yhteystietoja</string>
   <string name="dialog_new_contact_account">Luo yhteystieto tilissä</string>
