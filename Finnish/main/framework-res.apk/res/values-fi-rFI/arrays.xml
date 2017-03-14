@@ -37,8 +37,37 @@
         <item>Muu</item>
         <item>Muokattu</item>
     </string-array>
+	<string-array name="fingerprint_acquired_vendor">
+        <item>Yritä uudelleen</item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjäljen lukija kokonaan ja lisää painetta</item>
+        <item></item>
+        <item>Peitä sormenjäljen lukija kokonaan ja lisää painetta</item>
+        <item>Peitä sormenjäljen lukija kokonaan ja lisää painetta</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjäljen lukija kokonaan ja lisää painetta</item>
+        <item>Peitä sormenjäljen lukija kokonaan ja lisää painetta</item>
+        <item>Liian nopeasti! Sormenjälkeä ei tunnistettu</item>
+        <item>Siirrä sormeasi hieman ja yritä uudelleen</item>
+        <item>Nosta sormeasi ja laita se takaisin lukijalle</item>
+        <item>Pidä sormeasi lukijalla hieman pidempään</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Siirrä sormeasi hieman</item>
+        <item>Tämä sormenjälki on lisätty, käytä toista sormea</item>
+    </string-array>
     <string-array name="imAddressTypes">
-        <item>Pikaviestin (koti)</item>
+        <item>Koti</item>
         <item>Työ</item>
         <item>Muu</item>
         <item>Muokattu</item>

@@ -5,6 +5,9 @@
   <string name="account_address">Osoite</string>
   <string name="address_name_spell">Syötä osoite</string>
   <string name="adjustment_order">Muuta järjestystä</string>
+  <string name="agenda">日程提醒</string>
+  <string name="agenda_open">开启日程提醒卡片</string>
+  <string name="agenda_setting_brief">当天有待办日程时，在日程发生前提醒你下一个事项</string>
   <string name="alipay_scan">Lukija</string>
   <string name="app_label">Älykäs assistentti</string>
   <string name="apps">Sovellus suosituksia</string>
@@ -26,6 +29,9 @@
   <string name="choose_city">Valitse kaupunki</string>
   <string name="choose_upload">Valitse lähetettävät tiedostot</string>
   <string name="city_name_spell">Syötä kaupunki</string>
+  <string name="cleanup_garbage">垃圾清理</string>
+  <string name="cleanup_memory">内存清理</string>
+  <string name="cleanup_power">强力清理</string>
   <string name="clear">Tyhjennä</string>
   <string name="closed">Pois</string>
   <string name="commute">Karttasuositukset</string>
@@ -36,16 +42,18 @@
   <string name="cta_dialog_negative">Poistu</string>
   <string name="cta_dialog_positive">Hyväksy</string>
   <string name="cta_dialog_text1">Käyttääksesi Älykästä assistenttia, sinun täytyy lukea ja hyväksyä:</string>
-  <string name="cta_dialog_text2">\"User Agreement\"</string>
+  <string name="cta_dialog_text2">\"Käyttöehdot\"</string>
   <string name="cta_dialog_text3">ja</string>
-  <string name="cta_dialog_text4">\"Privacy Policy\".</string>
+  <string name="cta_dialog_text4">\"Tietosuojakäytäntö\".</string>
   <string name="cta_dialog_text5">Palvelu tarvitsee myös internet-yhteyden ja pääsyn sijaintitietoihin. Hyväksytäänkö?</string>
-  <string name="cta_dialog_title">Terms and Conditions</string>
+  <string name="cta_dialog_title">Käyttöehdot</string>
+  <string name="daily_greeting">每日问候</string>
   <string name="data_error">Tapahtui virhe, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="data_error_show">Tilaus on valmis, yksityiskohtia ei voi näyttää</string>
   <string name="drive">Aja</string>
-  <string name="duokan_open">开启多看阅读卡片</string>
-  <string name="duokan_reading">多看阅读</string>
+  <string name="duokan_not_installed">Tätä sovellusta ei ole asennettu puhelimeesi. Tätä korttia ei voi käyttää.</string>
+  <string name="duokan_open">Lisää Duokan kortti</string>
+  <string name="duokan_reading">Duokan</string>
   <string name="duokan_setting_brief">Jatka lukemista siitä, mihin jäit.</string>
   <string name="entrance">Kortin pikakuvakkeet</string>
   <string name="exercise_setting_brief">Katso aktiviteettisi data (Salli Mi Fit -sovelluksen automaattinen käynnistys Tietoturva-sovelluksesta).</string>
@@ -58,11 +66,22 @@
   <string name="express_support_app">Tuetut sovellukset</string>
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
+  <string name="favorite">我的收藏</string>
+  <string name="favorite_main">收藏记录</string>
   <string name="flow_open">Näytä mobiilidatan kortti</string>
   <string name="flow_setting_brief">Hallitse mobiilidataasi (Lisää datapakettisi asetuksissa Tietoturva &gt; Datan käyttö).</string>
   <string name="focus">Follow status</string>
   <string name="focus_on_dynamic">Follow status</string>
   <string name="go_to_school">To and from work or school</string>
+  <string name="greeting_open">开启每日问候</string>
+  <string name="greeting_setting_brief">每日早晚问候，提供天气预报和日程、闹钟、联系人生日提醒</string>
+  <string name="greeting_setting_brief_notice">天气信息使用的城市来源于天气应用，若要修改城市可以在天气应用中修改</string>
+  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
+  <string name="greeting_weather_desc_from_to">%1$s转%2$s</string>
+  <string name="greeting_weather_prefix_moring">今天</string>
+  <string name="greeting_weather_prefix_night">明天</string>
+  <string name="greeting_weather_prefix_saturday">周六</string>
+  <string name="greeting_weather_prefix_sunday">周日</string>
   <string name="groupon">Tickets &amp; coupons</string>
   <string name="groupon_open">Show tickets &amp; coupons card</string>
   <string name="groupon_setting_brief">Show info about purchased tickets and coupons.</string>
@@ -70,6 +89,8 @@
   <string name="hold_down_adjustment_order">Hold the icon on the right to drag items</string>
   <string name="home">Home</string>
   <string name="home_and_company">Home &amp; work</string>
+  <string name="hour12_format_en">hh:mm</string>
+  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Recommendations</string>
   <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">App recommendations</string>
@@ -101,6 +122,7 @@
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Download</string>
   <string name="mi_sport_not_installed">"This app isn't installed on your phone. Can't use this card now."</string>
+  <string name="mi_wallet">小米钱包</string>
   <string name="music">Music &amp; radio</string>
   <string name="music_open">Show music &amp; radio card</string>
   <string name="music_setting_brief">Connect earphones to continue listening to music or radio from the place you left off.</string>
@@ -130,6 +152,7 @@
   <string name="notification_express_content">Track orders using Smart assistant</string>
   <string name="notification_express_title">Turn on cards from shopping apps</string>
   <string name="opened">On</string>
+  <string name="pay_card_pack">小米支付</string>
   <string name="paycode_parent">Alipay</string>
   <string name="place_label">Frequent places</string>
   <string name="preferences">Preferences</string>
@@ -150,6 +173,7 @@
   <string name="scan_exercise">Opiskelu</string>
   <string name="scan_parent">Lukija</string>
   <string name="scan_trans">Käännä</string>
+  <string name="security">安全中心</string>
   <string name="service_unavailiable">Checknetwork connection and try again</string>
   <string name="setting_address">Add frequent places</string>
   <string name="setting_dialog_cancel">Cancel</string>
@@ -168,6 +192,7 @@
   <string name="taxi">Taxi</string>
   <string name="taxi_open">Show taxi card</string>
   <string name="taxi_setting_brief">Get a taxi in a single tap.</string>
+  <string name="trans_card">公交卡</string>
   <string name="transit_subway">Public transport</string>
   <string name="try_again">Try again</string>
   <string name="understandassistant">About Smart assistant</string>
@@ -176,6 +201,9 @@
   <string name="weibo_name">Uusi viesti</string>
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">How do you normally get to your destination?</string>
+  <string name="widget_fav">favorite</string>
+  <string name="widget_fav_open">Show favorite card</string>
+  <string name="widget_fav_setting_brief">View your favorite data.</string>
   <string name="wx_aa">Mene Hollantiin</string>
   <string name="wx_collectioncode">Vastaanota maksuja</string>
   <string name="wx_name">Korttini</string>
@@ -183,4 +211,5 @@
   <string name="wx_paycode">Maksu</string>
   <string name="wx_scan">Lukija</string>
   <string name="wx_timeline">Hetket</string>
+  <string name="year_month_day_all_format_en">d.M.yyyy HH:mm:ss</string>
 </resources>

@@ -16,6 +16,7 @@
   <string name="app_name">Muistio</string>
   <string name="app_widget">Muistio</string>
   <string name="call_folder_name">Puheluiden muistiot</string>
+  <string name="cloud_trash_bin_title">Poista muistiot Mi Pilvestä</string>
   <string name="delete_folder_dialog_tile">Poista kansio</string>
   <string name="dlg_btn_set_password">Aseta salasana</string>
   <string name="dlg_check_reminder">Älä näytä uudelleen</string>
@@ -88,10 +89,10 @@
   <string name="permdesc_accessNote">Haitalliset sovellukset saattavat käyttää tätä päästäkseen käsiksi henkilökohtaisiin tietoihin.</string>
   <string name="permlab_accessNote">Pääsy muistioihin</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Älä kysy vahvistusta, kun muistio poistetaan käyttäen eleitä</string>
+  <string name="pref_title_cloud_trash_bin">Poista muistiot Mi Pilvestä</string>
   <string name="pref_title_common">Lisäasetukset</string>
   <string name="pref_title_font_size">Fontin koko</string>
   <string name="pref_title_note_style">Tyyli</string>
-  <string name="pref_title_recover_help">Palauta muistiot</string>
   <string name="pref_title_show_root_folder_in_homepage">Näytä vain nopeat muistiinpanot aloitussivulla</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Nopea poistaminen</string>
   <string name="recover_notes_hint">Tapahtui virhe, mene i.mi.com palauttaaksesi muistiot.</string>

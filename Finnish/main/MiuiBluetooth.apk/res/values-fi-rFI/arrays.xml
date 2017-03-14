@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Värise kun soi</item>
+        <item>Värise kun viesti saapuu</item>
+        <item>Värise kun herätys soi</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Ota kuva</item>
+        <item>Etsi puhelin</item>
+        <item>Etsi Mi-avain</item>
+    </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+    </string-array>
+</resources>

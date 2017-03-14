@@ -55,6 +55,14 @@
   <string name="open_camera_hint_text">Avaa Kamera pyyhkäisemällä vasemmalle</string>
   <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
   <string name="open_wifi_settings">Avaa verkkoyhteydet</string>
+  <string name="phone_locked_foget_password">Unohtuiko salasana?</string>
+  <string name="phone_locked_foget_password_content">"Voit kirjautua sisään osoitteeseen i.mi.com ja käyttää Mi Tiliäsi, jota käytetään tässä laitteessa ja poistaa kaiken tiedon. Tämä poistaa kaikki tähän laitteeseen tallennetut henkilökohtaiset tiedot. Tämän jälkeen voit käynnistää laitteen uudelleen ja palauttaa yhteystiedot, viestit, kuvat ja muut kohteet Mi Pilvestä. 
+
+Et voi tehdä tätä, jos et ole kirjautunut Mi Tililläsi tähän laitteeseen. Muussa tapauksessa laite täytyy asentaa uudelleen."</string>
+  <string name="phone_locked_foget_password_footer">"Askeleet:
+Kirjaudu sisään osoitteeseen i.mi.com, mene “Etsi laite (Find device)”, valitse laite ja paina “Nollaa laite (Wipe device)”."</string>
+  <string name="phone_locked_foget_password_header">Mitä minun pitäisi tehdä, jos unohdan salasanani?</string>
+  <string name="phone_locked_foget_password_ok">Selvä</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
   <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %s minuutin kuluttua</string>
   <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %s sekunnin kuluttua</string>

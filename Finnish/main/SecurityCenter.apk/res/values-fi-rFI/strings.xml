@@ -180,6 +180,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="auto_task_notify_task_cancel_count_down">Automatisoitu tehtävä peruutetaan 5 sekunnin kuluttua</string>
   <string name="auto_task_notify_task_cancel_do">Peruuta toiminto</string>
   <string name="auto_task_notify_task_canceled_summary">Voit soittaa ja vastaanottaa puheluita</string>
+  <string name="auto_task_notify_task_canceled_summary2">Näyttää siltä, että olet pelaamassa peliä nyt.</string>
   <string name="auto_task_notify_task_canceled_title">Toiminto peruutettu</string>
   <string name="auto_task_notify_task_continue_do">Aloita toiminto</string>
   <string name="auto_task_notify_task_count_down">Automatisoitu toiminto aloitetaan 5 sekunnin kuluttua</string>
@@ -469,6 +470,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkasta sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_paysafety_scan">Lopetetaanko maksamisen tietoturvan tarkistus?</string>
   <string name="dialog_msg_stop_virus_scan">Lopetetaanko virusten skannaus?</string>
+  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
+  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
+  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
   <string name="dialog_roaming_apps_sorted_title">Järjestä</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>
@@ -1381,6 +1385,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="showpattern">Näytä kuvio</string>
   <string name="shutdown_cancel_reminder">Laitetta ei sammutettu</string>
   <string name="shutdown_cancel_reminder_detail">Laitetta ei sammutettu, koska sinulla oli puhelu kesken</string>
+  <string name="shutdown_cancel_reminder_detail2">Näyttää siltä, että olet pelaamassa peliä nyt. Ajastettu virrankatkaisu peruutetaan.</string>
   <string name="shutdown_time">Sammutetaan klo %1$s</string>
   <string name="shutdown_time_day">Sammutetaan %1$d pv kuluttua klo %2$s</string>
   <string name="shutdown_time_day_tomorrow">Sammutetaan huomenna klo %1$s</string>
@@ -1790,7 +1795,7 @@ Tap to top up your balance."</string>
   <string name="wakepath_confirm_start_activity">Sallitaanko %1$s avata %2$s?</string>
   <string name="warn_function_no_work">来红包时无法正常提醒？</string>
   <string name="warning_open_mi_sim">Ota Mi SIM käyttöön</string>
-  <string name="weChat_not_found">您的微信版本过低或者未安装</string>
+  <string name="weChat_not_found">您的应用版本过低或者未安装</string>
   <string name="wechat_lucky_warning">微信红包</string>
   <string name="white_list_risk_app_header">Vaaralliset sovellukset: %d</string>
   <string name="white_list_trojan_header">Troijalaiset: %d</string>
@@ -1804,5 +1809,5 @@ Tap to top up your balance."</string>
   <string name="wifi_item_title_encryption">Wi-Fi salaus</string>
   <string name="wifi_item_title_fake">Tunnista vale Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Ei internet-yhteyttä</string>
-  <string name="zhifubao_not_found">您的支付宝版本过低或者未安装</string>
+  <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

@@ -2,6 +2,8 @@
 <resources>
   <string name="app_loaction">Etsi Kotinäytöltä</string>
   <string name="app_name">Haku</string>
+  <string name="appindex_description">asennettujen sovelluksien ominaisuudet</string>
+  <string name="appindex_search_label">Sovelluksien ominaisuudet</string>
   <string name="application_desc">Sovellus</string>
   <string name="applications_search_label">Sovellukset</string>
   <string name="apps_search_activity"/>
@@ -49,6 +51,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="permission_prompt_start">Salli</string>
   <string name="permission_prompt_started_info">Olet sallinut järjestelmän laajuisen haun</string>
   <string name="permission_prompt_title">Halutko lisää?</string>
+  <string name="pull_to_input">Tuo hakupalkki esiin vetämällä alas</string>
   <string name="recent_apps">Viimeaikaiset sovellukset</string>
   <string name="recent_apps_filter">Piilota sovellukset, joita et käytä</string>
   <string name="recent_close_content">"Poistetaanko tämä ominaisuus käytöstä nyt?
@@ -64,6 +67,7 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="recent_filter_functions">Ominaisuudet ei käytössä</string>
   <string name="recent_function">Ominaisuudet</string>
   <string name="recently_shortcut_label">Viimeaikaiset pikakuvakkeet</string>
+  <string name="release_to_input">Tuo hakupalkki esiin vapauttamalla</string>
   <string name="remove_from_history">Halutko poistaa tämän kohteen hakuhistoriasta?</string>
   <string name="remove_from_history_failed">Poistaminen historiasta epäonnistui.</string>
   <string name="search_apps">Hae sovelluksia</string>

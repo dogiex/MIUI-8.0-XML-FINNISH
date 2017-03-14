@@ -20,8 +20,11 @@
   <string name="game_more_improve">Rajoita sovelluksien taustatyöskentelyä ja latausnopeutta säästääksesi akkua ja kaistanleveyttä pelaamista varten</string>
   <string name="game_setting">Peliasetukset</string>
   <string name="gs_app_back_self_start">Akun Säästäjä</string>
+  <string name="gs_auto_clean_memory">Tyhjennä välimuisti</string>
+  <string name="gs_auto_clean_memory_detail">Optimoi pelaaminen tyhjentämällä välimuisti automaattisesti</string>
   <string name="gs_dialog_confirm_close_msg">Pikakuvake poistetaan Kotinäytöltäsi. Voit palauttaa asetuksen menemällä Tietoturva &gt; Asetukset.</string>
   <string name="gs_dialog_confirm_close_title">Poista käytöstä</string>
+  <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Aika</string>
   <string name="gs_game_net_priority">Yhteyden prioriteetti</string>
   <string name="gs_game_net_priority_detail">Rajoita sovelluksien latausnopeutta pelejä varten</string>
