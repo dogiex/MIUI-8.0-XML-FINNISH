@@ -63,22 +63,4 @@
         <item>Torkku</item>
         <item>Ohita</item>
     </string-array>
-	<string-array name="aqi_value">
-        <item>Hyvä</item>
-        <item>Tyydyttävä</item>
-        <item>Kohtuullisen saastunut</item>
-        <item>Heikko</item>
-        <item>Hyvin heikko</item>
-        <item>Vaarallinen</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Vähennä ulkoilua</item>
-        <item>Kiinnitä huomiota luistamiseen</item>
-        <item>Ukonilmaa, matkusta turvallisesti</item>
-        <item>Sumuinen sää, pue hengityssuoja</item>
-        <item>Ota sateenvarjo, kun menet ulos</item>
-        <item>Kiinnitä huomiota tiellä</item>
-        <item>Hiekkanen sää, pue hengityssuoja</item>
-        <item>Toivon sinulle hyvää päivää</item>
-    </string-array>
 </resources>
