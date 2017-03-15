@@ -602,7 +602,7 @@
   <string name="pref_title_enable_max_bytes_popup">Näytä datan käytön ilmoitus</string>
   <string name="preferences_title">Asetukset</string>
   <string name="preset_music_playlist">Mi Musiikki soittolista</string>
-  <string name="presonal_center">Tilin asetukset/string>
+  <string name="presonal_center">Tilin asetukset</string>
   <string name="price">"Hinta: "</string>
   <string name="priority_storage">Käytä ulkoista SD-korttia</string>
   <string name="priority_storage_summary">Lataa automaattisesti ulkoiselle SD-kortille jos käytettävissä</string>
