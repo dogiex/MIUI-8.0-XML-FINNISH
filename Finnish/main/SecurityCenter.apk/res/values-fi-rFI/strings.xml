@@ -1060,8 +1060,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_consume_rank_hardware">Laitteisto</string>
   <string name="power_consume_rank_software">Sovellukset</string>
   <string name="power_consume_rank_title">Akun käyttö</string>
-  <string name="power_consume_total_hardware">Laitteisto: %1$d%%</string>
-  <string name="power_consume_total_software">Sovellukset: %1$d%%</string>
   <string name="power_customize_giveup_change">Hylätäänkö muutokset?</string>
   <string name="power_dialog_cancel">Peruuta</string>
   <string name="power_dialog_ok">OK</string>
