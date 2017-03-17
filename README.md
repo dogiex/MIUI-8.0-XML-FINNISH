@@ -97,6 +97,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiWallpaper.apk
 - Mms.apk
 - Music.apk
+- MusicFX.apk
 - NetworkAssistant2.apk
 - NfcNci.apk
 - Notes.apk

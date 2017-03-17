@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MusicFX</string>
-  <string name="bass_boost_strength">Bass boost</string>
+  <string name="app_name">MusiikkiFX</string>
+  <string name="bass_boost_strength">Basson vahvistus/string>
   <string name="ci_extreme">FX booster</string>
-  <string name="eq_dialog_title">Equalizer</string>
-  <string name="headset_plug">Plug in headphones for these effects.</string>
-  <string name="no_effects">Effects not available.</string>
-  <string name="picker_title">Music effects control panel</string>
-  <string name="setup">Setup</string>
-  <string name="user">User</string>
-  <string name="virtualizer_strength">Surround sound</string>
+  <string name="eq_dialog_title">Taajuuskorjain</string>
+  <string name="headset_plug">Kytke kuulokkeet n‰ille tehosteille.</string>
+  <string name="no_effects">Tehosteet ei k‰ytett‰viss‰.</string>
+  <string name="picker_title">Musiikkitehosteiden hallintapaneeli</string>
+  <string name="setup">Aseta</string>
+  <string name="user">K‰ytt‰j‰</string>
+  <string name="virtualizer_strength">Surround ‰‰ni</string>
 </resources>
