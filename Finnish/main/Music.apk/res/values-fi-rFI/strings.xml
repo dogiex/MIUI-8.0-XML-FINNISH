@@ -708,7 +708,7 @@
   <string name="share_chooser_title">Jaa käyttäen</string>
   <string name="share_description">Mi Musiikista</string>
   <string name="share_end_note">Mi Musiikista</string>
-  <string name="share_text_list">"Soittolista Mi Musiikista: "</string>
+  <string name="share_text_list">"Soittolista Mi Musiikissa: "</string>
   <string name="share_text_song">"Kappale Mi Musiikissa: "</string>
   <string name="show_more">Näytä %s lisää</string>
   <string name="shuffle_music">Toista sekoittaen</string>
@@ -774,8 +774,8 @@
   <string name="title_search_history">Hakuhistoria</string>
   <string name="title_search_hot">Suosittu</string>
   <string name="to_mi_pay">Mi Krediittiä</string>
-  <string name="toast_download_error_by_count_limit">You have used up your download quota for this month.</string>
-  <string name="toast_download_error_by_vip_required">Get Premium Song Pack to download this song.</string>
+  <string name="toast_download_error_by_count_limit">Olet käyttänyt tämän kuukauden latauksien määrän.</string>
+  <string name="toast_download_error_by_vip_required">Hanki Premium-tason Kappalepaketti ladataksesi tämän kappaleen.</string>
   <string name="toast_download_in_process">Lataus kesken</string>
   <string name="toast_normal_songs_for_download">Latauksen laatu asetettu normaalille</string>
   <string name="toast_normal_songs_for_stream">Suoratoiston laatu asetettu normaalille</string>
@@ -795,7 +795,7 @@
   <string name="track_view">Kappale</string>
   <string name="traffic_free_to_play">Käytä musiikin datapakettia</string>
   <string name="traffic_network_alert">Mi Musiikin datapaketti</string>
-  <string name="traffic_network_alert_message">"You're using Mi Music data plan provided by China Unicom. You should connect to a 3gnet network to stream songs without spending mobile data. Make sure you check network settings before streaming music."</string>
+  <string name="traffic_network_alert_message">Käytät Kiinan Unicomin tarjoamaa Mi Musiikin datapakettia. Sinun täytyy yhdistää 3gnet verkkoon suoratoistaaksesi kappaleita ilman, että kulutat mobiilidataa. Varmista, että tarkastat verkkoasetukset ennen musiikin suoratoistamista.</string>
   <string name="trigger_to_scan_media_library_finish">Päivitetty</string>
   <string name="trigger_to_scan_media_library_processing">Päivitetään vieläkin…</string>
   <string name="trigger_to_scan_media_library_start">Päivitetään…</string>
@@ -805,36 +805,36 @@
   <string name="unknown_artist_name">Tuntematon artisti</string>
   <string name="update_now">Päivitä nyt</string>
   <string name="upgrade">Päivitys:</string>
-  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_force">Lopetamme nykyisen suoratoistopalvelun kopiosuojaus syistä. Päivitä Musiikki-sovellus uusimpaan versioon kuunnellaksesi korkean laadun musiikkia.</string>
   <string name="upgrade_immediate">Päivitä nyt</string>
   <string name="upgrade_membership">Hanki lisää tilaa</string>
   <string name="upgrade_music">Päivitä Musiikki</string>
   <string name="upgrade_music_message">Paketti on valmis. Päivitä käynnistämällä uudelleen.</string>
-  <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+  <string name="upgrade_nobeta">Lopetamme nykyisen suoratoistopalvelun kopiosuojaus syiden selvittämisen ajaksi. Pahoittelemme tästä aiheutunutta haittaa.</string>
   <string name="upgrade_remind">Päivitys saatavilla</string>
   <string name="upgrade_services">Päivitykset</string>
-  <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_suggest">Lopetamme nykyisen suoratoistopalvelun kopiosuojaus syistä. Päivitä Musiikki-sovellus uusimpaan versioon kuunnellaksesi korkean laadun musiikkia.</string>
   <string name="upgrade_to">Päivitä</string>
-  <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
+  <string name="upgrade_waringing">Voit kuunnella vain laitteelle tallennettua musiikkia.</string>
   <string name="valid_period">Voimassa: %s</string>
   <string name="version_info">Versio</string>
-  <string name="vip_auto_renew_message">Your Music subscription will be renewed automatically this evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
-  <string name="vip_auto_renew_notification_message">Add Mi Credits to renew your Music subscription.</string>
+  <string name="vip_auto_renew_message">Musiikkitilauksesi uusitaan automaattisesti tänä iltana. Varmista, että tililläsi on tarpeeksi Mi Krediittejä tämän maksun suorittamiseen.</string>
+  <string name="vip_auto_renew_notification_message">Lisää Mi Krediittejä uusiaksesi Musiikin tilauksesi.</string>
   <string name="vip_auto_renew_notification_title">Tilauksen maksaminen</string>
   <string name="vip_auto_renew_title">Tilauksen uusiminen</string>
-  <string name="vip_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
-  <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
+  <string name="vip_renew_message">Et tule pystymään suoratoistamaan korkean laadun musiikkia, mutta jotkut kappaleet ovat saatavilla normaalilla laadulla.</string>
+  <string name="vip_renew_notification_message">Et tule pystymään suoratoistamaan korkean laadun musiikkia tilauksesi loppumisen jälkeen.</string>
   <string name="vip_renew_notification_title">Tilaus vanhenee huomenna</string>
   <string name="vip_renew_title">Tilaus vanhentunut</string>
-  <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
-  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
+  <string name="vip_required">Hanki Premium-tason Kappalepaketti toistaaksesi tämän kappaleen. Ohitimme kappaleen puolestasi.</string>
+  <string name="vip_required_with_song">Hanki Premium-tason Kappalepaketti toistaaksesi “%s”. Ohitimme kappaleen puolestasi.</string>
   <string name="warning_tip_cancel">Lataa</string>
-  <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
+  <string name="warning_tip_content">Et ole enää yhteydessä Wi-Fi-verkkoon. Käyttämällä mobiilidata-yhteyttä lataamiseen nostaa datan käyttöä. Jos mene datapakettisi rajan yli, operaattorisi voi veloittaa sinua lisämaksuista.</string>
   <string name="warning_tip_ok">Pysäytä</string>
   <string name="warning_tip_title">Datan käyttövaroitus</string>
   <string name="welcome_to_new_music">Tervetuloa uuteen Mi Musiikin versioon</string>
-  <string name="wifi_required_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
+  <string name="wifi_required_body" formatted="false">"Sinun täytyy käyttää Wi-Fi-yhteyttä ladataksesi tiedoston %s. 
 
-Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
+Kosketa %s aloittaaksesi latauksen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_required_title">Lataus on liian suuri operaattorin verkolle</string>
 </resources>

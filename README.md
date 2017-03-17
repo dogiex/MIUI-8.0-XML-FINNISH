@@ -96,10 +96,12 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiuiSystemUi.apk
 - MiWallpaper.apk
 - Mms.apk
+- Music.apk
 - NetworkAssistant2.apk
 - NfcNci.apk
 - Notes.apk
 - PackageInstaller.apk
+- PaymentService.apk
 - PowerKeeper.apk
 - PrintSpooler.apk
 - Provision.apk
