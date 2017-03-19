@@ -363,7 +363,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_wipe_data_confirm_label">Poista data Mi Pilvestä</string>
   <string name="micloud_wipe_data_confirm_title">Poistetaanko Mi Pilveen synkronoidut kohteet puhelimesta uloskirjautumisen jälkeen?</string>
   <string name="micloud_wipe_data_remove">Poista</string>
-  <string name="micloud_wipe_data_retain">Poistu</string>
+  <string name="micloud_wipe_data_retain">Säilytä</string>
   <string name="microsoft_cloud">Microsoft Pilvipalvelu</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Noin 80 RMB vuodessa</string>
