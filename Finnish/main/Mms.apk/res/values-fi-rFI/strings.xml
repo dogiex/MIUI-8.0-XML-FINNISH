@@ -16,7 +16,7 @@
   <string name="add_private_contact">Lisää yksityinen yhteystieto</string>
   <string name="add_slide">Lisää dia (jälkeen)</string>
   <string name="add_slide_before">Lisää intro dia</string>
-  <string name="add_slide_hint">Lisää uusi dia koskettamalla</string>
+  <string name="add_slide_hint">Lisää uusi dia napauttamalla</string>
   <string name="add_smiley">Hymiö</string>
   <string name="add_timing">Ajastettu</string>
   <string name="add_to_browser_favorite_failed">Ei voitu lisätä</string>
@@ -197,9 +197,9 @@
   <string name="group_message">Ryhmäviesti</string>
   <string name="group_message_failed_title">Lähetys epäonnistui %d yhteystiedolle</string>
   <string name="group_resend_message">Lähetä uudelleen (%d)</string>
-  <string name="guild_add_attachments">Lisää hymiöitä ja muuta sisältöä koskettamalla</string>
-  <string name="guild_add_recipients">Lisää vastaanottajia osoitekirjasta koskettamalla</string>
-  <string name="guild_msim_switcher">Vaihda SIM-kortteja koskettamalla</string>
+  <string name="guild_add_attachments">Lisää hymiöitä ja muuta sisältöä napauttamalla</string>
+  <string name="guild_add_recipients">Lisää vastaanottajia osoitekirjasta napauttamalla</string>
+  <string name="guild_msim_switcher">Vaihda SIM-kortteja napauttamalla</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Piilotettu lähettäjän osoite</string>
   <string name="hint_search_sms">%d viestiä</string>
@@ -257,7 +257,7 @@
   <string name="message_download_failed_title">Viestiä ei ole ladattu</string>
   <string name="message_expired">Vanhentunut</string>
   <string name="message_failed">Epäonnistui</string>
-  <string name="message_failed_body">Tarkasta viesti ja yritä uudelleen koskettamalla.</string>
+  <string name="message_failed_body">Tarkasta viesti ja yritä uudelleen napauttamalla.</string>
   <string name="message_number">Puhelinnumero:</string>
   <string name="message_pending">Lähetetään</string>
   <string name="message_queued">Viestiä ei voi lähettää juuri nyt. Viesti lähetetään, kun palvelu tulee saataville.</string>
@@ -345,7 +345,7 @@
   <string name="mx_on_sim_2">Mi Viesti SIM-kortti 2</string>
   <string name="mx_online">Aktivoitu</string>
   <string name="mx_reactivate">Aktivoi Mi Viesti uudelleen</string>
-  <string name="mx_recommend_msg">Ota Mi Viesti käyttöön koskettamalla.</string>
+  <string name="mx_recommend_msg">Ota Mi Viesti käyttöön napauttamalla.</string>
   <string name="mx_stranger_recommend_msg">Estä Mi Viestit tuntemattomilta numeroilta napauttamalla</string>
   <string name="mx_type_guide">Mi Viestillä voit lähettää viestejä toisille MIUI:n käyttäjille ilman lisäkustannuksia</string>
   <string name="need_download">Synkronoidaan…</string>
@@ -566,8 +566,8 @@
   <string name="sim_full_title">SIM-kortti on täynnä</string>
   <string name="sim_manage_messages_title">SIM-kortissa olevat tekstiviestit</string>
   <string name="sim_view">Näytä</string>
-  <string name="slide_number">Dia %s</string>
-  <string name="slide_show_part">Osa %1$s/%2$s</string>
+  <string name="slide_number">Dia %d</string>
+  <string name="slide_show_part">Osa %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Peruuta pyyhkäisemällä ylös</string>
   <string name="slideshow_activity">Diaesitys</string>
   <string name="sms_card_partner_label">"SMS card partner: "</string>

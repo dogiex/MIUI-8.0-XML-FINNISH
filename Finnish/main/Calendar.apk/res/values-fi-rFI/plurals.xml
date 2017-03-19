@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">1 minuutti sitten</item>
@@ -27,16 +35,36 @@
         <item quantity="other">+ %d tapahtumaa</item>
         <item quantity="one">+ 1 tapahtuma</item>
     </plurals>
-    <plurals name="Ndays_ago">
+    <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d päivää sitten klo %2$s</item>
         <item quantity="one">%1$d päivä sitten klo %2$s</item>
     </plurals>
-    <plurals name="Ndays_after">
+    <plurals name="Ndays_after_at">
         <item quantity="other">%1$d päivän kuluttua klo %2$s</item>
         <item quantity="one">%1$d päivän kuluttua klo %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d viikkoa sitten</item>
         <item quantity="one">1 viikko sitten</item>
+    </plurals>
+	<plurals name="anniversary_notify_title">
+        <item quantity="other">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s</item>
+        <item quantity="one">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s 3 päivän kuluttua</item>
+        <item quantity="one">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s 3 päivän kuluttua</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">vuotta</item>
+        <item quantity="one">vuosi</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">päivää</item>
+        <item quantity="one">päivä</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">päivää myöhemmin</item>
+        <item quantity="one">päivä myöhemmin</item>
     </plurals>
 </resources>

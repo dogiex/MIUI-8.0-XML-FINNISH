@@ -470,9 +470,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkasta sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_paysafety_scan">Lopetetaanko maksamisen tietoturvan tarkistus?</string>
   <string name="dialog_msg_stop_virus_scan">Lopetetaanko virusten skannaus?</string>
-  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
+  <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
+  <string name="dialog_remobe_luckymoney_ok">Uusi</string>
+  <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
   <string name="dialog_roaming_apps_sorted_title">Järjestä</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>

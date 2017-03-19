@@ -5,14 +5,14 @@
         <item quantity="one">Poistetaanko tämä keskustelu?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s sekuntia</item>
-        <item quantity="one">%s sekunti</item>
-        <item quantity="few">%s sekuntia</item>
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+        <item quantity="few">%d sekuntia</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s sekuntia</item>
-        <item quantity="one">%s sekunti</item>
-        <item quantity="few">%s sekuntia</item>
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+        <item quantity="few">%d sekuntia</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s tulosta haulle \"%2$s\"</item>

@@ -151,4 +151,9 @@
         <item>Aika</item>
         <item>Toistokerta</item>
     </string-array>
+	<string-array name="repeat_countdown">
+        <item>Ei koskaan</item>
+        <item>Kuukausittain</item>
+        <item>Vuosittain</item>
+    </string-array>
 </resources>

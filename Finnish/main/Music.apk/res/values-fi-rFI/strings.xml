@@ -49,7 +49,16 @@
   <string name="app_label">Lataukset</string>
   <string name="artist">Artisti</string>
   <string name="artist_album">Albumi</string>
+  <string name="artist_area_all">Kaikki</string>
+  <string name="artist_area_china">Kiina</string>
+  <string name="artist_area_europe_usa">Eurooppa/USA</string>
+  <string name="artist_area_japan">Japani</string>
+  <string name="artist_area_korea">Korea</string>
   <string name="artist_favor">Kiinnostavat</string>
+  <string name="artist_gender_all">Kaikki</string>
+  <string name="artist_gender_female">Nainen</string>
+  <string name="artist_gender_group">Ryhmä</string>
+  <string name="artist_gender_male">Mies</string>
   <string name="artist_is_empty">Artistin nimi ei voi olla tyhjä.</string>
   <string name="artist_name">Artisti</string>
   <string name="artist_search_title">Artisti</string>
@@ -68,6 +77,7 @@
   <string name="auto_payment">Automaattinen uusiminen</string>
   <string name="auto_payment_date">Seuraava maksu: %s</string>
   <string name="auto_restart_under_wifi">Wi-Fi lataa tämän tiedoston automaattisesti</string>
+  <string name="auto_upgrade">Päivitä automaattisesti</string>
   <string name="avail_services">Käytettävissä</string>
   <string name="available_playlist_name_format">Uusi soittolista %d</string>
   <string name="avoid_to_use_traffic_summary">Älä käytä mobiilidata-yhteyttä musiikin suoratoistoon</string>
@@ -317,6 +327,7 @@
   <string name="favorite_singer">Suosikkiartistit</string>
   <string name="favorite_succeed">Lisättiin suosikkeihin</string>
   <string name="favorite_tracks">Suosikit</string>
+  <string name="favorites">Suosikit</string>
   <string name="favourite_music_left_half">Lisätäksesi kappaleita tähän soittolistaan, napauta</string>
   <string name="favourite_music_right_half">Suosikki kuvaketta kappaleen otsikon oikealla puolella</string>
   <string name="female_artist">Naisartistit</string>
@@ -383,6 +394,7 @@
   <string name="higher_quality_music_summary">Suoratoista ja lataa korkeamman bitraten tiedostoja</string>
   <string name="home_tab_local">Musiikkini</string>
   <string name="home_tab_online">Tutustu</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
   <string name="impunity_declaration_content1">"Painamalla hyväksy, hyväksyt ehdot, jotka lukee meidän "</string>
@@ -416,9 +428,19 @@
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Ladataan…</string>
   <string name="loading_hint">Odota hetki…</string>
-  <string name="local_music">Offline</string>
-  <string name="local_music_is_not_available">Paikallinen musiikki ei ole käytettävissä.</string>
-  <string name="local_tracks_short">Offline</string>
+  <string name="local_music">Laite</string>
+  <string name="local_music_empty">Laitteen soittolista on tyhjä</string>
+  <string name="local_music_empty_goto_online">Kappaleita ei löytynyt</string>
+  <string name="local_music_is_not_available">Laitteen musiikki ei ole käytettävissä.</string>
+  <string name="local_page_artist">Seuratut artistit</string>
+  <string name="local_page_custom_subtitle">Uusia kappaleita joka päivä</string>
+  <string name="local_page_custom_title">Sinulle</string>
+  <string name="local_page_playlist">Soittolistani</string>
+  <string name="local_page_song_all">Kaikki kappaleet</string>
+  <string name="local_page_song_download">Laitteen kappaleet</string>
+  <string name="local_page_song_download_history">Lataukset</string>
+  <string name="local_page_song_favorite">Suositut kappaleet</string>
+  <string name="local_tracks_short">Laite</string>
   <string name="lrc_search_failed">Sanoituksia ei löytynyt</string>
   <string name="lrc_searching">Etsitään…</string>
   <string name="lyric">Sanoitukset</string>
@@ -523,6 +545,7 @@
   <string name="no_local_source_find">Kappaletta ei löytynyt</string>
   <string name="no_online_song_selected">Kappaleita ei ole valittuna</string>
   <string name="no_results_return">Ei hakutuloksia</string>
+  <string name="no_scanned_songs">Tyhjä</string>
   <string name="no_song">Ei kappaleita</string>
   <string name="no_song_downloaded">Palvelimeen ei saatu yhteyttä</string>
   <string name="normal_quality">Hyvä</string>
@@ -588,6 +611,7 @@
   <string name="play_next">Toista seuraava.</string>
   <string name="playback_failed_no_title_by_bad_file">Tämän kappaleen tiedostomuoto ei ole tuettu tai tiedostoa ei ole olemassa.</string>
   <string name="playlist_deleted_message">Soittolista poistettu</string>
+  <string name="playlist_empty">Soittolistoja ei löytynyt.</string>
   <string name="playlist_renamed_message">Soittolista nimettiin uudelleen</string>
   <string name="playlist_unavailable">Anteeksi, soittolista ei ole käytettävissä. Poista se painamalla sitä pohjaan ja valitse poista.</string>
   <string name="please_download_first">Sinun täytyy ladata tämä kappale, ennen kuin voit käyttää sitä soittoäänenä</string>
@@ -628,6 +652,7 @@
   <string name="radar_support_by">Tarjoaja ACRCloud</string>
   <string name="really_pay">Maksetaanko nyt?</string>
   <string name="recently_played">Viimeksi soitetut</string>
+  <string name="recently_played_songs">Viimeksi soitetut</string>
   <string name="recommend_fragment_title">Suositut</string>
   <string name="recommended_file_size_download_in_mobile">Käytetäänkö %s mobiilidataa tämän tiedoston lataamiseen?</string>
   <string name="recommended_no_file_size_download_in_mobile">Käytetäänkö mobiilidata-yhteyttäsi tämän tiedoston lataamiseen?</string>
@@ -761,6 +786,7 @@
   <string name="tab_track_list">Kappaleet</string>
   <string name="take_effect_afater_restart">Sinun täytyy käynnistää sovellus uudelleen tämän asetuksen tulemiseksi voimaan.</string>
   <string name="task_already_exist">Tehtävä on jo olemassa</string>
+  <string name="text_separator">|</string>
   <string name="ticket_summary">Osta lippuja näytöksiin, konsertteihin, esitelmiin ja muihin tapahtumiin</string>
   <string name="ticket_title">Näytä liput</string>
   <string name="time_to_upgrade">Mi Musiikki pitäisi päivittää</string>

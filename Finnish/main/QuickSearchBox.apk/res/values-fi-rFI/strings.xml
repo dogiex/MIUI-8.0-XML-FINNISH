@@ -7,6 +7,7 @@
   <string name="application_desc">Sovellus</string>
   <string name="applications_search_label">Sovellukset</string>
   <string name="apps_search_activity"/>
+  <string name="choose_search_engine">Valitse oletushakukone verkkohaulle</string>
   <string name="clear_history">Poista historia</string>
   <string name="clear_shortcuts">Poista pikakuvakkeet</string>
   <string name="clear_shortcuts_agree">Poista pikakuvakkeet</string>
