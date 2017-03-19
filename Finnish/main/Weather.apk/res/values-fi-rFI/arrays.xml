@@ -145,7 +145,7 @@
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;Boforin numero 2</item>
+        <item>&lt;Voima 2</item>
         <item>&lt;6.0 km/h</item>
         <item>&lt;1.7 m/s</item>
         <item>&lt;3.7 mph</item>
@@ -159,7 +159,7 @@
         <item>Solmua (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>Boforin numero %1$s</item>
+        <item>Voima %1$s</item>
         <item>%1$s km/h</item>
         <item>%1$s m/s</item>
         <item>%1$s mph</item>

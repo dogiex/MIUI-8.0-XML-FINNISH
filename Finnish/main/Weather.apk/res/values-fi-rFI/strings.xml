@@ -34,7 +34,7 @@
   <string name="app_name">Sää</string>
   <string name="aqi_data_source">Tarjoaja Colorful Clouds</string>
   <string name="aqi_desc">Ilmanlaatuindeksi</string>
-  <string name="aqi_detail_24_hours">%1$s-tuntinen ennustus</string>
+  <string name="aqi_detail_24_hours">24-tuntinen ennustus</string>
   <string name="aqi_detail_5_days">5-päivän ennustus</string>
   <string name="aqi_detail_co">CO</string>
   <string name="aqi_detail_no2">NO₂</string>
