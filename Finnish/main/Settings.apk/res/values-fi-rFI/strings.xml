@@ -3260,7 +3260,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sim_lock_settings">SIM-kortin lukitusasetukset</string>
   <string name="sim_lock_settings_category">Ota SIM-kortin lukitus käyttöön</string>
   <string name="sim_lock_settings_title">SIM-kortin lukitus</string>
-  <string name="sim_management_title">SIM-kortit &amp; matkapuhelinverkot</string>
+  <string name="sim_management_title">Matkapuhelinverkot</string>
   <string name="sim_multi_sims_summary">Valitse SIM-kortti, jota haluat käyttää mobiilitiedonsiirtoon.</string>
   <string name="sim_multi_sims_title">SIM-kortteja löytyi useita</string>
   <string name="sim_name_hint">Anna SIM-kortin nimi</string>

@@ -20,7 +20,7 @@
   <string name="acessibility_cal_notification">Kalenteri-ilmoitus</string>
   <string name="acessibility_selected_marker_description">Valittu tapahtuma</string>
   <string name="acessibility_snooze_notification">Torkuta ilmoitus</string>
-  <string name="action_label">Enter</string>
+  <string name="action_label">Syötä</string>
   <string name="action_text_today">Tänään</string>
   <string name="ad_card_connecting">连接中</string>
   <string name="ad_card_download_count">%1$s人下载</string>
@@ -120,6 +120,7 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Päivä</string>
   <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
+  <string name="default_reminder_mode">Muistutukset</string>
   <string name="delete_calendar">退订</string>
   <string name="delete_label">Poista</string>
   <string name="delete_recurring_event_title">Poistetaanko %s?</string>
