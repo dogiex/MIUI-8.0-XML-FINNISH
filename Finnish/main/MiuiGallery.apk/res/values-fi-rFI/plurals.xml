@@ -64,6 +64,14 @@
         <item quantity="other">%1$d kuvaa ja videota | %2$s</item>
         <item quantity="one">%1$d kuva tai video | %2$s</item>
     </plurals>
+	<plurals name="backup_after_hours">
+        <item quantity="other">Jatka varmuuskopiointia %d tunnin kuluttua</item>
+        <item quantity="one">Jatka varmuuskopiointia %d tunnin kuluttua</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d kuvaa ja videota | Pysäytetty</item>
+        <item quantity="one">%d kuva tai video | Pysäytetty</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d kuvaa ja videota ei ole varmuuskopioitu</item>
         <item quantity="one">%d kuvaa tai videota ei ole varmuuskopioitu</item>
@@ -107,6 +115,10 @@
     <plurals name="download_error">
         <item quantity="other">%1$d tiedoston lataaminen epäonnistui</item>
         <item quantity="one">%1$d tiedoston lataaminen epäonnistui</item>
+    </plurals>
+	<plurals name="download_retry_message">
+        <item quantity="other">%1$d tiedostoa ei voitu ladata, tarkasta verkko-yhteys ja yritä uudelleen</item>
+        <item quantity="one">%1$d tiedostoa ei voitu ladata, tarkasta verkko-yhteys ja yritä uudelleen</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d kohdetta valittu</item>

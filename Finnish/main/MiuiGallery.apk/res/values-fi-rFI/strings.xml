@@ -127,6 +127,7 @@
   <string name="backup_automatically_title">Varmuuskopioi automaattisesti</string>
   <string name="backup_battery_low_desc">Voit silti valita jatkamaan kohteiden varmuuskopiointia</string>
   <string name="backup_battery_low_title">Varmuuskopiointi pysäytettiin vähäisen akun takia</string>
+  <string name="backup_close">Sulje varmuuskopiointi</string>
   <string name="backup_cloud_space_low_btn_text">Hanki lisää</string>
   <string name="backup_cloud_space_low_desc">%1$s Mi Pilvessä | Käytettävissä %2$s</string>
   <string name="backup_cloud_space_low_title">Mi Pilven tallennustilaa ei ole tarpeeksi</string>
@@ -150,6 +151,7 @@
   <string name="backup_only_in_wifi">Käytä kuvien ja videoiden varmuuskopiointiin vain Wi-Fi-yhteyttä</string>
   <string name="backup_only_in_wifi_summary">Älä käytä mobiilidataa ikinä kuvien tai videoiden varmuuskopiointiin</string>
   <string name="backup_pause">Pysäytä varmuuskopiointi</string>
+  <string name="backup_pause_title">Varmuuskopioi %s kuluttua</string>
   <string name="backup_pending">Varmuuskopioidaan automaattisesti</string>
   <string name="backup_stop">Lopeta varmuuskopiointi</string>
   <string name="backup_sync_error_btn_text">Yritä uudelleen</string>
@@ -627,6 +629,9 @@
   <string name="custom_select_title_select_all">Valitse kaikki</string>
   <string name="custom_select_title_select_item">Valitse kohteet</string>
   <string name="debugging_tip">Luodaan virheenkorjaustiedot</string>
+  <string name="default_album_name">Uusi albumi</string>
+  <string name="default_relation_name">Uusi ryhmä</string>
+  <string name="define_by_user">Oma valinta</string>
   <string name="delete">Poista</string>
   <string name="delete_album_failed">Albumin poisto epäonnistui</string>
   <string name="delete_album_msg_format">Poistetaanko \"%2$s\" albumi %1$s %3$s?</string>
@@ -677,7 +682,8 @@
   <string name="empty_query_text_msg">En tiedä mitä etsiä…</string>
   <string name="empty_recommend_back">Takaisin</string>
   <string name="empty_recommend_face_page_view">Ei enempää suosituksia</string>
-  <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
+  <string name="empty_relation">Ryhmän nimi ei voi olla tyhjä</string>
+  <string name="enable_auto_upload_tip">Tämä albumi poistetaan toisista albumeistä käyttöönottamisen jälkeen.</string>
   <string name="enable_auto_upload_title">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="enable_cloud_for_sharing">Ota Mi Pilven albumit käyttöön nähdäksesi jaetut kuvat.</string>
   <string name="enable_face_album_summary">Lajittele kuvat automaattisesti niissä esiintyvien henkilöiden mukaan</string>
@@ -792,6 +798,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="input_baby_nick_name">Syötä lempinimi</string>
   <string name="input_nickname_toast">Syötä vauvan nimi</string>
   <string name="input_or_select_a_name">Syötä tai valitse nimi</string>
+  <string name="input_relation_name">Syötä ryhmän nimi</string>
   <string name="invalid_invition_url">Virheellinen kutsu URL</string>
   <string name="invalid_recipient_message">Syöttämäsi vastaanottajien nimet ovat virheellisiä</string>
   <string name="invite_sharer_confirm_button_text">Kutsu</string>
@@ -808,6 +815,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="kilobyteShort">Kt</string>
   <string name="limit_height">Korkeuden täytyy olla &gt; 0</string>
   <string name="limit_width">Leveyden täytyy olla &gt; 0</string>
+  <string name="load_relations">Odota hetki…</string>
   <string name="loading_dual_tip">Ladataan kaksoiskuvaa…</string>
   <string name="loading_fail">Lataaminen epäonnistui</string>
   <string name="loading_fail_sync_off">Lataa ottamalla Mi Pilven synkronointi käyttöön</string>
@@ -851,6 +859,9 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="new_album_invalid_char">Nimi ei voi sisältää merkkiä \"%s\", syötä kirjain tai numero.</string>
   <string name="new_album_invalid_name">\"%s\" on järjestelmäalbumi, nimeä albumi uudelleen.</string>
   <string name="new_album_invalid_prefix">Älä käytä \".\" tai \"_\" merkkejä albumin nimen edessä.</string>
+  <string name="new_relation_invalid_char">Ryhmän nimi ei voi sisältää merkkiä \"%s\". Käytä kirjaimia, numeroita tai merkkejä.</string>
+  <string name="new_relation_invalid_name">\"%s\" ryhmä on jo olemassa, nimeä tämä ryhmä uudelleen.</string>
+  <string name="new_relation_invalid_prefix">Älä käytä \".\" tai \"_\" merkkejä ryhmän nimen edessä.</string>
   <string name="next">Seuraava</string>
   <string name="no">Ei</string>
   <string name="no_map_app">Tälle toiminnolle ei löytynyt sopivaa sovellusta</string>
@@ -873,6 +884,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="operation_do_delete_local_thumnail">Poista laitteesta</string>
   <string name="operation_download">Lataa alkuperäinen (%s)</string>
   <string name="operation_edit">Muokkaa</string>
+  <string name="operation_edit_video">Muokkaa</string>
   <string name="operation_enable_auto_upload">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="operation_enter_delete_local">Poista varmuuskopioidut kuvat ja videot laitteesta</string>
   <string name="operation_failed">Operaatiota ei voitu suorittaa loppuun</string>
@@ -886,6 +898,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="operation_remove_from_face_album">Poista albumista</string>
   <string name="operation_remove_from_other_albums">Siirrä toisista albumeista</string>
   <string name="operation_remove_secret">Poista piilosta</string>
+  <string name="operation_rename">Nimeä uudelleen</string>
   <string name="operation_save">Tallenna</string>
   <string name="operation_send">Lähetä</string>
   <string name="operation_set_contact_photo">Aseta yhteystiedon kuvaksi</string>
@@ -968,6 +981,9 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="remove_from_secret_successful">Poistettiin piilotetusta albumista</string>
   <string name="remove_to_album_title">Yhdistä henkilöön</string>
   <string name="remove_to_other_album">Yhdistä eri henkilön kanssa</string>
+  <string name="rename_album">Nimeä albumi uudelleen</string>
+  <string name="rename_album_failed">Nimeäminen uudelleen epäonnistui</string>
+  <string name="rename_album_succeeded">Nimeäminen uudelleen onnistui</string>
   <string name="rename_face_album">Vaihda nimi</string>
   <string name="rename_fail_msg">Nimen vaihtaminen epäonnistui</string>
   <string name="rename_from_contact">Nimi yhteystiedoista</string>
@@ -1077,8 +1093,10 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="sync_battery_low">Akku lähes tyhjä</string>
   <string name="sync_cloud_space_full">Mi Pilven tallenustilaa ei ole tarpeeksi</string>
   <string name="sync_diabled_toast">Synkronointi ei ole käytössä</string>
+  <string name="sync_metatata_wait_title">Odotetaan Mi Pilven tietojen synkronointia</string>
   <string name="sync_off_title">Ota Mi Pilven synkronointi käyttöön varmuuskopioidaksesi kuvat ja videot automaattisesti</string>
   <string name="sync_pending_title">Synkronoidaan automaattisesti</string>
+  <string name="sync_state_unknow">Haetaan tietoa</string>
   <string name="synced_title">Varmuuskopioitiin kuvat ja videot onnistuneesti</string>
   <string name="syncing_gprs_title">Käytetään mobiilidataa kohteiden varmuuskopiointiin</string>
   <string name="syncing_metadata_title">Synkronoidaan Mi Pilven dataa</string>

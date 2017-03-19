@@ -38,7 +38,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
 #####Tällä hetkellä työn alla:
 - Cit.apk
-- SecurityCenter.apk
+- SecurityCoreAdd.apk
 
 #####Valmiina olevat paketit:
 - AntiSpam.apk
@@ -93,11 +93,11 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - MiuiCompass.apk
 - miuisystem.apk
 - MiuiScanner.apk
+- MiuiScreenRecorder.apk
 - MiuiSystemUi.apk
 - MiWallpaper.apk
 - Mms.apk
 - Music.apk
-- MusicFX.apk
 - NetworkAssistant2.apk
 - NfcNci.apk
 - Notes.apk
@@ -109,6 +109,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - ProxyHandler.apk
 - QuickSearchBox.apk
 - SecurityAdd.apk
+- SecurityCenter.apk
 - Settings.apk
 - SettingsProvider.apk
 - Shell.apk

@@ -34,6 +34,9 @@
   <string name="error_sdcard_access">USB-tallennustilaa ei voi käyttää.</string>
   <string name="error_sdcard_unmounted">Syötä SD-kortti nyt</string>
   <string name="export_to_note">Vie Muistioon</string>
+  <string name="head_set_tip_dialog_msg">Katkaise yhteys kuulokkeisiin, jotta voit nauhoittaa ääntä tietyllä esiasetuksilla (esim. Musiikki, Ääni).</string>
+  <string name="head_set_tip_dialog_ok">Selvä</string>
+  <string name="head_set_tip_dialog_title">Käytä sisäistä mikrofonia</string>
   <string name="fm_record">Radion nauhoitukset</string>
   <string name="invalid_argument">Laiton argumentti</string>
   <string name="keywords_search_call_record">Nauhoita puhelut;Nauhoita puhelu;Puhelun nauhoitus;Puhelun nauhoitukset</string>
