@@ -7,6 +7,17 @@
   <string name="cal_edit_mode">Muokkaustila</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Teksti kopioitu</string>
+  <string name="chinese_character_cross_check">互查</string>
+  <string name="chinese_character_daughter">女</string>
+  <string name="chinese_character_elder_brother">兄</string>
+  <string name="chinese_character_elder_sister">姐</string>
+  <string name="chinese_character_father">父</string>
+  <string name="chinese_character_husband">夫</string>
+  <string name="chinese_character_mother">母</string>
+  <string name="chinese_character_son">子</string>
+  <string name="chinese_character_wife">妻</string>
+  <string name="chinese_character_younger_brother">弟</string>
+  <string name="chinese_character_younger_sister">妹</string>
   <string name="choose_currency">Valitse valuutta</string>
   <string name="choose_unit">Valitse yksikkö</string>
   <string name="clear">C</string>
@@ -24,7 +35,13 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
   <string name="currency_update_time_format">Valuuttakurssit tarjoaa Webull (%s)</string>
+  <string name="dateformat">d.M.yyyy</string>
+  <string name="daughter">女儿</string>
+  <string name="day">päivä</string>
+  <string name="default_separator_text">的</string>
+  <string name="default_text">我</string>
   <string name="del">DEL</string>
+  <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>
@@ -41,6 +58,9 @@
   <string name="dotDesc">piste</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler's number"</string>
+  <string name="e_mathematical_value">e</string>
+  <string name="elder_brother">哥哥</string>
+  <string name="elder_sister">姐姐</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">yhtäkuin</string>
@@ -48,11 +68,18 @@
   <string name="error_fomrat">Formaatti virhe</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">kertoma</string>
+  <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
+  <string name="father">爸爸</string>
   <string name="from_num">100</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">kilometriä tunnissa</string>
   <string name="from_unit_short">km/h</string>
+  <string name="fund"/>
+  <string name="fund_loan"/>
+  <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
+  <string name="gay_search_result">关系有点复杂，你看着叫，不过还好他爱的不是另一个女人</string>
   <string name="home_title_calculator">Laskin</string>
+  <string name="husband">丈夫</string>
   <string name="item_title_aa_payment">Jaa Lasku</string>
   <string name="item_title_area_conversion">Pinta-ala</string>
   <string name="item_title_calculator">Laskin</string>
@@ -60,6 +87,7 @@
   <string name="item_title_dress_size">Vaatteen Koko</string>
   <string name="item_title_length_conversion">Pituus</string>
   <string name="item_title_mortgage">Laina</string>
+  <string name="item_title_relationship">亲戚称呼计算</string>
   <string name="item_title_scientific_calculator">Tieteellinen</string>
   <string name="item_title_tax">Verot</string>
   <string name="item_title_temprature_conversion">Lämpöaste</string>
@@ -70,6 +98,7 @@
   <string name="item_title_weight_conversion">Paino</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">vasen sulku</string>
+  <string name="lesbian_search_result">关系有点复杂，你看着叫，又多了一个人帮你爱她</string>
   <string name="lg">log</string>
   <string name="lgDesc">logarithm</string>
   <string name="ln">ln</string>
@@ -117,6 +146,7 @@
   <string name="mortgage_tab_combining_loan">Combinined</string>
   <string name="mortgage_tab_commercial_loan">Commercial</string>
   <string name="mortgage_years_amount">Lainan vuodet</string>
+  <string name="mother">妈妈</string>
   <string name="mul">×</string>
   <string name="mulDesc">kertaa</string>
   <string name="network_confirm_content">Valuutan, veron ja lainan laskuun tarvitaan laitteen olevan yhteydessä verkkoon toimiaakseen normaalisti.</string>
@@ -147,10 +177,17 @@
   <string name="preference_settings">Asetukset</string>
   <string name="preference_use_degress_summary">Korvaa radiaanit kulmilla trigonometrisissä funktioissa</string>
   <string name="preference_use_degress_title">Käytä kulmia</string>
+  <string name="rate_data_provider">Korkotason tarjoaa hexun.com</string>
+  <string name="relationship_cross_check_suggestion">TA称呼我</string>
+  <string name="relationship_default_separator_text">的</string>
+  <string name="relationship_default_text">我</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">oikea sulku</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sine</string>
+  <string name="sin_mathematical_value">sin</string>
+  <string name="social_security"/>
+  <string name="son">儿子</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">neliöjuuri</string>
   <string name="tan">tan</string>
@@ -191,24 +228,25 @@
   <string name="tax_update_time_format">Data in year %s</string>
   <string name="title_bar">长度单位转换</string>
   <string name="to_num">62.7</string>
-  <string name="unit_data_display_area_acre">Acre</string>
-  <string name="unit_data_display_area_are">are</string>
-  <string name="unit_data_display_area_ha">Hectare</string>
+  <string name="too_long_result">再玩就玩坏了</string>
+  <string name="unit_data_display_area_acre">Eekkeri</string>
+  <string name="unit_data_display_area_are">Aari</string>
+  <string name="unit_data_display_area_ha">Hehtaari</string>
   <string name="unit_data_display_area_mu">mu</string>
   <string name="unit_data_display_area_qing">Qing</string>
-  <string name="unit_data_display_area_sq.chi">Square chi</string>
+  <string name="unit_data_display_area_sq.chi">Neliö chi</string>
   <string name="unit_data_display_area_sq.cm">Neliösenttimetri</string>
-  <string name="unit_data_display_area_sq.cun">Square cun</string>
+  <string name="unit_data_display_area_sq.cun">Neliö cun</string>
   <string name="unit_data_display_area_sq.dm">Neliödesimetri</string>
   <string name="unit_data_display_area_sq.ft">Neliöjalka</string>
-  <string name="unit_data_display_area_sq.gongli">Square gongli</string>
+  <string name="unit_data_display_area_sq.gongli">Neliö gongli</string>
   <string name="unit_data_display_area_sq.in">Neliötuuma</string>
   <string name="unit_data_display_area_sq.km">Neliökilometri</string>
   <string name="unit_data_display_area_sq.m">Neliömetri</string>
   <string name="unit_data_display_area_sq.mi">Nelilömaili</string>
   <string name="unit_data_display_area_sq.mm">Neliömillimetri</string>
-  <string name="unit_data_display_area_sq.rd">Square rd</string>
-  <string name="unit_data_display_area_sq.um">Square microns</string>
+  <string name="unit_data_display_area_sq.rd">Neliö rd</string>
+  <string name="unit_data_display_area_sq.um">Neliö microns</string>
   <string name="unit_data_display_area_sq.yd">Neliöjaardi</string>
   <string name="unit_data_display_currency_cnh">Offshore RMB</string>
   <string name="unit_data_display_length_au">Astronomical unit</string>
@@ -366,7 +404,8 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Vuosi %s</string>
   <string name="unit_yuan">RMB</string>
-  <string name="wf_word_figure">Financial characters</string>
+  <string name="wf_word_figure">Taloudelliset merkit</string>
+  <string name="wife">妻子</string>
   <string name="xiaomi_bytes_unit">%1$st</string>
   <string name="xiaomi_connect_download_manager_fail">Yhdistäminen Lataustenhallintaan epäonnistui, tarkasta Lataustenhallinnan tila Asetuksista Asennetut sovellukset.</string>
   <string name="xiaomi_external_storage_unavailable">Tallennustila ei saatavilla, tarkasta SD-kortti.</string>
@@ -377,4 +416,6 @@ Koko: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Saatavilla versio %1$s
 Delta-päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s päivitys!</string>
+  <string name="younger_brother">弟弟</string>
+  <string name="younger_sister">妹妹</string>
 </resources>
