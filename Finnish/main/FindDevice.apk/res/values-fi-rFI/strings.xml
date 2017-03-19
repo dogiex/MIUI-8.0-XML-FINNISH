@@ -41,6 +41,8 @@
   <string name="passport_verify">Varmenna</string>
   <string name="password">Salasana</string>
   <string name="phone_locked">Tämä laite on jo linkitettynä olemassaolevaan Mi Tiliin (%s). Kirjaudu sisään aktivoidaksesi tämän laitteen.</string>
+  <string name="phone_locked_account_email">, liitetty sähköposti: %s</string>
+  <string name="phone_locked_account_phone">, liitetty puhelinnumero: %s</string>
   <string name="stop_on_empty_captcha">Captcha ei voi olla tyhjä</string>
   <string name="stop_on_empty_password">Salasana ei voi olla tyhjä</string>
   <string name="time_correction_failure">Aikaa ei voi korjata. %s</string>
