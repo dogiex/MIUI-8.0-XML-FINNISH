@@ -44,7 +44,7 @@
   <string name="app_label">Kalenteri</string>
   <string name="attendees_label">Osallistujat</string>
   <string name="birthday_calendar_display_name">Syntymäpäivän muistutus</string>
-  <string name="birthday_card_title">Tämän päivän syntymäpäivä</string>
+  <string name="birthday_card_title">Syntymäpäivät tänään</string>
   <string name="birthday_event_description_a_week_ago">Viimeviikolla</string>
   <string name="birthday_event_description_a_week_later">Ensiviikolla</string>
   <string name="birthday_event_description_day_after_tomorrow">Ylihuomenna</string>
@@ -134,9 +134,9 @@
   <string name="edit_event_birthday_import_from_contact">Tuo syntymäpäivä yhteystiedoista</string>
   <string name="edit_event_birthday_name_empty_hint">Syötä nimi</string>
   <string name="edit_event_birthday_name_hint">Nimi</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Ja muistuta kolme päivää ennen</string>
-  <string name="edit_event_birthday_reminder_summary">Päivä %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">Kolme päivää ennen, päivä %1$s</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Muistuta myös kolme päivää ennen</string>
+  <string name="edit_event_birthday_reminder_summary">Sinä päivänä klo %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Kolme päivää ennen ja sinä päivänä klo %1$s</string>
   <string name="edit_event_birthday_reminder_time">Muistutusaika</string>
   <string name="edit_event_calendar_label">Kalenteri</string>
   <string name="edit_event_choose_date">Valitse päivämäärä</string>
@@ -144,9 +144,9 @@
   <string name="edit_event_from_label">Alkaa</string>
   <string name="edit_event_input_year">Syötä vuosi</string>
   <string name="edit_event_label">Tiedot</string>
-  <string name="edit_event_no_reminder_value">Ei Muistutusta</string>
-  <string name="edit_event_reminder_text">%1$s päivä %2$s</string>
-  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s päivä %3$s</string>
+  <string name="edit_event_no_reminder_value">Älä muistuta</string>
+  <string name="edit_event_reminder_text">%1$s päivänä klo %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s päivänä, %2$s klo %3$s</string>
   <string name="edit_event_show_all">Näytä kaikki</string>
   <string name="edit_event_tab_anniversary">Vuosipäivä</string>
   <string name="edit_event_tab_birthday">Syntymäpäivä</string>
@@ -181,8 +181,9 @@
   <string name="event_info_when">Milloin</string>
   <string name="event_info_where">Missä</string>
   <string name="event_lunar_month">月</string>
-  <string name="event_reminder_allday_day_zero">Tänä päivänä %2$s</string>
-  <string name="event_reminders_to_max">Tämä tapahtuma tukee vain %d muistutusta</string>
+  <string name="event_reminder_allday_day_zero">Sinä päivänä klo %2$s</string>
+  <string name="event_reminder_value_zero">Ennen tapahtumaa</string>
+  <string name="event_reminders_to_max">Voit asettaa enintään %d muistutusta</string>
   <string name="event_title">Otsikko</string>
   <string name="event_view">Näytä tapahtuma</string>
   <string name="every_weekday">Joka arkipäivä (ma–pe)</string>
@@ -291,7 +292,7 @@
   <string name="new_event_dialog_label">Uusi tapahtuma</string>
   <string name="new_event_dialog_option">Uusi tapahtuma</string>
   <string name="no_calendars_found">Ennen kuin voit lisätä tapahtuman, sinun on lisättävä laitteeseen vähintään yksi kalenteritili ja otettava kalenteri näkyviin. Lisää tili koskettamalla Lisää tili (jos olet jo lisännyt tilin, odota synkronoinnin valmistumista ja yritä uudelleen). Tai kosketa Peruuta ja varmista, että vähintään yksi kalenteri on näkyvissä.</string>
-  <string name="no_contact_birthday_hint">Ei tuotavia yhteystietojen syntymäpäiviä</string>
+  <string name="no_contact_birthday_hint">Ei tuotavia syntymäpäiviä</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">Yritä uudestaan</string>
   <string name="no_syncable_calendars">Ei kalentereita</string>
@@ -306,7 +307,7 @@
   <string name="pengzu">彭祖</string>
   <string name="prefDialogTitle_vibrateWhen">Värinä</string>
   <string name="pref_error_no_ringtone_select">Ei valittu</string>
-  <string name="pref_reminder_time">Muistutusaika</string>
+  <string name="pref_reminder_time">Muistutuksen aika</string>
   <string name="pref_title_alarm_remind">Muistuta hälytyksellä</string>
   <string name="pref_title_no_remind">Ei muistutusta</string>
   <string name="pref_title_notification_remind">Ilmoituksen muistutus</string>
@@ -314,6 +315,10 @@
   <string name="preferences_alerts_ringtone_title">Ääni</string>
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
+  <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
+  <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
+  <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
+  <string name="preferences_home_tz_default">Europe/Helsinki</string>
   <string name="preferences_build_version">Ohjelmistoversio</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>

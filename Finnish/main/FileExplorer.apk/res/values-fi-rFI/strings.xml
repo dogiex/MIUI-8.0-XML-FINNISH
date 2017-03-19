@@ -7,6 +7,7 @@
   <string name="activity_rule">Säännöt</string>
   <string name="ad_download">Lataa</string>
   <string name="ad_downloading">Odota hetki…</string>
+  <string name="add_follow">Seuraa</string>
   <string name="add_one">+1</string>
   <string name="add_private">Piilota tiedostot nyt</string>
   <string name="add_private_files">Lisää tiedostoja</string>
@@ -99,9 +100,12 @@
   <string name="claim_video_success">Claimed successfully</string>
   <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">Vapauta tallennustilaa napauttamalla</string>
+  <string name="click_login_str">Kirjaudu sisään</string>
   <string name="click_to_refresh">Päivitä napauttamalla tähän</string>
   <string name="click_to_switch_volume">Vaihda sisäisen tallennustilan ja SD-kortin välillä napauttamalla</string>
   <string name="click_to_switch_volume_pad">Vaihda sisäisen tallennustilan ja SD-kortin välillä napauttamalla</string>
+  <string name="comment_added">Lisättiin onnistuneesti</string>
+  <string name="comment_added_tip">Lisäät useita kommentteja. Seurataanko tätä henkilöä?</string>
   <string name="comment_delete_message">Kommentti poistetaan pysyvästi.</string>
   <string name="comment_delete_title">Poista kommentti</string>
   <string name="comment_hint">Lisää kommentti</string>
@@ -142,6 +146,7 @@
   <string name="decrypt_error">Salauksen purkaaminen epäonnistui</string>
   <string name="decrypt_to">Pura salaus ja tallenna kansioon…</string>
   <string name="decrypting">Puretaan salausta…</string>
+  <string name="default_user_desc">Tämä henkilö ei ole lisännyt vielä kuvausta</string>
   <string name="delete_dialog_button">Poista</string>
   <string name="delete_error">Tiedostojen poistaminen epäonnistui, yritä uudelleen</string>
   <string name="delete_file">Poistetaanko tämä tiedosto?</string>
@@ -204,8 +209,10 @@
   <string name="file_loading">Odota hetki…</string>
   <string name="file_name_invalid">Tiedoston nimi ei voi sisältää seuraavia merkkejä: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">Tiedostoa ei ole olemassa</string>
+  <string name="finish_str">Valmis</string>
   <string name="folder_name_empty">Kansion nimi ei voi olla tyhjä</string>
   <string name="folder_name_illegal">Kansion nimi ei kelpaa</string>
+  <string name="follow_success_tip">Seurattiin onnistuneesti</string>
   <string name="follow_tip_1">Katso lisää videoita seuraamalla minua</string>
   <string name="follow_tip_2">Katso lisää videoita seuraamalla minua</string>
   <string name="force_touch_clean">Siivoa</string>
@@ -319,9 +326,12 @@
   <string name="move_icon_to_desktop_hint">Lisää Tiedostoselaimesta Kotinäytölle pikakuvake tiedostojen helpompaan hallintaa varten.</string>
   <string name="move_icon_to_desktop_success">Pikakuvake lisätty Kotinäytölle.</string>
   <string name="move_to">Siirrä kansioon…</string>
-  <string name="msg_notify_setting">Ilmoitus asetukset</string>
+  <string name="msg_notify_setting">Ilmoitusasetukset</string>
+  <string name="msg_page_video_default_title">Lähetin videon, katso!</string>
   <string name="msg_set_password">Aseta salasana ensin</string>
-  <string name="name_empty">Syötä nimesi.</string>
+  <string name="my_follows">Feedini</string>
+  <string name="name_empty">Sinun täytyy syöttää nimi.</string>
+  <string name="need_login">Kirjaudu ensin sisään</string>
   <string name="need_read_storage_permission">Tiedostoselain tarvitsee pääsyn laitteesi sisäiseen tallennustilaan toimiakseen normaalisti.</string>
   <string name="network_dialog_checkbox_tip">Älä näytä uudelleen</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
@@ -329,6 +339,7 @@
   <string name="network_spent_reminding_title">Datankäyttöilmoitus</string>
   <string name="new_comments">Uusia kommentteja</string>
   <string name="new_folder_name">Nimetön kansio</string>
+  <string name="next_time">Ei nyt</string>
   <string name="no">Ei</string>
   <string name="no_apk">Hanki sovelluksia napauttamalla</string>
   <string name="no_app_tags">Tyhjä</string>
@@ -345,6 +356,7 @@
   <string name="no_new_content_tip">Kaikki kohteet ovat ajantasalla</string>
   <string name="no_recent_files">Ei viimeaikaisia tiedostoja</string>
   <string name="no_topic">Ei otsikoita</string>
+  <string name="no_videos">Täällä ei ole mitään. Katso alla olevat!</string>
   <string name="no_wifi">Verkkoa ei havaittu</string>
   <string name="no_wifi_hint">Ei yhteyttä</string>
   <string name="not_installed_documentsui">DocumentsUI ei ole asennettu</string>
@@ -402,6 +414,7 @@
   <string name="operation_show_sys">Näytä piilotetut tiedostot</string>
   <string name="operation_unfavorite">Poista suosikeista</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_desc">Lähetä alkuperäisiä videoita tasaiseen tahtiin saadaksesi Luoja-statuksen</string>
   <string name="original_user_qq_group">Join Talent team QQ group</string>
   <string name="original_user_register">• %1$s liittyi yhteisöön</string>
   <string name="original_user_signal">Talent team</string>
@@ -477,8 +490,10 @@
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Viimeaikainen</string>
   <string name="recommend">Suositeltu</string>
+  <string name="recommend_popup_title">Suositukset</string>
   <string name="recommend_topic">Suositellut aiheet</string>
   <string name="recommend_user">Suositellut profiilit</string>
+  <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">Kiitos palautteestasi!</string>
   <string name="rename_alert">Jos vaihdat tämän tiedoston tiedostotunnisteen, et välttämättä voi avata sitä.</string>
   <string name="rename_alert2">Tiedosto piilotetaan.</string>
@@ -533,6 +548,8 @@
   <string name="search_title_hint">Etsi</string>
   <string name="select_dest_folder">Valitse kansio</string>
   <string name="select_image">Kuvat</string>
+  <string name="select_interest_str">Valitse otsikot, joista tykkäät</string>
+  <string name="select_interest_tip">On paljon nähtävää!</string>
   <string name="select_music">Äänitiedostot</string>
   <string name="select_video">Videotiedostot</string>
   <string name="select_volume">Valitse määrä</string>
@@ -568,6 +585,8 @@
   <string name="share_title_09">%s Jaoin videon, käy katsomassa!</string>
   <string name="share_title_1">Löysin siistin tarran!</string>
   <string name="share_to">Jaa…</string>
+  <string name="share_topic_desc">Lähetä videoita voittaaksesi palkintoja</string>
+  <string name="share_topic_title">Katson #%1$s#, katso sinäkin!"</string>
   <string name="share_youliao1">Päivitä ja katso lisää jaksoja.</string>
   <string name="share_youliao2">Päivitä ja katso lisää jaksoja.</string>
   <string name="share_youliao3">Päivitä ja katso lisää jaksoja.</string>
@@ -607,6 +626,7 @@
   <string name="tab_local">Paikallinen</string>
   <string name="tab_mine">Profiili</string>
   <string name="tab_more">Lisää</string>
+  <string name="tab_msg">Viestit</string>
   <string name="tab_newest_video">Uusi</string>
   <string name="tab_ranking_list">Rankinglista</string>
   <string name="tab_source">Sovellukset</string>
@@ -674,11 +694,13 @@
   <string name="used">Käytetty</string>
   <string name="user_cancel">Peruutettu</string>
   <string name="user_center_title">Koti</string>
+  <string name="user_desc_default_tip">Kirjaudu sisään kerääksesi pisteitä ja voittaaksesi palkintoja.</string>
   <string name="user_follow_me_title">Seuraajani</string>
   <string name="user_follow_title">Ihmiset, joita seuraan</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_guide_more_login">Muita tapoja kirjautua</string>
   <string name="user_icon">Profiilikuva</string>
+  <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">Muokkaa tietoa</string>
   <string name="user_like_text">Tykkäykset</string>
   <string name="user_liked_video_title">Tykkäämäni videot</string>
@@ -743,7 +765,8 @@
   <string name="video_play_failed">Tuntematon virhe</string>
   <string name="video_publish_hint">Hyvä kuvaus auttaa ihmisiä löytämään videosi</string>
   <string name="video_publish_hint2">Kuvaus</string>
-  <string name="video_publish_origin_tag">Alkuperäinen tagi</string>
+  <string name="video_publish_origin_tag">Alkuperäinen tägi</string>
+  <string name="video_publish_watchable_limit">Voit tehdä tämän kaksi kertaa joka päivä</string>
   <string name="video_publish_watchable_tag">Katso tämä video seuraamalla minua</string>
   <string name="video_recommend_upload">Suositeltu</string>
   <string name="video_status_reject">Hylätty</string>
@@ -787,6 +810,12 @@
   <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yes">Kyllä</string>
   <string name="yesterday">Eilen</string>
+  <string name="you_liao_god_desc">Upload videos regularly and expand your fan base to gain the Gentleman status</string>
+  <string name="you_liao_god_str">Gentleman</string>
+  <string name="you_liao_goddess_desc">Upload videos regularly and expand your fan base to gain the Lady status​</string>
+  <string name="you_liao_goddess_str">Lady</string>
+  <string name="you_liao_xunlei_desc">Sign a contract with us to gain the Host status</string>
+  <string name="you_liao_xunlei_str">Xunlei host</string>
   <string name="youliao_ad_msg">"Pidä hauskaa \"Youliao\" kanssa!
 Liity 170 miljoonaan Mi Faniin!"</string>
   <string name="youliao_ad_title">Suositut videot on päivitetty!</string>

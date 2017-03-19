@@ -182,6 +182,7 @@
   <string name="empty_title_residual">Jälkiä ei löytynyt</string>
   <string name="empty_title_video">Ei poistettavia videoita​</string>
   <string name="file">Tiedostot</string>
+  <string name="file_not_found">Tiedostoa ei löytynyt</string>
   <string name="flow_rank_title">Datan käyttö</string>
   <string name="function_app_lock_title">%d sovellusta sisältää yksityisyydensuojariskejä​</string>
   <string name="garbage_clean_detail">Tiedot</string>
@@ -525,6 +526,7 @@
   <string name="update_date_format">d.M.yyyy</string>
   <string name="virus_scan">Virus skanneri</string>
   <string name="vungle_ad_name">Vungle广告</string>
+  <string name="wechat_add_to_cleanlist">Puhdistettiin onnistuneesti</string>
   <string name="wechat_cache_files">WeChat välimuisti</string>
   <string name="wechat_chat_clean_done">Kaikki näyttää hyvältä</string>
   <string name="wechat_chat_data_type_cache">WeChat välimuisti</string>

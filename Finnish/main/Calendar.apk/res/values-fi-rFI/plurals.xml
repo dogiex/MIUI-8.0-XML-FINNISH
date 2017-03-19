@@ -32,8 +32,8 @@
         <item quantity="one">%1$d päivä sitten klo %2$s</item>
     </plurals>
     <plurals name="Ndays_after">
-        <item quantity="other">%1$d päivän jälkeen klo %2$s</item>
-        <item quantity="one">%1$d päivän jälkeen klo %2$s</item>
+        <item quantity="other">%1$d päivän kuluttua klo %2$s</item>
+        <item quantity="one">%1$d päivän kuluttua klo %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d viikkoa sitten</item>

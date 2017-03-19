@@ -1228,6 +1228,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="unknow_phone_number_mms_failed">Tuntemattomaan numeroon ei voi lähettää viestiä</string>
   <string name="unknown">Tuntematon</string>
   <string name="unknown_contact_name">Tuntematon yhteystieto</string>
+  <string name="update_sim_contact_photo_toast">SIM-yhteystiedoille ei voi asettaa kuvaa</string>
   <string name="upgrade_in_progress">Yhteystietoluetteloa päivitetään.</string>
   <string name="upgrade_out_of_memory">"Yhteystietoja päivitetään parasta aikaa. 
 
