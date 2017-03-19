@@ -257,6 +257,13 @@
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Palveluehdot</string>
+  <string name="keywords_search_code">Lukija;Lue;QR koodi;QR;Tunnistus;Viivakoodi;Viivakoodit;Tuote;Tuotteet;Alipay;WeChat;Kuinka luen QR koodin;Kuinka luen viivakoodin;Kuinka skannaan;MIUI Lukija</string>
+  <string name="keywords_search_document">Lukija;Lue asiakirja;Lue asiakirjoja;OCR;Lue tekstiä;Lue</string>
+  <string name="keywords_search_namecard">Lukija;Käyntikortti;Käyntikortit;Lue;Lue kortit;Kortti;Kortit;Yhteystiedot;Yhteystieto</string>
+  <string name="keywords_search_settings">Lukija;Lukijan verkkoasetukset</string>
+  <string name="keywords_search_shopping">Ostelu;Lukija;Lue tuotteita;Lue tuote;Tarkasta hinta;Tuotteet;Taobao;Tmall;Hinnat;Online ostelua</string>
+  <string name="keywords_search_study">Lukija;Ongelmat;Ratkaise ongelmia;Kotitehtävät;Koulu;Fysiikka;Kemia;Matematiikka;Matematiikat;Englanti;Historia;Kiina</string>
+  <string name="keywords_search_translation">Lukija;Käännä;Sanakirja;Englanti;Ulkomaan kieli;Kieli;Kielet;Englannista Kiinaksi;Italialainen;Saksalainen;Japanilainen;Korealainen;Espanjalainen;Ranskalainen;Baidu Kääntäjä;Youdao Sanakirja;Baidu Sanakirja;Google Kääntäjä</string>
   <string name="language_entry_chinese_cn">Yksinkertaistettu kiina</string>
   <string name="language_entry_chinese_tw">Perinteinen kiina</string>
   <string name="language_entry_danish">Tanska</string>
@@ -292,6 +299,7 @@
   <string name="not_recommend_access_web_url">Mene silti</string>
   <string name="not_tips">Älä näytä uudelleen</string>
   <string name="note">Huomautus:</string>
+  <string name="path_scanner_setting">Järjestelmäsovellukset/Lukija</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Puhelin:</string>

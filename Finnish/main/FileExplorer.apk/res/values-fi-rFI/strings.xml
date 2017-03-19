@@ -482,7 +482,7 @@
   <string name="private_toast_hint3">Näe piilotetut kansiot vetämällä alas</string>
   <string name="prize_result_tip">Vaihda</string>
   <string name="prize_result_tip2">Jalokivet menevät aarteihisi</string>
-  <string name="promot_enctypt_password">Syötä laitteesi salasana lukituksen tai Lapsi-tilan poistoa varten</string>
+  <string name="promot_enctypt_password">Syötä laitteesi lukituksen salasana</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">QQ ei ole asennettu</string>

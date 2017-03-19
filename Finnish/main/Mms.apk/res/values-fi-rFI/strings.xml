@@ -624,6 +624,7 @@
   <string name="title_show_sms_template">Tarkasta tekstiviesti vahvistuskoodeista</string>
   <string name="title_show_sms_template_in">Tarkasta tekstiviesti salasanoista</string>
   <string name="title_timed_message_dialog">Aseta ajastettu viesti</string>
+  <string name="title_use_gsm_alphabet">Käytä GSM aakkosia</string>
   <string name="to_address_label">"Vast.ott.: "</string>
   <string name="to_count">%d vastaanottajaa</string>
   <string name="to_label">"Vast.ott. "</string>

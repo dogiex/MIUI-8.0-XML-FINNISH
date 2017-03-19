@@ -916,6 +916,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="notification_exit_power_save_mode">Akun säästäjä sammutettiin</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
   <string name="notification_item">Suojaa valitut sovellukset Sovelluslukolla</string>
+  <string name="notification_quick_charging_title">Ladataan nopeasti</string>
   <string name="notification_subtitle">Ota käyttöön napauttamalla</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
   <string name="notification_sysapp_cracked_text">Nykyinen MIUI versio on muokattu</string>

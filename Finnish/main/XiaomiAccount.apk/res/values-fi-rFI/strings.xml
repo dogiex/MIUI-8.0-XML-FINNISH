@@ -124,10 +124,10 @@
   <string name="find_device_locked_account_email" formatted="false">%s, liitetty sähköpostiosoite: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, liitetty puhelinnumero: %s</string>
   <string name="find_device_null_credential_error">Laitteesta ei saada tietoja, ota yhteys Xiaomin asiakaspalveluun</string>
-  <string name="find_device_operation_failed_error">Tapahtui virhe</string>
+  <string name="find_device_operation_failed_error">Tapahtui palvelinvirhe, yritä myöhemmin uudelleen</string>
   <string name="find_device_operation_failed_error_unknown">Tapahtui virhe, yritä myöhemmin uudelleen</string>
   <string name="find_device_remote_exception">RPC virhe</string>
-  <string name="find_device_request_error">Tilatietojen pyyntö epäonnistui, yritä myöhemmin uudelleen</string>
+  <string name="find_device_request_error">Palvelinvirheen tilatietojen pyyntö epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="find_device_request_prepare_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="find_device_unknown_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
