@@ -121,6 +121,8 @@
   <string name="find_device_error_password_recently_changed">Olet muuttanut salasanasi kolmen päivän sisällä. Laitteen etsintää ei voi sammuttaa juuri nyt turvallisuussyistä.</string>
   <string name="find_device_interrupted">Toiminto keskeytyi, yritä myöhemmin uudelleen</string>
   <string name="find_device_io_error">Verkkoon ei saada yhteyttä</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, liitetty sähköpostiosoite: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, liitetty puhelinnumero: %s</string>
   <string name="find_device_null_credential_error">Laitteesta ei saada tietoja, ota yhteys Xiaomin asiakaspalveluun</string>
   <string name="find_device_operation_failed_error">Tapahtui virhe</string>
   <string name="find_device_operation_failed_error_unknown">Tapahtui virhe, yritä myöhemmin uudelleen</string>
@@ -154,8 +156,6 @@
   <string name="micloud_space_info">%s käytettävissä</string>
   <string name="mili_center">Mi Krediitit</string>
   <string name="mipay_center">Mi Lompakko</string>
-  <string name="miui_provision_find_status_text">"Tämä laite on liitettynä jo olemassa olevaan Mi Tiliin (%1$s), vahvista laite syöttämällä salasana.
-(Lukituksen avausnumero: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Näyttää siltä, että käytät Mi Tiliä Ensimmäisessä tilassa.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Tällaisessa tapauksessa kaikki tiedot synkronoidaan Toisen tilasi kanssa. Tämän välttämiseksi, älä ota Mi Pilven synkronointia käyttöön.</string>
   <string name="multi_user_not_show_sync_activity_title">Älä ota Mi Pilven synkronointia käyttöön</string>

@@ -14,7 +14,6 @@
   <string name="add_number_to_sender">Lisää numero lähettäjään %s</string>
   <string name="add_picture">Lisää kuva</string>
   <string name="add_private_contact">Lisää yksityinen yhteystieto</string>
-  <string name="add_redpackage">Punainen Paketti</string>
   <string name="add_slide">Lisää dia (jälkeen)</string>
   <string name="add_slide_before">Lisää intro dia</string>
   <string name="add_slide_hint">Lisää uusi dia koskettamalla</string>
@@ -477,7 +476,6 @@
   <string name="recipient_label">"Vastaanottaja: "</string>
   <string name="recipients_over_size">Liian monta vastaanottajaa.</string>
   <string name="recording_failed">Ei voi nauhoittaa</string>
-  <string name="red_package_btn">Avaa</string>
   <string name="refill_now">Top up nyt</string>
   <string name="refresh">Päivitä</string>
   <string name="refresh_failed">Päivitys epäonnistui</string>
@@ -583,7 +581,6 @@
   <string name="sms_report_success">Raportti lähetetty</string>
   <string name="snippet_audio">[ääni]</string>
   <string name="snippet_picture">[kuva]</string>
-  <string name="snippet_red_package">[Red Packet]</string>
   <string name="sp_category_all">Kaikki palveluviestit</string>
   <string name="sp_category_bank">Pankin ilmoitusviestit</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -623,9 +620,6 @@
   <string name="timed_message_to">vast.ott.</string>
   <string name="title_allow_network_access">Päivitä tieto automaattisesti</string>
   <string name="title_collapse_sp_messages">Ryhmitä ilmoitukset</string>
-  <string name="title_recv_red_package">Vastaanota Red Packet</string>
-  <string name="title_red_package">Olkoon menestyvä vuosi!</string>
-  <string name="title_send_red_package">Lähetä Red Packet</string>
   <string name="title_show_blocked_messages">Näytä estetyt tekstiviestit</string>
   <string name="title_show_sms_template">Tarkasta tekstiviesti vahvistuskoodeista</string>
   <string name="title_show_sms_template_in">Tarkasta tekstiviesti salasanoista</string>

@@ -172,6 +172,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_confusion_toast_confirm">Laite varmistettu</string>
   <string name="micloud_confusion_toast_deny">Kirjaudu Mi Tilillesi</string>
   <string name="micloud_confusion_yes">Kyllä</string>
+  <string name="micloud_detail_battery_low">Akku vähissä</string>
   <string name="micloud_detail_battery_low_message">Akun taso on vähissä. Lataa puhelimesi ja synkronoi.</string>
   <string name="micloud_detail_battery_low_title">Akun taso on vähissä</string>
   <string name="micloud_detail_depend_wifi_message">Yhdistä Wi-Fi-verkkoon tai tarkista synkronointiasetukset.</string>
@@ -182,9 +183,11 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_detail_force_sync">Synkronoi nyt</string>
   <string name="micloud_detail_lastest">Synkronoitu</string>
   <string name="micloud_detail_lastest_with_off">Synkronoitu</string>
-  <string name="micloud_detail_not_sync">%d odottaa synkronoimista</string>
+  <string name="micloud_detail_need_charge">Synkronointi vaatii latausta</string>
+  <string name="micloud_detail_not_sync">%d odottaa synkronointia</string>
   <string name="micloud_detail_not_synced">Ei synkronoitu</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Synkronointi pysäytetty</string>
   <string name="micloud_detail_pending">Odottaa</string>
   <string name="micloud_detail_preference_sync_items">Kohdetta</string>
   <string name="micloud_detail_query_error">Synkronoinnin edistymisestä ei saatu tietoa</string>
@@ -195,6 +198,10 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_detail_syncing">Synkronoidaan</string>
   <string name="micloud_detail_upload_syncing">Lähetetään %s</string>
   <string name="micloud_detail_wlan">%d odottaa synkronointia</string>
+  <string name="micloud_dialog_sync_now_message">Suosittelemm käyttämään Wi-Fiä</string>
+  <string name="micloud_dialog_sync_now_negative">Ei nyt</string>
+  <string name="micloud_dialog_sync_now_positive">Synkronoi</string>
+  <string name="micloud_dialog_sync_now_title">Synkronoi tiedot nyt</string>
   <string name="micloud_dspt">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen,</string>
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
   <string name="micloud_find_device_finish">Valmis</string>
@@ -232,6 +239,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_full_influence_title">Kun Mi Pilvesi on täynnä…</string>
   <string name="micloud_main_battery_low">Akun taso on liian alhainen synkronointia varten</string>
   <string name="micloud_main_battery_message">Yhdistä laitteesi virtalähteeseen synkronoidaksesi</string>
+  <string name="micloud_main_cancel_sync">Peruuta synkronointi</string>
   <string name="micloud_main_clear_now">Tyhjennä</string>
   <string name="micloud_main_detail">Näytä tiedot</string>
   <string name="micloud_main_last_sync_time">Viimeksi synkronoitu %s</string>
@@ -257,6 +265,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_suggest_sync">Kaikkea ei voitu synkronoida</string>
   <string name="micloud_main_sync_exception">Synkronointivirhe</string>
   <string name="micloud_main_sync_init">Haetaan tietoja</string>
+  <string name="micloud_main_sync_need_charge">Odotetaan laturia</string>
   <string name="micloud_main_sync_now">Synkronoi nyt</string>
   <string name="micloud_main_sync_on">Synkronointi käytössä</string>
   <string name="micloud_main_sync_on_wifi">Odotetaan Wi-Fi-yhteyttä</string>

@@ -1085,6 +1085,13 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="syncing_normal_title">Varmuuskopioidaan kuvia ja videoita</string>
   <string name="system_album">Järjestelmäalbumi</string>
   <string name="terabyteShort">Tt</string>
+  <string name="text_append">Teksti</string>
+  <string name="text_append_color">Väri</string>
+  <string name="text_append_font">Fontti</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Syötä teksti</string>
+  <string name="text_append_style">Kupla</string>
+  <string name="text_append_transparent">Läpinäkyvyys</string>
   <string name="tip_capture_location">Sijainti:</string>
   <string name="tip_capture_params">EXIF data:</string>
   <string name="tip_capture_time">Otettu:</string>

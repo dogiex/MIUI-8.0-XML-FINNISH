@@ -35,4 +35,8 @@
         <item quantity="other">%1$s viestiä</item>
         <item quantity="one">%1$s viesti</item>
     </plurals>
+	<plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d valittu</item>
+        <item quantity="zero">Valitse kohteet</item>
+    </plurals>
 </resources>
