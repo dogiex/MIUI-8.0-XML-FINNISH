@@ -2054,7 +2054,6 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Ääni (musiikki, soittoäänet, podcastit jne.)</string>
   <string name="memory_performance">Tehokkuus</string>
-  <string name="memory_rightvalue">Käytettävissä: %s</string>
   <string name="memory_settings_title">Muisti</string>
   <string name="memory_size">Tallennustilaa yhteensä</string>
   <string name="memory_title">Käytettävissä: %1$s Yhteensä: %2$s</string>
