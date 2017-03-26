@@ -476,7 +476,6 @@
   <string name="forward_attribution_no_headers">---------- Välitetty viesti ----------</string>
   <string name="forward_download_failed_ticker">Vähintään yhden liitteen välittäminen epäonnistui.</string>
   <string name="forward_download_failed_title">Liitettä ei välitetty</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="free_period_text">Koroton jakso</string>
   <string name="from_heading">Lähettäjä:</string>
   <string name="general_preference_confirm_delete_label">Vahvista ennen poistamista</string>

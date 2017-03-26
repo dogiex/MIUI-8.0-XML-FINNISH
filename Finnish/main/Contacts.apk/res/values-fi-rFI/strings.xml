@@ -1283,7 +1283,6 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
   <string name="yellowpage_fc_toast">Tätä toimintoa ei voida käyttää, koska hakemisto on kaatunut.</string>
-  <string name="yellowpage_mi_family">小米之家</string>
   <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_ad_hint">Mainos</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Saldoa ja mobiilidataa ei voitu tarkistaa, yritä uudelleen myöhemmin.</string>
