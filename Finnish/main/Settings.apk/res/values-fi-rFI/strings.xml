@@ -1862,7 +1862,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="lock_settings_picker_settings">Aseta näytön lukitus</string>
   <string name="lock_settings_picker_title">Valitse näytön lukitus</string>
   <string name="lock_settings_title">Laitteen suojaus</string>
-  <string name="lock_settings_with_fingerprint">Näytön lukitus &amp; salasana</string>
+  <string name="lock_settings_with_fingerprint">Lukitusnäyttö &amp; salasana</string>
   <string name="lock_setup">Asennus on valmis.</string>
   <string name="lock_sounds_enable_title">Näytön lukitusääni</string>
   <string name="lockpassword_cancel_label">Peruuta</string>
@@ -3004,7 +3004,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_local_auto_backup_section_title">Automaattinen varmuuskopiointi</string>
   <string name="search_local_backup_section_title">Varmuuskopiointi</string>
   <string name="search_location_settings_title">Sijainti</string>
-  <string name="search_lock_settings">Näytön lukitus &amp; salasana;Näytön lukitus ja salasana;Bluetooth avaus;salasana;Avaa Bluetooth laitteella</string>
+  <string name="search_lock_settings">Lukitusnäyttö &amp; salasana;Lukitusnäyttö ja salasana;Bluetooth avaus;salasana;Avaa Bluetooth laitteella</string>
   <string name="search_lock_sounds_enable_title">Näytön lukitusääni</string>
   <string name="search_manage_device_admin">Laitteen ylläpitäjät</string>
   <string name="search_manage_notification_access_title">Pääsy ilmoituksiin</string>
