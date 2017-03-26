@@ -29,7 +29,7 @@
   <string name="birthday_alarm">Syntymäpäivä herätys</string>
   <string name="birthday_alarm_summary">Soita \"Paljon onnea vaan\" syntymäpäivänäsi oletussoittoäänen sijasta</string>
   <string name="cancel">Peruuta</string>
-  <string name="close_alarm">Sulje herätys</string>
+  <string name="close_alarm">Sammuta</string>
   <string name="common_settings">Asetukset</string>
   <string name="confirm_abort">Hylkää</string>
   <string name="control_set_alarm">Aseta herätys</string>
@@ -114,8 +114,8 @@
   <string name="silent_alarm_summary">Äänetön</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Pois käytöstä kerran: %s</string>
-  <string name="slider_text">Hiljennä pyyhkäisemällä ylös</string>
-  <string name="snooze_confirm_cancel">Peruuta torkku</string>
+  <string name="slider_text">Sammuta pyyhkäisemällä ylös</string>
+  <string name="snooze_confirm_cancel">Hylkää herätys</string>
   <string name="snooze_duration_title">Torkun kesto</string>
   <string name="start">Aloita</string>
   <string name="start_up">Aloita</string>

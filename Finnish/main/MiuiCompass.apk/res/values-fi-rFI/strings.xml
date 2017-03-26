@@ -40,7 +40,7 @@
   <string name="location_enable_later">Myöhemmin</string>
   <string name="location_enabled">Voit poistaa sijaintipalvelun käytöstä milloin tahansa Asetuksista.</string>
   <string name="location_north">NL</string>
-  <string name="location_not_enabled_summary">Hakemisto tarvitsee sijaintitietosi toimiakseen normaalisti.</string>
+  <string name="location_not_enabled_summary">Kompassi tarvitsee pääsyn sijaintiisi näyttääkseen koordinaatit ja korkeuden.</string>
   <string name="location_not_enabled_title">Sijaintipalvelut</string>
   <string name="location_south">SL</string>
   <string name="location_west">WL</string>

@@ -451,7 +451,6 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="bind_xiaomi_account_confirm">Lisää</string>
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
   <string name="bind_xiaomi_account_success">Mi Tili lisätty onnistuneesti</string>
-  <string name="binded_xiaomi_summary">Nykyinen tili: %s</string>
   <string name="ble_scan_notify_text">Parantaakseen sijainnin tarkkuutta, järjestelmäsovellukset ja -palvelut voivat edelleen havaita Bluetooth-laitteita. Voit muuttaa tätä LINK_BEGINetsintäasetuksissaLINK_END.</string>
   <string name="block_list_connected_devices">Yhdistetyt laitteet</string>
   <string name="block_list_diaglog_cancle">Peruuta</string>
@@ -796,6 +795,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="clear_failed_dlg_title">Tyhjennä tiedot</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
   <string name="close_gesture">Sulje käyttäen elettä</string>
+  <string name="close_install_and_connect">Ei kiitos</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
@@ -837,6 +837,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="confirm_erase">Poista</string>
   <string name="confirm_fingerprint_icon_content_description">Jatka sormenjäljen avulla.</string>
   <string name="confirm_fingerprint_msg">Aseta sormesi tunnistimelle</string>
+  <string name="confirm_install_and_connect">Asenna &amp; yhdistä</string>
   <string name="confirm_new_backup_pw_prompt">Anna varmuuskopioinnin uusi salasana uudelleen</string>
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
@@ -1129,6 +1130,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disable_service_message">Kosketa OK, niin %1$s poistetaan käytöstä.</string>
   <string name="disable_service_title">Pysäytetäänkö %1$s?</string>
   <string name="disable_text">Poista käytöstä</string>
+  <string name="disable_wifi_master_key_service">Poista käytöstä</string>
   <string name="disabled">Ei käytössä</string>
   <string name="disabled_because_no_backup_security">Käytä asettamalla ensin näytön lukitus</string>
   <string name="disconnect">katkaise yhteys</string>
@@ -1277,6 +1279,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
   <string name="enable_text">Ota käyttöön</string>
   <string name="enable_wifi_display">Langaton näyttö</string>
+  <string name="enable_wifi_master_key_service">Ota Wi-Fi Master Key käyttöön</string>
   <string name="enalbe_identify_iPhone">Tukiaseman tunnistus</string>
   <string name="encrypt_dont_require_password">Ei kiitos</string>
   <string name="encrypt_dont_require_pattern">Ei kiitos</string>
@@ -1617,6 +1620,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="install_all_warning">Puhelimesi ja henkilötiedot ovat alttiimpia tuntemattomista lähteistä tulevien sovelluksien kautta tapahtuville hyökkäyksille. Hyväksyt, että olet itse vastuussa mahdollisista puhelimelle aiheutuvista vahingoista tai tietojen menetyksestä, joka voi johtua näiden sovelluksien käytöstä.</string>
   <string name="install_applications">Tuntemattomat lähteet</string>
   <string name="install_applications_title">Salli kaikki lähteet</string>
+  <string name="install_master_key_and_connect">Voit yhdistää tähän verkkoon käyttämällä Wi-Fi Master Key:tä. Asennetaanko tämä työkalu?</string>
   <string name="install_no_market_app_summary">Salli tuntemattomista lähteistä tulevien sovelluksien asentaminen.</string>
   <string name="install_no_market_app_title">Tuntemattomat lähteet</string>
   <string name="install_preinstall_app">Ladataan sovelluksia…</string>
@@ -2087,7 +2091,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="menu_stats_total">Käyttö yhteensä</string>
   <string name="menu_stats_unplugged">%1$s laturin irrottamisen jälkeen</string>
   <string name="menu_use_uss">Käytä USS-muistimääritystä</string>
-  <string name="mi_shopping_mall">Mi ostoskeskus</string>
+  <string name="mi_shopping_mall">Mi Kauppa</string>
   <string name="misc_files">Muut tiedostot</string>
   <string name="misc_files_selected_count">valittu %1$d/%2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s / %2$s</string>
@@ -2543,19 +2547,25 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="privacy_mode_enable_title">Vieras-tila</string>
   <string name="privacy_notes">Muistiinpanot</string>
   <string name="privacy_password">Yksityisyydensuojan salasana</string>
+  <string name="privacy_password_add_account">Lisää</string>
+  <string name="privacy_password_add_account_info">Lisää Mi Tili siltä varalta, että unohdat sen ja joudut palauttamaan salasanasi</string>
+  <string name="privacy_password_add_account_setting">Tili &amp; yksityisyys</string>
   <string name="privacy_password_bind_account">Lisää Mi Tili</string>
   <string name="privacy_password_bind_account_immediate">Lisää</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Vahvista Toisen tilan salasana</string>
   <string name="privacy_password_confirm_use_finger">Avaa lukitus sormenjäljellä</string>
   <string name="privacy_password_enter_privacy">Syötä Yksityisyydensuojan salasana</string>
+  <string name="privacy_password_exit_account_info">Tili poistetaan automaattisesti uloskirjautumisesi jälkeen</string>
   <string name="privacy_password_fingerprint_confirm_failed">Sormenjälkeä ei voitu vahvistaa</string>
   <string name="privacy_password_fingerprint_confirm_succes">Sormenjälki vahvistettu</string>
   <string name="privacy_password_fingerprint_dialog_error_title">Sormenjäljen luku epäonnistui, yritä uudelleen</string>
   <string name="privacy_password_fingerprint_dialog_message">Aseta sormesi lukijalle</string>
   <string name="privacy_password_fingerprint_dialog_title">Skannaa sormenjälkesi</string>
+  <string name="privacy_password_login_and_add_account">Kirjaudu &amp; lisää</string>
   <string name="privacy_password_never_remind">Älä kysy uudelleen</string>
+  <string name="privacy_password_not_add_account">Ei nyt</string>
+  <string name="privacy_password_not_login_account">Et ole kirjautunut</string>
   <string name="privacy_password_remind_bind_notlogin_account">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
-  <string name="privacy_password_remind_bindaccont_message">Lisää Mi Tilisi (%s), jotta voit palauttaa salasanasi, jos unohdat sen.</string>
   <string name="privacy_password_remind_bindaccount_title">Lisää Mi Tili</string>
   <string name="privacy_password_settings">Käytä Yksityisyydensuojan salasanaa</string>
   <string name="privacy_password_settings_titles">Yksityisyydensuojan salasana suojaa sinun viestit, kuvat, tiedostot, muistiinpanot ja sovellukset.</string>
@@ -2872,7 +2882,7 @@ Näytön kiinnityksen käyttö:
   <string name="screen_pinning_unlock_password">Pyydä salasana ennen irrotusta</string>
   <string name="screen_pinning_unlock_pattern">Pyydä lukituksenpoistokuviota ennen irrotusta</string>
   <string name="screen_pinning_unlock_pin">Pyydä PIN ennen irrotusta</string>
-  <string name="screen_recorder">Nauhoita näyttöä</string>
+  <string name="screen_recorder">Näytön nauhoitus</string>
   <string name="screen_resolution_confirm">Käynnistä uudelleen</string>
   <string name="screen_resolution_summary">Näytön resoluution pienentäminen saattaa lisätä akun kestoa ja järjestelmän suorituskykyä, mutta kuvanlaatu kärsii. Laitteesi pitää käynnistää uudelleen, jotta asetus tulee voimaan.</string>
   <string name="screen_resolution_switch">Vaihda resoluutiota</string>
@@ -3254,6 +3264,8 @@ Näytön kiinnityksen käyttö:
   <string name="show_touches">Näytä kosketukset</string>
   <string name="show_touches_summary">Näytä kosketukset visuaalisesti</string>
   <string name="show_user_info_on_lockscreen_label">Näytä käyttäjän tiedot Lukitusnäytöllä</string>
+  <string name="show_wifi_master_key_summary">Yhdistä jaettuihin Wi-Fi-verkkoihin käyttämällä Wi-Fi Master Key:tä</string>
+  <string name="show_wifi_master_key_title">Havaitse jaetut Wi-Fi-verkot</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">Etsi-laite toiminnon sammuttaminen epäonnistui. Varmista, että sinulla on internet-yhteys.</string>
   <string name="shut_down_find_device_network_failure_title">Verkkoon yhdistäminen epäonnistui</string>
@@ -3378,6 +3390,9 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
 
 Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="stable_build">" | Vakaa"</string>
+  <string name="standard_configuration_version_rear_camera">1300万像素</string>
+  <string name="standard_configuration_version_screen_resolution">1920 × 1080像素</string>
+  <string name="standard_configuration_version_screen_size">5英寸</string>
   <string name="starting_android">Androidia käynnistetään</string>
   <string name="status_awaiting_tap">Kirjoita napauttamalla tagia…</string>
   <string name="status_awake_time">Käytössäoloaika</string>
@@ -3644,6 +3659,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="system_alert_window_summary" formatted="false">%d/%d sovelluksella on oikeus piirtää muihin sovelluksiin.</string>
   <string name="system_and_device_section_title">Järjestelmä ja laite</string>
   <string name="system_app_settings">Järjestelmäsovellukset</string>
+  <string name="system_apps_updater">Järjestelmäsovelluksien päivittäjä</string>
   <string name="system_backup_section_title">Varmuuskopioi</string>
   <string name="system_package">Järjestelmäpäivityksiä ei voi asentaa ulkoiseen mediaan.</string>
   <string name="system_storage">Järjestelmän tallennusmedia</string>
@@ -3762,6 +3778,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="uninstall_dlg_msg">Poistaminen poistaa kaikki sovellustiedot.</string>
   <string name="uninstall_dlg_title">Poistetaanko nyt?</string>
   <string name="uninstall_text">Poista</string>
+  <string name="uninstall_wifi_master_key">Poista Wi-Fi Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Vastaavat kloonatut sovellukset poistetaan sovellustietojen mukana.</string>
   <string name="uninstall_xspace_app_dlg_msg">Kloonatun sovelluksen poistaminen poistaa myös kaikki sovellustiedot.</string>
   <string name="uninstall_xspace_app_dlg_title">Poistetaanko kloonattu sovellus?</string>
@@ -3884,6 +3901,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
   <string name="use_this_wlan">Käytä tätä Wi-Fi-yhteyttä</string>
+  <string name="use_wifi_master_key_summary">Yhdistä käyttämällä Wi-Fi Master Key:tä</string>
   <string name="user_account_title">Käytettävä tili</string>
   <string name="user_add_max_count">Voit lisätä korkeintaan %1$d käyttäjää.</string>
   <string name="user_add_on_lockscreen_menu">Lisää käyttäjiä lukitustilassa</string>
@@ -4261,6 +4279,12 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_ip_settings_menu_cancel">Peruuta</string>
   <string name="wifi_ip_settings_menu_save">Tallenna</string>
   <string name="wifi_limit_optimizations_summary">Rajoita Wi-Fin akun käyttöä</string>
+  <string name="wifi_master_key_dialog_content_master_key">Wi-Fi Master Key</string>
+  <string name="wifi_master_key_dialog_content_password">Salasana</string>
+  <string name="wifi_master_key_dialog_title">Yhdistä käyttäen</string>
+  <string name="wifi_master_key_name">Wi-Fi Master Key</string>
+  <string name="wifi_master_key_service_dialog_content">Wi-Fi Master Key on ilmainen palvelu, joka säätää jaettujen Wi-Fi-verkkojen salasanoja. Wi-Fi Master Key ei jaa verkkosi salasanoja.</string>
+  <string name="wifi_master_key_service_dialog_title">Jaetut Wi-Fi-verkot</string>
   <string name="wifi_menu_advanced">Lisäasetukset</string>
   <string name="wifi_menu_connect">Yhdistä verkkoon</string>
   <string name="wifi_menu_forget">Unohda verkko</string>
@@ -4516,6 +4540,9 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla "&lt;b&gt;Takaisin&lt;/b&gt;.</
   <string name="work_profile_confirm_remove_title">Poistetaanko työprofiili?</string>
   <string name="work_profile_usage_access_warning">Sovelluksen käyttöoikeuksien poistaminen ei estä järjestelmänvalvojaasi seuraamasta työprofiilisi sovellusten datan käyttöä.</string>
   <string name="work_sim_title">SIM-kortti (työ)</string>
+  <string name="work_space_delete">Poista työtila</string>
+  <string name="work_space_delete_confirm">Vahvista poistaminen</string>
+  <string name="work_space_delete_description">Poistamisen jälkeen et pääse enää Työtilaan. Kaikki tiedot siirretään tai poistetaan.</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Varmista, että reititin tukee ja on ottanut WPS:n käyttöön</string>
   <string name="wps_connect_title">WPS painike</string>

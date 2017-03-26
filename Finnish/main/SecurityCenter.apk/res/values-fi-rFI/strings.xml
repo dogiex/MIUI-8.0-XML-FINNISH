@@ -956,6 +956,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="optimize_result_ads_close_text">Mainos</string>
   <string name="optimize_result_button_cloudspace">Lisää pilven tallennustilaa</string>
   <string name="optimize_result_button_consume_power_analysis">Skannaa akku</string>
   <string name="optimize_result_button_cooldown_now">Viilennä</string>

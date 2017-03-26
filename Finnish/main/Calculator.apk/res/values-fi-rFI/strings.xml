@@ -223,7 +223,7 @@
   <string name="tax_thershold_native">%s (Native)</string>
   <string name="tax_threshold">Tax threshold</string>
   <string name="tax_unemployment">Työtön</string>
-  <string name="tax_update_time_format">Data in year %s</string>
+  <string name="tax_update_time_format">Tiedon tarjoaa HeXun (%s)</string>
   <string name="title_bar">长度单位转换</string>
   <string name="to_num">62.7</string>
   <string name="too_long_result">再玩就玩坏了</string>

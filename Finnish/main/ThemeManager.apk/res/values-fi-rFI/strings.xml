@@ -3,6 +3,8 @@
   <string name="account_info">Tilini</string>
   <string name="account_name_not_login">Kirjaudu sisään</string>
   <string name="account_unactivated">Tili ei ole aktivoitu</string>
+  <string name="ad_app_download_start">Aloitetaan latausta…</string>
+  <string name="ad_app_is_downloading">Ladataan…</string>
   <string name="add_resource_detail_fail">Lähdettä ei voi lisätä</string>
   <string name="all_resources">Kaikki</string>
   <string name="app_name">Teemat</string>
@@ -404,6 +406,7 @@
   <string name="title_system_audio_resource">Järjestelmän soittoäänet</string>
   <string name="title_system_wallpaper_resource">Järjestelmän taustakuvat</string>
   <string name="to_activate_the_account">Aktivoi Mi Tilisi nyt</string>
+  <string name="wallpaper_auto_change_title">Lukitusnäyttö</string>
   <string name="wallpaper_crop">Rajaa</string>
   <string name="wallpaper_decoded_error">Taustakuvan lataaminen epäonnistui</string>
   <string name="wallpaper_scroll_type_tips">Taustakuvan vierintä</string>
@@ -411,4 +414,8 @@
   <string name="wallpaper_set_as_destop">Aseta Kotinäytölle</string>
   <string name="wallpaper_set_as_lockscreen">Aseta Lukitusnäytölle</string>
   <string name="wallpaper_settings">Taustakuvan asetukset</string>
+  <string name="wallpaper_settings_change_wallpaper">Vaihda</string>
+  <string name="wallpaper_settings_desktop_text">Kotinäyttö</string>
+  <string name="wallpaper_settings_lockscreen_text">Lukitusnäyttö</string>
+  <string name="wallpaper_settings_page_title">Taustakuva</string>
 </resources>

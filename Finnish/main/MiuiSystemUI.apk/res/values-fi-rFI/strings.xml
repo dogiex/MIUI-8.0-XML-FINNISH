@@ -67,7 +67,7 @@
   <string name="battery_low_percent_format">%d%% jäljellä</string>
   <string name="battery_low_title">Yhdistä laturi</string>
   <string name="battery_profiles">Käytä akun profiileja</string>
-  <string name="block_notification_content_text">%1$s ei näytä ilmoituksia jatkossa. Voit vaihtaa tätä Asetuksissa.</string>
+  <string name="block_notification_content_text">Sovelluksen %1$s ilmoituksia ei näytetä uudelleen. Voit vaihtaa tätä Asetuksissa.</string>
   <string name="block_notification_text">Piilota</string>
   <string name="block_record_notification_more_text">Piilotetaan sovelluksien %1$s &amp; %2$d ilmoitukset.</string>
   <string name="block_record_notification_text">Piilotetaan %1$s ilmoitukset.</string>

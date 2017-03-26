@@ -161,6 +161,7 @@
   <string name="exceed_message_text_limitation">Viestin tekstin pituuden raja saavutettu.</string>
   <string name="expire_on">Vanhentuu: %s</string>
   <string name="exporting_progress_private_message">Viedään…</string>
+  <string name="fail_to_add_attachment">Liitettä ei voitu lisätä</string>
   <string name="failed_to_add_media">Et voi lisätä %1$s viestiisi.</string>
   <string name="failed_to_resize_image">Kuvan kokoa ei muokattu.</string>
   <string name="fake_cell_alert_hint">Näyttää siltä, että tämä viesti lähetettiin eri numerosta, miltä näyttää. Ole varovainen, jos viesti sisältää taloudellisten tietojen pyyntöjä.</string>

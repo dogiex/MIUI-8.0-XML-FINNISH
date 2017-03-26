@@ -464,8 +464,8 @@
   <string name="noon">ip.</string>
   <string name="note">Muistiinpano</string>
   <string name="organization">Yritys</string>
-  <string name="perm_payment_dspt">Salli sovelluksen suorittaa maksu, käyttäen Mi Maksu -palvelua</string>
-  <string name="perm_payment_lab">Mi Maksu</string>
+  <string name="perm_payment_dspt">Salli sovelluksen suorittaa maksu, käyttäen Mi Pay -palvelua</string>
+  <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">Sovellus voi lähettää tekstiviestejä ilman lupaasi. Operaattorisi saattaa veloittaa näistä viesteistä.</string>
   <string name="permlab_sendSmsNoConfirmation">Salli tekstiviestit taustalla</string>
   <string name="phone">Puhelin</string>
