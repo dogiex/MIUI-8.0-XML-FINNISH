@@ -2403,8 +2403,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="passwordIncorrect">Syöttämäsi salasana on väärä</string>
   <string name="password_entrance_title">Näytön lukitus</string>
   <string name="password_guard">Salasana</string>
-  <string name="password_turned_off_text">Salasana poistettiin käytöstä</string>
-  <string name="password_turned_on_text">Salasana otettiin käyttöön</string>
+  <string name="password_turned_off_text">Salasana ei ole käytössä</string>
+  <string name="password_turned_on_text">Salasana on käytössä</string>
   <string name="performance_category">Suorituskyky</string>
   <string name="permission_detail_info">Tiedot</string>
   <string name="permission_detail_info_summary">%1$d turvallisuus | %2$d yksityisyys | %3$d muuta</string>
