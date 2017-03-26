@@ -2888,7 +2888,7 @@ Näytön kiinnityksen käyttö:
   <string name="screen_resolution_switch">Vaihda resoluutiota</string>
   <string name="screen_resolution_title">Näytön resoluutio</string>
   <string name="screen_saturation">Saturaatio</string>
-  <string name="screen_timeout">Siirtyminen virransäästöön</string>
+  <string name="screen_timeout">Lepotila</string>
   <string name="screen_timeout_summary">Laitteen oltua käyttämättä: %1$s</string>
   <string name="screen_timeout_title">Näyttö sammuu</string>
   <string name="screensaver_settings_button">Asetukset</string>
