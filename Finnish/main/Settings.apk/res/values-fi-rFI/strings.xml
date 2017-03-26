@@ -4102,8 +4102,8 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vpn_no_selected">Select VPN</string>
   <string name="vpn_no_server_cert">(palvelimelta saatu)</string>
   <string name="vpn_not_used">(ei käytössä)</string>
-  <string name="vpn_off">Off</string>
-  <string name="vpn_on">On</string>
+  <string name="vpn_off">Ei käytössä</string>
+  <string name="vpn_on">Käytössä</string>
   <string name="vpn_password">Salasana</string>
   <string name="vpn_routes">Reititykset (esim. 10.0.0.0/8)</string>
   <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
