@@ -2800,7 +2800,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Käyttöoikeuksia ei ole pyydetty</string>
   <string name="save">Tallenna</string>
   <string name="saved_network">Tallentaja: %1$s</string>
-  <string name="saved_wifi">Hallitse Tallennetut verkot</string>
+  <string name="saved_wifi">Hallitse Tallennettuja verkkoja</string>
   <string name="saved_wifi_delete">Poista</string>
   <string name="scan_list_label">Haun tulokset:</string>
   <string name="screen">Näyttö</string>
@@ -4361,7 +4361,7 @@ Annetaanko tämä lupa kaikille sovelluksille, jotka haluavat etsiä verkkoja?"<
   <string name="wifi_setting_sleep_policy_error">Asetuksen vaihtaminen epäonnistui</string>
   <string name="wifi_setting_sleep_policy_title">Pidä Wi-Fi käytössä virransäästötilassa</string>
   <string name="wifi_settings">Wi-Fi</string>
-  <string name="wifi_settings_category">Wi-Fi-asetukset</string>
+  <string name="wifi_settings_category">Wi-Fi asetukset</string>
   <string name="wifi_settings_summary">Ota käyttöön ja hallinnoi langattoman yhteyden tukiasemia</string>
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_add_network">Lisää verkko</string>
@@ -4389,7 +4389,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla "&lt;b&gt;Takaisin&lt;/b&gt;.</
   <string name="wifi_setup_status_scanning">Haetaan verkkoja...</string>
   <string name="wifi_setup_status_select_network">Yhdistä verkkoon koskettamalla sitä</string>
   <string name="wifi_setup_status_unsecured_network">Yhdistä suojaamattomaan verkkoon</string>
-  <string name="wifi_setup_title">Wi-Fi-asetukset</string>
+  <string name="wifi_setup_title">Wi-Fi asetukset</string>
   <string name="wifi_setup_title_add_network">Lisää verkko</string>
   <string name="wifi_setup_title_connected_network">Yhdistetty Wi-Fi-verkkoon %s</string>
   <string name="wifi_setup_title_connecting_network">Yhdistetään Wi-Fi-verkkoon %s…</string>
