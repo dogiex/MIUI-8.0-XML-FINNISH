@@ -47,7 +47,7 @@
   <string name="album_detail_clear_local_page_empty">Poistettavia varmuuskopioituja kuvia tai videoita ei ole</string>
   <string name="album_detail_page_empty">Ei kuvia tai videoita</string>
   <string name="album_faces_name">Henkilöt</string>
-  <string name="album_from_format">Henkilöltä %s</string>
+  <string name="album_from_format">Sovelluksesta %s</string>
   <string name="album_member">Albumin jäsenet %s</string>
   <string name="album_name">Albumin nimi</string>
   <string name="album_others_share_baby_info_format">%s jakoi vauva albumin</string>
