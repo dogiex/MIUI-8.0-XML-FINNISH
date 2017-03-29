@@ -38,7 +38,6 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
 #####Tällä hetkellä työn alla:
 - Cit.apk
-- SecurityCoreAdd.apk
 
 #####Valmiina olevat paketit:
 - AntiSpam.apk
@@ -110,6 +109,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - QuickSearchBox.apk
 - SecurityAdd.apk
 - SecurityCenter.apk
+- SecurityCoreAdd.apk
 - Settings.apk
 - SettingsProvider.apk
 - Shell.apk
