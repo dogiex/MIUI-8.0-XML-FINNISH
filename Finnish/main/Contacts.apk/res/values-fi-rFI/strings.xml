@@ -114,7 +114,7 @@
   <string name="callrecordview_menu_delete_missed">Poista vastaamattomat puhelutiedot</string>
   <string name="callrecordview_menu_delete_new">Poista uusien yhteystietojen puheluhistoria</string>
   <string name="callrecordview_menu_delete_one">Poista puheluhistoriasta</string>
-  <string name="callrecordview_menu_delete_sim">Poista %s puheluhistoriat</string>
+  <string name="callrecordview_menu_delete_sim">Poista puheluhistoriat (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Poista tuntemattomat numerot</string>
   <string name="callrecordview_menu_edit_call_note">Muokkaa puhelumuistiota</string>
   <string name="callrecordview_menu_ip">Auto IP-soittaminen</string>
@@ -198,7 +198,7 @@
   <string name="contact_detail_action_item_calllog">Puheluloki</string>
   <string name="contact_detail_action_item_nocalllog">Ei Puhelulokia</string>
   <string name="contact_detail_calllog_call_note_tips">Muistiinpano</string>
-  <string name="contact_detail_calllog_call_record_tips">Nauhoita puhelu</string>
+  <string name="contact_detail_calllog_call_record_tips">Nauhoitettu puhelu</string>
   <string name="contact_detail_menu_delete_miprofile">Poista kortti</string>
   <string name="contact_detail_miprofile_accept">Vaihda yhteystietokortteja</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Yhteystietokortteja ei voitu vaihtaa</string>
@@ -362,7 +362,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_transfer_by_sim_message">"1. Tallenna toisen laitteesi yhteystiedot SIM-kortille;
         
 
-2. Mene \"Yhteystietojen asetuksiin\" -- \"Tuo/Vie yhteystietoja\" -- \"Tuo SIM-kortilta\", paina pitkään mitä tahansa SIM-kortin yhteystietoa ja valitse haluamasi tuotavat yhteystiedot, sen jälkeen paina \"Tuo\" valintaa."</string>
+2. Avaa asetukset Yhteystiedot-sovelluksessa ja mene sen jälkeen \"Tuo/Vie yhteystietoja\" -- \"Tuo SIM-kortilta\", paina pitkään mitä tahansa SIM-kortin yhteystietoa valitaksesi sen, valitse haluamasi yhteystiedot, ja sen jälkeen napauta \"Tuo\" valintaa."</string>
   <string name="device_version_header_bluetooth">Tuo käyttäen Bluetoothia</string>
   <string name="device_version_header_no_bluetooth">Tuo käyttäen SIM-korttia</string>
   <string name="dial">Soita</string>
@@ -604,11 +604,11 @@ Syy: %s"</string>
   <string name="list_filter_customize">Muokkaa</string>
   <string name="list_filter_phones">Kaikki kontaktit, joilla on puhelinnumero</string>
   <string name="list_filter_single">Yhteystieto</string>
-  <string name="live_talk_switch_on_toast">Live talk on käytössä</string>
-  <string name="livetalk_charge">Lataa</string>
-  <string name="livetalk_left">Jäljellä oleva livetalk</string>
+  <string name="live_talk_switch_on_toast">Top-up paketti otettiin käyttöön onnistuneesti</string>
+  <string name="livetalk_charge">Top up</string>
+  <string name="livetalk_left">Jäljellä</string>
   <string name="livetalk_switch_on">Ota käytöön</string>
-  <string name="livetalk_title">Live talk</string>
+  <string name="livetalk_title">Top-up paketti</string>
   <string name="loading_accounts">Odota hetki…</string>
   <string name="loading_group_members">Ladataan ryhmän jäseniä…</string>
   <string name="loading_groups">Ladataan ryhmiä…</string>

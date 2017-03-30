@@ -42,7 +42,7 @@
   <string name="alert_reminder_expired">Vanhentunut</string>
   <string name="alert_title">Kalenteri-ilmoitukset</string>
   <string name="anniversary_card_title">Vuosipäivä</string>
-  <string name="anniversary_event_title">[Vuosipäivä] %1$s</string>
+  <string name="anniversary_event_title">Vuosipäivä: %1$s</string>
   <string name="app_label">Kalenteri</string>
   <string name="attendees_label">Osallistujat</string>
   <string name="birthday_calendar_display_name">Syntymäpäivän muistutus</string>
@@ -74,7 +74,7 @@
   <string name="button_week">Viikko</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Päivitä</string>
-  <string name="can_not_create_long_event">Tapahtuman sisältö on liian pitkä</string>
+  <string name="can_not_create_long_event">Tapahtuman nimi on liian pitkä</string>
   <string name="can_not_modify_allday_event">Koko päivän tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_event">Tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Monen päivän tapahtumaa ei voida muokata</string>
@@ -86,10 +86,10 @@
   <string name="chongsha">冲煞</string>
   <string name="copy_email">Kopioi sähköpostiosoite</string>
   <string name="copy_number">Kopioi puhelinnumero</string>
-  <string name="countdown_card_title">Lähtölaskennan Päivät</string>
-  <string name="countdown_event_title">[Lähtölaskenta] %1$s</string>
-  <string name="countdown_notify_before_3_day_title">[Lähtölaskenta] %1$s 3 päivän kuluttua</string>
-  <string name="countdown_notify_title">[Lähtölaskenta] %1$s</string>
+  <string name="countdown_card_title">Lähtölaskenta</string>
+  <string name="countdown_event_title">Lähtölaskenta: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Lähtölaskenta: %1$s 3 päivän kuluttua</string>
+  <string name="countdown_notify_title">Lähtölaskenta: %1$s</string>
   <string name="countdown_today">Tänään</string>
   <string name="create_an_account_desc">"Kalenteri toimii paremmin Mi-tilin kanssa.
 
@@ -142,8 +142,8 @@
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="dropdown_delete_button_desc">Poista %s vastaanottajista</string>
   <string name="edit_event_all_day_label">Koko päivä</string>
-  <string name="edit_event_anniversary_name_empty_hint">Syötä vuosipäivä</string>
-  <string name="edit_event_anniversary_name_hint">Sisältö</string>
+  <string name="edit_event_anniversary_name_empty_hint">Syötä tapahtuman nimi</string>
+  <string name="edit_event_anniversary_name_hint">Tapahtuma</string>
   <string name="edit_event_birthday_import_from_contact">Tuo syntymäpäivä yhteystiedoista</string>
   <string name="edit_event_birthday_name_empty_hint">Syötä nimi</string>
   <string name="edit_event_birthday_name_hint">Nimi</string>
@@ -151,8 +151,8 @@
   <string name="edit_event_calendar_label">Kalenteri</string>
   <string name="edit_event_choose_date">Valitse päivämäärä</string>
   <string name="edit_event_confirm_message">Hylätäänkö muutokset?</string>
-  <string name="edit_event_countdown_name_empty_hint">Syötä lähtölaskennan sisältö</string>
-  <string name="edit_event_countdown_name_hint">Sisältö</string>
+  <string name="edit_event_countdown_name_empty_hint">Syötä tapahtuman nimi</string>
+  <string name="edit_event_countdown_name_hint">Tapahtuma</string>
   <string name="edit_event_from_label">Alkaa</string>
   <string name="edit_event_input_year">Syötä vuosi</string>
   <string name="edit_event_label">Tiedot</string>

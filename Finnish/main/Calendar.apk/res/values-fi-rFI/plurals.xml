@@ -48,12 +48,12 @@
         <item quantity="one">1 viikko sitten</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
-        <item quantity="other">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s</item>
-        <item quantity="one">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s</item>
+        <item quantity="other">Vuosipäivä: %2$d vuotta, vuodesta %1$s</item>
+        <item quantity="one">Vuosipäivä: %2$d vuosi, vuodesta %1$s</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s 3 päivän kuluttua</item>
-        <item quantity="one">[Vuosipäivä] %2$d vuoden vuosipäivä %1$s 3 päivän kuluttua</item>
+        <item quantity="other">Vuosipäivä: 3 päivän kuluttua %2$d vuotta, vuodesta %1$s</item>
+        <item quantity="one">Vuosipäivä: 3 päivän kuluttua %2$d vuosi, vuodesta %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">vuotta</item>
