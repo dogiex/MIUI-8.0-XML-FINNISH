@@ -87,7 +87,8 @@
   <string name="badPin2">Virheellinen vanha PIN2-koodi. Yritä uudelleen.</string>
   <string name="badPuk2">Virheellinen PUK2-koodi. Yritä uudelleen.</string>
   <string name="bad_pin">Syöttämäsi PIN-koodi on virheellinen.</string>
-  <string name="bad_pin2">Syöttämäsi vanha PIN2-koodi on virheellinen.</string>
+  <string name="bad_pin2">Syöttämäsi PIN2-koodi on virheellinen.</string>
+  <string name="bad_pin2_old">Syöttämäsi vanha PIN2-koodi on virheellinen.</string>
   <string name="bad_puk">Syöttämäsi PUK-koodi on virheellinen.</string>
   <string name="bad_puk2">Syöttämäsi PUK2-koodi on virheellinen.</string>
   <string name="bf_news_settings">Talous- ja yritysuutiset</string>

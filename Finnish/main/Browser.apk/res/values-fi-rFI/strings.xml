@@ -315,8 +315,8 @@
   <string name="geolocation_permissions_prompt_message">%s haluaa käyttää sijaintitietojasi</string>
   <string name="geolocation_permissions_prompt_remember">Muista valinta</string>
   <string name="geolocation_permissions_prompt_share">Jaa sijaintitiedot</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Tämä sivusto voi käyttää sijaintiasi. Vaihda asetus kohdassa Asetukset &gt; Lisäasetukset &gt; Verkkosivuston asetukset.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Tämä sivusto ei voi käyttää sijaintiasi. Vaihda asetus kohdassa Asetukset &gt; Lisäasetukset &gt; Verkkosivuston asetukset.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Tämä sivusto voi käyttää sijaintitietoasi. Voit vaihtaa tämän Asetuksissa.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Tämä sivusto ei voi käyttää sijaintitietoasi.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Peruuta</string>
   <string name="geolocation_settings_page_dialog_message">Poistetaanko sijaintitietojen käyttöoikeus tältä sivustolta?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -328,7 +328,7 @@
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Lisätty Kotinäytölle</string>
   <string name="hint">Vihje</string>
-  <string name="history_saved_webpage">Tallenna sivu</string>
+  <string name="history_saved_webpage">Tallennetut sivut</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Poista</string>
   <string name="homepage_get_location">Hae sijainti</string>
@@ -531,7 +531,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_extras_title_version">Version tiedot</string>
   <string name="pref_file_download_save_title">Lataukset</string>
   <string name="pref_fling_on_border">Pyyhkäise reunalta</string>
-  <string name="pref_fling_on_border_title_summary">Pyyhkäise näyttöä vasemmasta tai oikeasta reunasta</string>
+  <string name="pref_fling_on_border_title_summary">Pyyhkäise vasemmasta tai oikeasta reunasta</string>
   <string name="pref_font_size_category">Tekstin koko</string>
   <string name="pref_force_userscalable">Ota skaalaus käyttöön</string>
   <string name="pref_force_userscalable_summary">Ohita sivuston skaalauksenhallintapyyntö</string>
