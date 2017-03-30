@@ -1059,10 +1059,11 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="set_face_group_toast_title_old_user">Henkilöt voidaan järjestää ryhmiin</string>
   <string name="set_face_image">Aseta uusi profiilikuva</string>
   <string name="set_group">Aseta ryhmä</string>
+  <string name="set_wallpaper_get_image_failed">Kuvaa ei voitu ladata, yritä myöhemmin uudelleen</string>
   <string name="share">Jaa</string>
   <string name="share_album">Jaa albumi</string>
   <string name="share_album_needs_auto_upload_tip">Jaettujen albumeiden varmuuskopiointia ei voi poistaa käytöstä</string>
-  <string name="share_app_is_launching">{0,valinta,0#Käynnistetään sovellusta…|1#%s käynnistyy…}</string>
+  <string name="share_app_is_launching">{0,choice,0#Käynnistetään sovellusta…|1#%s käynnistyy…}</string>
   <string name="share_by_email_start">Jaa %1$s taustalla</string>
   <string name="share_by_email_successfully">Jaettiin %1$s</string>
   <string name="share_public_url_text">Jaoin %1$s albumin kanssasi. Katso se täältä %2$s</string>

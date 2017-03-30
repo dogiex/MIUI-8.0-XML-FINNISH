@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">Tälle toiminnolle ei löytynyt sovellusta</string>
+  <string name="back_to_message_list">Takaisin viestiluetteloon</string>
+  <string name="confirm_delete_all_conversations">Poistetaanko kaikki keskustelut?</string>
+  <string name="confirm_delete_conversation">Poistetaanko tämä koko palsta?</string>
+  <string name="confirm_delete_group_message">Poistetaanko ryhmäviestit?</string>
+  <string name="confirm_delete_locked_message">Poistetaanko tämä lukittu viesti?</string>
+  <string name="confirm_delete_message">Poistetaanko tämä viesti?</string>
+  <string name="confirm_dialog_locked_title">Poistetaanko lukittu viesti?</string>
+  <string name="confirm_dialog_title">Poistetaanko?</string>
+  <string name="copy_message_text">Kopioi</string>
+  <string name="copy_message_text_success">Kopioitiin onnistuneesti</string>
+  <string name="delete">Poista</string>
+  <string name="delete_message">Poista</string>
+  <string name="from_label">"Lähettäjä: "</string>
+  <string name="menu_forward">Välitä</string>
+  <string name="menu_lock">Suosikki</string>
+  <string name="menu_unlock">Poista suosikeista</string>
+  <string name="message_details_title">Viestin tiedot</string>
+  <string name="message_type_label">"Tyyppi: "</string>
+  <string name="messaging">Viestit</string>
+  <string name="received_label">"Vastaanotettu: "</string>
+  <string name="repayment_network_error">Verkossasi meni jotain pieleen</string>
+  <string name="repayment_title">Takaisinmaksu</string>
+  <string name="repayment_way">Takaisinmaksun tapa</string>
+  <string name="sent_label">"Lähetetty: "</string>
+  <string name="smart_messages_network_allow_message">Mi Viesti tarvitsee yhteyden internettiin, jotta sen palvelut toimivat normaalisti. Sallitaanko nyt?</string>
+  <string name="smart_messages_network_allow_title">Internet-yhteys vaaditaan</string>
+  <string name="sms_card_partner_label">"Tekstiviesti-kortin kumppani: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Tekstiviesti</string>
+  <string name="view_message_details">Näytä tiedot</string>
+</resources>
