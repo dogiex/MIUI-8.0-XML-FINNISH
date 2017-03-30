@@ -44,8 +44,8 @@
         <item quantity="one">%1$d päivän kuluttua klo %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d viikkoa sitten</item>
-        <item quantity="one">1 viikko sitten</item>
+        <item quantity="other">%d viikkoa ennen</item>
+        <item quantity="one">1 viikko ennen</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
         <item quantity="other">Vuosipäivä: %2$d vuotta, vuodesta %1$s</item>
