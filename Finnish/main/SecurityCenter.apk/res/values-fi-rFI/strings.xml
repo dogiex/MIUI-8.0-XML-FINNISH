@@ -300,6 +300,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="business_lucky_warning">企业红包</string>
   <string name="button_get_lucky">"小米钱包
 双11脱单活动"</string>
+  <string name="button_look_up">Näytä napauttamalla</string>
   <string name="button_lucky_news">红包攻略</string>
   <string name="button_open">立即开启</string>
   <string name="button_text_accept">Hyväksy</string>
@@ -371,10 +372,18 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="card_main_xspace_action">Luo</string>
   <string name="card_main_xspace_summary">Käytä kahta tiliä millä tahansa sovelluksella</string>
   <string name="card_main_xspace_title">Kloonatut sovellukset</string>
-  <string name="celcius_symbol">℃</string>
+  <string name="card_sms_report">Ilmoita käyttämällä tekstiviestiä</string>
+  <string name="card_tc_failed">Kalibrointi epäonnistui</string>
+  <string name="card_tc_failed_content">"Mahdolliset syyt:
+ 1. Operaattorit vastaavat hitaammin kuun alussa jo loppupuolella. Yritä uudelleen muutaman päivän kuluttua.
+ 2. Verkkopyynnön mallipohja tarvitaan, kun kalibroit ensimmäisen kerran. Yhdistä verkkoon ja yritä uudelleen.
+ 3. Operaattorisi ei välttämättä tue jäljellä olevan datan määrän ja saldon lähettämistä tekstiviestitse. Ota yhteyttä operaattoriisi lisätietoja varten.
+ 4. Operaattorin datassa saattaa olla virhe. Kokeile operaattorin diagnostiikkaa ratkaistaksesi tämän.
+ 5. Eikö mikään näytä auttavan? Napauta \"Ilmoita käyttämällä tekstiviestiä\" lähettääksesi palautteen Xiaomi:lle tekstiviestinä."</string>
+  <string name="celcius_symbol">°C</string>
   <string name="charging_text_battery_full_time">"Edellinen lataus "</string>
-  <string name="charging_text_battery_nearly_full">Lähes täyteen ladattu</string>
-  <string name="charging_text_battery_perfect">Täyteen ladattu</string>
+  <string name="charging_text_battery_nearly_full">Ladattu lähes täyteen</string>
+  <string name="charging_text_battery_perfect">Ladattu täyteen</string>
   <string name="charging_text_time_calculating">Lasketaan latausaikaa…</string>
   <string name="check_network_state">Testaa verkko</string>
   <string name="choose">Valitse</string>
@@ -415,6 +424,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="cta_dialog_title">Internet-yhteys</string>
   <string name="cta_settings">Salli internet-yhteys</string>
   <string name="current_network_state_not_need_diagnose">Internet-yhteys on normaali.</string>
+  <string name="customize_limit_pkg">%s (mukautettu)</string>
   <string name="daily_limit_and_lock_screen">Datan raja ja ilmoitukset</string>
   <string name="daily_limit_network_available_body">Näytä datan käytön tilastot napauttamalla.</string>
   <string name="daily_limit_over_message">Olet ylittänyt päivittäisen datan käytön rajan.</string>
@@ -436,7 +446,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="data_usage_restricted_body">Ota datan taustatyöskentely käyttöön napauttamalla.</string>
   <string name="data_usage_restricted_title">Datan taustatyöskentely rajoitettu</string>
   <string name="data_usage_warning_body">Näytä datan käytön tiedot napauttamalla.</string>
+  <string name="data_usage_warning_body_notify">Näytä tiedot napauttamalla</string>
   <string name="data_usage_warning_title">Datan käyttövaroitus</string>
+  <string name="data_usage_warning_title_notify">Menit datan rajasi yli</string>
   <string name="datausage_ignore_app_list_count">%d sovelluksen datan käyttöä ei huomioida</string>
   <string name="declaration_dialog_msg">Tämä toiminto auttaa seuraamaan käyttöäsi, mutta ei takaa, että estäisi ylimääräisiltä maksuilta. Parhaan tuloksen saamiseksi, aseta varovainen raja.</string>
   <string name="deep_clean_disconnect_data_title">Poista mobiilidata käytöstä, kun laite lukitaan</string>
@@ -529,14 +541,16 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="fingerprint_verify_succeed">Sormenjälki todennettu</string>
   <string name="fingerprint_verify_try_agin">Sormenjäljen skannaus epäonnistui, yritä uudelleen</string>
   <string name="firewall_activity_lable">Rajoita sovelluksen datankäyttöä</string>
+  <string name="firewall_allow_network">Sallittu</string>
   <string name="firewall_applist">Sovellukset</string>
   <string name="firewall_fragment_nonesys_listempty">Tyhjä</string>
   <string name="firewall_fragment_sys_listempty">Tyhjä</string>
   <string name="firewall_fragment_tab_title_nonsys">Asennettu</string>
   <string name="firewall_fragment_tab_title_sys">Järjestelmä</string>
+  <string name="firewall_network_allow">Sallittiin %1$s käyttää %2$s yhteyttä</string>
   <string name="firewall_network_restrict_notify_message">Muuta asetuksia napauttamalla.</string>
   <string name="firewall_network_restrict_notify_mobile">mobiilidata</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s ei voi käyttää %2$s"</string>
+  <string name="firewall_network_restrict_notify_title">%1$s ei voi käyttää verkkoa</string>
   <string name="firewall_restrict_android_dialog_content">Jotta laitteesi toimii normaalisti, muutama Androidin järjestelmäsovellus on yhteydessä silti internettiin. Nämä sovellukset käyttävät mobiilidatayhteyttäsi ja saattaa lisätä operaattorimaksuja.</string>
   <string name="firewall_restrict_android_dialog_title">Huomio</string>
   <string name="firewall_rule_group_title_mobile">Mobiili</string>
@@ -567,6 +581,13 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="go_to_setting_fingerprint">Asetukset</string>
   <string name="goto_set">Aseta</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
+  <string name="guide_get_operator_error">Väärä operaattori?</string>
+  <string name="guide_operator_text">"Nykyinen operaattorisi: "</string>
+  <string name="guide_primary_text">"Ota Verkkoavustaja käyttöön
+hallitaksesi mobiilidatan käyttöäsi"</string>
+  <string name="guide_quck_open">Ota käyttöön</string>
+  <string name="guide_second_text">Operaattorisi valinnan jälkeen, MIUI seuraa mobiilidatan käyttöäsi päivittäin lähettämällä ilmaisen operaattoritekstiviestin. MIUI:n huomatessa, että olet ylittänyt rajasi, se ilmoittaa siitä ja katkaisee sinut verkosta automaattisesti."</string>
+  <string name="guide_wait_setting">Ei nyt</string>
   <string name="handle_bar_summary_wifi_unknown">Tuntematon</string>
   <string name="handle_bar_title_apps">Sovellukset</string>
   <string name="handle_bar_title_paysms">Viestit</string>
@@ -644,7 +665,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="installing">Asennetaan</string>
   <string name="international_roaming_setting">Ulkomaan roaming</string>
   <string name="international_roaming_whitelist_count">%d sovellusta voi käyttää mobiilidataa roaming-tilassa</string>
-  <string name="ip_address_exception_summary">IP-osoitetta ei saatu. Jos törmäät ongelmaan uudelleen, kokeile asettaa kiinteä IP-osoite.</string>
+  <string name="ip_address_exception_summary">IP-osoitetta ei saatu. Jos törmäät tähän ongelmaan uudelleen, kokeile asettaa kiinteä IP-osoite.</string>
   <string name="item_app_permission">Sovelluksen käyttöoikeudet</string>
   <string name="item_dev_mode">Kehittäjäasetukset</string>
   <string name="item_install_monitor">Asennuksen valvonta</string>
@@ -690,6 +711,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="legal_workday_invalidate">Ma-Pe (juhlapyhän tiedot vanhentunut)</string>
   <string name="legal_workday_invalidate_message">Päivitä julkisten juhlapyhien tiedot napauttamalla.</string>
   <string name="legal_workday_message">(Ohita juhlapyhät)</string>
+  <string name="leisure_usage_dialog_message">"Olet saavuttanut hiljaisen-ajan datan rajasi.
+
+Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uudelleen."</string>
+  <string name="leisure_usage_dialog_title">Menit yli hiljaisen-ajan datan rajan, datayhteys ei käytössä</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="load_fail">Lataaminen epäonnistui</string>
   <string name="load_only_under_wlan">Lataa vain Wi-Fi-yhteydellä</string>
@@ -764,13 +789,16 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="main_alert_message_no_imsi">SIM-korttia ei havaittu</string>
   <string name="main_alert_message_no_mobile_package">Aseta datan raja</string>
   <string name="main_alert_message_open_traffic_ctrl">Suosittelemme datan käytön rajoittamista</string>
-  <string name="main_button_idel_traffic">Hiljainen aika</string>
-  <string name="main_button_normal_traffic">Huippu</string>
+  <string name="main_bill_remained">Puhelimen saldo</string>
   <string name="main_button_usage_adjust">Synkronoi mobiilidatan käyttö</string>
   <string name="main_button_usage_adjust_manual">Aseta datan käytön raja</string>
   <string name="main_button_usage_adjusting">Vaihdetaan…</string>
   <string name="main_button_usage_package_setting">Aseta datan käytön raja</string>
-  <string name="main_message_no_package_by_dual">Aseta datan raja kohteelle %s</string>
+  <string name="main_leisure_remained">Hiljaisen ajan dataa jäljellä</string>
+  <string name="main_month_total_used">Käytetty tässä kuussa</string>
+  <string name="main_month_used">Käytetty tässä kuussa</string>
+  <string name="main_no_info">Ei dataa</string>
+  <string name="main_normal_data_usage">Käytetty mobiilidata</string>
   <string name="main_open_traffic_ctrl_button">Rajoita datan käyttöä</string>
   <string name="main_primary_message_traffic_cur_leisure">Hiljaisen ajan datan käyttö</string>
   <string name="main_primary_message_traffic_cur_normal">Alle huippu datan rajan</string>
@@ -1060,7 +1088,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_btn_analyze">Analysoi akun käyttö</string>
   <string name="power_cell">Solu lepotilassa</string>
   <string name="power_center_auto_shutdown">Ajasta käynnistäminen/sammuttaminen</string>
-  <string name="power_center_battery_full">"Akku täyteen ladattu "</string>
+  <string name="power_center_battery_full">"Akku ladattu täyteen "</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
   <string name="power_center_consume_rank">Akun käyttö</string>
   <string name="power_center_consume_time">%1$s jäljellä</string>

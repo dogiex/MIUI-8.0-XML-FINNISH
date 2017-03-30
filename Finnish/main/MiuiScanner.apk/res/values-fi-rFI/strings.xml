@@ -281,6 +281,7 @@
   <string name="language_entry_russian">Venäjä</string>
   <string name="language_entry_spanish">Espanja</string>
   <string name="language_entry_swedish">Ruotsi</string>
+  <string name="low_version_tip">Lukija ei voi käynnistyä nykyisellä järjestelmällä, päivitä uusimpaan MIUI versioon</string>
   <string name="module_title_code">QR-koodi</string>
   <string name="module_title_document">Asiakirja</string>
   <string name="module_title_namecard">Käyntikortti</string>

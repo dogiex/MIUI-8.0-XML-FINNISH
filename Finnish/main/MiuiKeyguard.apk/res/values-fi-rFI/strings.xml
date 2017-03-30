@@ -71,6 +71,7 @@ Kirjaudu sisään osoitteeseen i.mi.com, mene “Etsi laite (Find device)”, va
   <string name="unlock_string">Avaa</string>
   <string name="unlocking_sim_card">Avataan SIM-korttia</string>
   <string name="unlockscreen_low_battery">Yhdistä laturi nyt</string>
+  <string name="unlockscreen_quick_charging_message">Nopea lataaminen %d%%</string>
   <string name="unlockscreen_recharge_completed">Akku ladattu</string>
   <string name="unlockscreen_recharging_message">Ladataan %d%%</string>
   <string name="wrong_password">Väärä salasana</string>
