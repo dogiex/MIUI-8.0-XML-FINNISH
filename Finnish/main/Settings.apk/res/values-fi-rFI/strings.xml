@@ -1102,6 +1102,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_name">Laitteen nimi</string>
   <string name="device_name_input_error">Laitteen nimeä ei voitu tallentaa</string>
   <string name="device_name_input_hint">Syötä nimi</string>
+  <string name="device_name_input_overlength">Nimi liian pitkä</string>
   <string name="device_name_usage_point">Muut lähellä olevat laitteet näkevät tämän nimen.</string>
   <string name="device_picker">Valitse Bluetooth-laite</string>
   <string name="device_rear_camera">Takakamera</string>
@@ -1131,6 +1132,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disable_service_title">Pysäytetäänkö %1$s?</string>
   <string name="disable_text">Poista käytöstä</string>
   <string name="disable_wifi_master_key_service">Poista käytöstä</string>
+  <string name="disable_wifi_master_key_service_first">Poista käytöstä</string>
   <string name="disabled">Ei käytössä</string>
   <string name="disabled_because_no_backup_security">Käytä asettamalla ensin näytön lukitus</string>
   <string name="disconnect">katkaise yhteys</string>
@@ -1280,6 +1282,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_text">Ota käyttöön</string>
   <string name="enable_wifi_display">Langaton näyttö</string>
   <string name="enable_wifi_master_key_service">Ota Wi-Fi Master Key käyttöön</string>
+  <string name="enable_wifi_master_key_service_first">Ota käyttöön</string>
   <string name="enalbe_identify_iPhone">Tukiaseman tunnistus</string>
   <string name="encrypt_dont_require_password">Ei kiitos</string>
   <string name="encrypt_dont_require_pattern">Ei kiitos</string>
@@ -1405,6 +1408,8 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="firmware_version">Android versio</string>
   <string name="floating_window_switch_label">Ota kelluvat ikkunat käyttöön</string>
   <string name="floating_window_switch_label_disable">Poista kelluvat ikkunat käytöstä</string>
+  <string name="fluency_mode">Järjestelmän animaatiot</string>
+  <string name="fluency_mode_confirm_and_reboot">Käynnistä nyt</string>
   <string name="font_size_exhuge">Suurin</string>
   <string name="font_size_huge">Suurempi</string>
   <string name="font_size_large">Suuri</string>

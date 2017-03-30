@@ -72,6 +72,7 @@
   <string name="memory_clear_nothing_result">Välimuistissa ei ole vapautettavaa</string>
   <string name="memory_clear_result">%1$s vapautettu | %2$s jäljellä</string>
   <string name="miui">miui</string>
+  <string name="miui_upgrading_notification_title">Järjestelmää päivitetään, jotkut ominaisuudet saattaa olla rajalliset</string>
   <string name="package_delete_confirm_step_1">Poistetaanko %s?</string>
   <string name="package_delete_confirm_step_2">Tämän sovelluksen poistaminen saattaa aiheuttaa järjestelmässä epävakautta.</string>
   <string name="package_delete_confirm_step_3">Et voi enää avata tätä sovellusta poistamisen jälkeen.</string>

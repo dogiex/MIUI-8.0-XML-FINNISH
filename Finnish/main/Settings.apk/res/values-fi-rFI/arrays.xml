@@ -697,6 +697,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minuutin</item>
         <item>5 minuutin</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Piilota järjestelmän animaatiot</item>
+        <item>Näytä järjestelmän animaatiot</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Nopeuttaa laitteen suorituskykyä</item>
+        <item>Saattaa hidastaa laitteen suorituskykyä</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
+        <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
+    </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>
         <item>Normaali (720p)</item>

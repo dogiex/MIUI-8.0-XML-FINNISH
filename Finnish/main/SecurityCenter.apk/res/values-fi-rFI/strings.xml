@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Puhdistajan asetukset</string>
   <string name="Settings_title_network_assistants">Datakäytön asetukset</string>
   <string name="Settings_title_power_center">Akun asetukset</string>
+  <string name="about_autostart">Tietoa käynnistyksestä</string>
   <string name="ac_enable_title">Ota Sovelluslukko käyttöön</string>
   <string name="ac_enter_applock">Syötä Sovelluslukko</string>
   <string name="ac_firstUseApplock_subTitle">Käytä parempaa järjestelmätasosta turvallisuustyökaluja</string>
@@ -486,6 +487,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="dnd_no_sound">仅屏蔽声音</string>
   <string name="dns_exception_summary">Tarkasta reitittimen DNS-asetukset</string>
   <string name="dns_exception_title">Tarkasta DNS-asetukset</string>
+  <string name="domestic_roaming_setting">Kansainvälinen roaming</string>
   <string name="download">Lataa</string>
   <string name="downloading">Ladataan</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -576,6 +578,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="hide_mode_app_background_setting_text">Sovelluskohtainen akun säästäjä</string>
   <string name="hide_mode_summary_text">Hallitse sovelluksien taustatyöskentelyä akun säästämiseksi</string>
   <string name="hide_mode_title_text">Piilota-tila</string>
+  <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
   <string name="hints_auto_start_warning_info">Jos rajoitat sovelluksien käynnistymisiä, jotkut sovellukset ja palvelut eivät saa ilmoituksia.</string>
   <string name="hints_cleanning_done">Skannattiin onnistuneesti</string>
   <string name="hints_cleanning_text">Puhdistetaan…</string>
@@ -916,6 +919,8 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="notification_exit_power_save_mode">Akun säästäjä sammutettiin</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
   <string name="notification_item">Suojaa valitut sovellukset Sovelluslukolla</string>
+  <string name="notification_mask_summary">Älä näytä Lukitusnäytöllä ja Ilmoitusalueella olevien ilmoituksien sisältöä</string>
+  <string name="notification_mask_title">Piilota sisältö</string>
   <string name="notification_quick_charging_title">Ladataan nopeasti</string>
   <string name="notification_subtitle">Ota käyttöön napauttamalla</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
@@ -1017,6 +1022,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="pc_install_manager">Asenna USB:n kautta</string>
   <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
   <string name="per_month_pkg_traffic_settings">Aseta datan raja</string>
+  <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Hyväksy</string>
@@ -1056,6 +1062,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_center_consume_rank">Akun käyttö</string>
   <string name="power_center_consume_time">%1$s jäljellä</string>
   <string name="power_center_custom_title">Akun profiilit</string>
+  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>
   <string name="power_center_ontime_shutdown">Sammuttamisen aika</string>
   <string name="power_center_repeat">Toista</string>
@@ -1068,6 +1075,8 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_consume_rank_hardware">Laitteisto</string>
   <string name="power_consume_rank_software">Sovellukset</string>
   <string name="power_consume_rank_title">Akun käyttö</string>
+  <string name="power_consume_total_hardware">Laitteisto: %s</string>
+  <string name="power_consume_total_software">Sovellukset: %s</string>
   <string name="power_customize_giveup_change">Hylätäänkö muutokset?</string>
   <string name="power_dialog_cancel">Peruuta</string>
   <string name="power_dialog_ok">OK</string>
@@ -1389,6 +1398,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="shoop_again">支付宝咻一咻</string>
   <string name="shoop_again_float">咻一咻</string>
   <string name="shoop_again_summary">快速进入支付宝咻一咻页面</string>
+  <string name="show_system_app">Näytä järjestelmäsovellukset</string>
   <string name="show_traffic_dialog_message">Datan käytön tietosi näytetään ilmoitusalueella. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa asetuksista Datan käyttö &gt; Asetukset</string>
   <string name="show_traffic_dialog_title">Näytä käyttö ilmoitusalueella</string>
   <string name="showpattern">Näytä kuvio</string>
@@ -1581,6 +1591,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_toast_text">Haetaan tietoa…</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Kiitos palautteestasi!</string>
+  <string name="temperature_formatted_text">%s°C</string>
   <string name="ten_percent_total_pkg">%s (10%% kuukausittaisesta datasta)</string>
   <string name="text_alarm_after">"今年的红包活动已全部结束
 期待与您来年重聚"</string>
