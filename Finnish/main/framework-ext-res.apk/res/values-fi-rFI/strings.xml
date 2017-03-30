@@ -83,7 +83,7 @@
   <string name="permlab_manageLocationPolicy">Sijaintitietojen käyttö</string>
   <string name="reboot_confirm_title">Käynnistetäänkö laite uudelleen nyt?</string>
   <string name="reboot_info_auto_boot">Laite on ajastettu käynnistymään klo %s</string>
-  <string name="reboot_info_shutdown_alarm">Herätys soi klo %s</string>
+  <string name="reboot_info_shutdown_alarm">Seuraava herätys %s</string>
   <string name="reboot_progress">Käynnistetään uudelleen…</string>
   <string name="replace">Korvaa</string>
   <string name="resource_select">Valitse</string>

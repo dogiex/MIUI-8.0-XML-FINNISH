@@ -24,7 +24,7 @@
   <string name="can_not_restore_in_lite_mode">Palautus ei onnistu Lite-tilassa</string>
   <string name="cancel_recover_settings">Peruuta</string>
   <string name="click_try_to_restore_again">Yritä uudelleen napauttamalla</string>
-  <string name="cloud_app_backup_success">Sovelluksien varmuuskopiointi on valmis</string>
+  <string name="cloud_app_backup_success">Sovellukset varmuuskopioitiin onnistuneesti</string>
   <string name="cloud_app_check_data">Jutellaan Mi Pilven kanssa…</string>
   <string name="cloud_app_current_device">Nykyinen laite</string>
   <string name="cloud_app_dont_restore">Asenna uutena laitteena</string>
@@ -119,6 +119,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="start_backup_to_micloud">Varmuuskopioi sovellukset Mi Pilveen</string>
   <string name="start_recover">Palauta %s</string>
   <string name="success_open_cloudbackup">Kotinäytön sovelluksien varmuuskopiot on käytössä</string>
-  <string name="wait_icon_download">Ladataan sovelluksien ikoneita</string>
+  <string name="wait_icon_download">Ladataan sovelluksien kuvakkeita</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

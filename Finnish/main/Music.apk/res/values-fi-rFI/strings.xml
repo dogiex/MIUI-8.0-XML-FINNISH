@@ -302,11 +302,11 @@
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Poista</string>
   <string name="eq_delete_success">Valmis</string>
-  <string name="eq_electronic">Electronic</string>
-  <string name="eq_flat">Flat</string>
+  <string name="eq_electronic">Elektroninen</string>
+  <string name="eq_flat">Oletus</string>
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Jazz</string>
-  <string name="eq_metal">Metal</string>
+  <string name="eq_metal">Metalli</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Luo</string>
   <string name="eq_preset_format">Käyttäjän esiasetus %d</string>
