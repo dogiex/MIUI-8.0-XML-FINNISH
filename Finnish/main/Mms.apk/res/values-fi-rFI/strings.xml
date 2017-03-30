@@ -418,6 +418,7 @@
   <string name="pref_summary_send_delivery_reports">Lähetä vastaanottovahvistus lähettäjälle, kun olet saanut multimediaviestin</string>
   <string name="pref_summary_show_recent_contacts">Näytä viimeaikaiset yhteystiedot, kun kirjoitetaan uutta viestiä</string>
   <string name="pref_summary_wake_up_screen">Herätä näyttö uuden viestin vastaanottaessa</string>
+  <string name="pref_switch_sdk_setting">Vaihda älykkään tekstiviestin moottori</string>
   <string name="pref_system_title">Järjestelmä</string>
   <string name="pref_time_auto_group_disabled_summary">Ei ole tuettu nykyisellä fontin koolla</string>
   <string name="pref_time_auto_group_summary">Ryhmitä viestit yhteen, jotka vastaanotetaan minuutin sisällä toisistaan</string>

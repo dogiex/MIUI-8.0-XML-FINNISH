@@ -696,6 +696,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1 minuutin</item>
         <item>2 minuutin</item>
         <item>5 minuutin</item>
+        <item>Ei koskaan</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Piilota järjestelmän animaatiot</item>
@@ -747,5 +748,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Tiedostot</item>
         <item>Muistiot</item>
         <item>Sovelluslukko</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Lyhyempi viive</item>
+        <item>Normaali</item>
+        <item>Parempi laatu</item>
     </string-array>
 </resources>

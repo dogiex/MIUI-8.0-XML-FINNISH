@@ -5,8 +5,9 @@
   <string name="altitude_uncalibrate_cancel">Peruuta</string>
   <string name="altitude_uncalibrate_msg">Korkeutta ei voi kalibroida tarkasti ilman GPS tai mobiilidatayhteyttä.</string>
   <string name="altitude_uncalibrate_refresh">Yritä uudelleen</string>
-  <string name="altitude_uncalibrate_tip">Ei-kalibroitu data</string>
+  <string name="altitude_uncalibrate_tip">Korkeutta ei voi kalibroida</string>
   <string name="altitude_unit">m</string>
+  <string name="angle">%.0f</string>
   <string name="app_label">Kompassi</string>
   <string name="calibrate_failed">Korkeuden kalibrointi epäonnistui</string>
   <string name="calibrate_failed_no_location">Ei voi kalibroida</string>

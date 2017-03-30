@@ -4,6 +4,8 @@
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
   <string name="app_name">Provision</string>
   <string name="back">Takaisin</string>
+  <string name="cm_terms_content">Parantaaksemme sinulle tarjoamia palveluita, sinun valitsema mobiiliverkko-operaattori voi lähettää henkilökohtaisia tietoja sinusta ja tästä laitteesta heidän palvelimille käyttäen Wi-Fi-verkkoja tai mobiilidata-yhteyttä. Näitä tietoja käytetään vain tilastollisiin tarkoituksiin parantaakseen palveluiden laatua ja tarjoamaan henkilökohtaisempaa sisältöä. Tätä tietoa ei käytetä henkilön tunnistamiseen, eikä niitä anneta kolmansille osapuolille.</string>
+  <string name="cm_terms_title">Mobiiliverkko-operaattorin Sopimusehdot</string>
   <string name="congratulation_label">Olet valmis rokkaamaan!</string>
   <string name="congratulation_title">Asennus valmis</string>
   <string name="content_description_complete">Valmis</string>
@@ -15,6 +17,9 @@
   <string name="desc_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, Mi Maksun kaupan vahvistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="desc_international_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="disagree">Peruuta</string>
+  <string name="enable_accessibility_dialog_message">Otit TalkBack-toiminnon käyttöön painamalla näyttöä kahdella sormella kauemmin, kuin 10 sekuntia. TalkBack tarjoaa äänipalautetta niille henkilöille, joilla on näköongelmia. Jos otit sen käyttöön vahingossa, napauta Peruuta-painiketta ja sen jälkeen tuplanapauta näyttöä.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Peruuta</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="ime_privacy_policy">Valitun näppäimistön Tietosuojakäytäntö</string>
   <string name="ime_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso näppäimistön Tietosuojakäytäntö osoitteessa %s.</string>
   <string name="input_method_category">Valitse oletusnäppäimistö, jota käytät sähköpostien tai muistioiden kirjoittamiseen, ja lähes kaikkialla muualla. Muista, että voit asentaa kolmannen osapuolen näppäimistön myöhemmin.</string>

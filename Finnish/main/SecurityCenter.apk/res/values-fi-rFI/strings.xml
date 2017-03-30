@@ -181,7 +181,9 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="auto_task_notify_task_cancel_count_down">Automatisoitu tehtävä peruutetaan 5 sekunnin kuluttua</string>
   <string name="auto_task_notify_task_cancel_do">Peruuta toiminto</string>
   <string name="auto_task_notify_task_canceled_summary">Voit soittaa ja vastaanottaa puheluita</string>
-  <string name="auto_task_notify_task_canceled_summary2">Näyttää siltä, että olet pelaamassa peliä nyt.</string>
+  <string name="auto_task_notify_task_canceled_summary2">Näyttää siltä, että olet nyt pelaamassa peliä.</string>
+  <string name="auto_task_notify_task_canceled_summary3">Toinen tila peruutti toiminnon</string>
+  <string name="auto_task_notify_task_canceled_summary4">Ensimmäinen tila peruutti toiminnon</string>
   <string name="auto_task_notify_task_canceled_title">Toiminto peruutettu</string>
   <string name="auto_task_notify_task_continue_do">Aloita toiminto</string>
   <string name="auto_task_notify_task_count_down">Automatisoitu toiminto aloitetaan 5 sekunnin kuluttua</string>
@@ -841,6 +843,7 @@ Huippu: %1$s%2$s | %3$s käytetty"</string>
   <string name="menu_text_power_manager">Akun käyttö</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
+  <string name="menu_text_power_percent_title_default">Akku</string>
   <string name="mi_pay_lucky">小米钱包</string>
   <string name="mi_service_app_detail">Datan käytön yksityiskohdat</string>
   <string name="mi_service_framework">Mi Service Framework</string>
