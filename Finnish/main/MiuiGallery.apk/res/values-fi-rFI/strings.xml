@@ -133,6 +133,7 @@
   <string name="backup_cloud_space_low_title">Mi Pilven tallennustilaa ei ole tarpeeksi</string>
   <string name="backup_cta_not_allow">Verkkoon yhdistäminen epäonnistui</string>
   <string name="backup_cta_not_allow_btn_text">Salli</string>
+  <string name="backup_detail_page_empty">Kuvia tai videoita ei odota varmuuskopiointia</string>
   <string name="backup_detail_page_title">Mi Pilven varmuuskopiot</string>
   <string name="backup_device_space_low_btn_text">Tyhjennä</string>
   <string name="backup_device_space_low_desc">Vapauta tallennustilaa jatkaaksesi kohteiden varmuuskopiointia</string>
@@ -140,7 +141,7 @@
   <string name="backup_dirty_num">Yhteensä: %s</string>
   <string name="backup_dirty_tip">Kuvia ja videoita ei varmuuskopioitu</string>
   <string name="backup_immediately">Varmuuskopioi</string>
-  <string name="backup_need_sync_desc">Napauta painiketta jatkaaksesi varmuuskopiointia</string>
+  <string name="backup_need_sync_desc">Jatka varmuuskopiointia napauttamalla</string>
   <string name="backup_need_sync_title">Varmuuskopiointi pysäytettiin</string>
   <string name="backup_no_network_btn_text">Verkkoasetukset</string>
   <string name="backup_no_network_desc">Yhdistä verkkoon jatkaaksesi kohteiden varmuuskopiointia</string>
@@ -785,7 +786,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="ignore_alert_title">Etkö halua nähdä tätä albumia?</string>
   <string name="ignore_face">Älä huomioi tätä henkilöä</string>
   <string name="image_decode_failed">Kuvaa ei voitu tulkita</string>
-  <string name="image_download_item_title">Lataa kuva (%s)</string>
+  <string name="image_download_item_title">Lataa alkuperäinen tiedosto (%s)</string>
   <string name="image_invalid_path">Virheellinen polku</string>
   <string name="image_not_found">Kuvaa ei löydetty</string>
   <string name="image_quota_fulfiled">Liian monta kuvaa. Poista kuvia ja yritä uudelleen.</string>

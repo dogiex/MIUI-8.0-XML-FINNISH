@@ -107,11 +107,12 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="indices_title_sport">Urheilu</string>
   <string name="indices_title_uv">UV-indeksi</string>
   <string name="indices_title_visibility">Näkyvyys</string>
+  <string name="information_manager_default_weather_bg">Sään oletustaustakuva</string>
   <string name="information_manager_extension">Sään lisäosa</string>
   <string name="information_manager_information">Säätiedot</string>
   <string name="information_manager_wlan">Näytä, kun yhteydessä Wi-Fi-verkkoon</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Aloitus-sivun asetukset</string>
+  <string name="information_set">Muut asetukset</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Asenna</string>

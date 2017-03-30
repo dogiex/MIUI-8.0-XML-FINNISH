@@ -301,6 +301,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_notif_content_battery_low">Akun taso on liian alhainen.</string>
   <string name="micloud_notif_content_clipboard_push">Voit liittää sen mihin tahansa.</string>
   <string name="micloud_notif_content_depend_wifi">Yhdistä Wi-Fi-verkkoon synkronoidaksesi.</string>
+  <string name="micloud_notif_content_dirty_data">Tiedot</string>
   <string name="micloud_notif_content_master_depend_wifi">Yhdistä ensin Wi-Fi-verkkoon.</string>
   <string name="micloud_notif_content_memory_low">Tallennustilaa ei ole tarpeeksi.</string>
   <string name="micloud_notif_content_multi_user_error">Kirjauduit samalla tilillä, kuin Ensimmäisessä tilassa.</string>
@@ -308,7 +309,8 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_notif_content_sync_not_finish">Tiedot</string>
   <string name="micloud_notif_content_sync_with_off">Synkronoi laitteesi nyt napauttamalla.</string>
   <string name="micloud_notif_title_battery_low">Mi Pilveen synkronointi epäonnistui</string>
-  <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
+  <string name="micloud_notif_title_clipboard_push">Sisältö kopioitiin leikepöydälle</string>
+  <string name="micloud_notif_title_dirty_data">Tietosi on synkronoimaton</string>
   <string name="micloud_notif_title_master_depend_wifi">Mi Pilveen ei voida synkronoida</string>
   <string name="micloud_notif_title_memory_low">Mi Pilveen ei voida synkronoida</string>
   <string name="micloud_notif_title_multi_user_error">Mi Pilveen ei voida synkronoida</string>
@@ -357,7 +359,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Pilvi</string>
   <string name="micloud_upgrade_member">Hanki lisää tallennustilaa</string>
-  <string name="micloud_upgrade_space">Hanki lisää tallennustilaa</string>
+  <string name="micloud_upgrade_space">Hanki tallennustilaa</string>
   <string name="micloud_user_space_title">Tallennustila</string>
   <string name="micloud_user_space_usage">Tallennustila</string>
   <string name="micloud_warn_full_sum">Uusia kohteita ei synkronoida Mi Pilveen.</string>

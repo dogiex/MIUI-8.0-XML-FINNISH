@@ -81,6 +81,7 @@
   <string name="conference_call_single_description" formatted="false">%s jne. yhteensä %s</string>
   <string name="conference_caller_info_name">%1$s konferenssipuhelu</string>
   <string name="conference_caller_name_me">Minä</string>
+  <string name="conference_callers_exceeded">Henkilöitä ei voi lisätä enempää</string>
   <string name="contactPhoto">Yhteystiedon kuva</string>
   <string name="contacts_icon_label">Yhteystiedot</string>
   <string name="description_image_button_answer">Vastaa pyyhkäisemällä ylös</string>

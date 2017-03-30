@@ -1792,6 +1792,7 @@ Tap to top up your balance."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="use_immediately">Käytä</string>
+  <string name="virus_ad_icon_text">Mainos</string>
   <string name="virus_already_update">Virustunnisteet on ajan tasalla</string>
   <string name="virus_dp_update_title">Virustunnisteiden päivitys</string>
   <string name="virus_scan">Virus skanneri</string>

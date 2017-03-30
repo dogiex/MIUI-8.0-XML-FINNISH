@@ -40,7 +40,7 @@
   <string name="fm_record">Radion nauhoitukset</string>
   <string name="invalid_argument">Laiton argumentti</string>
   <string name="keywords_search_call_record">Nauhoita puhelut;Nauhoita puhelu;Puhelun nauhoitus;Puhelun nauhoitukset</string>
-  <string name="keywords_search_record">Uusi nauhoitus;Lisää nauhoitus;Nauhoitus;Nauhoitukset;Jäljennös;Sovita;Nauhuri;Puhe nauhuri;Ääni nauhuri;Nauhoita sovellus;Nauhoittaja sovellus;Kuinka nauhoitan;Kuinka nauhoitan ääntä;Missä on nauhoitin;MIUI Nauhuri</string>
+  <string name="keywords_search_record">Uusi nauhoitus;Lisää nauhoitus;Nauhoitus;Nauhoitukset;Jäljennös;Sovita;Nauhuri;Puhe nauhuri;Ääni nauhuri;Nauhoita sovellus;Nauhoittaja sovellus;Kuinka nauhoitan;Kuinka nauhoitan ääntä;Missä on nauhoitin;MIUI Ääninauhuri</string>
   <string name="keywords_search_record_list">Nauhuri;Jäljennös;Jäljennökset;Nauhoita;Jaa nauhoitus;Jaa nauhoituksia;Nauhoitus;Nauhoitukset</string>
   <string name="low_battery_error">Alle 5% akkua jäljellä. Varmistaaksemme, ettei nauhoituksesi katoa, nauhoitus pysäytettiin ja tallennettiin.</string>
   <string name="mark_point_list_title">Merkkauslista</string>

@@ -115,21 +115,21 @@
   <string name="find_device_access_denied">Tilaa ei voitu hakea, pääsy kielletty</string>
   <string name="find_device_account_error">Tilaa ei voitu hakea tilivirheen takia</string>
   <string name="find_device_activate_account">Aktivoi tili</string>
-  <string name="find_device_bad_response_error">Tilaa ei voitu hakea palvelinvirheen takia, yritä myöhemmin uudelleen</string>
+  <string name="find_device_bad_response_error">Tapahtui palvelinvirhe, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="find_device_display_id">Avaa numeron lukitus: %s</string>
   <string name="find_device_error_password_not_confirmed">Laitteen etsintää ei voi sammuttaa. Syötä Mi Tilisi salasana uudelleen.</string>
   <string name="find_device_error_password_recently_changed">Olet muuttanut salasanasi kolmen päivän sisällä. Laitteen etsintää ei voi sammuttaa juuri nyt turvallisuussyistä.</string>
-  <string name="find_device_interrupted">Toiminto keskeytyi, yritä myöhemmin uudelleen</string>
+  <string name="find_device_interrupted">Toiminto keskeytyi, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="find_device_io_error">Verkkoon ei saada yhteyttä</string>
   <string name="find_device_locked_account_email" formatted="false">%s, liitetty sähköpostiosoite: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, liitetty puhelinnumero: %s</string>
   <string name="find_device_null_credential_error">Laitteesta ei saada tietoja, ota yhteys Xiaomin asiakaspalveluun</string>
-  <string name="find_device_operation_failed_error">Tapahtui palvelinvirhe, yritä myöhemmin uudelleen</string>
+  <string name="find_device_operation_failed_error">Tapahtui palvelinvirhe, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="find_device_operation_failed_error_unknown">Tapahtui virhe, yritä myöhemmin uudelleen</string>
   <string name="find_device_remote_exception">RPC virhe</string>
-  <string name="find_device_request_error">Palvelinvirheen tilatietojen pyyntö epäonnistui, yritä myöhemmin uudelleen</string>
+  <string name="find_device_request_error">Tapahtui palvelinvirhe, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="find_device_request_prepare_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
-  <string name="find_device_unknown_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
+  <string name="find_device_unknown_error">Laitteen tilan saanti epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
   <string name="forward_to_bind">Lisää</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>

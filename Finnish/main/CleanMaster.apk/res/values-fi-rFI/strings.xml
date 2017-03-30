@@ -99,7 +99,7 @@
   <string name="clean_content_zero">Ei yhtään</string>
   <string name="clear_bigfiles">Poista suuret tiedostot, kuvien kaksoiskappaleet ja muut tarpeettomat asiat</string>
   <string name="clear_immediately">Puhdista nyt</string>
-  <string name="clear_safe_notify">Turvallisuuden ilmoituspalkki</string>
+  <string name="clear_safe_notify">Ilmoitusalueen widgetti</string>
   <string name="clip_board_history_desc">Kopioidut/leikatut sisällöt</string>
   <string name="clipboard">Leikepöytä</string>
   <string name="close">Sulje</string>

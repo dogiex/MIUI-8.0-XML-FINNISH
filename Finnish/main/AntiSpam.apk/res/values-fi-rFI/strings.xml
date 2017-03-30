@@ -116,7 +116,7 @@
   <string name="mark_harass_time_setting">Estä numerot, jotka on ilmoitettu kiusankappaleiksi tietyn monta kertaa</string>
   <string name="mark_number_agent">Agentti</string>
   <string name="mark_number_fraud">Huijari</string>
-  <string name="mark_number_harass">Ahdistelija</string>
+  <string name="mark_number_harass">Ahdistelu</string>
   <string name="mark_number_info">"Huomaa, että joskus nämä numerot voivat olla tarpeen (mm. kun olet etsimässä asuntoa). Estä vain numerot, joista et halua ikinä vastaanottaa puheluita."</string>
   <string name="mark_number_sell">Puhelinmyyjät</string>
   <string name="mark_number_setting_guide_content1">Estä puhelut ilmoitetuista numeroista?</string>

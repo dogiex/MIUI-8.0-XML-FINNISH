@@ -39,10 +39,10 @@
   <string name="fm_record_smaple_prefix_miui">FM nauhoitukset</string>
   <string name="force_exit_message">%1$s lopetettiin</string>
   <string name="force_exit_skip_message">%1$s ei voi lopettaa, koska järjestelmä käyttää sitä.</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Voit palata takaisin Kotinäytölle painamalla kevyesti Koti-painiketta. Mene Asetukset &gt; Lisäasetukset &gt; Painikkeet ja ota käyttöön napauta Kotinäytölle asetus.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Voit palata takaisin Kotinäytölle painamalla Koti-painiketta kevyesti. Voit ottaa käyttöön ja poistaa tämän ominaisuuden käytöstä asetuksista Asetukset &gt; Lisäasetukset &gt; Painikkeet &gt; Mene takaisin Kotinäytölle napauttamalla Koti-painiketta.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ei nyt</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Mene Asetuksiin</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Nopea napautus Kotinäytölle</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ota käyttöön</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Ota Nopea napautus käyttöön</string>
   <string name="frequent_phrases">Usein käytetyt lauseet</string>
   <string name="global_actions_airplane_mode">Lentokone</string>
   <string name="global_actions_reboot">Käynnistä uudelleen</string>

@@ -1405,8 +1405,6 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="firmware_version">Android versio</string>
   <string name="floating_window_switch_label">Ota kelluvat ikkunat käyttöön</string>
   <string name="floating_window_switch_label_disable">Poista kelluvat ikkunat käytöstä</string>
-  <string name="fluency_mode">Järjestelmän animaatiot</string>
-  <string name="fluency_mode_confirm_and_reboot">Käynnistä uudelleen nyt</string>
   <string name="font_size_exhuge">Suurin</string>
   <string name="font_size_huge">Suurempi</string>
   <string name="font_size_large">Suuri</string>
@@ -2166,7 +2164,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_dirac_mode_general_inear">Yleinen In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Kuulokkeet (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac pois</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -4248,7 +4246,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_empty_list_wifi_off">Näet käytössä olevat verkot ottamalla Wi-Fiin käyttöön.</string>
   <string name="wifi_empty_list_wifi_on">Haetaan Wi-Fi-verkkoja…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Ota mobiilidata ja Wi-Fi roaming käyttöön</string>
+  <string name="wifi_enable_data_and_wifi_roam">Wi-Fi avustajan Hoitaja</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Vaihda mobiilidataan, kun molemmat Wi-Fi ja mobiilidata on yhdistettynä ja Wi-Fi ei saa yhteyttä internettiin.</string>
   <string name="wifi_enable_watchdog_service_summary">Vältä heikkoa yhteyttä</string>
   <string name="wifi_error">Virhe</string>

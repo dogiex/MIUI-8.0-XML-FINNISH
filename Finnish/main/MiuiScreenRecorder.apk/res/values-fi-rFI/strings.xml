@@ -59,7 +59,7 @@
   <string name="sound_source">Äänilähde</string>
   <string name="sound_source_summary">Järjestelmän äänet tai mikrofoni</string>
   <string name="start">Aloita</string>
-  <string name="stop_by_second_space">Tilan vaihtaminen lopettaa nauhoituksen</string>
+  <string name="stop_by_second_space">Tilan vaihtaminen lopettaa nauhoittamisen</string>
   <string name="stop_record_while_locking">Lopeta lukitsemalla näyttö</string>
   <string name="stop_record_while_locking_summary">Lopeta nauhoittaminen ja tallenna video, kun näyttö lukitaan</string>
   <string name="timer_format">%s</string>
