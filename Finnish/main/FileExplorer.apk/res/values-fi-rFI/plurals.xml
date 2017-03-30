@@ -224,14 +224,6 @@
         <item quantity="few">seuraajaa</item>
         <item quantity="many">seuraajaa</item>
     </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">videota</item>
-        <item quantity="zero">videota</item>
-        <item quantity="one">video</item>
-        <item quantity="two">videota</item>
-        <item quantity="few">videota</item>
-        <item quantity="many">videota</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other"> videota</item>
         <item quantity="one"> video</item>

@@ -45,7 +45,7 @@
         <item>Tapahtumat</item>
     </string-array>
 	<string-array name="preferences_week_start_day_labels">
-        <item>Oletus</item>
+        <item>Maan oletus</item>
         <item>Lauantai</item>
         <item>Sunnuntai</item>
         <item>Maanantai</item>

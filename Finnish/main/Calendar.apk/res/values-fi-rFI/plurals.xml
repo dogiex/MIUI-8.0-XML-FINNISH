@@ -64,7 +64,7 @@
         <item quantity="one">päivä</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">päivää myöhemmin</item>
-        <item quantity="one">päivä myöhemmin</item>
+        <item quantity="other">päivää jäljellä</item>
+        <item quantity="one">päivä jäljellä</item>
     </plurals>
 </resources>

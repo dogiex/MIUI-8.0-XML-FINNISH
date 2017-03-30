@@ -4,7 +4,6 @@
   <string name="action_mode_deselect_all">Poista valinnat</string>
   <string name="action_mode_select_all">Valitse kaikki</string>
   <string name="activity_parse_video_title">Liitä videon linkki</string>
-  <string name="activity_rule">Säännöt</string>
   <string name="ad_download">Lataa</string>
   <string name="ad_downloading">Odota hetki…</string>
   <string name="add_follow">Seuraa</string>
@@ -108,6 +107,10 @@
   <string name="comment_added_tip">Lisäät useita kommentteja. Seurataanko tätä henkilöä?</string>
   <string name="comment_delete_message">Kommentti poistetaan pysyvästi.</string>
   <string name="comment_delete_title">Poista kommentti</string>
+  <string name="comment_fail">Kommenttia ei voitu julkaista, yritä uudelleen</string>
+  <string name="comment_fail_banned_forever">Sinut on bannittu pysyvästi sopimattomien kommenttien takia. Ota yhteyttä QQ ryhmäämme (374463568) lisätietoja varten.</string>
+  <string name="comment_fail_banned_forever_positive">Selvä</string>
+  <string name="comment_fail_banned_temporary">Sinut on bannittu hetkellisesti sopimattomien kommenttien takia</string>
   <string name="comment_hint">Lisää kommentti</string>
   <string name="comment_reply">Vastaa %1$s: </string>
   <string name="compress_fail">Pakkaaminen epäonnistui. Saman niminen tiedosto on jo olemassa.</string>
@@ -312,7 +315,6 @@
   <string name="message_praise_video">" tykkäsi tästä videosta"</string>
   <string name="message_reply_prefix">Vastaa</string>
   <string name="message_reply_suffix">": "</string>
-  <string name="message_title">Viestini</string>
   <string name="mi_router_label">Reititin</string>
   <string name="midrop_msg_1">Ota Mi Siirtäjä toisessa laitteessa käyttöön</string>
   <string name="midrop_msg_2">Kun Mi Siirtäjä on käytössä, voit etsiä lähellä olevia laitteita ja lähettää tiedostoja</string>
@@ -420,14 +422,10 @@
   <string name="original_user_signal">Talent team</string>
   <string name="original_user_title">Congratulations on becoming a member of the Talent team!</string>
   <string name="original_user_verify">• Thank you for sticking around!</string>
-  <string name="other_user_fans_tab">Fanit</string>
   <string name="other_user_follow_tab">Seurataan</string>
   <string name="other_user_liked_topic_tip">Ei aiheita</string>
-  <string name="other_user_liked_video_tab">Suosikit</string>
   <string name="other_user_no_follow_tip">Et ole seurannut ketään vielä.</string>
   <string name="other_user_no_liked_video_tip">Ei tykättyjä videoita.</string>
-  <string name="other_user_topic_tab">Aiheet</string>
-  <string name="other_user_video_tab">Lähetetyt</string>
   <string name="partial_cancel_successful">Joitakin tiedostoja ei voitu poistaa. Loput tiedostot siirrettiin kansioon %s.</string>
   <string name="partial_delete_failure">Joidenkin tiedostojen poistaminen epäonnistui, yritä uudelleen</string>
   <string name="partial_encrypt_success">Joidenkin tiedostojen piilottaminen epäonnistui, yritä uudelleen</string>
@@ -554,7 +552,6 @@
   <string name="select_video">Videotiedostot</string>
   <string name="select_volume">Valitse määrä</string>
   <string name="send_comment">Lähetä</string>
-  <string name="send_error">Kommentin lisääminen epäonnistui</string>
   <string name="send_sticker">Lähetä tarra</string>
   <string name="send_to_qq">Lähetä sovelluksella QQ QQ</string>
   <string name="send_to_weixin">Lähetä sovelluksella WeChat</string>
@@ -587,10 +584,6 @@
   <string name="share_to">Jaa…</string>
   <string name="share_topic_desc">Lähetä videoita voittaaksesi palkintoja</string>
   <string name="share_topic_title">Katson #%1$s#, katso sinäkin!"</string>
-  <string name="share_youliao1">Päivitä ja katso lisää jaksoja.</string>
-  <string name="share_youliao2">Päivitä ja katso lisää jaksoja.</string>
-  <string name="share_youliao3">Päivitä ja katso lisää jaksoja.</string>
-  <string name="share_youliao4">Päivitä ja katso lisää jaksoja.</string>
   <string name="shared_sticker_network_permission_tip">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="shared_sticker_page_no_file">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="shared_sticker_str">Viimeaikainen</string>
@@ -646,7 +639,6 @@
   <string name="topic_follow">Seuraa</string>
   <string name="topic_followed">Seurataan</string>
   <string name="topic_message">%1$s: %2$s</string>
-  <string name="topic_winners">Edelliset voittajat</string>
   <string name="transfer_done">Tiedostot siirrettiin onnistuneesti.</string>
   <string name="transfer_private_data">Siirretään piilotetut kansiot SD-kortilta…</string>
   <string name="type_not_support">Tämä tiedostomuoto ei ole tuettu. Pura tämä tiedosto ja yritä uudelleen.</string>
@@ -662,7 +654,6 @@
   <string name="unlogin">Kirjaudu sisään ensin</string>
   <string name="unmount_inform_text">Poistetaanko USB-tallennustila?</string>
   <string name="unreviewed_video_cannot_share">Videot täytyy tarkastaa ennen jakamista</string>
-  <string name="update">Päivitä</string>
   <string name="update_failed">Tallennus epäonnistui, yritä uudelleen</string>
   <string name="update_loading">Tallennetaan…</string>
   <string name="upload_avatar_camera">Kamera</string>
@@ -702,12 +693,10 @@
   <string name="user_icon">Profiilikuva</string>
   <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">Muokkaa tietoa</string>
-  <string name="user_like_text">Tykkäykset</string>
   <string name="user_liked_video_title">Tykkäämäni videot</string>
   <string name="user_login_dialog_cancle">Peruuta</string>
   <string name="user_login_dialog_tip">Lähetä videoita, osallistu kilpailuihin ja voita palkintoja kirjautumalla sisään</string>
   <string name="user_login_dialog_title">Kirjaudu sisään</string>
-  <string name="user_message_text">Viestit</string>
   <string name="user_nickname">Lempinimi</string>
   <string name="user_nickname_limit">Lempinimen tulee sisältää 4-20 merkkiä</string>
   <string name="user_no_fans_tip">Ei seuraajia</string>
@@ -734,7 +723,6 @@
   <string name="user_sex">Sukupuoli</string>
   <string name="user_sign">Allekirjoitus</string>
   <string name="user_topic_text">Aiheeni</string>
-  <string name="user_upload_text">Lähetetyt</string>
   <string name="user_video_text">Videoni</string>
   <string name="utf8_summary">Järjestelmän FTP oletuskoodaus</string>
   <string name="utf8_title">UTF-8</string>
@@ -801,7 +789,6 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">WeChat ei ole asennettu</string>
   <string name="weixin_sticker_tag_str">Tarrat</string>
-  <string name="welcome_to_my_page">Tervetuloa kotisivulleni</string>
   <string name="wifi_state">Wi-Fi-verkko</string>
   <string name="wxcircle_platform">Hetket</string>
   <string name="xiaomi_btn_bind">Mi Tili</string>
@@ -820,9 +807,6 @@
 Liity 170 miljoonaan Mi Faniin!"</string>
   <string name="youliao_ad_title">Suositut videot on päivitetty!</string>
   <string name="youliao_ad_update">Päivitä</string>
-  <string name="youliao_dialog_msg">"Hot video has been upgraded to \"Youliao\", 
-now upgraded to full version APP, watching more."</string>
-  <string name="youliao_dialog_title">Eikö ole kiinnostavia videoita?</string>
   <string name="youliao_master_rank">Youliao top</string>
   <string name="zero">0</string>
 </resources>

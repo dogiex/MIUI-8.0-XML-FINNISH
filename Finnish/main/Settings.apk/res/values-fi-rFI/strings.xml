@@ -4281,7 +4281,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_master_key_dialog_content_password">Salasana</string>
   <string name="wifi_master_key_dialog_title">Yhdistä käyttäen</string>
   <string name="wifi_master_key_name">Wi-Fi Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">Wi-Fi Master Key on ilmainen palvelu, joka säätää jaettujen Wi-Fi-verkkojen salasanoja. Wi-Fi Master Key ei jaa verkkosi salasanoja.</string>
+  <string name="wifi_master_key_service_dialog_content">Wi-Fi Master Key on ilmainen palvelu, joka säätää jaettujen Wi-Fi-verkkojen salasanoja. Wi-Fi Master Key ei jaa verkkosi salasanoja. Voit myös %1$s.</string>
   <string name="wifi_master_key_service_dialog_title">Jaetut Wi-Fi-verkot</string>
   <string name="wifi_menu_advanced">Lisäasetukset</string>
   <string name="wifi_menu_connect">Yhdistä verkkoon</string>
