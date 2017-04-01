@@ -647,7 +647,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="save_form_data_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>
   <string name="save_image_failed">Kuvaa ei voitu tallentaa</string>
   <string name="save_image_success">Kuva tallennettu</string>
-  <string name="save_page_capture_tip">Avaa ilmoituspalkki, josta näet ottamasi kuvakaappauksen.</string>
+  <string name="save_page_capture_tip">Avaa ilmoitusalue, josta näet ottamasi kuvakaappauksen.</string>
   <string name="save_page_capture_to_camera">Kuvakaappaus tallennettu</string>
   <string name="save_password_message">Muistetaanko tämä salasana?</string>
   <string name="save_password_never">Ei koskaan</string>

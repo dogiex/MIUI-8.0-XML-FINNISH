@@ -3102,7 +3102,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_sms_received_sound_title">Viestien saapumisääni;viestin ääni;vastaanotettu viesti;viestin soittoääni</string>
   <string name="search_sound_effects_enable_title">Kosketusäänet</string>
   <string name="search_sound_settings">Ääni;Äänenvoimakkuudet;Äänetön tila;Herätys;Musiikki;Värinä;Puhelimen soittoääni;Ilmoituksen oletusääni;Viestien saapumisääni;Viesti toimitettu;Kosketa;Näytön lukitusääni;Ääniasetukset;Vaimenna ääntä</string>
-  <string name="search_status_bar_settings">Ilmoitukset &amp; ilmoituspalkki;Ilmoitukset;Ilmoituspalkki;Ilmoitusalue</string>
+  <string name="search_status_bar_settings">Ilmoitukset &amp; tilapalkki;Ilmoitukset;Tilapalkki;Ilmoitusalue</string>
   <string name="search_status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Näytä lukitusnäytöllä</string>
   <string name="search_status_bar_settings_manage_notification">Sovellusilmoitukset;Ilmoitukset</string>
@@ -3429,7 +3429,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="starting_android">Androidia käynnistetään</string>
   <string name="status_awaiting_tap">Kirjoita napauttamalla tagia…</string>
   <string name="status_awake_time">Käytössäoloaika</string>
-  <string name="status_bar_and_notification_bar">Ilmoitusalue &amp; ilmoituspalkki</string>
+  <string name="status_bar_and_notification_bar">Ilmoitusalue &amp; tilapalkki</string>
   <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Ilmoitukset piiloitettu</string>
   <string name="status_bar_app_enable_floating">Kelluvat ilmoitukset</string>
@@ -3443,7 +3443,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_screen_key_home">Koti-painike</string>
   <string name="status_bar_screen_key_menu">Valikko-painike</string>
   <string name="status_bar_screen_key_recent_apps">Taustasovellukset-painike</string>
-  <string name="status_bar_settings">Ilmoitukset ja ilmoituspalkki</string>
+  <string name="status_bar_settings">Ilmoitukset ja tilapalkki</string>
   <string name="status_bar_settings_advanced">Lisäasetukset</string>
   <string name="status_bar_settings_all_app_display_loading">Odota hetki…</string>
   <string name="status_bar_settings_app_notification_preferences">Sovellusasetukset</string>
@@ -3472,7 +3472,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_show_network_speed">Näytä yhteyden nopeus</string>
   <string name="status_bar_settings_show_notification_icon">Näytä ilmoituksen kuvake</string>
   <string name="status_bar_settings_show_wifi_name">Näytä Wi-Fi</string>
-  <string name="status_bar_settings_status_bar">Ilmoituspalkki</string>
+  <string name="status_bar_settings_status_bar">Tilapalkki</string>
   <string name="status_bar_settings_style">Ilmoitusalueen tyyli</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Sulje kosketuksen jälkeen</string>
   <string name="status_bar_settings_toggle_position">Nappuloiden sijainnit</string>

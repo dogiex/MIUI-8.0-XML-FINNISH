@@ -252,7 +252,7 @@
   <string name="submit_feedback_info_failed">Raporttia ei voitu lähettää</string>
   <string name="suggestion_description">Lisää selitys tähän</string>
   <string name="system_app_select">Järjestelmän sovellukset</string>
-  <string name="systemui">Ilmoituspalkki</string>
+  <string name="systemui">Ilmoitusalue</string>
   <string name="tab_title_chat">UKK</string>
   <string name="tab_title_my_reports">Minun raportit</string>
   <string name="tab_title_report">Palaute</string>
