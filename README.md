@@ -127,3 +127,4 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - Weather.apk
 - WeatherProvider.apk
 - XiaomiAccount.apk
+- XiaomiServiceFramework.apk

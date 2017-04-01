@@ -96,20 +96,20 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_status_desc_sending_sms">Lähetetään aktivointitekstiviestiä…</string>
   <string name="activate_status_desc_sending_sms_fail">Aktivointitekstiviestin lähettäminen yhdyskäytävään epäonnistui</string>
   <string name="activate_status_desc_sms_sent">Aktivointitekstiviesti lähetetty</string>
-  <string name="activate_status_desc_wait_for_sms">Waiting for activation SMS from server…</string>
-  <string name="activate_status_desc_wait_for_sms_fail">"Couldn't receive activation SMS from server"</string>
-  <string name="activate_status_desc_wait_for_sms_success">Received activation SMS from server</string>
-  <string name="activate_status_title_activating">Activating SIM card…</string>
-  <string name="activate_status_title_activating_msim">Activating SIM card %s…</string>
+  <string name="activate_status_desc_wait_for_sms">Odotetaan aktivointitekstiviestiä palvelimelta…</string>
+  <string name="activate_status_desc_wait_for_sms_fail">Aktivointitekstiviestin vastaanottaminen palvelimelta epäonnistui</string>
+  <string name="activate_status_desc_wait_for_sms_success">Aktivointitekstiviesti vastaanotettiin palvelimelta</string>
+  <string name="activate_status_title_activating">Aktivoidaan SIM-korttia…</string>
+  <string name="activate_status_title_activating_msim">Aktivoidaan SIM-korttia %s…</string>
   <string name="app_name">Xiaomi service framework</string>
-  <string name="error_device_id_message">"Invalid Device ID: %s
-Device ID must be valid IMEI or MAC address. Without device id, some account and cloud features will be unavailable."</string>
-  <string name="error_device_id_title">"Can't get valid Device ID"</string>
-  <string name="explain_send_sms_permission_button">Verify</string>
-  <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
-  <string name="explain_send_sms_permission_title">Verify your phone number</string>
-  <string name="sim_unactivated_title">"Your SIM card isn't activated"</string>
-  <string name="sync_notification_title_format">Current syncing item: %1$s</string>
+  <string name="error_device_id_message">"Virheellinen Laitteen ID: %s
+Laitteen ID täytyy olla pätevä IMEI-koodi tai MAC-osoite. Ilman laitteen id:tä, joitakin tili- ja pilviominaisuuksia ei ole käytössä."</string>
+  <string name="error_device_id_title">Pätevää Laitteen ID:tä ei saatu</string>
+  <string name="explain_send_sms_permission_button">Vahvista</string>
+  <string name="explain_send_sms_permission_msg">Ottaaksesi %s käyttöön, Xiaomi Service Framework lähettää tekstiviestin vahvistaakseen puhelinnumerosi. Operaattorisi veloittaa sinua normaalista tekstiviestistä.</string>
+  <string name="explain_send_sms_permission_title">Vahvista puhelinnumerosi</string>
+  <string name="sim_unactivated_title">SIM-korttisi ei ole aktivoitu</string>
+  <string name="sync_notification_title_format">Synkronoidaan kohdetta: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
-  <string name="xmsf_activate_info">XMSF activate info</string>
+  <string name="xmsf_activate_info">XMSF aktivointitieto</string>
 </resources>
