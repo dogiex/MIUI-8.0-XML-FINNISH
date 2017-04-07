@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enter_lock_wallpaper">Avaa Taustakuvan Karuselli napauttamalla</string>
   <string name="click_to_enter_text">Näytä napauttamalla</string>
   <string name="confirm_pin_msg">Syötä PIN-koodi uudelleen</string>
+  <string name="custom_lock_wallpaper_enter">Avaa</string>
+  <string name="default_lockscreen_unlock_hint_text">Avaa lukitus pyyhkäisemällä ylös</string>
   <string name="delete">Poista</string>
   <string name="emergency_call_string">Hätäpuhelu</string>
   <string name="experimental_try_string">Yritä</string>
@@ -15,6 +18,8 @@
   <string name="find_device_turn_off_flight_mode">Poista lentokone-tila käytöstä</string>
   <string name="fingerprint_add_text">Sormenjäljen käyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
   <string name="fingerprint_add_title">Lisää sormenjälki</string>
+  <string name="fingerprint_enter_second_psw_msg">Syötä Toisen tilan salasana laitteen uudelleenkäynnistymisen jälkeen käyttääksesi sormenjälkitunnistusta</string>
+  <string name="fingerprint_enter_second_psw_title">Syötä Toisen tilan salasana</string>
   <string name="fingerprint_lockout_msg">Odota hetki ja yritä sitten avata lukitus sormenjälkitunnistimella uudelleen</string>
   <string name="fingerprint_not_identified_msg">Avaa laite syöttämällä salasana.</string>
   <string name="fingerprint_not_identified_title">Syötä salasana</string>
@@ -34,8 +39,11 @@
   <string name="invalid_sim_pin_hint">PIN-koodin pitää sisältää neljästä kahdeksaan numeroa</string>
   <string name="invalid_sim_puk_hint">PUK-koodin pitää olla vähintään kahdeksan numeroa pitkä</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virta-painiketta pohjassa</string>
+  <string name="left_action_default_hint_text">Mi Kaukosäädin</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
+  <string name="lock_wallpaper_enter">Avaa</string>
+  <string name="lock_wallpaper_learn_more">Lisää</string>
   <string name="lockscreen_access_pattern_cell_added">Solu lisätty</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio poistettu</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
@@ -67,6 +75,7 @@ Kirjaudu sisään osoitteeseen i.mi.com, mene “Etsi laite (Find device)”, va
   <string name="phone_locked_string">Puhelin on lukittu</string>
   <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %s minuutin kuluttua</string>
   <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %s sekunnin kuluttua</string>
+  <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">Avaa SIM</string>
   <string name="unlock_string">Avaa</string>
   <string name="unlocking_sim_card">Avataan SIM-korttia</string>
