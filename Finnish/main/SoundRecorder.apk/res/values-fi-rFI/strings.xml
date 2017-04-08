@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="alert_message_clear_records">Poistetaanko valitut nauhoitukset?</string>
   <string name="alert_message_delete_record">Poistetaanko valitut nauhoitukset?</string>
   <string name="alert_message_delete_record_title">Poistetaanko nauhoitus?</string>
   <string name="app_name">Ääninauhuri</string>
   <string name="back">Takaisin</string>
+  <string name="btn_clear_records">Poista nauhoitukset (%d kohdetta)</string>
   <string name="button_queue_for_wifi">Odota</string>
   <string name="button_start_now">Lataa</string>
   <string name="call_record">Nauhoitetut puhelut</string>
-  <string name="cloud_record">%d synkronoitu</string>
+  <string name="choose_call_records_count">%d kohdetta</string>
+  <string name="clear_records">Poista synkronoidut nauhoitukset</string>
   <string name="cloud_record_open">Synkronoi nauhoitukset</string>
   <string name="cloud_record_tip">Synkronoi nauhoitukset Mi Pilveen.</string>
   <string name="cloud_status_full_dialog_cancel">Ei nyt</string>
@@ -26,6 +29,7 @@
   <string name="duration_format_hour">%s t</string>
   <string name="duration_format_minute">%s m</string>
   <string name="duration_format_second">%s s</string>
+  <string name="empty_recognition_tip">Tyhjä</string>
   <string name="error_app_internal">Sisäinen sovellusvirhe.</string>
   <string name="error_app_internal_title">Ääninauhurivirhe</string>
   <string name="error_file_access">Tiedostoa ei ole olemassa tai se on korruptoitunut</string>
@@ -37,14 +41,19 @@
   <string name="head_set_tip_dialog_msg">Katkaise yhteys kuulokkeisiin, jotta voit nauhoittaa ääntä tietyllä esiasetuksilla (esim. Musiikki, Ääni).</string>
   <string name="head_set_tip_dialog_ok">Selvä</string>
   <string name="head_set_tip_dialog_title">Käytä sisäistä mikrofonia</string>
-  <string name="fm_record">Radion nauhoitukset</string>
   <string name="invalid_argument">Laiton argumentti</string>
   <string name="keywords_search_call_record">Nauhoita puhelut;Nauhoita puhelu;Puhelun nauhoitus;Puhelun nauhoitukset</string>
   <string name="keywords_search_record">Uusi nauhoitus;Lisää nauhoitus;Nauhoitus;Nauhoitukset;Jäljennös;Sovita;Nauhuri;Puhe nauhuri;Ääni nauhuri;Nauhoita sovellus;Nauhoittaja sovellus;Kuinka nauhoitan;Kuinka nauhoitan ääntä;Missä on nauhoitin;MIUI Ääninauhuri</string>
   <string name="keywords_search_record_list">Nauhuri;Jäljennös;Jäljennökset;Nauhoita;Jaa nauhoitus;Jaa nauhoituksia;Nauhoitus;Nauhoitukset</string>
   <string name="low_battery_error">Alle 5% akkua jäljellä. Varmistaaksemme, ettei nauhoituksesi katoa, nauhoitus pysäytettiin ja tallennettiin.</string>
+  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_title">Akku vähissä</string>
   <string name="mark_point_list_title">Merkkauslista</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
+  <string name="network_tip_dialog_cancel">Peruuta</string>
+  <string name="network_tip_dialog_content">Puheentunnistusmoottorin on yhdistettävä internettiin toimiakseen normaalisti.</string>
+  <string name="network_tip_dialog_ok">Salli</string>
+  <string name="network_tip_dialog_title">Internet-yhteys vaaditaan</string>
   <string name="new_record_name">Uusi nauhoitus</string>
   <string name="no_file">Tyhjä</string>
   <string name="notification_message_all_paused">Odotetaan Wi-Fi-yhteyttä.</string>
@@ -73,6 +82,12 @@
   <string name="recognition_error_internal">Sisäinen virhe</string>
   <string name="recognition_error_stopped">Tunnistus lopetettiin</string>
   <string name="recognition_status_downloading">Ladataan</string>
+  <string name="recognition_error_engine">Tunnistusmoottorin virhe</string>
+  <string name="recognition_error_engine_singleton">Tunnistusmoottori on varattu</string>
+  <string name="recognition_error_format">Virheellinen äänimuoto</string>
+  <string name="recognition_error_internal">Sisäinen virhe</string>
+  <string name="recognition_error_stopped">Tunnistus pysäytettiin</string>
+  <string name="recognition_status_downloading">Ladataan</string>
   <string name="record">Nauhoita</string>
   <string name="record_back_pressed_hint">Lopettaaksesi tunnistuksen, kosketa Takaisin-painiketta uudelleen</string>
   <string name="record_download">Lataa Mi Pilvestä</string>
@@ -84,6 +99,7 @@
   <string name="record_downloading_notification_count">%d ladataan</string>
   <string name="record_list">Nauhoitukset</string>
   <string name="record_list_call">Nauhoitetut puhelut</string>
+  <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Synkronoidut nauhoitukset</string>
   <string name="record_list_cloud_call">Synkronoidut nauhoitetut puhelut</string>
   <string name="record_list_cloud_fm">Synkronoidut FM nauhoitukset</string>
@@ -102,6 +118,7 @@
   <string name="rename_duplicate">Saman niminen nauhoitus on jo olemassa.</string>
   <string name="rename_no_more_tip">Älä näytä uudelleen</string>
   <string name="retry">Yritä uudelleen</string>
+  <string name="runtime_permission_ungranted">Ääninauhuria ei voi käyttää, koska sille ei ole annettu tarvittavia käyttöoikeuksia</string>
   <string name="search_app">Ääninauhuri</string>
   <string name="search_enable_earpiece_title">Käytä vastaanottimen kaiutinta äänen toistamiseen</string>
   <string name="search_led_indicator">Lukitusnäytön ilmoitukset</string>
