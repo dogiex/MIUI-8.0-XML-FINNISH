@@ -76,12 +76,6 @@
   <string name="preference_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
   <string name="preference_tip_rename">Nimeä nauhoitukset käsin</string>
   <string name="recognition_error_cancel">Peruutettu</string>
-  <string name="recognition_error_engine">Tunnistusmoottori ei toiminnassa</string>
-  <string name="recognition_error_engine_singleton">Tunnistusmoottori on varattu</string>
-  <string name="recognition_error_format">Laiton äänimuoto</string>
-  <string name="recognition_error_internal">Sisäinen virhe</string>
-  <string name="recognition_error_stopped">Tunnistus lopetettiin</string>
-  <string name="recognition_status_downloading">Ladataan</string>
   <string name="recognition_error_engine">Tunnistusmoottorin virhe</string>
   <string name="recognition_error_engine_singleton">Tunnistusmoottori on varattu</string>
   <string name="recognition_error_format">Virheellinen äänimuoto</string>
