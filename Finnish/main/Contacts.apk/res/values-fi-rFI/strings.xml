@@ -269,6 +269,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="data_unit">Mt</string>
   <string name="date_time_set">Käytä</string>
   <string name="date_year_toggle">Anna vuosi</string>
+  <string name="default_ringtone">Oletus soittoääni</string>
   <string name="deleteConfirmation">Tämä yhteystieto poistetaan.</string>
   <string name="deleteConfirmationDetail">Poistetaanko \"%s\"?</string>
   <string name="deleteConfirmation_title">Poistetaanko tämä yhteystieto?</string>

@@ -37,6 +37,9 @@
   <string name="day">yksi päivä</string>
   <string name="day_concat">", "</string>
   <string name="days">%d päivää</string>
+  <string name="default_alarm_alert">Oletus herätysääni</string>
+  <string name="default_alarm_title">Oletus soittoääni</string>
+  <string name="default_label">Herätys</string>
   <string name="delete">Poista</string>
   <string name="delete_alarm">Poista herätys</string>
   <string name="delete_alarm_confirm">Poistetaanko tämä herätys?</string>

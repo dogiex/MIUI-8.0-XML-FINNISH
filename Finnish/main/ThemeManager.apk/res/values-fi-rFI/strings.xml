@@ -178,6 +178,7 @@
   <string name="resource_comment_upload_success">Kommenttisi käydään lyhyesti läpi ja näytetään sen jälkeen.</string>
   <string name="resource_continue">Seuraava</string>
   <string name="resource_data_empty">Sisältö on tyhjä.</string>
+  <string name="resource_default">Oletus soittoääni</string>
   <string name="resource_delete">Poista</string>
   <string name="resource_delete_all">Poistetaanko %1$d valittua lähdettä?</string>
   <string name="resource_delete_confirm">Poistetaanko nämä lähteet?</string>
