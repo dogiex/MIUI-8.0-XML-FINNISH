@@ -136,7 +136,7 @@
   <string name="text_btn_pause">Pysäytä</string>
   <string name="text_btn_play">Toista</string>
   <string name="text_btn_recognize">Tunnistus</string>
-  <string name="text_btn_recording">Nauhoitetaan</string>
+  <string name="text_btn_recording">Nauhoita</string>
   <string name="text_btn_wave">Aalto</string>
   <string name="text_finish">Vahvista</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
