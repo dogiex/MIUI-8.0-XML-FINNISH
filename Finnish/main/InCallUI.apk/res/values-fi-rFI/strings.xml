@@ -57,7 +57,7 @@
   <string name="can_not_call_oneself">Tähän numeroon ei voi soittaa</string>
   <string name="can_not_use">Ei voi käyttää</string>
   <string name="cancel">Peruuta</string>
-  <string name="card_title_call_ended">"Puhelu loppui "</string>
+  <string name="card_title_call_ended">"Puhelu päättyi "</string>
   <string name="card_title_conf_call">Konferenssipuhelu</string>
   <string name="card_title_dialing">Soitetaan</string>
   <string name="card_title_hanging_up">"Katkaistaan "</string>
