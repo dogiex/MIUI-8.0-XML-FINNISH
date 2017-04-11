@@ -12,7 +12,7 @@
   <string name="activity_title_contacts_filter">Näytettävät yhteystiedot</string>
   <string name="activity_title_settings">Asetukset</string>
   <string name="addPeopleToGroup">Muokkaa ryhmää, niin voit lisätä ihmisiä.</string>
-  <string name="add_2sec_pause">Lisää 2 sek viive</string>
+  <string name="add_2sec_pause">Lisää 2 s viive</string>
   <string name="add_account">Lisää tili</string>
   <string name="add_blacklist">Lisää estolistalle</string>
   <string name="add_blacklist_dialog_message">Estetäänkö tämä numero?</string>
@@ -56,7 +56,7 @@
   <string name="callAgain">Soita uudelleen</string>
   <string name="callBack">Soita takaisin</string>
   <string name="callDetailTitle">Puhelutiedot</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s sek</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
   <string name="callShortcutActivityTitle">Valitse vastaanottajan numero</string>
   <string name="call_assistant">Soita: %s</string>
   <string name="call_callback">Soita takaisinsoittonumeroon</string>
@@ -95,10 +95,10 @@
   <string name="calllog_menu_edit_before_call">Muokkaa ennen soittoa</string>
   <string name="calllog_menu_send_sms">Lähetä viesti</string>
   <string name="callrecordview_item_newcontact">Uusi yhteystieto</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
   <string name="callrecordview_item_op_time_missed">Ei yhdistänyt</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
-  <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
+  <string name="callrecordview_item_op_time_only_seconds">%d s</string>
   <string name="callrecordview_item_op_time_rejected">Hylätty</string>
   <string name="callrecordview_item_op_time_short_incoming">"Saapuva: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Lähtevä: "</string>
