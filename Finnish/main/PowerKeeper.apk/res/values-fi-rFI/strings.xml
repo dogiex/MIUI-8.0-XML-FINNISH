@@ -89,7 +89,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_app_background_title">Taustalla</string>
   <string name="power_config_app_full_screen_title">Koko näyttö</string>
   <string name="power_config_app_launch_title">Etualalla</string>
-  <string name="power_config_apps">Säästetään virtaa taustalla</string>
+  <string name="power_config_apps">Säästä virtaa taustalla</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Valitse aika, jolloin taustadataa rajoitetaan</string>
   <string name="power_config_bg_data_delay_time_title">Rajoita taustadataa</string>
   <string name="power_config_choose_apps">Valitse sovellukset</string>
@@ -102,7 +102,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_data_connect_title">Data-yhteys</string>
   <string name="power_config_disable_description">MIUI ei rajoita taustatyöskentelyjä</string>
   <string name="power_config_disable_title">Ei käytössä</string>
-  <string name="power_config_enhance_description">MIUI will restrict all background activity when possible</string>
+  <string name="power_config_enhance_description">MIUI rajoittaa kaiken taustatyöskentelyn, kun se on mahdollista</string>
   <string name="power_config_enhance_title">Käytössä</string>
   <string name="power_config_event_delete">Poista</string>
   <string name="power_config_idle_notification_summary">Näytä vain sovelluksen ensimmäinen ilmoitus</string>
@@ -113,7 +113,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_lcd_mode_title">LCD-tila</string>
   <string name="power_config_location_summary">Salli sovelluksen nähdä laitteesi sijainti</string>
   <string name="power_config_location_title">Pääsy sijaintiin</string>
-  <string name="power_config_mode_title">Virransäästö-tilat</string>
+  <string name="power_config_mode_title">Virransäästötilat</string>
   <string name="power_config_phone_charging_title">Ladataan</string>
   <string name="power_config_phone_idle_title">Toimeton</string>
   <string name="power_config_select_apps_empty">Valitse sovellukset napauttamalla</string>
