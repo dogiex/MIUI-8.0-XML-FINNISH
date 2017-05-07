@@ -1658,6 +1658,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="internal_storage">Sisäinen tallennustila</string>
   <string name="internal_storage_sentence">sisäinen tallennustila</string>
   <string name="invalid_location">Asennussijainti on virheellinen.</string>
+  <string name="invalid_size_value">Paketin kokoa ei voitu laskea.</string>
   <string name="ipaddr_label">IP-osoite:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s ja %2$s</string>
@@ -1670,11 +1671,13 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="key_position_cat">Painikkeiden sijainnit</string>
   <string name="key_settings">Painikkeet</string>
   <string name="key_settings_title">Painikkeet</string>
+  <string name="keyboard_and_input_methods_category">Näppäimistö ja syöttötavat</string>
+  <string name="keyboard_layout_default_label">Oletus</string>
   <string name="keyboard_layout_dialog_setup_button">Määritä näppäimistöasettelut</string>
   <string name="keyboard_layout_dialog_switch_hint">Vaihda painamalla Ctrl+välilyönti</string>
   <string name="keyboard_layout_dialog_title">Valitse näppäimistöasettelu</string>
   <string name="keyboard_layout_picker_title">Näppäimistöasettelut</string>
-  <string name="keyboard_settings_category">Näppäimistö ja syöttötavat</string>
+  <string name="keyboard_settings_category">Näppäimistö &amp; syöttötavat</string>
   <string name="keyboard_settings_title">Android-näppäimistö</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
   <string name="keyguard_left_function_chooser_hint_text">Vasen oikotie vaihdettu: %s</string>
@@ -1695,6 +1698,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
   <string name="keywords_data">4G;3G;Data;Mobiilidata;Liikenne;Mobiili internet</string>
   <string name="keywords_date_and_time">kello 24-tuntinen</string>
+  <string name="keywords_default_apps">sovelluksen oletus</string>
+  <string name="keywords_default_phone_app">puhelin oletus;valintanäppäimistö oletus</string>
   <string name="keywords_display">näyttö kosketusnäyttö</string>
   <string name="keywords_display_auto_brightness">näytön himmennys kosketusnäyttö akku</string>
   <string name="keywords_display_brightness_level">näytön himmennys kosketusnäyttö akku</string>
@@ -2437,6 +2442,11 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_page2_small_title">Tosi pieni</string>
   <string name="page_layout_page2_title">Esikatselu</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Poista käytöstä peittämällä näyttö</string>
+  <string name="paper_mode_auto_twilight_summary">Luku-tila on ajastettu automaattisesti illan hämärtyessä</string>
+  <string name="paper_mode_auto_twilight_title">Iltahämärä-tila</string>
+  <string name="paper_mode_customize_time_summary">Luku-tila ajastetaan itse</string>
+  <string name="paper_mode_customize_time_title">Mukautettu aika</string>
   <string name="paper_mode_end_time_title">Lopetusaika</string>
   <string name="paper_mode_start_time_title">Aloitusaika</string>
   <string name="passpoint_content">Kohteen %1$s kirjautumistiedot</string>
@@ -2468,6 +2478,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kieli</string>
   <string name="phone_language_summary"/>
+  <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
   <string name="pico_installed">Asennettu</string>
   <string name="pico_languages_and_voices">Kielet &amp; äänet</string>
   <string name="pico_not_installed">Ei asennettu</string>
@@ -2897,6 +2908,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_range_title">Asetukset</string>
   <string name="screen_paper_mode_set_apps_title">Luku-tilan sovellukset</string>
   <string name="screen_paper_mode_summary">Vähennä näytön taustavalon häikäisyä</string>
+  <string name="screen_paper_mode_time_summary">Luku-tila on ajastettu valitsemallesi tilaan</string>
   <string name="screen_paper_mode_time_title">Ajastettu</string>
   <string name="screen_paper_mode_title">Luku-tila</string>
   <string name="screen_paper_mode_turn_off">Ei käytössä</string>
@@ -4044,12 +4056,13 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vibrate_input_devices_summary">Ohjaa värinä peliohjaimeen, jos ohjain on yhdistetty.</string>
   <string name="vibrate_on_touch_title">Käytä värinää kosketettaessa</string>
   <string name="vibrate_when_ringing_title">Värinä myös puheluille</string>
+  <string name="virtual_keyboard_category">Virtuaalinen näppäimistö</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
-  <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_description">Luotettava kansainvälinen roamingpalvelu</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">No SIM card is required to connect to a data network</string>
-  <string name="virtual_sim_global_title">Data traffic service</string>
-  <string name="virtual_sim_title">Roaming data network</string>
+  <string name="virtual_sim_global_description">SIM-korttia ei vaadita dataverkkoon yhdistämistä varten</string>
+  <string name="virtual_sim_global_title">Dataliikennepalvelu</string>
+  <string name="virtual_sim_title">Roaming dataverkko</string>
   <string name="virus_scan">Virus skannaus</string>
   <string name="virus_scan_app_continue">Jatka skannsuta</string>
   <string name="virus_scan_app_find_risk">%d riskiä löydetty</string>
