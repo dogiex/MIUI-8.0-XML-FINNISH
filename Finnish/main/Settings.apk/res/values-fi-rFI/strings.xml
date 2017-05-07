@@ -920,10 +920,10 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="current_backup_pw_prompt">Anna nykyinen varmuuskopioinnin salasana</string>
   <string name="current_input_method">Nykyinen näppäimistö</string>
   <string name="current_screen_lock">Nykyinen näytön lukitus</string>
-  <string name="current_use_ese">Käytetään upotettua turvaelementtiä</string>
+  <string name="current_use_ese">Käytetään sisäänrakennettua turvaelementtiä</string>
   <string name="current_use_ese_wallet">Käytät Mi Lompakkoa. Se sallii sinun käyttää Mi Pay-maksupalvelua ja NFC kuljetuskorttia.</string>
   <string name="current_use_hce_wallet">Käytät HCE Lompakkoa</string>
-  <string name="current_use_uicc_se">Käytetään SIM-kortin turvasirua</string>
+  <string name="current_use_uicc_se">Käytetään SIM-kortin turvaelementtiä</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (puna-vihersokeus)</string>
   <string name="daltonizer_mode_disabled">Poistettu käytöstä</string>
   <string name="daltonizer_mode_monochromacy">Monokromatismi</string>
