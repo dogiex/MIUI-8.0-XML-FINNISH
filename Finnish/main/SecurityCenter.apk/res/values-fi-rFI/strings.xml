@@ -1503,11 +1503,11 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="settings_battery_consume_abnormal_summary">Vastaanota ilmoituksia, kun akku tyhjenee nopeasti</string>
   <string name="settings_battery_consume_abnormal_title">Akun tyhjenemisen ilmoitukset</string>
   <string name="settings_battery_over_heat_summary">Vastaanota ilmoituksia, kun laite lämpenee normaalia enemmän</string>
-  <string name="settings_battery_over_heat_title">Lämpenemisen ilmoitukset</string>
+  <string name="settings_battery_over_heat_title">Ylikuumenemisen ilmoitus</string>
   <string name="settings_category_other">Muut asetukset</string>
-  <string name="settings_category_overheat">Lämpeneminen</string>
+  <string name="settings_category_overheat">Ylikuumeneminen</string>
   <string name="settings_choice_no_notification">Pois</string>
-  <string name="settings_power_save_ontime_title">Ajasta</string>
+  <string name="settings_power_save_ontime_title">Ajastus</string>
   <string name="settings_title_payment_security">Maksamisen tietoturvan asetukset</string>
   <string name="settings_title_permission">Käyttöoikeusasetukset</string>
   <string name="shake_send_sticker">摇一摇发表情</string>
