@@ -774,7 +774,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="change_storage">Vaihda tallennustila</string>
   <string name="charging_sounds_title">Laturin yhdistämisen ääni</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_update">Tarkasta päivitykset</string>
+  <string name="check_update">Tarkista päivitykset</string>
   <string name="checkbox_notification_same_as_incoming_call">Käytä ilmoituksille puhelun äänenvoimakkuutta</string>
   <string name="checking_decryption">Tarkistetaan…</string>
   <string name="checking_find_device_status">Tarkastetaan Etsi laite -tilaa…</string>
@@ -1453,7 +1453,7 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="free_wifi_connect">Yhdistä</string>
   <string name="free_wifi_connect_dialog_summary">%1$s tarjoaa %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi-verkko saatavilla</string>
-  <string name="free_wifi_connect_fail">Verkkoon ei saada yhteyttä. Tarkasta yhteys ja yritä uudelleen.</string>
+  <string name="free_wifi_connect_fail">Verkkoon ei saada yhteyttä. Tarkista yhteys ja yritä uudelleen.</string>
   <string name="free_wifi_connect_fail2">Kirjautuminen epäonnistui. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="free_wifi_connect_summary">Yhdistä %1$s-verkkoon napauttamalla.</string>
   <string name="free_wifi_connect_title">Wi-Fi saatavilla</string>
@@ -2486,7 +2486,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_charging_duration_ac">%1$s – %2$s kunnes täynnä (laturilataus)</string>
   <string name="power_charging_duration_usb">%1$s – %2$s kunnes täynnä (USB-lataus)</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s kunnes täynnä (Wi-Fi-lataus)</string>
-  <string name="power_checker">Virran Tarkastaja</string>
+  <string name="power_checker">Virran Tarkistaja</string>
   <string name="power_discharge_remaining">%1$s jäljellä</string>
   <string name="power_discharging_duration">%1$s – noin %2$s jäljellä</string>
   <string name="power_flashlight">Taskulamppu</string>
@@ -3064,7 +3064,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_permission_manager">Käyttöoikeudet;Root oikeus</string>
   <string name="search_permission_settings_title">Sovelluksen käyttöoikeudet</string>
   <string name="search_pointer_speed">Osoittimen nopeus</string>
-  <string name="search_power_checker">Virran Tarkastaja</string>
+  <string name="search_power_checker">Virran Tarkistaja</string>
   <string name="search_power_hide_mode_title">Hallitse sovelluksien akunkäyttöä</string>
   <string name="search_power_mode">Virran asetukset</string>
   <string name="search_power_optimize">Akun säästäjä</string>

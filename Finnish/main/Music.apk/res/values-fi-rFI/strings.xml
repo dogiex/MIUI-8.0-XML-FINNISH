@@ -527,7 +527,7 @@
   <string name="nav_online_billboard">Listat</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Soittolistat</string>
-  <string name="network_failure">Tarkasta yhteytesi ja yritä uudelleen.</string>
+  <string name="network_failure">Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="network_request_error">Verkkoon ei saada yhteyttä</string>
   <string name="network_settings_error">Verkkoon ei saada yhteyttä</string>
   <string name="network_traffic">Datan käyttö</string>
@@ -669,7 +669,7 @@
   <string name="restart_immediate">Käynnistä nyt</string>
   <string name="resume_download">Jatka</string>
   <string name="retry">Yritä uudelleen</string>
-  <string name="retry_after_network_available">Verkkoon ei saada yhteyttä. Tarkasta yhteytesi ja yritä uudelleen.</string>
+  <string name="retry_after_network_available">Verkkoon ei saada yhteyttä. Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="retry_download">Yritä uudelleen</string>
   <string name="ringtone_not_support">Tämän kappaleen muoto ei ole tuettu</string>
   <string name="root_downloads">Lataukset</string>

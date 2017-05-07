@@ -123,7 +123,7 @@
   <string name="sns_footer_text">Luotu Mi Muistiolla</string>
   <string name="sns_hint_content">Kirjoita viesti</string>
   <string name="sns_hint_title">Otsikko (valinnainen)</string>
-  <string name="sns_message_disconnect">Verkkoon ei saada yhteyttä. Tarkasta yhteytesi ja yritä uudelleen.</string>
+  <string name="sns_message_disconnect">Verkkoon ei saada yhteyttä. Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="sns_title_edit">Muokkaa otsikkoa</string>
   <string name="sns_title_send">Lähetä viesti</string>
   <string name="sns_toast_empty">Tyhjää viestiä ei voi lähettää</string>

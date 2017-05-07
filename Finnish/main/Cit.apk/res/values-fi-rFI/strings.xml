@@ -21,7 +21,7 @@ Ennen kuin kalibroit laitteen, laita se tasaiselle tasolle."</string>
   <string name="cit_audio_cali_done">Kalibrointi Valmis!</string>
   <string name="cit_audio_cali_failed">Kalibrointi Epäonnistui, yritä uudelleen!</string>
   <string name="cit_audio_cali_file_existed">Musiikkitiedostoa ei ole olemassa, kalibrointia ei voi jatkaa!</string>
-  <string name="cit_audio_cali_playing">Tarkasta Kalibrointitiedot</string>
+  <string name="cit_audio_cali_playing">Tarkista Kalibrointitiedot</string>
   <string name="cit_audio_cali_q">Q:</string>
   <string name="cit_audio_cali_summary">Kalibroi Kaiutin PA</string>
   <string name="cit_audio_cali_t0">T0:</string>

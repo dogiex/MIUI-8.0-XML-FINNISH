@@ -89,7 +89,7 @@ Edellinen varmuuskopiointi: %2$s"</string>
   <string name="find_device_dspt_provision_3">. Voit ottaa tämän toiminnon käyttöön tai poistaa käytöstä milloin tahansa Asetuksista.</string>
   <string name="find_device_dspt_provision_4">Jos vaihdat SIM-kortteja, tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="find_device_enabling">Otetaan käyttöön…</string>
-  <string name="find_device_error_network">Tarkasta datayhteys ja yritä uudelleen.</string>
+  <string name="find_device_error_network">Tarkista datayhteys ja yritä uudelleen.</string>
   <string name="find_device_error_password_changed">Tilin salasana on viimeaikoina vaihdettu.</string>
   <string name="find_device_error_server">Palvelinvirhe</string>
   <string name="find_device_error_unknown">Tuntematon virhe.</string>
@@ -208,7 +208,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_find_device_guide_button">Ota laitteen etsintä käyttöön</string>
   <string name="micloud_find_device_guide_content">Kun vaihdat SIM-korttia, viesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="micloud_find_device_guide_fail_reopen">Ota laitteen etsintä käyttöön Mi Pilvessä</string>
-  <string name="micloud_find_device_guide_fail_sub_net">Tarkasta verkkoyhteys ja yritä uudelleen.</string>
+  <string name="micloud_find_device_guide_fail_sub_net">Tarkista verkkoyhteys ja yritä uudelleen.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Yhteyden aikakatkaisu. Yritä uudelleen myöhemmin.</string>
   <string name="micloud_find_device_guide_micloud">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Synkronoi yhteystiedot, kuvat, muistiot yms. Mi Pilveen</string>
@@ -508,7 +508,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="view_storage_title">Tallennustila</string>
   <string name="virtual_sim_desc">Ota Mi SIM käyttöön paikantaaksesi laite ilman SIM-korttia</string>
   <string name="voip_choose_sim">Valitse puhelinnumero Mi Äänen aktivoimiseksi</string>
-  <string name="wipe_data_dialog_button_check_sync">Tarkasta synkronointi</string>
+  <string name="wipe_data_dialog_button_check_sync">Tarkista synkronointi</string>
   <string name="wipe_data_dialog_msg">%s ei ole synkronoitu, nämä säilytetään puhelimessa.</string>
   <string name="wipe_data_dialog_msg_and_on">, ja muita kohteita</string>
   <string name="wipe_data_dialog_msg_separator">, </string>

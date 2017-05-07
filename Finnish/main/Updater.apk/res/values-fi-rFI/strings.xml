@@ -27,7 +27,7 @@
   <string name="autosetmode">Asetukset</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">Käynnistetäänkö uudelleen Recovery-tilaan?</string>
-  <string name="button_text_check">Tarkasta päivitykset</string>
+  <string name="button_text_check">Tarkista päivitykset</string>
   <string name="button_text_later_reboot">Myöhemmin</string>
   <string name="button_text_reboot">Käynnistä nyt</string>
   <string name="button_text_reboot_hm">Käynnistä nyt</string>
@@ -42,7 +42,7 @@
   <string name="check_local_package_wipe_btn">Erase and update</string>
   <string name="check_local_package_wipe_msg">"You're going to revert to MIUI version %s, which is older than the current version. Your personal data will be erased. Make sure to back up anything you want to keep before you start the process."</string>
   <string name="check_local_package_wipe_title">Erase data</string>
-  <string name="check_new_version">Tarkasta</string>
+  <string name="check_new_version">Tarkista</string>
   <string name="check_update_policy">Asetukset</string>
   <string name="check_update_when_wifi_available">Check using Wi-Fi only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to Wi-Fi"</string>

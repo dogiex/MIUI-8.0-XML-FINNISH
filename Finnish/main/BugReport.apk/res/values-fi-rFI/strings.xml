@@ -126,7 +126,7 @@
   <string name="michat_back_to_detail">Siirry takaisin chattiin</string>
   <string name="michat_cant_access_artificial">Tukeen ei saada yhteyttä juuri nyt</string>
   <string name="michat_cant_join_artificial">Yhteys epäonnistui verkkovirheen takia</string>
-  <string name="michat_check_network">Tarkasta verkkoasetukset</string>
+  <string name="michat_check_network">Tarkista verkkoasetukset</string>
   <string name="michat_close_text">Chat loppui</string>
   <string name="michat_comment_net_error">Verkkoon ei saada yhteyttä, yritä myöhemmin uudestaan</string>
   <string name="michat_comment_submit">Arvioi ja siirry takaisin</string>
@@ -202,7 +202,7 @@
   <string name="network_err">Verkkoon ei saada yhteyttä.</string>
   <string name="network_errorbtntip_custom">Yritä uudestaan</string>
   <string name="network_errorbtntip_login">Kirjaudu</string>
-  <string name="network_errorbtntip_noconnection">Tarkasta verkon asetukset</string>
+  <string name="network_errorbtntip_noconnection">Tarkista verkon asetukset</string>
   <string name="network_errorbtntip_parse">Yritä uudestaan</string>
   <string name="network_errorbtntip_server">Yritä uudestaan</string>
   <string name="network_errorbtntip_timeout">Yritä uudestaan</string>

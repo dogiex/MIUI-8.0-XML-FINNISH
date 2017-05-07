@@ -152,7 +152,7 @@
   <string name="chat_qq">Keskustele QQ:n avulla</string>
   <string name="chat_skype">Keskustele Skypen avulla</string>
   <string name="chat_yahoo">Keskustele Yahoon avulla</string>
-  <string name="checkhint">Tarkasta kohdepuhelin</string>
+  <string name="checkhint">Tarkista kohdepuhelin</string>
   <string name="clearCallLogConfirmation">Kaikki puheluiden lokitiedot tyhjennetään.</string>
   <string name="clearCallLogConfirmation_title">Tyhjennetäänkö kaikki puhelulokitiedot?</string>
   <string name="clearCallLogProgress_title">Tyhjennetään puhelulokia…</string>
@@ -538,7 +538,7 @@ Syy: %s"</string>
   <string name="import_vcard_dialog_message">Tuo vCard?</string>
   <string name="import_weibo_dialog_title">Tuo Weibo -yhteystiedot</string>
   <string name="import_weibo_error_no_matched_contacts">Ei samanlaisia yhteystietoja</string>
-  <string name="import_weibo_error_no_network">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="import_weibo_error_no_network">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="import_weibo_error_no_xiaomi_phone">Puhelinnumeroita ei ole tallennettu Mi Tilille.</string>
   <string name="import_weibo_error_unknown">Tuntematon virhe</string>
   <string name="import_weibo_error_user_cancel">Tuonti peruutettu</string>

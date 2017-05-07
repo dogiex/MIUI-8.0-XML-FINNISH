@@ -278,7 +278,7 @@
   <string name="passport_account_name">Tili: %1$s</string>
   <string name="passport_account_not_activated">Tiliä ei ole aktivoitu</string>
   <string name="passport_account_not_actived">Tiliäsi ei ole aktivoitu</string>
-  <string name="passport_active_email_visit">Tarkasta postilaatikkosi (%s)</string>
+  <string name="passport_active_email_visit">Tarkista postilaatikkosi (%s)</string>
   <string name="passport_activing_account">Aktivoidaan…</string>
   <string name="passport_area_code_hot">USEIN KÄYTETYT</string>
   <string name="passport_area_code_title">Maakoodi</string>

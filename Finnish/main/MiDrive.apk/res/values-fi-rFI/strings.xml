@@ -64,7 +64,7 @@
   <string name="never_notify">Älä näytä uudelleen</string>
   <string name="no_app_found_to_open_file">No app was found to handle this action.</string>
   <string name="no_more_space">Tallennustilaa ei ole tarpeeksi.</string>
-  <string name="no_network">Verkkoon yhdistäminen epäonnistui. Tarkasta verkko-yhteys ja yritä uudelleen.</string>
+  <string name="no_network">Verkkoon yhdistäminen epäonnistui. Tarkista verkko-yhteys ja yritä uudelleen.</string>
   <string name="no_tasks">Ei tehtäviä</string>
   <string name="open_changed_file_message">"Tiedosto, jota yrität avata on muuttunut.
 1. Lataa tiedosto uudelleen päivittääksesi sen.

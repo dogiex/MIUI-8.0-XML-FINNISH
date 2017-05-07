@@ -29,12 +29,12 @@
   <string name="direction_south_west">SW</string>
   <string name="direction_west">W</string>
   <string name="do_not_show_next_time">Älä näytä uudelleen</string>
-  <string name="error_camera_unavailable">Tarkasta, että toinen sovellus ei käytä Kameraa.</string>
+  <string name="error_camera_unavailable">Tarkista, että toinen sovellus ei käytä Kameraa.</string>
   <string name="error_camera_unavailable_title">Kamera ei saatavilla</string>
   <string name="first_using_dialog_message">Kompassi tarvitsee käyttää laitteesi verkkoyhteyttä, kameraa ja sijaintipalvelua toimiakseen normaalisti.</string>
   <string name="first_using_dialog_title">Pääsy käyttöoikeuksiin</string>
   <string name="guide_toast">Kalibroi puhelimesi liikuttamalla sitä alla olevan liikkeen mukaisesti.</string>
-  <string name="keywords_search_compass">Kompassi;Kalibroi kompassi;Paine;Korkeus;Leveys;Pituus;Tarkasta pituus;Tarkasta leveys;MIUI Kompassi;Kompassi sovellus;MIUI Kompassi sovellus;Missä on Kompassi;Lataa Kompassi;Ilmanpaine;Tarkasta korkeus;Kuinka korkealla olen</string>
+  <string name="keywords_search_compass">Kompassi;Kalibroi kompassi;Paine;Korkeus;Leveys;Pituus;Tarkista pituus;Tarkista leveys;MIUI Kompassi;Kompassi sovellus;MIUI Kompassi sovellus;Missä on Kompassi;Lataa Kompassi;Ilmanpaine;Tarkista korkeus;Kuinka korkealla olen</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
   <string name="location_enable">Salli</string>

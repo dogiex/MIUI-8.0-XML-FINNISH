@@ -105,7 +105,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_sec_support">Tarjoaja %s</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">Testaa operaattorin tukiaseman (APN) määritykset.</string>
-  <string name="apn_exception_title">Tarkasta APN määritykset</string>
+  <string name="apn_exception_title">Tarkista APN määritykset</string>
   <string name="app_alarm_title">%s红包活动</string>
   <string name="app_check_no_issue">Näyttää siltä, että akkuongelmia ei löytynyt. Siistiä!</string>
   <string name="app_check_optimize_title">Optimoi taustasovellukset</string>
@@ -209,7 +209,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="apps_item_virus_cleanup_text">Puhdista</string>
   <string name="apps_item_virus_summary_installed">Asennettu sovellus</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
-  <string name="apps_list_header_title_sms">Tarkasta viestien sovellus</string>
+  <string name="apps_list_header_title_sms">Tarkista viestien sovellus</string>
   <string name="apps_list_header_title_sms_access">Rajoita pääsyä vahvistuskoodeihin</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kun akku saavuttaa %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Kun akkua on ladattu %s</string>
@@ -395,7 +395,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="button_text_reject">Hylkää</string>
   <string name="button_text_reject_timer">Hylkää (%d)</string>
   <string name="button_text_security">Tietoturva</string>
-  <string name="button_text_start_optimize">Tarkasta</string>
+  <string name="button_text_start_optimize">Tarkista</string>
   <string name="button_text_uninstall_shortcut">Poista pikakuvake Kotinäytöltä</string>
   <string name="button_text_update_now">Päivitä</string>
   <string name="button_text_view">Optimoi</string>
@@ -553,7 +553,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="diagnostic_attention_dialog_message">%1$s diagnostiikka on käynnissä. Odota sen valmistumista ja yritä uudelleen..</string>
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
-  <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkasta sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
+  <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_paysafety_scan">Lopetetaanko maksamisen tietoturvan tarkistus?</string>
   <string name="dialog_msg_stop_virus_scan">Lopetetaanko virusten skannaus?</string>
   <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
@@ -570,8 +570,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="dnd_mode_type">勿扰方式</string>
   <string name="dnd_no_everything">不进行提醒</string>
   <string name="dnd_no_sound">仅屏蔽声音</string>
-  <string name="dns_exception_summary">Tarkasta reitittimen DNS-asetukset</string>
-  <string name="dns_exception_title">Tarkasta DNS-asetukset</string>
+  <string name="dns_exception_summary">Tarkista reitittimen DNS-asetukset</string>
+  <string name="dns_exception_title">Tarkista DNS-asetukset</string>
   <string name="domestic_roaming_setting">Kansainvälinen roaming</string>
   <string name="download">Lataa</string>
   <string name="downloading">Ladataan</string>
@@ -642,7 +642,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="free_time_traffic_title">Syötä hiljaisen ajan datan raja</string>
   <string name="free_traffic_settings">Hiljaisen ajan datan käyttö asetukset</string>
   <string name="garbage_clean_detail">Tiedot</string>
-  <string name="gateway_exception_summary">Tarkasta reitittimesi ja yritä uudelleen.</string>
+  <string name="gateway_exception_summary">Tarkista reitittimesi ja yritä uudelleen.</string>
   <string name="gateway_exception_summary2">Palvelimeen yhdistäminen epäonnistui</string>
   <string name="gateway_exception_title">Testaa reititin</string>
   <string name="ge">个</string>
@@ -762,7 +762,7 @@ hallitaksesi mobiilidatan käyttöäsi"</string>
   <string name="keywords_networkassistant_1">Data;Liikenne</string>
   <string name="keywords_networkassistant_2">Data;Kalibroi</string>
   <string name="keywords_networkassistant_4">Yhteys;Internet;Testi</string>
-  <string name="keywords_payment_security">Tarkasta maksun turvallisuus;maksun turvallisuus;turvallinen maksaminen;turvalliset maksut;maksun turvaaminen;turvaa maksut;turvatut maksut;turvallinen tila;maksutila</string>
+  <string name="keywords_payment_security">Tarkista maksun turvallisuus;maksun turvallisuus;turvallinen maksaminen;turvalliset maksut;maksun turvaaminen;turvaa maksut;turvatut maksut;turvallinen tila;maksutila</string>
   <string name="keywords_powercenter">Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Tyhjentyy;Akku;Akkuongelmat;Virta;Vuotaa;Kuumenee;Akun säästäjä;Virransäästäjä;Virran säästö;Akun säästö</string>
   <string name="keywords_powercenter_powerrank">Akun käyttö</string>
   <string name="keywords_securitycenter">Tietoturva;Tarkista;Skannaa</string>
@@ -921,7 +921,7 @@ vastausta"</string>
   <string name="menu_item_uninstall">Poista</string>
   <string name="menu_item_virus_cloud_scan_summary">Lähetä sovelluksien nimet ja yksityiskohdat ja skannaa käyttämällä online virustunnisteita</string>
   <string name="menu_item_virus_cloud_scan_title">Online virustunnisteet</string>
-  <string name="menu_item_virus_install_monitor_summary">Tarkasta sovellukset viruksilta, ennen asentamista</string>
+  <string name="menu_item_virus_install_monitor_summary">Tarkista sovellukset viruksilta, ennen asentamista</string>
   <string name="menu_item_virus_install_monitor_title">Skannaa ennen asentamista</string>
   <string name="menu_item_virus_lib_auto_update_summary">Päivitetty %s</string>
   <string name="menu_text_antispam">Estolista</string>
@@ -1295,7 +1295,7 @@ Hiljainen aika: %2$s"</string>
   <string name="pref_title_declaration">Tärkeä vastuuvapauslauseke</string>
   <string name="pref_title_diagnostics_show_float_notification">Kelluvat ilmoitukset</string>
   <string name="pref_title_lock_screen_memory_clean">Tyhjennä lukitusnäytöllä</string>
-  <string name="pref_title_manual_check_virus_db_update">Tarkasta päivitykset</string>
+  <string name="pref_title_manual_check_virus_db_update">Tarkista päivitykset</string>
   <string name="pref_title_mobile_traffic">Näytä datan käyttö lukittuna</string>
   <string name="pref_title_network_diagnostics">Testaa verkko</string>
   <string name="pref_title_over_traffic_limit_warning">Kun ylitetty</string>
@@ -1467,7 +1467,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="safe_result_item_info_wifi_fake">Ei feikki</string>
   <string name="safepay_alert_dialog_button_continue">Jatka</string>
   <string name="safepay_alert_dialog_button_risk">Korjaa</string>
-  <string name="safepay_alert_dialog_button_unknown">Tarkasta uudelleen</string>
+  <string name="safepay_alert_dialog_button_unknown">Tarkista uudelleen</string>
   <string name="safepay_alert_dialog_title_risk">Riski löytyi! Keskeytä meneillään oleva maksu!</string>
   <string name="safepay_alert_dialog_title_unknown">Maksun turvallisuutta ei voitu tarkastaa. Yhdistä internettiin ja yritä uudelleen.</string>
   <string name="sc_allow_network_dialog_message">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>
@@ -1571,7 +1571,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sp_settings_info_monitor">Monitoroi järjestelmäympäristöä, kun maksusovellus käynnistetään</string>
   <string name="sp_settings_plugin_monitor_summary">Skannaa maksujen liitännäiset, kun ne käynnistetään</string>
   <string name="sp_settings_plugin_monitor_title">Monitoroi maksujen liitännäisiä</string>
-  <string name="sp_settings_root_title_omit">Tarkasta root oikeus</string>
+  <string name="sp_settings_root_title_omit">Tarkista root oikeus</string>
   <string name="sp_settings_title_input_method">Turvaa IME</string>
   <string name="sp_toast_removed_from_sign_white_list">Poistettiin poikkeuksista. Kohde skannataan seuraavalla kerralla.</string>
   <string name="sponsored">Sponsoroitu</string>
@@ -1605,7 +1605,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_flow_verify_failed">Säädä automaattisesti datan käyttöä välttääksesi lisämaksuilta</string>
   <string name="summary_garbage_clean">Vapauta tilaa tyhjentämällä välimuisti</string>
   <string name="summary_garbage_lib">Käytä viimeisimpiä virustunnisteita poistaaksesi vakoilu- ja mainosohjelmat, ja muut ei halutut roskat</string>
-  <string name="summary_install_virus">Tarkasta sovellukset viruksilta ennen asentamista</string>
+  <string name="summary_install_virus">Tarkista sovellukset viruksilta ennen asentamista</string>
   <string name="summary_live_talk_purchase">Säästä 70% puhelinlaskustasi</string>
   <string name="summary_mifi_insurance">Hanki vuoden vaihtotakuu, joka kattaa myös laitteistovauriot</string>
   <string name="summary_miui_update">Päivitys saatavilla: %s.</string>
@@ -1706,7 +1706,7 @@ Varmista, että se on tarkka ja lähetä se meille."</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Can't get data usage SMS"</string>
   <string name="tc_sms_report_receive_content">Data usage report SMS contents (Confirm data usage stats)</string>
   <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
-  <string name="tc_sms_report_receive_num">Recipient number</string>
+  <string name="tc_sms_report_receive_num">Vastaanottajan numero</string>
   <string name="tc_sms_report_send_num">Operaattorin puhelin #</string>
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
@@ -1875,7 +1875,7 @@ Tap to top up your balance."</string>
   <string name="traffic_setting_fragment_brand">Merkki</string>
   <string name="traffic_setting_fragment_button1_text">Peruuta</string>
   <string name="traffic_setting_fragment_button2_text">Tallenna</string>
-  <string name="traffic_setting_fragment_get_template_falure">Verkkoon ei saada yhteyttä. Tarkasta datayhteytesi ja yritä uudelleen.</string>
+  <string name="traffic_setting_fragment_get_template_falure">Verkkoon ei saada yhteyttä. Tarkista datayhteytesi ja yritä uudelleen.</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Älä näytä uudelleen</string>
   <string name="traffic_setting_fragment_loading_text">Haetaan verkkotietoja…</string>
   <string name="traffic_setting_fragment_no_network">Verkkoon ei saada yhteyttä</string>

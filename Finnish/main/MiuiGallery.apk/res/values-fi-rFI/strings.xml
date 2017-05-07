@@ -704,7 +704,7 @@
   <string name="error_socket_timeout">Verkkoyhteys aikakatkaistiin</string>
   <string name="error_title">Synkronointi epäonnistui</string>
   <string name="error_unauthorized">Synkronointi on poistettu käytöstä liian monen kirjautumisyrityksen takia.</string>
-  <string name="error_unknown_host">Verkkoon ei saada yhteyttä. Tarkasta datayhteytesi ja yritä uudelleen.</string>
+  <string name="error_unknown_host">Verkkoon ei saada yhteyttä. Tarkista datayhteytesi ja yritä uudelleen.</string>
   <string name="exit">Poistu</string>
   <string name="exit_share">Poistu albumista</string>
   <string name="exit_share_failed">Poistuminen epäonnistui %1$s</string>
@@ -734,7 +734,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">Toimintoa ei voitu suorittaa loppuun</string>
   <string name="fail_to_pick_email">Virheellinen sähköpostiosoite</string>
-  <string name="fail_to_sync_album">Albumin synkronointi epäonnistui. Tarkasta datayhteytesi ja yritä uudelleen.</string>
+  <string name="fail_to_sync_album">Albumin synkronointi epäonnistui. Tarkista datayhteytesi ja yritä uudelleen.</string>
   <string name="family_member_invitation_text">Muu perheenjäsen</string>
   <string name="fast_share_auto_render">Kaunista</string>
   <string name="fast_share_auto_render_finish">Kaunistettu</string>
@@ -1009,7 +1009,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_backup_sub_title">Ota käyttöön löytääksesi lisää kuvia</string>
   <string name="search_backup_title">Mi Pilven synkronointi</string>
   <string name="search_connection_error">Verkkoon ei saatu yhteyttä</string>
-  <string name="search_connection_error_and_set">Tarkasta verkkoasetukset napauttamalla</string>
+  <string name="search_connection_error_and_set">Tarkista verkkoasetukset napauttamalla</string>
   <string name="search_error">Tapahtui virhe</string>
   <string name="search_error_and_retry">Tapahtui virhe, yritä uudelleen napauttamalla</string>
   <string name="search_hint">Hae kuvia</string>
@@ -1207,7 +1207,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="video_not_exist">Videota ei ole olemassa</string>
   <string name="view_by_gallery_tip">MIUI Galleria</string>
   <string name="view_face_album">Näytä albumi</string>
-  <string name="view_queuing_status">Tarkasta tila</string>
+  <string name="view_queuing_status">Tarkista tila</string>
   <string name="welcome_to_micloud">Tervetuloa Mi Pilveen</string>
   <string name="welcome_to_slim">Optimoi paikallinen tallennustila</string>
   <string name="where_is_barcode">Missä on QR-koodi?</string>

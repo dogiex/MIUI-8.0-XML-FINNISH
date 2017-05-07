@@ -75,7 +75,7 @@ Kirjaudu sisään uudelleen."</string>
 Ota yhteyttä asiakaspalveluumme"</string>
   <string name="mibi_error_auth_summary">Kirjaudu Mi Tilillesi uudelleen</string>
   <string name="mibi_error_cert_date_summary">"Varmenteen päiväysvirhe.
-Tarkasta paikallinen päivämäärä ja yritä uudelleen."</string>
+Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_error_common_summary">Järjestelmävirhe. Yritä myöhemmin uudelleen.</string>
   <string name="mibi_error_deduct">Automaattista Maksuprotokollaa ei voitu aktivoida</string>
   <string name="mibi_error_expired_summary">Tilauksesi on vanhentunut</string>
@@ -94,7 +94,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_error_recharge_result_uncertain">Lataamisen tulos epäselvä.</string>
   <string name="mibi_error_recharge_success_pay_fail">Lataaminen onnistui maksu epäonnistui.</string>
   <string name="mibi_error_server_summary">Palvelinvirhe. Yritä myöhemmin uudelleen</string>
-  <string name="mibi_error_user_id_mismatch_summary">Tarkasta tilisi ja kirjaudu uudelleen</string>
+  <string name="mibi_error_user_id_mismatch_summary">Tarkista tilisi ja kirjaudu uudelleen</string>
   <string name="mibi_error_web_summary">Palvelinvirhe</string>
   <string name="mibi_fee">%1$s Mi Krediittiä</string>
   <string name="mibi_forget_password">Unohdin salasanan</string>
@@ -244,7 +244,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_progress_success_recharge_title">%1$s Mi Krediitin top-up suoritettu</string>
   <string name="mibi_progress_voucher_creating">Topping up Mi Krediitti kortti…</string>
   <string name="mibi_progress_warning_check_with_contact">"Maksu ei näy tililläsi vielä.
-Tarkastamme sen uudelleen kahden työpäivän sisällä.
+Tarkistamme sen uudelleen kahden työpäivän sisällä.
 Asiakaspalvelu: 400-100-5678"</string>
   <string name="mibi_progress_warning_waiting">Maksu ei näy tililläsi vielä.</string>
   <string name="mibi_prompt_info_button_hint">Huomio(%d)</string>
@@ -311,7 +311,7 @@ Asiakaspalvelu: 400-100-5678"</string>
   <string name="passport_account_name">Tili: %1$s</string>
   <string name="passport_account_not_activated">Tiliä ei ole aktivoitu</string>
   <string name="passport_account_not_actived">Tiliäsi ei ole aktivoitu</string>
-  <string name="passport_active_email_visit">Tarkasta postilaatikkosi %s</string>
+  <string name="passport_active_email_visit">Tarkista postilaatikkosi %s</string>
   <string name="passport_activing_account">Aktivoidaan…</string>
   <string name="passport_area_code_hot">VIIMEKSI KÄYTETTY</string>
   <string name="passport_area_code_title">Maakoodi</string>

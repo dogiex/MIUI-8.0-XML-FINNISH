@@ -291,7 +291,7 @@
   <string name="search_hotwords_switch">Vaihda</string>
   <string name="search_input_empty_toast">Hae tai syötä URL-osoite</string>
   <string name="search_input_hint">Hae tai syötä URL-osoite</string>
-  <string name="search_nonetwork_prompt">Tarkasta verkkoyhteys ja yritä uudelleen</string>
+  <string name="search_nonetwork_prompt">Tarkista verkkoyhteys ja yritä uudelleen</string>
   <string name="search_nonetwork_refresh">Päivitä</string>
   <string name="search_recommend_empty">Ei kohteita</string>
   <string name="search_vif_empty">Ei suositeltavia kohteita</string>
@@ -323,7 +323,7 @@
   <string name="sniff_find_some_suffix">kohdetta</string>
   <string name="sniff_finding_resource_prompt">Etsitään lähdettä…</string>
   <string name="sniff_hot_text">Samankaltaisia</string>
-  <string name="sniff_no_network_tip">Tarkasta verkkoyhteytesi ja yritä uudelleen</string>
+  <string name="sniff_no_network_tip">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
   <string name="sniff_no_result_text">Tuloksia ei löytynyt</string>
   <string name="sniff_result_empty_prompt">Lähdettä ei löytynyt</string>
   <string name="sniff_result_num_prefix">Löydetty</string>
@@ -355,7 +355,7 @@
   <string name="sniff_text_sniff_next_page">Jatka</string>
   <string name="sniff_vip_tip_speedup">Voit kokeilla nopeuden kiihdyttäjää kerran ilmaiseksi</string>
   <string name="sniff_vip_tip_vip">Xunlei voi jatkaa nopeutesi kiihdyttämistä</string>
-  <string name="start_analysis">Tarkasta nyt</string>
+  <string name="start_analysis">Tarkista nyt</string>
   <string name="start_download">Lataa</string>
   <string name="start_xunlei_speedup_info">Kirjaudu sisään kiihdyttääksesi latauksia.</string>
   <string name="starting_analysis">Haetaan tietoja…</string>

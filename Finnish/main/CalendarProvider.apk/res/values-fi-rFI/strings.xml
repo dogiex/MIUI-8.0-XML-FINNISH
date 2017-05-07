@@ -12,8 +12,8 @@
   <string name="debug_tool_email_subject">Kalenterin vianetsintä liitteenä</string>
   <string name="debug_tool_message">Olet 1) tekemässä kopiota kalenteritietokannastasi SD-kortille/USB-tallennusvälineelle, joka on kaikkien sovelluksien luettavissa, ja 2) lähettämässä tietokantaa sähköpostitse. Muista poistaa tietokanta kopioituasi sen laitteelta tai saatuasi sähköpostin.</string>
   <string name="debug_tool_start_button">Aloita</string>
-  <string name="holiday_data_no_network">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteys ja yritä uudestaan.</string>
-  <string name="holiday_data_update_failed">Päivitys epäonnistui. Tarkasta verkkoyhteys ja yritä uudestaan.</string>
+  <string name="holiday_data_no_network">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteys ja yritä uudestaan.</string>
+  <string name="holiday_data_update_failed">Päivitys epäonnistui. Tarkista verkkoyhteys ja yritä uudestaan.</string>
   <string name="holiday_data_update_succeed">Päivitys valmis</string>
   <string name="holiday_data_updating">Päivitetään…</string>
   <string name="holiday_update_summary">Päivitä kalenteritiedot napauttamalla.</string>

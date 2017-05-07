@@ -37,8 +37,8 @@
   <string name="STRANGER_BLOCK">Vieras estolista</string>
   <string name="action_source_sms_title">Estetty tekstiviesti</string>
   <string name="ad_block_hint">%d estetty</string>
-  <string name="ad_install_monitor">Tarkasta sovellukset mainosohjelmien varalta</string>
-  <string name="ad_install_monitor_hint">Tarkasta mainosohjelmien varalta, kun asennat sovelluksia</string>
+  <string name="ad_install_monitor">Tarkista sovellukset mainosohjelmien varalta</string>
+  <string name="ad_install_monitor_hint">Tarkista mainosohjelmien varalta, kun asennat sovelluksia</string>
   <string name="ad_permission_hint">Käyttämällä Mainosten estoa saattaa vaikuttaa sovelluksiesi suorituskykyyn tai estää niitä toimimasta normaalisti.</string>
   <string name="ad_relative_setting">Liittyvät asetukset</string>
   <string name="ad_single_block_hint">Estetty</string>

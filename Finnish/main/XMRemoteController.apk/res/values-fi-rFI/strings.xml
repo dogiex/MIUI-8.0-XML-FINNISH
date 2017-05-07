@@ -145,7 +145,7 @@
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s已取消收藏</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
-  <string name="check_upgrade">Tarkasta päivitykset</string>
+  <string name="check_upgrade">Tarkista päivitykset</string>
   <string name="choose_ac">Valitse kaukosäädin</string>
   <string name="choose_address_title">Valitse sijainti</string>
   <string name="choose_key_to_fix">Valitse korjattava painike</string>

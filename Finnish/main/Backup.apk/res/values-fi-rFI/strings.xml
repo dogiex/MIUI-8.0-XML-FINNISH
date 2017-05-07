@@ -99,7 +99,7 @@
   <string name="err_bakfile_broken">Varmuuskopiota ei voida käyttää</string>
   <string name="err_filesystem_mount">Reitittimen taltioon ei päästä käsiksi</string>
   <string name="err_low_storage">Ei tarpeeksi tilaa</string>
-  <string name="err_router_disconnected">Tarkasta reitittimesi yhteys ja yritä uudestaan.</string>
+  <string name="err_router_disconnected">Tarkista reitittimesi yhteys ja yritä uudestaan.</string>
   <string name="err_router_files_delete">Reitittimen varmuuskopioita ei voitu poistaa</string>
   <string name="err_unknown">Tuntematon virhe</string>
   <string name="err_version_too_old">Varmuuskopion tiedosto on liian vanha.</string>
@@ -186,7 +186,7 @@ http://www.miliao.com
   <string name="router_backup_hint">Pidä laite käynnissä</string>
   <string name="sc_bad_request">Virheellinen pyyntö</string>
   <string name="sc_internal_server_error">Sisäinen palvelinvirhe</string>
-  <string name="sc_network_unavailable">Tarkasta yhteytesi ja yritä uudelleen.</string>
+  <string name="sc_network_unavailable">Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="sc_others">Ilmeni virhe</string>
   <string name="sc_precondition_failed">Sinun täytyy ensiksi lisätä sähköposti Mi Tilillesi.</string>
   <string name="sc_request_timeout">Pyyntö aikakatkaistiin</string>

@@ -78,7 +78,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_checker_recent_group_title">Viimeaikaiset</string>
   <string name="power_checker_running_btn_title">Tapa prosessi</string>
   <string name="power_checker_running_group_title">Käynnissä</string>
-  <string name="power_checker_title">Virran Tarkastaja</string>
+  <string name="power_checker_title">Virran Tarkistaja</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s käynnistyy usein</string>
   <string name="power_checker_wakeup_alarm_title">%1$s käynnistyy usein</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s etsii Wi-Fi:ä usein</string>

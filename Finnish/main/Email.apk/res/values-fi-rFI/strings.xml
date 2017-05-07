@@ -654,7 +654,7 @@
   <string name="network_invaild">Verkkoon ei voi yhdistää</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="network_tip">Todennus epäonnistui, tarkasta verkkoyhteytesi</string>
-  <string name="network_try_again">Tarkasta verkkoyhteys ja yritä uudelleen</string>
+  <string name="network_try_again">Tarkista verkkoyhteys ja yritä uudelleen</string>
   <string name="network_unavailable">Verkko ei saatavilla</string>
   <string name="new_incoming_messages_one">Uusi viesti lähettäjältä %s. Näytä.</string>
   <string name="new_messages">%1$d uutta viestiä</string>

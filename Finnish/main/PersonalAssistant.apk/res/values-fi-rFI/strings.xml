@@ -24,8 +24,8 @@
   <string name="calendar_parent">Kalenteri</string>
   <string name="card_settings">Kortin asetukset</string>
   <string name="card_settings_rule">Kortin järjestysasetukset</string>
-  <string name="check_network">Tarkasta verkkoasetukset</string>
-  <string name="check_network_retry">Tarkasta verkkoasetukset ja yritä uudelleen</string>
+  <string name="check_network">Tarkista verkkoasetukset</string>
+  <string name="check_network_retry">Tarkista verkkoasetukset ja yritä uudelleen</string>
   <string name="choose_city">Valitse kaupunki</string>
   <string name="choose_upload">Valitse lähetettävät tiedostot</string>
   <string name="city_name_spell">Syötä kaupunki</string>

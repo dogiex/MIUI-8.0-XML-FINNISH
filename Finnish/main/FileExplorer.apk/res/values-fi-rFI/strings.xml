@@ -225,7 +225,7 @@
   <string name="ftp_account_req_notice">4–16 merkkiä, kirjaimia ja numeroita, merkkikokoriippuvainen (ISOT ja pienet)</string>
   <string name="ftp_anonymous_login">Anonyymi kirjautuminen</string>
   <string name="ftp_invalid_username_or_password">Syöttämäsi käyttäjänimi tai salasana on väärin.</string>
-  <string name="ftp_open_port_error">Portin avaaminen epäonnistui. Tarkasta verkkoyhteytesi tai nollaa portin numero.</string>
+  <string name="ftp_open_port_error">Portin avaaminen epäonnistui. Tarkista verkkoyhteytesi tai nollaa portin numero.</string>
   <string name="ftp_password_hint">Salasana</string>
   <string name="ftp_port_number">Portin numero</string>
   <string name="ftp_transfer_secure">Turvallisuus</string>
@@ -584,8 +584,8 @@
   <string name="share_to">Jaa…</string>
   <string name="share_topic_desc">Lähetä videoita voittaaksesi palkintoja</string>
   <string name="share_topic_title">Katson #%1$s#, katso sinäkin!"</string>
-  <string name="shared_sticker_network_permission_tip">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteytesi ja yritä uudelleen.</string>
-  <string name="shared_sticker_page_no_file">Verkkoon ei saada yhteyttä. Tarkasta verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="shared_sticker_network_permission_tip">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="shared_sticker_page_no_file">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="shared_sticker_str">Viimeaikainen</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
   <string name="shared_sticker_use_tip">"You can send the stickers you saved from chats just like you send images.

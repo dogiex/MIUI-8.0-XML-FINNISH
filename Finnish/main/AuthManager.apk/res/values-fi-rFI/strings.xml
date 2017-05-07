@@ -27,7 +27,7 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Root oikeudet</string>
   <string name="Generic_Canceling">Peruutetaan…</string>
-  <string name="Generic_Check">Tarkasta</string>
+  <string name="Generic_Check">Tarkista</string>
   <string name="Generic_Clean">Tyhjennä</string>
   <string name="Generic_Configuration">Asetukset</string>
   <string name="Generic_Copyright">LBE Privacy Guardin tarjoama</string>

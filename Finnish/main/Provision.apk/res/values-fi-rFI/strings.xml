@@ -58,7 +58,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="sim_card_detection">Aseta SIM-kortti</string>
   <string name="sim_card_detection_info">Asettaaksesi SIM-korttisi, lue laitteen mukana tulleet ohjeet.</string>
   <string name="sim_dectection_next">Jatka</string>
-  <string name="sim_redetection">Tarkasta uudelleen</string>
+  <string name="sim_redetection">Tarkista uudelleen</string>
   <string name="skip_underline">Ohita tämä vaihe</string>
   <string name="summary_not_set">Ei asetettu</string>
   <string name="terms_of_use">Käyttöehdot</string>
