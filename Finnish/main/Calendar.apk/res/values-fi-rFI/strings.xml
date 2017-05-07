@@ -346,9 +346,7 @@
   <string name="preferences_alerts_ringtone_title">Ääni</string>
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
-  <string name="preferences_default_allday_reminder_default_value">480</string>
   <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
-  <string name="preferences_default_reminder_default_value">0</string>
   <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
   <string name="preferences_home_tz_default">Europe/Helsinki</string>
