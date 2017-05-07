@@ -59,6 +59,17 @@
         <item>Läpinäkyvä</item>
         <item>Valkoinen tausta</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Tapahtuman alkaessa</item>
+        <item>5 minuuttia ennen</item>
+        <item>10 minuuttia ennen</item>
+        <item>15 minuuttia ennen</item>
+        <item>30 minuuttia ennen</item>
+        <item>1 tuntia ennen</item>
+        <item>1 päivää ennen</item>
+        <item>2 päivää ennen</item>
+        <item>1 viikkoa ennen</item>
+    </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 tuntia ennen</item>
         <item>4 tuntia ennen</item>
@@ -155,5 +166,9 @@
         <item>Ei koskaan</item>
         <item>Kuukausittain</item>
         <item>Vuosittain</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Eteenpäin</item>
+        <item>Taaksepäin</item>
     </string-array>
 </resources>
