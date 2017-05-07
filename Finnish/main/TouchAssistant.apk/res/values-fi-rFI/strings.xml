@@ -46,6 +46,7 @@
   <string name="pref_category_quick_pay">Nopea Maksaminen</string>
   <string name="pref_category_quick_settings">Pika asetukset</string>
   <string name="pref_category_system">Järjestelmän asetukset</string>
+  <string name="restore_default">Palauta oletusasetukset</string>
   <string name="restore_intro">Palauta oletusasetukset, mukaan lukien pikatoiminnot ja niiden järjestys. Laitteesi Sovellusdataan ei kosketa.</string>
   <string name="show_on_keyguard">Näytä Lukitusnäytöllä</string>
   <string name="theme_manager_not_supported">Teema-manageri ei ole tuettu.</string>
