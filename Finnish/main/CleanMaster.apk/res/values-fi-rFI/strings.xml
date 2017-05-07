@@ -348,9 +348,15 @@
   <string name="low_memory_warning_dialog_msg">Jatka vapauttamalla tilaa laitteeltasi</string>
   <string name="low_memory_warning_dialog_ok_button">Poista</string>
   <string name="low_memory_warning_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
+  <string name="main_title_filesize">%1$s roskaa</string>
   <string name="mainbtn_text_quick_cleanup">Puhdista %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>
   <string name="megabyteShort">Mt</string>
   <string name="memeory_check_content">%1$d sovellusta, muisti %2$s</string>
+  <string name="menu_add_to_white_list">Lisää poikkeuksiin</string>
+  <string name="menu_clear">Tyhjennä</string>
+  <string name="menu_install">Asenna tämä sovellus</string>
+  <string name="menu_view">Näytä kansiossa</string>
   <string name="month_day_format">"d. MMMM'ta'"</string>
   <string name="msg_cleanup_db_update_checking">Tarkastetaan päivityksiä…</string>
   <string name="msg_cleanup_db_update_time_unknown">Viimeisin päivitys tuntematon</string>
@@ -416,6 +422,7 @@
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
+  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
   <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
