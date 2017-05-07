@@ -258,7 +258,7 @@
   <string name="message_download_failed_title">Viestiä ei ole ladattu</string>
   <string name="message_expired">Vanhentunut</string>
   <string name="message_failed">Epäonnistui</string>
-  <string name="message_failed_body">Tarkasta viesti ja yritä uudelleen napauttamalla.</string>
+  <string name="message_failed_body">Tarkista viesti ja yritä uudelleen napauttamalla.</string>
   <string name="message_number">Puhelinnumero:</string>
   <string name="message_pending">Lähetetään</string>
   <string name="message_queued">Viestiä ei voi lähettää juuri nyt. Viesti lähetetään, kun palvelu tulee saataville.</string>
@@ -392,6 +392,7 @@
   <string name="pref_delivery_ringtone">Toimitetun viestin ääni</string>
   <string name="pref_edit_smsc_address">Lyhytsanomakeskus (SMSC)</string>
   <string name="pref_forward_title">Välitä</string>
+  <string name="pref_hide_verification_code_summary">Piilota viesti-ilmoitukset lukitusnäytöltä, jotka sisältää kertakäyttösalasanoja</string>
   <string name="pref_messages_to_save">Aseta tallennettavien viestien määrä</string>
   <string name="pref_mms_settings_title">Multimediaviestit (MMS)</string>
   <string name="pref_msg_trash_bin_title">Viimeksi poistetut viestit</string>
@@ -622,9 +623,10 @@
   <string name="timed_message_to">vast.ott.</string>
   <string name="title_allow_network_access">Päivitä tieto automaattisesti</string>
   <string name="title_collapse_sp_messages">Ryhmitä ilmoitukset</string>
+  <string name="title_hide_verification_code">Piilota salasanaviestit lukitusnäytöltä automaattisesti</string>
   <string name="title_show_blocked_messages">Näytä estetyt tekstiviestit</string>
-  <string name="title_show_sms_template">Tarkasta tekstiviesti vahvistuskoodeista</string>
-  <string name="title_show_sms_template_in">Tarkasta tekstiviesti salasanoista</string>
+  <string name="title_show_sms_template">Tarkista tekstiviesti vahvistuskoodeista</string>
+  <string name="title_show_sms_template_in">Tarkista tekstiviesti salasanoista</string>
   <string name="title_timed_message_dialog">Aseta ajastettu viesti</string>
   <string name="title_use_gsm_alphabet">Käytä GSM aakkosia</string>
   <string name="to_address_label">"Vast.ott.: "</string>
