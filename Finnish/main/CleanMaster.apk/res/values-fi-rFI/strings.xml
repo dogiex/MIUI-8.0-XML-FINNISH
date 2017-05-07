@@ -531,7 +531,7 @@
   <string name="total_clean_text">Tyhjennä</string>
   <string name="traffic_top">TOP 5 dataa vievää sovellusta</string>
   <string name="update_date_format">d.M.yyyy</string>
-  <string name="virus_scan">Virus skanneri</string>
+  <string name="virus_scan">Virustarkistus</string>
   <string name="vungle_ad_name">Vungle广告</string>
   <string name="wechat_add_to_cleanlist">Puhdistettiin onnistuneesti</string>
   <string name="wechat_cache_files">WeChat välimuisti</string>

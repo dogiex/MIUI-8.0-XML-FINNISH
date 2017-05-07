@@ -27,7 +27,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="action_button_text_60_80">Korjaa</string>
   <string name="action_button_text_80_100">Optimoi</string>
   <string name="activity_title_antispam">Estolista</string>
-  <string name="activity_title_antivirus">Virus skanneri</string>
+  <string name="activity_title_antivirus">Virustarkistus</string>
   <string name="activity_title_apps_manager">Sovellukset</string>
   <string name="activity_title_auto_start_manager">Käynnistys</string>
   <string name="activity_title_create_shortcut">Hallitse pikakuvakkeita</string>
@@ -925,7 +925,7 @@ vastausta"</string>
   <string name="menu_item_virus_install_monitor_title">Skannaa ennen asentamista</string>
   <string name="menu_item_virus_lib_auto_update_summary">Päivitetty %s</string>
   <string name="menu_text_antispam">Estolista</string>
-  <string name="menu_text_antivirus">Virus skanneri</string>
+  <string name="menu_text_antivirus">Virustarkistus</string>
   <string name="menu_text_garbage_cleanup">Puhdistaja</string>
   <string name="menu_text_garbage_cleanup_danger">%s yli</string>
   <string name="menu_text_license_manager">Käyttöoikeudet</string>
@@ -1097,7 +1097,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="password_promotion_postbutton_text">Mene Asetuksiin</string>
   <string name="password_promotion_title">Yksityisyydensuojan salasana</string>
   <string name="path_antispam">Järjestelmäsovellukset/Tietoturva/Estolista</string>
-  <string name="path_antivirus">Järjestelmäsovellukset/Tietoturva/Virus skanneri</string>
+  <string name="path_antivirus">Järjestelmäsovellukset/Tietoturva/Virustarkistus</string>
   <string name="path_app_permissions">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet/Sovelluksen käyttöoikeudet</string>
   <string name="path_auto_restart">Järjestelmäsovellukset/Tietoturva/Käyttöoikeudet/Hallitse käynnistystä</string>
   <string name="path_buy_flow">Järjestelmäsovellukset/Tietoturva/Data usage/Osta mobiilidataa</string>
@@ -1404,7 +1404,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="repair_loading_text">Odota hetki…</string>
   <string name="replace_dns">Korvaa DNS automaattisesti</string>
   <string name="resource_antispam">Estolista</string>
-  <string name="resource_antivirus">Virus skanneri</string>
+  <string name="resource_antivirus">Virustarkistus</string>
   <string name="resource_app_permissions">Sovelluksien käyttöoikeudet</string>
   <string name="resource_auto_restart">Hallitse käynnistystä</string>
   <string name="resource_buy_flow">Osta mobiilidataa</string>
@@ -1822,7 +1822,7 @@ Varmista, että se on tarkka ja lähetä se meille."</string>
   <string name="toast_show_notification">Kiinnitettiin ilmoitusalueelle</string>
   <string name="toast_update_file_explore">文件管理器版本过低，请到应用商店更新</string>
   <string name="toast_update_miui_rom">MIUI版本过低，请先更新系统</string>
-  <string name="toast_virus_cloudscan">Virus skanneri käyttää verkkotunnisteita</string>
+  <string name="toast_virus_cloudscan">Virustarkistus käyttää verkkotunnisteita</string>
   <string name="toast_virus_in_cloud_scanning">Pilven skannausta ei voi lopettaa</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Kuukausittainen suunnitelma vaihdettu %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Päivitettiin datapaketti</string>
@@ -1932,7 +1932,7 @@ Tap to top up your balance."</string>
   <string name="virus_ad_icon_text">Mainos</string>
   <string name="virus_already_update">Virustunnisteet on ajan tasalla</string>
   <string name="virus_dp_update_title">Virustunnisteiden päivitys</string>
-  <string name="virus_scan">Virus skanneri</string>
+  <string name="virus_scan">Virustarkistus</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">Päivitys epäonnistui</string>
   <string name="virus_update_success">Päivitettiin onnistuneesti</string>

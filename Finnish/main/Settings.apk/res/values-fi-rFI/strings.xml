@@ -4100,7 +4100,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="virus_scanner_select_multi">Enemmän, kuin yhden virustunnisteen valitseminen hidastaa asentamista ja skannausta</string>
   <string name="virus_scanner_select_single">Käytä vain luotetun lähteen virustunnisteita.</string>
   <string name="virus_scanner_select_trust_lib">Valitse virustunnisteet</string>
-  <string name="virus_scanner_title">Virus skanneri</string>
+  <string name="virus_scanner_title">Virustarkistus</string>
   <string name="virus_scanner_update_lib">Päivitä virustunnisteet</string>
   <string name="voice_category">Puhe</string>
   <string name="voice_input_output_settings">Äänisyöte ja -tulo</string>
