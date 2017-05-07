@@ -1595,6 +1595,8 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="home_key">Koti</string>
   <string name="home_settings">Koti</string>
   <string name="home_work_profile_not_supported">Ei tue työprofiileja</string>
+  <string name="http_invoke_app">Verkkosovellukset</string>
+  <string name="http_invoke_app_summary">Avaa sovellukset nopeammin ilman niiden asentamista</string>
   <string name="ignore_optimizations_off">Optimoi</string>
   <string name="ignore_optimizations_off_desc">Pidentää akun kestoa.</string>
   <string name="ignore_optimizations_on">Älä optimoi</string>
