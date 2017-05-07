@@ -639,6 +639,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mobile_network_settings_not_available">Tämä käyttäjä ei saa muuttaa matkapuhelinverkon asetuksia</string>
   <string name="mobile_networks">Matkapuhelinverkon asetukset</string>
   <string name="msim_apn_not_set">Ei asetettu</string>
+  <string name="msim_default_setting">Oletusasetukset</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_title">Lopeta SIM-kortin käyttö</string>
   <string name="msim_enable_sim">Ota käyttöön</string>
