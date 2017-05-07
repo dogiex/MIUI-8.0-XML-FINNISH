@@ -152,8 +152,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_permission_manager_title">Käyttöoikeudet</string>
   <string name="app_manager_permission_notify_summary">Merkit, kelluvat, ja Lukitusnäytön ilmoitukset</string>
   <string name="app_manager_permission_notify_title">Ilmoitukset</string>
-  <string name="app_manager_permission_power_saving_summary">MIUI Akun säästäjä</string>
-  <string name="app_manager_permission_power_saving_title">Akun säästäjä</string>
+  <string name="app_manager_permission_power_saving_summary">MIUI Virransäästö</string>
+  <string name="app_manager_permission_power_saving_title">Virransäästö</string>
   <string name="app_manager_permission_read_contact_over">Luki yhteystietoja 100000+ kertaa</string>
   <string name="app_manager_permission_read_mms_over">Luki tekstiviestejä 100000+ kertaa</string>
   <string name="app_manager_permission_read_record_over">Luki soittohistoriaa 100000+ kertaa</string>
@@ -669,8 +669,8 @@ hallitaksesi mobiilidatan käyttöäsi"</string>
   <string name="handle_text_system">Järjestelmä</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Apua</string>
-  <string name="hide_mode_app_background_setting_text">Sovelluskohtainen akun säästäjä</string>
-  <string name="hide_mode_summary_text">Hallitse sovelluksien taustatyöskentelyä akun säästämiseksi</string>
+  <string name="hide_mode_app_background_setting_text">Sovelluskohtainen virransäästö</string>
+  <string name="hide_mode_summary_text">Hallitse sovelluksien taustatyöskentelyä virran säästämiseksi</string>
   <string name="hide_mode_title_text">Piilota-tila</string>
   <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
   <string name="hints_auto_start_warning_info">Jos rajoitat sovelluksien käynnistymisiä, jotkut sovellukset ja palvelut eivät saa ilmoituksia.</string>
@@ -763,10 +763,10 @@ hallitaksesi mobiilidatan käyttöäsi"</string>
   <string name="keywords_networkassistant_2">Data;Kalibroi</string>
   <string name="keywords_networkassistant_4">Yhteys;Internet;Testi</string>
   <string name="keywords_payment_security">Tarkista maksun turvallisuus;maksun turvallisuus;turvallinen maksaminen;turvalliset maksut;maksun turvaaminen;turvaa maksut;turvatut maksut;turvallinen tila;maksutila</string>
-  <string name="keywords_powercenter">Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Tyhjentyy;Akku;Akkuongelmat;Virta;Vuotaa;Kuumenee;Akun säästäjä;Virransäästäjä;Virran säästö;Akun säästö</string>
+  <string name="keywords_powercenter">Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Tyhjentyy;Akku;Akkuongelmat;Virta;Vuotaa;Kuumenee;Virransäästö;Virransäästäjä;Virran säästö;Akun säästö</string>
   <string name="keywords_powercenter_powerrank">Akun käyttö</string>
   <string name="keywords_securitycenter">Tietoturva;Tarkista;Skannaa</string>
-  <string name="keywords_securitycenter_settings">Akun käyttö;Hallitse käynnistystä;Asenna käyttäen USB;Sovelluksen käyttöoikeudet;Osta mobiilidataa;Estolista;Datan käyttö;Kalibroi datapaketti;Testaa verkko;Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Vuotaa;Akkuongelmat;Virta;Akun säästäjä;Virransäästäjä;Virran säästö;Akun säästö;Käynnistys;Käyttöoikeudet;Automaattinen käynnistys;MIUI automaattinen käynnistys;Sovelluksen automaattinen käynnistys;käynnistä sovellus automaattisesti;Ketjuttainen käynnistys;Ketjumainen käynnistys;Käynnistää;USB asennus;Asenna tietokoneelta;ADB asennus;Sijainti;Pääsy yhteystietoihin;data;mobiilidata;osta dataa;topup data;datapaketti;Estä;Musta lista;Älykäs estolista;Huijaus;Myyjä;Agentit;Puhelun estolista;Viestin estolista;Viestien estolista;Tekstiviestin estolista;mustalista;musta lista;estolista;esto lista;huijaus;estä yhteystieto;estä yhteystietoja;Liikenne;Kalibroi;Yhteys;Internet;Testaa;Akun käyttö</string>
+  <string name="keywords_securitycenter_settings">Akun käyttö;Hallitse käynnistystä;Asenna käyttäen USB;Sovelluksen käyttöoikeudet;Osta mobiilidataa;Estolista;Datan käyttö;Kalibroi datapaketti;Testaa verkko;Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Vuotaa;Akkuongelmat;Virta;Virransäästö;Virransäästäjä;Virran säästö;Akun säästö;Käynnistys;Käyttöoikeudet;Automaattinen käynnistys;MIUI automaattinen käynnistys;Sovelluksen automaattinen käynnistys;käynnistä sovellus automaattisesti;Ketjuttainen käynnistys;Ketjumainen käynnistys;Käynnistää;USB asennus;Asenna tietokoneelta;ADB asennus;Sijainti;Pääsy yhteystietoihin;data;mobiilidata;osta dataa;topup data;datapaketti;Estä;Musta lista;Älykäs estolista;Huijaus;Myyjä;Agentit;Puhelun estolista;Viestin estolista;Viestien estolista;Tekstiviestin estolista;mustalista;musta lista;estolista;esto lista;huijaus;estä yhteystieto;estä yhteystietoja;Liikenne;Kalibroi;Yhteys;Internet;Testaa;Akun käyttö</string>
   <string name="keywords_usb_install">USB asennus;asenna tietokoneelta;ADB asennus</string>
   <string name="kilobyteShort">Kt</string>
   <string name="kilobyte_per_second">Kt/s</string>
@@ -1010,7 +1010,7 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="notification_battery_over_heat_summary">Etsi mikä aiheuttaa lämpenemisen ja viilennä laite.</string>
   <string name="notification_battery_over_heat_title">Nykyinen lämpötila on %d℃</string>
   <string name="notification_charging_title">Ladataan</string>
-  <string name="notification_exit_power_save_mode">Akun säästäjä sammutettiin</string>
+  <string name="notification_exit_power_save_mode">Virransäästö sammutettiin</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
   <string name="notification_item">Suojaa valitut sovellukset Sovelluslukolla</string>
   <string name="notification_mask_summary">Älä näytä Lukitusnäytöllä ja Ilmoitusalueella olevien ilmoituksien sisältöä</string>
@@ -1189,18 +1189,18 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_optimize_loading">Ladataan</string>
   <string name="power_optimize_manual_catagory_title">Manuaali</string>
   <string name="power_optimize_open_hide_mode">Ota Piilo-tila käyttöön</string>
-  <string name="power_optimize_save_mode_not_opened">Akun säästäjä ei käytössä</string>
+  <string name="power_optimize_save_mode_not_opened">Virransäästö ei käytössä</string>
   <string name="power_optimize_save_on_lockscreen">Säästä virtaa, kun laite on lukittuna</string>
   <string name="power_phone">Äänipuhelut</string>
-  <string name="power_save_mode_enable">Akun säästäjä</string>
+  <string name="power_save_mode_enable">Virransäästö</string>
   <string name="power_save_mode_end_time">Lopetus</string>
   <string name="power_save_mode_ontime_enabled">Ajasta vaihtaminen tilojen välillä</string>
   <string name="power_save_mode_start_time">Aloitus</string>
-  <string name="power_save_mode_summary" formatted="false">Seuraa taustaprosesseja ja poista synkronointi käytöstä. Akun säästäjä poistetaan käytöstä automaattisesti kun akun tila on 60% tai 100% ladattu.</string>
+  <string name="power_save_mode_summary" formatted="false">Seuraa taustaprosesseja ja poista synkronointi käytöstä. Virransäästö poistetaan käytöstä automaattisesti kun akun tila on 60% tai 100% ladattu.</string>
   <string name="power_save_on_time_end_time_summary_na">Minne</string>
   <string name="power_save_on_time_start_time_summary_na">Mistä</string>
-  <string name="power_save_summary_text">Vähennä sovellusten taustatyöskentelyä, lopeta synkronointi ja minimoi järjestelmän animaatioita ottamalla Akun säästäjä käyttöön.</string>
-  <string name="power_save_title_text">Akun säästäjä</string>
+  <string name="power_save_summary_text">Vähennä sovellusten taustatyöskentelyä, lopeta synkronointi ja minimoi järjestelmän animaatioita ottamalla Virransäästö käyttöön.</string>
+  <string name="power_save_title_text">Virransäästö</string>
   <string name="power_screen">Näyttö</string>
   <string name="power_settings_category_title">Akun ilmaisin</string>
   <string name="power_settings_number">Prosentti</string>
@@ -1414,7 +1414,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="resource_networkassistant_4">Testaa verkko</string>
   <string name="resource_payment_security">Maksun turvallisuus</string>
   <string name="resource_powercenter">Akun käyttö</string>
-  <string name="resource_powercenter_powerrank">Akku</string>
+  <string name="resource_powercenter_powerrank">Akku &amp; suorituskyky</string>
   <string name="resource_securitycenter">Tietoturva</string>
   <string name="resource_securitycenter_settings">Tietoturva</string>
   <string name="resource_usb_install">Asenna USB:n kautta</string>
@@ -1789,7 +1789,7 @@ Varmista, että se on tarkka ja lähetä se meille."</string>
   <string name="title_permission_no">Käyttöoikeuden hallinta ei käytössä</string>
   <string name="title_permission_root">Root oikeus</string>
   <string name="title_permission_yes">Käyttöoikeuden hallinta käytössä</string>
-  <string name="title_power_optimizer">Akun säästäjä</string>
+  <string name="title_power_optimizer">Virransäästö</string>
   <string name="title_realname_verify">ID varmistus</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="title_show_notification">Ilmoitusalueen widgetti</string>

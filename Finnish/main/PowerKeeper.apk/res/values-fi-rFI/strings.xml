@@ -4,7 +4,7 @@
   <string name="action_settings">Asetukset</string>
   <string name="activity_title_poweranalyze">Testaa akku</string>
   <string name="activity_title_powerconfigure">Akun asetukset</string>
-  <string name="activity_title_poweroptimize">Akun säästäjä</string>
+  <string name="activity_title_poweroptimize">Virransäästö</string>
   <string name="add_applications">Valitse sovellukset</string>
   <string name="add_apps_title">Sovellukset</string>
   <string name="add_user_define_group_failed">Profiilia ei voitu luoda</string>
@@ -16,20 +16,20 @@
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Valitse sovellukset</string>
   <string name="app_list_total">%d sovellusta</string>
-  <string name="app_name">Akun säästäjä</string>
+  <string name="app_name">Virransäästö</string>
   <string name="background">Sovellus on käynnissä taustalla</string>
-  <string name="config_description">MIUI osaa tunnistaa tietynlaisten sovelluksien taustaprosessit (esim. viesti- ja navigointisovellukset, mediasoittimet), ja asettaa Akun säästäjän niin, ettei se vaikuta sovelluksien tärkeisiin taustatyöskentelyihin.</string>
+  <string name="config_description">MIUI osaa tunnistaa tietynlaisten sovelluksien taustaprosessit (esim. viesti- ja navigointisovellukset, mediasoittimet), ja asettaa Virransäästön niin, ettei se vaikuta sovelluksien tärkeisiin taustatyöskentelyihin.</string>
   <string name="config_mode_title">Tausta-asetukset</string>
-  <string name="config_no_restrict_description">Akun säästäjä ei rajoita sovelluksen työskentelyä</string>
+  <string name="config_no_restrict_description">Virransäästö ei rajoita sovelluksen työskentelyä</string>
   <string name="config_no_restrict_title">Ei rajoituksia</string>
   <string name="config_restrict_function_description">Saattaa vaikuttaa joihinkin toimintoihin (esim. push-ilmoitukset), mutta sovelluksia ei suljeta</string>
   <string name="config_restrict_function_title">Rajoita taustasovelluksia</string>
   <string name="config_restrict_running_description">Sovellukset suljetaan virran säästämiseksi</string>
   <string name="config_restrict_running_title">Rajoita taustatyöskentelyä</string>
   <string name="config_suggest_description">"Pidä tärkeät prosessit käytössä tunnistamalla sovellukset ja niiden taustatyöskentelyt.
-Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
-  <string name="config_suggest_suffix_title">MIUI Akun säästäjä (suositus)</string>
-  <string name="config_suggest_title">MIUI Akun säästäjä</string>
+Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
+  <string name="config_suggest_suffix_title">MIUI Virransäästö (suositus)</string>
+  <string name="config_suggest_title">MIUI Virransäästö</string>
   <string name="disabled">Ei käytössä</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
@@ -40,7 +40,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="full_screen_enter">Siirry koko näytön tilaan</string>
   <string name="full_screen_exit">Poistu koko näytön tilasta</string>
   <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Toiminto saattaa vaikuttaa verkkoyhteyteen, sijaintipalveluun, Radioon, Ajastimeen jne. Tämä määritys on sopiva useammille sovelluksille, mutta jos tietty sovellus käyttäytyy taustalla epänormaalisti, voit muokata asetuksia sovelluskohtaisesti.</string>
-  <string name="hide_mode_ultimate_desc">Ultimate-tila on käytössä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta poistamalla Akun säästäjä käytöstä.</string>
+  <string name="hide_mode_ultimate_desc">Ultimate-tila on käytössä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta poistamalla Virransäästö käytöstä.</string>
   <string name="high">Suorituskyky</string>
   <string name="hints_loading_text">Odota hetki…</string>
   <string name="location_disable_description">Taustalla olevat sovellukset voivat käyttää sijaintipalvelua hetkittäin, mutta jatkuva käyttö on rajoitettu</string>
@@ -133,15 +133,15 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_dialog_lcd_mode_title">Näyttö-tila</string>
   <string name="power_dialog_new_event_fail">Uusia tapahtumia ei voitu lisätä</string>
   <string name="power_dialog_ok">OK</string>
-  <string name="power_dialog_power_keeper_disable">Poistetaanko Akun säästäjä käytöstä?</string>
-  <string name="power_dialog_power_keeper_enable">Otetaanko Akun säästäjä käyttöön?</string>
+  <string name="power_dialog_power_keeper_disable">Poistetaanko Virransäästö käytöstä?</string>
+  <string name="power_dialog_power_keeper_enable">Otetaanko Virransäästö käyttöön?</string>
   <string name="power_dialog_screen_brightness_title">Kirkkaus</string>
   <string name="power_event_user_define_title">Uusia tapahtumia</string>
   <string name="power_event_view_event_title">Käynnistimet</string>
   <string name="power_hide_mode_app_list_summary">Sovellusasetukset</string>
-  <string name="power_hide_mode_summary">Säästä akkua rajoittamalla yksittäisten sovelluksien taustaprosesseja, Wi-Fi- ja mobiilidata-yhteyksiä, sekä GPS:ää</string>
+  <string name="power_hide_mode_summary">Säästä virtaa rajoittamalla yksittäisten sovelluksien taustaprosesseja, Wi-Fi- ja mobiilidata-yhteyksiä, sekä GPS:ää</string>
   <string name="power_hide_mode_title">Hallitse sovelluksien akun käyttöä</string>
-  <string name="power_keeper">Akun säästäjä</string>
+  <string name="power_keeper">Virransäästö</string>
   <string name="power_mode_cpu_state_high">Suorituskyky</string>
   <string name="power_mode_cpu_state_high_desc">Suosi suorituskykyä akunkeston sijaan</string>
   <string name="power_mode_cpu_state_low">Akun säästö</string>
@@ -151,7 +151,7 @@ Akun säästäjä kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_mode_view_app_list_title">Sovellukset</string>
   <string name="power_mode_view_event_title">Tapahtumat</string>
   <string name="power_mode_view_user_define_title">Uusi tapahtuma</string>
-  <string name="power_optimize_activity_profile_file_error">Akun säästäjä virhe</string>
+  <string name="power_optimize_activity_profile_file_error">Virransäästö virhe</string>
   <string name="ragment_sys_listempty">Ei järjestelmäsovelluksia</string>
   <string name="reading">Luku-tila</string>
   <string name="screen_off">Näyttö pois päältä</string>

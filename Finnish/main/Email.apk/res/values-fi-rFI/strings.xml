@@ -217,8 +217,8 @@
   <string name="auto_sync_off">Tilin synkronointi ei ole käytössä.</string>
   <string name="bank_card_detail">Luottokortin tiedot</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
-  <string name="battery_saver">Akun säästäjä</string>
-  <string name="battery_saver_keywords">akun säästäjä;sähköposti akku</string>
+  <string name="battery_saver">Virransäästö</string>
+  <string name="battery_saver_keywords">Virransäästö;sähköposti akku</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="bill_center_setting">Maksuasetukset</string>
@@ -393,7 +393,7 @@
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Sähköposti</string>
   <string name="email_setting">Sähköpostiasetukset</string>
-  <string name="email_setting_keywords">Tilit;Lisää tili;sähköposti tilit;lisää sähköposti tili;vahvista ennen poistamista;poista vahvista;vahvista ennen lähettämistä;lähetä vahvista;poista viesti ketju;poista uudelleenohjaa;keskustelu näkymä;sähköposti keskustelu;akun säästäjä;sähköposti akku;lähetä palaute;lähetä lokit</string>
+  <string name="email_setting_keywords">Tilit;Lisää tili;sähköposti tilit;lisää sähköposti tili;vahvista ennen poistamista;poista vahvista;vahvista ennen lähettämistä;lähetä vahvista;poista viesti ketju;poista uudelleenohjaa;keskustelu näkymä;sähköposti keskustelu;Virransäästö;sähköposti akku;lähetä palaute;lähetä lokit</string>
   <string name="email_sina">Sina Sähköposti</string>
   <string name="empty_account_tip">Tiliä ei löytynyt</string>
   <string name="empty_email_tip">Tyhjää viesti ei voi lähettää</string>
@@ -729,7 +729,7 @@ Kokeile vaihtaa toiseen sähköpostitiliin."</string>
   <string name="password_expired_ticker">Näytönlukituksen PIN-koodi tai salasana on vanhentunut.</string>
   <string name="path_about_account_setting">Sähköposti/Asetukset/Tilit</string>
   <string name="path_about_add_account">Sähköposti/Asetukset/Lisää tili</string>
-  <string name="path_about_battery_saver">Sähköposti/Asetukset/Akun säästäjä</string>
+  <string name="path_about_battery_saver">Sähköposti/Asetukset/Virransäästö</string>
   <string name="path_about_confirm_before_delete">Sähköposti/Asetukset/Vahvista ennen poistamista</string>
   <string name="path_about_confirm_before_send">Sähköposti/Asetukset/Vahvista ennen lähettämistä</string>
   <string name="path_about_conversation_view">Sähköposti/Asetukset/Keskustelu näkymä</string>
@@ -892,7 +892,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="save_attachment">Tallenna</string>
   <string name="save_draft_failed">Luonnoksen tallentaminen epäonnistui</string>
   <string name="save_power_summary">Aseta virransäästöaika</string>
-  <string name="save_power_title">Akun säästäjä</string>
+  <string name="save_power_title">Virransäästö</string>
   <string name="saved">Tallennettu, %s</string>
   <string name="saving">Tallennetaan…</string>
   <string name="sdcard_cannot_use">SD-korttia ei voi käyttää</string>

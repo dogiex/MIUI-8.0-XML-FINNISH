@@ -120,7 +120,7 @@
   <string name="softap_notifif_title">Hotspot \"%s\" on käytössä</string>
   <string name="start_security_permission_verify_text">Varmenna käyttöoikeudet Mi Tiliä käyttäen</string>
   <string name="status_bar_toggle_auto_brightness">Kirkkaus</string>
-  <string name="status_bar_toggle_battery_saver">Akun säästäjä</string>
+  <string name="status_bar_toggle_battery_saver">Virransäästö</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Näytön jako</string>
   <string name="status_bar_toggle_data">Mobiilidata</string>

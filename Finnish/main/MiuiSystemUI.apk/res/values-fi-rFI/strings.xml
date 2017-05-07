@@ -158,7 +158,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="dlg_error_title">USB-toiminto epäonnistui</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Ajotila käytössä - Aja varovaisesti</string>
-  <string name="enable_power_save_mode">Ota Akun säästäjä käyttöön</string>
+  <string name="enable_power_save_mode">Ota Virransäästö käyttöön</string>
   <string name="expanded_confirm_disable_notification">Piilota</string>
   <string name="expanded_notification_manager">Hallitse ilmoituksia</string>
   <string name="ext_media_badremoval_notification_message">Poista USB-muisti turvallisesti ennen sen ottamista irti laitteesta välttääksesi tiedostojen menettämistä.</string>
@@ -218,7 +218,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="notification_hidden_text">Sisältö piilotettu</string>
   <string name="notification_low_battery_action_btn">Ota käyttöön</string>
   <string name="notification_low_battery_need_charge">Akku on vähissä. Lataa laitteesi.</string>
-  <string name="notification_low_battery_open_save_mode">Ota Akun säästäjä käyttöön</string>
+  <string name="notification_low_battery_open_save_mode">Ota Virransäästö käyttöön</string>
   <string name="notification_low_battery_title">Akku vähissä: %d%%</string>
   <string name="notification_manager">Hallitse ilmoituksia</string>
   <string name="notification_manager_des">Suodata ja hallitse ilmoituksia</string>

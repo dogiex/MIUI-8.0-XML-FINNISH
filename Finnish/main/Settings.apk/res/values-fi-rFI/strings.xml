@@ -429,8 +429,8 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="battery_saver_turn_on_automatically_never">Ei koskaan</string>
   <string name="battery_saver_turn_on_automatically_pct">kun akkua jäljellä %1$s</string>
   <string name="battery_saver_turn_on_automatically_title">Käynnistä automaattisesti</string>
-  <string name="battery_settings">Akku &amp; suorituskyky</string>
-  <string name="battery_settings_title">Akku &amp; suorituskyky</string>
+  <string name="battery_settings">Akku</string>
+  <string name="battery_settings_title">Akku</string>
   <string name="battery_since_reset">Akun käyttö tilastojen tyhjentämisen jälkeen</string>
   <string name="battery_since_unplugged">Akun käyttö laturin irrottamisen jälkeen</string>
   <string name="battery_stats_camera_on_label">Kamera käytössä</string>
@@ -2512,13 +2512,13 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_discharge_remaining">%1$s jäljellä</string>
   <string name="power_discharging_duration">%1$s – noin %2$s jäljellä</string>
   <string name="power_flashlight">Taskulamppu</string>
-  <string name="power_hide_mode_summary">Säästä akkua rajoittamalla yksittäisten sovelluksien taustatyöskentelyä, Wi-Fi- ja mobiilidatayhteyksiä, ja GPS:n käyttöä</string>
+  <string name="power_hide_mode_summary">Säästä virtaa rajoittamalla yksittäisten sovelluksien taustatyöskentelyä, Wi-Fi- ja mobiilidatayhteyksiä, ja GPS:n käyttöä</string>
   <string name="power_hide_mode_title">Hallitse sovelluksien akunkäyttöä</string>
-  <string name="power_idle">Puhelin on käyttämätön</string>
+  <string name="power_idle">Puhelin käyttämättä</string>
   <string name="power_mgr">Akku</string>
   <string name="power_mode">Virran asetukset</string>
   <string name="power_mode_balanced_title">Tasapainoinen</string>
-  <string name="power_optimize">Akun säästäjä</string>
+  <string name="power_optimize">Virransäästö</string>
   <string name="power_overcounted">Yliarvioitu</string>
   <string name="power_phone">Äänipuhelut</string>
   <string name="power_screen">Näyttö</string>
@@ -2529,7 +2529,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_usage_list_summary">Kulutus täyteen lataamisen jälkeen</string>
   <string name="power_usage_not_available">Akun käyttötietoja ei saatavilla</string>
   <string name="power_usage_summary">Mikä on käyttänyt akkua</string>
-  <string name="power_usage_summary_title">Akku</string>
+  <string name="power_usage_summary_title">Akku &amp; suorituskyky</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="ppp_number">ppp_number</string>
   <string name="pref_button_light">Painikkeiden valot</string>
@@ -3090,8 +3090,8 @@ Näytön kiinnityksen käyttö:
   <string name="search_power_checker">Virran Tarkistaja</string>
   <string name="search_power_hide_mode_title">Hallitse sovelluksien akunkäyttöä</string>
   <string name="search_power_mode">Virran asetukset</string>
-  <string name="search_power_optimize">Akun säästäjä</string>
-  <string name="search_power_usage_summary_title">Akku &amp; suorituskyky;Akku ja suorituskyky;Akku;Suorituskyky;Akun säästäjä;Säästä akkua</string>
+  <string name="search_power_optimize">Virransäästö</string>
+  <string name="search_power_usage_summary_title">Akku &amp; suorituskyky;Akku ja suorituskyky;Akku;Suorituskyky;Virransäästö;Säästä akkua</string>
   <string name="search_pref_edge_handgrip">Reunasäätimet</string>
   <string name="search_pref_volume_wake_title">Herätä Äänenvoimakkuuspainikkeella</string>
   <string name="search_preferred_network_type_title">Ensisijaisen verkon tyyppi</string>
