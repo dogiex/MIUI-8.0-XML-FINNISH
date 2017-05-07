@@ -86,6 +86,7 @@ Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&am
   <string name="account_add">Lisää</string>
   <string name="account_autostar_label">Käynnistys</string>
   <string name="account_list">Muut tilit</string>
+  <string name="account_other">Muu</string>
   <string name="account_settings">Tilit</string>
   <string name="account_settings_menu_auto_sync">Tietojen autom. synkronointi</string>
   <string name="account_settings_menu_auto_sync_personal">Omien tietojen autom. synkron.</string>
@@ -4593,6 +4594,9 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla "&lt;b&gt;Takaisin&lt;/b&gt;.</
   <string name="wrong_pin_code_pukked">Virheellinen SIM-kortin PIN-koodi. Sinun on nyt otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</string>
   <string name="xiaomi_account">Mi Tili</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
+  <string name="xiaomi_cloud_service_description">Mi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi, ja auttaa löytämään laitteesi käyttämällä Etsi laite -toimintoa.</string>
+  <string name="xiaomi_cloud_service_disabled">Ei käytössä</string>
+  <string name="xiaomi_cloud_service_unknown">Tuntematon</string>
   <string name="xiaomi_money_service">Mi Krediitti</string>
   <string name="xiaomi_router_available_notif_summary">Näytä lisää tietoa napauttamalla.</string>
   <string name="xiaomi_router_available_notif_title">Mi Reititin saatavilla</string>
