@@ -129,3 +129,4 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - WeatherProvider.apk
 - XiaomiAccount.apk
 - XiaomiServiceFramework.apk
+- XMRemoteController.apk
