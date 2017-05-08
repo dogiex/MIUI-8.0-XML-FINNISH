@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Odota hetki…</string>
+  <string name="account_error">Tilivirhe</string>
   <string name="app_name">Mi Pilvi varmuuskopio​inti</string>
   <string name="as_new_device">Korvaa edellinen Kotinäyttö ja asetukset</string>
   <string name="as_new_device_summary">Poista edelliset Mi Pilvi varmuuskopiot</string>
@@ -11,6 +12,7 @@
   <string name="backup_finished_notification_content">Varmuuskopioitiin Kotinäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
+  <string name="backup_size_summary">Koko: %1$s</string>
   <string name="backup_success">Varmuuskopiointi onnistui</string>
   <string name="backup_successfully">Varmuuskopiointi onnistui</string>
   <string name="backup_to_cloud">Varmuuskopioi sovellus</string>

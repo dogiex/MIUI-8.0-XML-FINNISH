@@ -68,6 +68,7 @@
   <string name="add_shortcut_success">Pikakuvake lisätty</string>
   <string name="add_to_bookmark">Kirjanmerkit</string>
   <string name="add_to_desk">Lisää Kotinäytölle</string>
+  <string name="add_to_desk_lite_mode_toast">Kotinäytölle lisääminen epäonnistui lite-tilassa</string>
   <string name="add_to_desk_success">Lisätty Kotinäytölle</string>
   <string name="add_to_quicklink">Aloitussivu</string>
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
@@ -85,6 +86,7 @@
   <string name="aqi_quality_index_moderate">ILI %1$s</string>
   <string name="aqi_quality_index_pure">ILI %1$s</string>
   <string name="aqi_quality_index_unhealthy">ILI %1$s</string>
+  <string name="autoSwithcingSearchEngineTips">Hakumoottori vaihdettiin tapasi mukaan</string>
   <string name="autofill_keyboard_accessory_content_description">Suosituksia saatavilla</string>
   <string name="autofill_popup_content_description">Näytetään automaattisen täyttämisen ponnahdusikkuna</string>
   <string name="autologin_bar_error">Kirjautuminen epäonnistui</string>
@@ -92,6 +94,7 @@
   <string name="autologin_bar_login_text">Kirjaudu</string>
   <string name="autologin_bar_text">Kirjautunut käyttäjänä</string>
   <string name="back_button_label">Takaisin</string>
+  <string name="back_description">Takaisin</string>
   <string name="block">Estä</string>
   <string name="block_ads_choice_block">Estä</string>
   <string name="block_ads_choice_continue">Jatka</string>
@@ -112,6 +115,7 @@
   <string name="bookmark_title_lable">Otsikko</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Olet jo tallentanut tämän osoitteen kirjanmerkkeihin</string>
+  <string name="bookmark_url_can_not_null">Syötä URL-osoite.</string>
   <string name="bookmark_url_lable">Osoite</string>
   <string name="bookmark_url_not_valid">Tämä URL ei ole kelvollinen.</string>
   <string name="bookmarks_content_is_null">Ei kirjanmerkkejä</string>
@@ -161,6 +165,7 @@
   <string name="color_picker_dialog_title">Valitse väri</string>
   <string name="color_picker_hue">Sävy</string>
   <string name="color_picker_saturation">Kylläisyys</string>
+  <string name="color_picker_value">Arvo</string>
   <string name="comment_app_menu">Kommentoi</string>
   <string name="comment_hint">Kommentoi</string>
   <string name="comment_menu">Kommentoi</string>
@@ -245,6 +250,8 @@
   <string name="download_btn_select_none">Poista valinnat</string>
   <string name="download_complete">Lataus valmis</string>
   <string name="download_completed">Ladattu</string>
+  <string name="download_default_path_txt">Muista tämä valinta</string>
+  <string name="download_dialog_default_path_invalid">Valitsemasi sijainti latauksille on virheellinen. Tallennetaan oletussijaintiin…</string>
   <string name="download_dialog_file_length_hint_txt">Tiedoston koko: </string>
   <string name="download_dialog_file_length_lessthan1kb">vähemmän kuin 1 Kt</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ei voitu ladata</string>
@@ -307,10 +314,12 @@
   <string name="find_on_page_next">Seuraava</string>
   <string name="find_on_page_prev">Edellinen</string>
   <string name="find_previous">Etsi edellinen</string>
+  <string name="firstUsingSearchEngineTips">Muutetaanko hakua</string>
   <string name="fling_on_border_gesture_hint">Voit valita tälle eleelle toiminnon Asetuksista</string>
   <string name="force_quick_search_title">Hae</string>
   <string name="force_touch_bookmark_history_title">Kirjanmerkit &amp; historia</string>
-  <string name="force_touch_infoflow_title">News</string>
+  <string name="force_touch_infoflow_title">Uutiset</string>
+  <string name="forward_description">Eteenpäin</string>
   <string name="geolocation_permissions_prompt_dont_share">Hylkää</string>
   <string name="geolocation_permissions_prompt_message">%s haluaa käyttää sijaintitietojasi</string>
   <string name="geolocation_permissions_prompt_remember">Muista valinta</string>
@@ -325,10 +334,12 @@
   <string name="geolocation_settings_page_title">Poista sijaintitietojen käyttöoikeus</string>
   <string name="go_supermarket_button">Siirry</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
+  <string name="gold_medals">Kultamitalit</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Lisätty Kotinäytölle</string>
   <string name="hint">Vihje</string>
   <string name="history_saved_webpage">Tallennetut sivut</string>
+  <string name="home_description">Koti</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Poista</string>
   <string name="homepage_get_location">Hae sijainti</string>
@@ -346,7 +357,6 @@
   <string name="is_last_tab">Tämä on viimeinen välilehti</string>
   <string name="is_page_bottom">Olet saapunut sivun pohjalle</string>
   <string name="is_page_top">Olet sivun alussa</string>
-  <string name="isreplace">Tiedosto on jo olemassa, korvataanko?</string>
   <string name="js_dialog_before_unload">"%s
 
 Poistutaanko tältä sivulta?"</string>
@@ -354,6 +364,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="js_dialog_before_unload_positive_button">Poistu</string>
   <string name="js_dialog_before_unload_title">Vahvista siirtyminen</string>
   <string name="js_dialog_title">Sivu %s kertoo:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Poistamalla JavaScripti käytöstä saattaa aiheuttaa joidenkin sivujen näyttämisen väärältä.</string>
   <string name="js_disable_confirm_title">Poista JavaScript käytöstä?</string>
   <string name="keep_queued_download">Säilytä</string>
@@ -453,6 +464,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">SD-kortti vaaditaan muokataksesi tätä polkua.</string>
   <string name="month_picker_dialog_title">Aseta kuukausi</string>
+  <string name="more_description">Valikko</string>
   <string name="more_option">Lisää vaihtoehtoja</string>
   <string name="nav_bottom_bar_back">Takaisin</string>
   <string name="nav_bottom_bar_close_all">Sulje kaikki</string>
@@ -504,6 +516,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_adblock_counts">%d estetty</string>
   <string name="pref_adblock_title">Mainostenesto</string>
   <string name="pref_auto_update_under_wifi">Päivitä käyttäen Wi-Fi:ä</string>
+  <string name="pref_automatic_matching_searchengines_title">Tapaan perustuva automaattinen hakukone</string>
   <string name="pref_category_hint">Kategoria</string>
   <string name="pref_check_security_url_summary">Lähetä verkkosivujen URL-osoite Mi:n palvelimille tarkastaakseen sen turvallisuuden</string>
   <string name="pref_check_security_url_title">Tarkista URL-osoitteen turvallisuus</string>
@@ -526,9 +539,17 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_enable_news">Uutiset</string>
   <string name="pref_enable_novels">Kirjat</string>
   <string name="pref_enable_videos">Videot</string>
+  <string name="pref_extras_reset_default">Palauta oletukset</string>
+  <string name="pref_extras_reset_default_dlg">Palautetaanko asetukset oletusarvoon?</string>
+  <string name="pref_extras_reset_default_summary">Palauta oletusasetukset</string>
+  <string name="pref_extras_reset_default_title">Muu</string>
   <string name="pref_extras_send_feedback">Lähetä palautetta</string>
   <string name="pref_extras_title">Lisäasetukset</string>
   <string name="pref_extras_title_version">Version tiedot</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Tallenna tiedostot Selaimen oletussijaintiin</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Palauta oletussijainti</string>
+  <string name="pref_file_download_default_path_prefix">Oletussijainti: %s</string>
+  <string name="pref_file_download_save_modify_default_path">Latausten sijainti</string>
   <string name="pref_file_download_save_title">Lataukset</string>
   <string name="pref_fling_on_border">Pyyhkäise reunalta</string>
   <string name="pref_fling_on_border_title_summary">Pyyhkäise vasemmasta tai oikeasta reunasta</string>
@@ -597,11 +618,14 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pull_to_refresh_release_label">Vapauta suositellaksesi ja päivittääksesi</string>
   <string name="qr_code_title">QR Koodi</string>
   <string name="quicklink_bookmark_save">KIRJANMERKIN SIJAINTI</string>
+  <string name="quicklink_cannot_save_url">Tätä URL-osoitetta ei voi lisätä.</string>
+  <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">Aloitus-sivulle lisääminen epäonnistui</string>
   <string name="quicklink_saved">Tallennettiin aloitus-sivulle</string>
   <string name="quicklink_saved_before">Tämä sivu on jo lisätty</string>
   <string name="quicklink_user_define_webpage_title">Nimi</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
+  <string name="quicklinks_group_default_subtitle">Tyhjä</string>
   <string name="quicklinks_management">Suosittu</string>
   <string name="quicklinks_most_visited">Lisää aloitus-sivulle</string>
   <string name="quicklinks_most_visited_subtitle">Näytä viimeksi vieraillut sivut uudella välilehdellä</string>
@@ -699,6 +723,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="skip_current_version">Ohita tämä versio</string>
   <string name="snapshot_failed">Ei voitu tallentaa offline-käyttöä varten.</string>
   <string name="snapshot_successed">Tallenna offline-lukemista varten</string>
+  <string name="ssl_bad_clock_date_settings">Päivämäärän Asetukset</string>
+  <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
   <string name="ssl_certificate">Turvallisuusvarmenne</string>
   <string name="ssl_certificate_is_valid">Tämä varmenne on voimassa.</string>
   <string name="ssl_continue">Jatka</string>
@@ -713,6 +739,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="ssl_warnings_header">Sivuston suojausvarmenteessa on ongelmia.</string>
   <string name="start_save_page_capture">Tallennetaan kuvakaappausta…</string>
   <string name="storage_internal">Sisäinen muisti</string>
+  <string name="storage_permission_request_toast">Lataukset tarvitsee tallennustilaan käyttöoikeuden, ole hyvä ja avaa se</string>
   <string name="storage_sd_card">SD kortti</string>
   <string name="storage_usb">USB muisti</string>
   <string name="suggest_access_appstore">Mi Sovelluskauppa</string>
@@ -728,11 +755,13 @@ Poistutaanko tältä sivulta?"</string>
   <string name="suggest_access_music">Mi Musiikki</string>
   <string name="suggest_item_delete_text">Poista</string>
   <string name="suggest_open_app_failed">Tätä sovellusta ei voitu avata</string>
+  <string name="switchText">KYLLÄ</string>
   <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Tietoturva-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>
   <string name="switch_proxy_dialog_title">Verkon kaappaus</string>
   <string name="tab_hotpage">Uutis Syöte</string>
   <string name="tab_quicklinks">Aloitus-sivu</string>
   <string name="tab_yellowpage">Linkit</string>
+  <string name="tabs_description">Välilehdet</string>
   <string name="tae_sdk_login_qr_icon_close"></string>
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
@@ -746,6 +775,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="title_bar_loading">Ladataan…</string>
   <string name="too_many_windows_dialog_message">Selain ei voi avata uutta välilehteä ennen kuin suljet jonkun välilehden.</string>
   <string name="too_many_windows_dialog_title">Välilehtiä ei voi avata lisää</string>
+  <string name="unSwitchText">EI</string>
+  <string name="undo">Kumoa</string>
   <string name="unknown_title">Tuntematon</string>
   <string name="unsecurity_url_toast">Tämä sivusto ei ole turvallinen</string>
   <string name="up_to_loading_tips">Vapauta päivittääksesi</string>
@@ -769,7 +800,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="v5_deselect_all">Poista valinnat</string>
   <string name="v5_edit_mode_title_empty">0 valittu</string>
   <string name="v5_select_all">Valitse kaikki</string>
-  <string name="version_check_button_checking">Tarkastetaan…</string>
+  <string name="version_check_button_checking">Tarkistetaan…</string>
+  <string name="version_check_button_default">Tarkista päivitykset</string>
   <string name="version_check_button_download_failed">Jatka latausta</string>
   <string name="version_check_button_downloading">Ladataan…</string>
   <string name="version_check_button_install">Asenna</string>
@@ -777,7 +809,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="version_check_button_no_network">Verkkoon ei saada yhteyttä</string>
   <string name="version_check_button_resume_download">Jatka latausta</string>
   <string name="version_check_button_update">Päivitä</string>
-  <string name="version_check_failed">Päivityksen tarkastaminen epäonnistui</string>
+  <string name="version_check_failed">Päivityksen tarkistaminen epäonnistui</string>
   <string name="version_dialog_buttion_ok">OK</string>
   <string name="version_dialog_buttion_update">Päivitä</string>
   <string name="version_update_file_download_toast">Ladataan</string>

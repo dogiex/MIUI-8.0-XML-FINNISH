@@ -27,14 +27,6 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d tapahtumaa</item>
-        <item quantity="one">1 tapahtuma</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">+ %d tapahtumaa</item>
-        <item quantity="one">+ 1 tapahtuma</item>
-    </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d päivää sitten klo %2$s</item>
         <item quantity="one">%1$d päivä sitten klo %2$s</item>

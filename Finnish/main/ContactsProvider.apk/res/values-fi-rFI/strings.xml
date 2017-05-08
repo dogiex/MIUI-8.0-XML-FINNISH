@@ -10,6 +10,7 @@
   <string name="debug_dump_email_subject">Kontaktitietokanta liitteenä</string>
   <string name="debug_dump_start_button">Aloita</string>
   <string name="debug_dump_title">Kopioi kontaktitietokanta</string>
+  <string name="default_directory">Yhteystiedot</string>
   <string name="edit_contact">Lisää yhteystietoihin</string>
   <string name="local_invisible_directory">Muu</string>
   <string name="low_memory_toast">Käyttämistä ei voi jatkaa vähäisen muistin takia.</string>

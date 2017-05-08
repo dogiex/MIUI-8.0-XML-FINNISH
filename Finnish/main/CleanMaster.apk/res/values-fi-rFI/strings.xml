@@ -37,10 +37,11 @@
   <string name="app_install_tips_go_to">Avaa</string>
   <string name="app_install_tips_install_success">%1$s asennus valmis</string>
   <string name="app_name">JunkEngine</string>
+  <string name="app_usage_never">Harvoin käytetty</string>
+  <string name="app_usage_recently">Käytetty äskettäin</string>
   <string name="apps_sort_type_item_size">Koko</string>
   <string name="apps_sort_type_item_time">Viimeksi käytetyt</string>
   <string name="apps_sort_type_title">Lajittele</string>
-  <string name="authorize_detail">Estetty %d sovellusta</string>
   <string name="auto_clean_switch_off">Ei käytössä</string>
   <string name="auto_clean_switch_on">Käytössä</string>
   <string name="auto_cleaner_open">Ota käyttöön</string>
@@ -108,7 +109,6 @@
   <string name="connecting">Yhdistetään…</string>
   <string name="deep_clean_completed_tips">Puhdistus valmis</string>
   <string name="deep_clean_data_path_clean_title">Tyhjennä välimuisti</string>
-  <string name="deep_clean_normal_clean_progress_desc">Poistettiin %1$s tiedostoa</string>
   <string name="deep_clean_uninstall_completed_tips">Poisto valmis</string>
   <string name="deepclean_1_k_clean">Nopea putsaus</string>
   <string name="deepclean_apk_content">Poista APKt tai tarpeettomat sovellukset</string>
@@ -186,13 +186,11 @@
   <string name="flow_rank_title">Datan käyttö</string>
   <string name="function_app_lock_title">%d sovellusta sisältää yksityisyydensuojariskejä​</string>
   <string name="garbage_clean_detail">Tiedot</string>
-  <string name="garbage_cleanup_detail">%1$d kertaa, puhdistettu %2$s</string>
   <string name="garbage_month">Puhdistettu %s tässä kuukaudessa</string>
   <string name="gigabyteShort">Gt</string>
   <string name="go_to">Jatka</string>
   <string name="goto_set">Aseta</string>
   <string name="grabage_rank_title">Puhdistettu tänään</string>
-  <string name="harass_detail">Estetty %1$d SMS viestejä ja %2$d puhelua</string>
   <string name="header_optimizer">Käyttäessäsi tätä toimintoa, hyväksyt %s.</string>
   <string name="hint_clean_select_similar_image">Poistetaan kaksoiskappaleet…</string>
   <string name="hints_ad_header_left">Mainostiedostot</string>
@@ -368,8 +366,6 @@
   <string name="name_debuglog_dir">Bsp Debug Loki</string>
   <string name="name_optimizer">Tietosuojaseloste</string>
   <string name="nb_clear_set">Tyhjennä välimuisti, näe akun taso ja estolista ilmoitusalueella</string>
-  <string name="net_assistant_detail">Käytetty %1$s, säästetty %2$s</string>
-  <string name="net_assistant_title">Käytetty %s tämän kuun mobiilidatasta</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="news_change">Vaihda</string>
   <string name="no_network">Verkkoon ei saada yhteyttä, yritä myöhemmin uudelleen</string>
@@ -529,11 +525,9 @@
   <string name="toast_uninstall_success">Asennuksen poisto valmis</string>
   <string name="total_clean">Puhdistettu yhteensä: %s</string>
   <string name="total_clean_text">Tyhjennä</string>
-  <string name="traffic_top">TOP 5 dataa vievää sovellusta</string>
   <string name="update_date_format">d.M.yyyy</string>
   <string name="virus_scan">Virustarkistus</string>
   <string name="vungle_ad_name">Vungle广告</string>
-  <string name="wechat_add_to_cleanlist">Puhdistettiin onnistuneesti</string>
   <string name="wechat_cache_files">WeChat välimuisti</string>
   <string name="wechat_chat_clean_done">Kaikki näyttää hyvältä</string>
   <string name="wechat_chat_data_type_cache">WeChat välimuisti</string>

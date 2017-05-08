@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"Varmuuskopiointi ei ole vielä valmis. Lopetetaanko kuitenkin?"</string>
+  <string name="abort_restore_confirm">Palauttaminen ei ole valmis. Lopetetaanko silti?</string>
   <string name="account_contact_backup_info">Google Tili, Mi Tili, ja Yhteystietojen tiedot</string>
   <string name="account_login">Kirjaudu sisään</string>
   <string name="account_summary">Varmuuskopioi Google Tili, Mi Tili, ja muut käyttäjän tiedot</string>
@@ -108,6 +109,7 @@
   <string name="exchange_account">Vaihda tiliä</string>
   <string name="fail">Epäonnistui</string>
   <string name="feature_title_account">Mi Tili</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Puheluhistoria</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Lähetetään…</string>
@@ -140,6 +142,7 @@ http://www.miliao.com
   <string name="miliao_account_login">Kirjaudu sisään Mi jutteluun</string>
   <string name="mms_title">Multimediaviestit</string>
   <string name="multi_select_title">%1$s valittu</string>
+  <string name="multi_user_mode_backup_message">Varmuuskopiointia ei voi käyttää Moni-käyttäjä tilassa. Jatka poistamalla Moni-käyttäjä tila käytöstä.</string>
   <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Poista Moni-käyttäjä tila käytöstä jatkaaksesi.</string>
   <string name="multi_user_mode_dialog_title">Olet Moni-käyttäjä tilassa</string>
   <string name="never">Ei ikinä</string>

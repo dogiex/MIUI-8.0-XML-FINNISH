@@ -84,6 +84,10 @@
         <item quantity="other">%1$d sähköpostillista yhteystietoa</item>
         <item quantity="one">1 sähköpostillista yhteystietoa</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">Löytyi %1$d kohdetta</item>
+        <item quantity="one">Löytyi %1$d kohde</item>
+    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d suosikit</item>
         <item quantity="one">%1$d suosikki</item>

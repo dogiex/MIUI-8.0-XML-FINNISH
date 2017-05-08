@@ -39,13 +39,13 @@
         <item>yhtäkuin</item>
     </string-array>
     <string-array name="mortgage_repayment">
-        <item>等额本息(每月等额还款)</item>
-        <item>等额本金(每月递减还款)</item>
+        <item>Equal installments</item>
+        <item>Decreasing installments</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
-        <item>GBP</item>
+        <item>HKD</item>
         <item>JPY</item>
         <item>CNY</item>
     </string-array>
