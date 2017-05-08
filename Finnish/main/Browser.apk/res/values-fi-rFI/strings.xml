@@ -165,7 +165,6 @@
   <string name="color_picker_dialog_title">Valitse väri</string>
   <string name="color_picker_hue">Sävy</string>
   <string name="color_picker_saturation">Kylläisyys</string>
-  <string name="color_picker_value">Arvo</string>
   <string name="comment_app_menu">Kommentoi</string>
   <string name="comment_hint">Kommentoi</string>
   <string name="comment_menu">Kommentoi</string>
