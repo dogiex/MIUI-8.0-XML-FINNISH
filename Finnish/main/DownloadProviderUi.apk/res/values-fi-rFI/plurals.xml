@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Löytyi %d kohdetta</item>
+        <item quantity="one">Löytyi 1 kohde</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Poistetaanko %d kohdetta?</item>
         <item quantity="one">Poistetaanko tämä kohde?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Löytyi %d tulosta</item>
+        <item quantity="one">Löytyi 1 tulos</item>
     </plurals>
 </resources>

@@ -8,6 +8,14 @@
         <item quantity="other">%d kappaletta ladataan</item>
         <item quantity="one">%d kappale ladataan</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Poistetaanko %d kohdetta?</item>
+        <item quantity="one">Poistetaanko %d kohde?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d latausta poistettu</item>
+        <item quantity="one">%d lataus poistettu</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d kappaletta löytyi</item>
         <item quantity="one">%d kappale löytyi</item>
@@ -16,17 +24,12 @@
         <item quantity="other">%d päivää jäljellä</item>
         <item quantity="one">%d päivä jäljellä</item>
     </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d kappaletta ladataan</item>
-        <item quantity="one">1 kappale ladataan</item>
-    </plurals>
     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Poistetaanko %d soittolistaa?</item>
         <item quantity="one">Poistetaanko %d soittolista?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
         <item quantity="other">%d uutta</item>
-        <item quantity="one">1 uusi</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d kappaletta</item>
@@ -53,8 +56,8 @@
         <item quantity="one">Poistetaanko %d kappale?</item>
     </plurals>
 	<plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Poistetaanko %d kappaletta Mi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d kappale Mi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d kappaletta Mi Pilvestä? Ne poistetaan myös laitteen soittolistalta.</item>
+        <item quantity="one">Poistetaanko %d kappale Mi Pilvestä? Se poistetaan myös laitteen soittolistalta.</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d kappaletta lisätty soittolistalle</item>
@@ -87,6 +90,14 @@
     <plurals name="song_already_favorite">
         <item quantity="other">Kappaleita on lisätty suosikkeihin.</item>
         <item quantity="one">Kappale on lisätty suosikkeihin.</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d kommenttia</item>
+        <item quantity="one">%d kommentti</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d seuraajaa</item>
+        <item quantity="one">%d seuraaja</item>
     </plurals>
 	<plurals name="Nunbackup_audios">
         <item quantity="other">%1$d kappaletta ei ole varmuuskopioitu (%2$.1f Mt)</item>

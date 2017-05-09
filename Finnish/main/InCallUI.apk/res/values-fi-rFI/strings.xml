@@ -7,6 +7,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Tuntematon numero</string>
   <string name="antispam_provider">Tunnistanut %s</string>
+  <string name="areacode_set_default">Aseta oletukseksi</string>
   <string name="callFailed_cb_enabled">Et voi soittaa, jos puhelunesto on käytössä.</string>
   <string name="callFailed_congestion">Verkko varattu</string>
   <string name="callFailed_dialToDial">Dial request modified to dial with different number.</string>
@@ -76,6 +77,8 @@
   <string name="card_title_video_call_paused">Video pysäytetty</string>
   <string name="card_title_video_conf_call">Videokonferenssipuhelu</string>
   <string name="card_video_hold_swap">Vaihda</string>
+  <string name="close_camera_failed">Kameraa ei voitu poistaa käytöstä…</string>
+  <string name="close_camera_requesting">Poistetaan kamera käytöstä…</string>
   <string name="conference_call_description" formatted="false">%s,%s jne. yhteensä %s</string>
   <string name="conference_call_number">%s henkilöä</string>
   <string name="conference_call_single_description" formatted="false">%s jne. yhteensä %s</string>
@@ -102,12 +105,32 @@
   <string name="description_image_button_three">kolme</string>
   <string name="description_image_button_tools">Asetukset</string>
   <string name="description_image_button_two">kaksi</string>
+  <string name="description_image_button_video_answer">Videopuhelu</string>
   <string name="description_image_button_zero">nolla</string>
   <string name="description_target_answer">Vastaa</string>
   <string name="dialog_activate_livetalk">Varmistetaan numero</string>
   <string name="dialog_call_ordinary_telephone">Normaali puhelu</string>
   <string name="dialog_purchase">Top up</string>
+  <string name="dialpad_abc">ÅÄABC</string>
+  <string name="dialpad_def">DEF</string>
+  <string name="dialpad_eight">8</string>
+  <string name="dialpad_five">5</string>
+  <string name="dialpad_four">4</string>
+  <string name="dialpad_ghi">GHI</string>
+  <string name="dialpad_jkl">JKL</string>
+  <string name="dialpad_mno">MNOÖ</string>
+  <string name="dialpad_nine">9</string>
+  <string name="dialpad_one">1</string>
+  <string name="dialpad_pqrs">PQRS</string>
+  <string name="dialpad_seven">7</string>
+  <string name="dialpad_six">6</string>
+  <string name="dialpad_three">3</string>
+  <string name="dialpad_tuv">TUV</string>
+  <string name="dialpad_two">2</string>
+  <string name="dialpad_wxyz">WXYZ</string>
+  <string name="dialpad_zero">0</string>
   <string name="do_not_ask">Älä näytä uudelleen</string>
+  <string name="do_not_support_video_calls_by_remote">Toinen laite ei tue videopuheluita</string>
   <string name="emergency_call_dialog_number_for_display">Hätänumero</string>
   <string name="fraud_call_answer">Vastaa</string>
   <string name="fraud_call_decline">Hylkää</string>
@@ -141,7 +164,6 @@
   <string name="keep_wait_call_back">Jatka odottamista</string>
   <string name="livetalk_dial">Käytetään Top-up -pakettia</string>
   <string name="livetalk_hangup">Lopeta puhelu</string>
-  <string name="livetalk_left_minute">%s min jäljellä</string>
   <string name="manageConferenceLabel">Hallitse konferenssipuhelua</string>
   <string name="miprofile_stranger_card">Tuntematon</string>
   <string name="modify_call_failure_str">"Puhelun Muokkaus-pyyntö epäonnistui
@@ -153,6 +175,7 @@
   <string name="modify_call_option_vt_tx">Videon lähetys</string>
   <string name="modify_call_prompt_no">Ei</string>
   <string name="modify_call_prompt_yes">Kyllä</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Nykyinen verkko on epävakaa. Vaihdetaan normaaliin puheluun, josta operaattorisi saattaa laskuttaa sinua.</string>
   <string name="network_error_title">Epävakaa verkko</string>
   <string name="no_balance_message">Top-up -paketin raha on loppu. Voit silti tehdä normaalin puhelun, josta operaattorisi saattaa laskuttaa sinua.</string>
@@ -172,7 +195,9 @@
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Ääni</string>
   <string name="notification_action_dismiss">Hylkää</string>
+  <string name="notification_action_earpiece">Kuuloke</string>
   <string name="notification_action_end_call">Lopeta puhelu</string>
+  <string name="notification_action_speaker">Kaiutin</string>
   <string name="notification_dialing">Soitetaan</string>
   <string name="notification_incoming_call">Saapuva puhelu</string>
   <string name="notification_incoming_video_call">Saapuva videopuhelu</string>
@@ -198,7 +223,6 @@
   <string name="onscreen_close_preview_camera">Sulje kamera</string>
   <string name="onscreen_hold_text">Pito</string>
   <string name="onscreen_merge_calls_text">Yhdistä puhelut</string>
-  <string name="onscreen_mi_support_calls_text">MiSupport</string>
   <string name="onscreen_mute_text">Mykistä</string>
   <string name="onscreen_note_calls_text">Muistiinpano</string>
   <string name="onscreen_rcs_text">Viestit</string>
@@ -216,6 +240,7 @@
   <string name="select_sim_hint">SIM-korttia %2$d ei voi käyttää SIM-kortin %1$d ollessa käytössä.</string>
   <string name="select_voice_call_sim">Valitse SIM-kortti</string>
   <string name="separate_from_conference">Erota puhelu</string>
+  <string name="sip_call_not_support_record">SIP-puheluita ei voi nauhoittaa</string>
   <string name="suspect_info">Ole varovainen: Aina varmista henkilön henkilöllisyys, joko puhelulla tai videolla, ennen kuin vastaat mihinkään viestiin, jossa käsitellään henkilökohtaisia tietoja.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Tuntematon</string>

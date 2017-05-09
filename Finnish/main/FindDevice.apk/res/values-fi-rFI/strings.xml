@@ -5,6 +5,8 @@
   <string name="app_name">Etsi laite</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Ei voida avata. %s.</string>
+  <string name="default_lock_msg_words">Tämä laite on liitettynä jo olemassa olevaan Mi Tiliin. Turvallisuussyistä sinun täytyy syöttää salasanasi vahvistaaksesi laitteesi.</string>
+  <string name="default_lock_msg_words_with_phone">Hei! Hävitin puhelimeni. Voitteko ottaa minuun yhteyttä? Kiitos!</string>
   <string name="device_locked">Tämä laite on lukittu</string>
   <string name="device_lost">Tämä laite on hukattu</string>
   <string name="disable_find_device_error">Etsi laite-toimintoa ei voida sammuttaa. %1$s</string>
@@ -28,6 +30,7 @@
   <string name="find_device_stop_noise">Hiljentääksesi napauta OK</string>
   <string name="find_device_storage_corrupted">Laitteen tallennustila on korruptoitunut. Laitteesi ei ole nyt turvassa.</string>
   <string name="find_device_success_title">Etsi laite</string>
+  <string name="find_device_telephony_fault">Etsi Laite: Puhelinvirhe (%s).</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontaktin tiedot: %s</string>
   <string name="login_extra_steps">Kirjautumisen varmennus</string>

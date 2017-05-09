@@ -37,6 +37,7 @@
   <string name="cancel_running_download">Peruuta</string>
   <string name="cancle">Peruuta</string>
   <string name="choose_open_time">Valitse milloin haluat aloittaa</string>
+  <string name="clear_data">Tyhjennä</string>
   <string name="complete_time">Valmis:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d latausta poistetaan.</string>
@@ -55,6 +56,7 @@
   <string name="determine">OK</string>
   <string name="dialog_btn_cancel">Peruuta</string>
   <string name="dialog_btn_ok">OK</string>
+  <string name="dialog_btn_ok_disabled_net">Verkkoasetukset</string>
   <string name="dialog_cannot_resume">Lataus on keskeytetty eikä sitä voida jatkaa.</string>
   <string name="dialog_confirm_delete_checkbox_message">Poista myös paikalliset tiedostot</string>
   <string name="dialog_confirm_delete_downloads_message">Poistetaanko %d tehtävää?</string>
@@ -69,6 +71,7 @@
   <string name="dialog_msg_disabled_net">%1$s estettyä latausta nykyisessä verkossa. Mene Tietoturva-sovellukseen napauttamalla Verkkoasetuksia.</string>
   <string name="dialog_msg_recommend">"Et tule näkemään suositeltuja lähteitä pois laittamisen jälkeen. Voit säästää mobiilidataa valitsemalla \"Käytä vain Wi-Fi-yhteyttä\"."</string>
   <string name="dialog_queued_body">Tämä tiedosto on jonossa tulevaa latausta varten, joten se ei ole vielä saatavilla.</string>
+  <string name="dialog_title_disabled_net">Pääsy internettiin</string>
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
   <string name="dialog_title_recommend">Poista suositellut lähteet käytöstä</string>
@@ -230,6 +233,7 @@
   <string name="paused_waiting_for_network">Odotetaan verkkoyhteyttä</string>
   <string name="paused_waiting_to_retry">Odotetaan uudelleenyritystä</string>
   <string name="period_of_validity">Voimassaolo:</string>
+  <string name="pref_download_revert_default">Oletus</string>
   <string name="pref_download_settings_title">Latauksen koon raja</string>
   <string name="pref_download_storage_path">Luo uusi kansio latauksille</string>
   <string name="pref_sniff_shortcut">Luo pikakuvake</string>
@@ -265,6 +269,7 @@
   <string name="resume_download">Jatka</string>
   <string name="retry_after_network_available">Verkkoon ei saada yhteyttä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="retry_download">Yritä uudelleen</string>
+  <string name="revert_default">Palauta oletusasetukset</string>
   <string name="revert_download_path">Käytetäänkö latauksille oletussijaintia?</string>
   <string name="save_path">"Tallenna lataukset: "</string>
   <string name="save_text">Säästä ￥%1$s</string>
@@ -319,8 +324,6 @@
   <string name="sniff_copyright_text">Tuloksia ei voi näyttää tekijänoikeuksien takia</string>
   <string name="sniff_download_task_already_exist">Lataus on jo olemassa</string>
   <string name="sniff_download_task_create_success">Lataus lisätty</string>
-  <string name="sniff_find_some_prefix">Löydetty</string>
-  <string name="sniff_find_some_suffix">kohdetta</string>
   <string name="sniff_finding_resource_prompt">Etsitään lähdettä…</string>
   <string name="sniff_hot_text">Samankaltaisia</string>
   <string name="sniff_no_network_tip">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
@@ -373,6 +376,7 @@
   <string name="text_showmore_infoflow">Näytä lisää lähteitä</string>
   <string name="third_web_cancel">Peruuta</string>
   <string name="third_web_confirm">OK</string>
+  <string name="third_web_default">Muista tämä sijainti</string>
   <string name="third_web_filename_hint">Nimi</string>
   <string name="third_web_filesize">Koko</string>
   <string name="third_web_savepath">Sijainti</string>

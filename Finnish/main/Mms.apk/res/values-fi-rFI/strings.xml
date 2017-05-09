@@ -38,10 +38,12 @@
   <string name="attach_take_photo">Ota kuva</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">Ääntä ei voitu ladata</string>
+  <string name="audio_message_expired">Tämä ääniviesti on vanhentunut.</string>
+  <string name="audio_message_mx_offline">Äänen lataaminen epäonnistui. Mi Viesti on offline-tilassa tai ei ole käytettävissä.</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">Verkkoyhteyttä ei ole tai väärä SIM-kortti on asennettu. Aseta SIM-kortti takaisin, josta viestit lähetettiin ja yhdistä verkkoon.</string>
   <string name="back_to_message_list">Takaisin viestilistalle</string>
   <string name="batch_adding_progress_message">Lisätään…</string>
-  <string name="batch_delete_confirm_dialog_message">Poistetaanko %1$s viestiä?</string>
   <string name="batch_deleting_message_progress_message">Poistetaan…</string>
   <string name="batch_deleting_progress_message">Poistetaan…</string>
   <string name="bcc_label">"Bcc: "</string>
@@ -306,6 +308,7 @@
   <string name="mx_activate_int_hint_malformed_info">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="mx_activate_int_hint_server">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="mx_activate_int_hint_sim_change">Näyttää siltä, että olet vaihtanut SIM-kortteja. Lähtevä tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="mx_activate_network_allow_notice">Tämä palvelu vaatii pääsyn mobiilidataan toimiakseen normaalisti.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivoidaan…</string>
   <string name="mx_activate_status_desc_check_net_connection">Verkkoon ei saatu yhteyttä</string>
   <string name="mx_activate_status_desc_fail">Mi Viestin aktivointi epäonnistui</string>

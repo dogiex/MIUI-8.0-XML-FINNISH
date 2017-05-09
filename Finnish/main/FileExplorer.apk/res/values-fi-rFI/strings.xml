@@ -99,10 +99,14 @@
   <string name="claim_video_success">Claimed successfully</string>
   <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">Vapauta tallennustilaa napauttamalla</string>
+  <string name="clear_record">Tyhjennä historia</string>
   <string name="click_login_str">Kirjaudu sisään</string>
   <string name="click_to_refresh">Päivitä napauttamalla tähän</string>
   <string name="click_to_switch_volume">Vaihda sisäisen tallennustilan ja SD-kortin välillä napauttamalla</string>
   <string name="click_to_switch_volume_pad">Vaihda sisäisen tallennustilan ja SD-kortin välillä napauttamalla</string>
+  <string name="clockin_failed">"Couldn't check in, try again"</string>
+  <string name="clockin_success">Checked in successfully</string>
+  <string name="clockin_use">Nouda palkinto</string>
   <string name="comment_added">Lisättiin onnistuneesti</string>
   <string name="comment_added_tip">Lisäät useita kommentteja. Seurataanko tätä henkilöä?</string>
   <string name="comment_delete_message">Kommentti poistetaan pysyvästi.</string>
@@ -122,12 +126,14 @@
   <string name="confirm_know">OK</string>
   <string name="connecting">Yhdistetään…</string>
   <string name="connection_error">Yhdistäminen epäonnistui</string>
+  <string name="contain_sensitive_words">PoistaRemove sopimattomat sanat ja yritä uudelleen</string>
   <string name="copied">Kopioitu</string>
   <string name="copy_failed">Kopiointi epäonnistui</string>
   <string name="copy_text">Kopioi teksti</string>
   <string name="copy_to">Kopioi…</string>
   <string name="count_down">Lähtölaskenta: %1$s</string>
   <string name="create_shortcut_success">Pikakuvake lisätty onnistuneesti</string>
+  <string name="daily_clockin">Check in</string>
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">Älä näytä uudelleen</string>
   <string name="data_consumption_confirm">OK</string>
@@ -304,7 +310,6 @@
   <string name="menu_item_sort_by_added_time">Lisätty</string>
   <string name="menu_item_sort_date">Muokattu päiväys</string>
   <string name="menu_item_sort_name">Nimi</string>
-  <string name="menu_item_sort_size">Koko</string>
   <string name="menu_item_sort_type">Tyyppi</string>
   <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Kommentti: "</string>
@@ -357,6 +362,7 @@
   <string name="no_message">Ei viestejä</string>
   <string name="no_new_content_tip">Kaikki kohteet ovat ajantasalla</string>
   <string name="no_recent_files">Ei viimeaikaisia tiedostoja</string>
+  <string name="no_search_content">Tuloksia ei löytynyt</string>
   <string name="no_topic">Ei otsikoita</string>
   <string name="no_videos">Täällä ei ole mitään. Katso alla olevat!</string>
   <string name="no_wifi">Verkkoa ei havaittu</string>
@@ -426,6 +432,7 @@
   <string name="other_user_liked_topic_tip">Ei aiheita</string>
   <string name="other_user_no_follow_tip">Et ole seurannut ketään vielä.</string>
   <string name="other_user_no_liked_video_tip">Ei tykättyjä videoita.</string>
+  <string name="overwrite_msg">\"%s\" on jo olemassa. Korvaa se uudella tiedostolla napauttamalla.</string>
   <string name="partial_cancel_successful">Joitakin tiedostoja ei voitu poistaa. Loput tiedostot siirrettiin kansioon %s.</string>
   <string name="partial_delete_failure">Joidenkin tiedostojen poistaminen epäonnistui, yritä uudelleen</string>
   <string name="partial_encrypt_success">Joidenkin tiedostojen piilottaminen epäonnistui, yritä uudelleen</string>
@@ -517,6 +524,11 @@
   <string name="rlv_refreshing">Päivitetään…</string>
   <string name="rlv_release_to_close">Sulje vapauttamalla</string>
   <string name="rlv_release_to_refresh">Päivitä vapauttamalla</string>
+  <string name="save">Tallenna</string>
+  <string name="save_desc_success">Vaihdettiin onnistuneesti​</string>
+  <string name="save_failed">Tallennus epäonnistui, yritä uudelleen</string>
+  <string name="save_failed_for_length">Allekirjoitus on liian pitkä, yritä lyhyempää</string>
+  <string name="save_name_success">Vaihdettiin onnistuneesti</string>
   <string name="save_to_local">Lataa</string>
   <string name="search_app">Sovellukset &amp; kansiot</string>
   <string name="search_app_more">Lisää</string>
@@ -530,10 +542,12 @@
   <string name="search_file_type_picture">Kuva</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Etsi</string>
+  <string name="search_history">Hakuhistoria</string>
   <string name="search_hot_sticker">Tarrat;Lataa tarroja</string>
   <string name="search_hot_video">Suositut videot;Lähetä videoita;Lähetä video;Lyhyt video;Lyhyitä videoita;Pieni video;Pieniä videoita</string>
   <string name="search_keyword">Tägit</string>
   <string name="search_kuai_chuan">Mi Siirtäjä;Lähetys</string>
+  <string name="search_popup_tip">Voit etsiä henkilöitä tai otsikoita</string>
   <string name="search_recent_file">Tiedostoselain;Resurssienhallinta;Tiedosto;Tiedostot;Hallitse tiedostoja;Tiedostojen hallinta</string>
   <string name="search_result">Tulokset</string>
   <string name="search_result_more">Lisää</string>
@@ -544,6 +558,10 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Etsi</string>
   <string name="search_title_hint">Etsi</string>
+  <string name="search_topic">Etsi otsikoita</string>
+  <string name="search_user">Etsi henkilöitä</string>
+  <string name="see_more_topic">Lisää otsikoita</string>
+  <string name="see_more_user">Lisää käyttäjiä</string>
   <string name="select_dest_folder">Valitse kansio</string>
   <string name="select_image">Kuvat</string>
   <string name="select_interest_str">Valitse otsikot, joista tykkäät</string>
@@ -595,7 +613,10 @@
   <string name="shortcut_exists">Pikakuvake on jo olemassa</string>
   <string name="shortcut_hotvideos">Suosittuja videoita</string>
   <string name="shortcut_msg">Lisää suosituista videoista pikakuvake Kotinäytölle</string>
+  <string name="skip_file">Ohita</string>
   <string name="smb_loading">Odota hetki…</string>
+  <string name="sort_size_asc">Pienemmästä suurempaan</string>
+  <string name="sort_size_desc">Suuremmasta pienempään</string>
   <string name="start_server">Aloita palvelin</string>
   <string name="stay_awake_summary">Älä päästä näyttöä nukkumaan FTP:n käytön aikana</string>
   <string name="stay_awake_title">Pidä näyttö hereillä</string>
@@ -607,10 +628,12 @@
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB-tallennustila</string>
   <string name="storage_warning">Ulkoista tallennustilaa ei voi käyttää</string>
+  <string name="swap_tip_1">Pyyhkäise vasemmalle tai oikealle</string>
+  <string name="swap_tip_2">katsoaksesi muita videoita</string>
   <string name="sys_size_enable">" käytettävissä"</string>
   <string name="tab_category">Kategoriat</string>
   <string name="tab_claim">Claim</string>
-  <string name="tab_common_app">Sovellukset ja kansiot</string>
+  <string name="tab_common_app">Sovellukset &amp; kansiot</string>
   <string name="tab_discover">Löydä</string>
   <string name="tab_explore">Löydä</string>
   <string name="tab_follow">Seurataan</string>
@@ -639,6 +662,7 @@
   <string name="topic_follow">Seuraa</string>
   <string name="topic_followed">Seurataan</string>
   <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_title">Otsikot</string>
   <string name="transfer_done">Tiedostot siirrettiin onnistuneesti.</string>
   <string name="transfer_private_data">Siirretään piilotetut kansiot SD-kortilta…</string>
   <string name="type_not_support">Tämä tiedostomuoto ei ole tuettu. Pura tämä tiedosto ja yritä uudelleen.</string>
@@ -683,6 +707,7 @@
   <string name="uploading_video">Lähetetään videota…</string>
   <string name="usb_label">USB</string>
   <string name="used">Käytetty</string>
+  <string name="user">Käyttäjät</string>
   <string name="user_cancel">Peruutettu</string>
   <string name="user_center_title">Koti</string>
   <string name="user_desc_default_tip">Kirjaudu sisään kerääksesi pisteitä ja voittaaksesi palkintoja.</string>
@@ -713,13 +738,19 @@
   <string name="user_setting_follow_new_msg_tip">Receive notifications about new videos</string>
   <string name="user_setting_followed_msg">Notifications about followers</string>
   <string name="user_setting_followed_msg_tip">"You'll be notified when people start following you"</string>
+  <string name="user_setting_hot_comment">Notifications about featured comments</string>
+  <string name="user_setting_hot_comment_tip">"You'll be notified when your comments are featured"</string>
   <string name="user_setting_logout">Sign out</string>
   <string name="user_setting_new_comment">Notifications about new comments</string>
   <string name="user_setting_new_comment_tip">"You'll be notified about replies to your comments and videos"</string>
   <string name="user_setting_new_liked">Notifications about likes</string>
   <string name="user_setting_new_liked_tip">"You'll be notified when people like your comments or videos"</string>
+  <string name="user_setting_play_num">Notifications about views</string>
+  <string name="user_setting_play_num_tip">"You'll be notified about the number of views your videos get"</string>
   <string name="user_setting_topic_new_msg">Notifications about topics</string>
   <string name="user_setting_topic_new_msg_tip">"You'll be notified about new videos in topics you follow"</string>
+  <string name="user_setting_video_has_hot_comment">Notifications about popular comments</string>
+  <string name="user_setting_video_has_hot_comment_tip">"You'll be notified when your videos get popular comments"</string>
   <string name="user_sex">Sukupuoli</string>
   <string name="user_sign">Allekirjoitus</string>
   <string name="user_topic_text">Aiheeni</string>
@@ -808,5 +839,4 @@ Liity 170 miljoonaan Mi Faniin!"</string>
   <string name="youliao_ad_title">Suositut videot on päivitetty!</string>
   <string name="youliao_ad_update">Päivitä</string>
   <string name="youliao_master_rank">Youliao top</string>
-  <string name="zero">0</string>
 </resources>

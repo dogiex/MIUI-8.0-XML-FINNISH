@@ -40,14 +40,14 @@
     <string-array name="signature_normal_string_array">
         <item>Blogi:</item>
         <item>Sivusto:</item>
-        <item>Sähköpostiosoite:</item>
+        <item>Sähköposti:</item>
         <item>Matkapuhelin:</item>
         <item>Puhelin:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
         <item>E:</item>
-        <item>Sähköpostiosoite:</item>
+        <item>Sähköposti:</item>
         <item>Puh:</item>
         <item>Fax:</item>
         <item>Mail:</item>
@@ -58,15 +58,15 @@
         <item>Osoite:</item>
         <item>Puh:</item>
         <item>Nimi:</item>
-        <item>Sähköpostiosoite:</item>
+        <item>Sähköposti:</item>
         <item>Matkapuhelin:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Postinumero:</item>
     </string-array>
     <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
-        <item>Email Disclaimer</item>
+        <item>Vastuuvapauslauseke:</item>
+        <item>Sähköpostin Vastuuvapauslauseke</item>
         <item>Lähetetty käyttäen WPSMailia</item>
         <item>Lähetetty laitteesta</item>
         <item>Lähetetty</item>

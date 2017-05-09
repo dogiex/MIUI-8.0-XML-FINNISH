@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Odotetaan %1$d tiedostoa</item>
+        <item quantity="one">Odotetaan %1$d tiedostoa</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d tiedostoa lähettäjältä %1$s</item>
+        <item quantity="one">%2$d tiedosto lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Vastaanotetaan %2$d tiedostoa lähettäjältä %1$s</item>
+        <item quantity="one">Vastaanotetaan %2$d tiedosto lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d kuvaa lähettäjältä %1$s</item>
+        <item quantity="one">%2$d kuva lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Vastaanotetaan %2$d kuvaa lähettäjältä %1$s</item>
+        <item quantity="one">Vastaanotetaan %2$d kuva lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d kappaletta lähettäjältä %1$s</item>
+        <item quantity="one">%2$d kappale lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Vastaanotetaan %2$d kappaletta lähettäjältä %1$s</item>
+        <item quantity="one">Vastaanotetaan %2$d kappale lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d videota lähettäjältä %1$s</item>
+        <item quantity="one">%2$d video lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Vastaanotetaan %2$d videota lähettäjältä %1$s</item>
+        <item quantity="one">Vastaanotetaan %2$d video lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d sovellusta lähettäjältä %1$s</item>
+        <item quantity="one">%2$d sovellus lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Vastaanotetaan %2$d sovellusta lähettäjältä %1$s</item>
+        <item quantity="one">Vastaanotetaan %2$d sovellus lähettäjältä %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Vastaanotetaan %1$s tiedostoa…</item>
+        <item quantity="one">Vastaanotetaan %1$s tiedosto</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s tiedostoa ei siirtynyt</item>
+        <item quantity="one">%1$s tiedosto ei siirtynyt</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Vastaanotettiin tiedostoja lähettäjältä %1$s</item>
+        <item quantity="one">Vastaanotettiin tiedosto lähettäjältä %1$s</item>
+    </plurals>
+</resources>

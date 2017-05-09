@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="more_face">
+    <plurals name="face_count">
         <item quantity="other">Yhteensä %d kuvaa</item>
         <item quantity="one">Yhteensä %d kuva</item>
     </plurals>
@@ -31,6 +31,46 @@
     <plurals name="album_already_share_user_count">
         <item quantity="other">Jaettu %d henkilölle</item>
         <item quantity="one">Jaettu henkilölle %d</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Valitut kuvat ei ole laitteella. Ladataanko ne käyttämällä mobiilidataa?</item>
+        <item quantity="one">Valittu kuva ei ole laitteella. Ladataanko se käyttämällä mobiilidataa?</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Valitut kuvat (%d Mt) ei ole laitteella. Ladataanko ne käyttämällä mobiilidataa?</item>
+        <item quantity="one">Valittu kuva (%d Mt) ei ole laitteella. Ladataanko se käyttämällä mobiilidataa?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Valitut kuvat ei ole laitteella. Ne ladataan.</item>
+        <item quantity="one">Valittu kuva ei ole laitteella. Se ladataan.</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Ohitettiin %d kuvaa, jotka ei ole laitteella.</item>
+        <item quantity="one">Ohitettiin kuva, joka ei ole laitteella.</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d kuvan lataaminen epäonnistui, yritetäänkö uudelleen?</item>
+        <item quantity="one">Kuvan lataaminen epäonnistui, yritetäänkö uudelleen?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
+        <item quantity="one">Kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d kuvan lataaminen epäonnistui (%2$d Mt), yritetäänkö uudelleen?</item>
+        <item quantity="one">Kuvan lataaminen epäonnistui (%2$d Mt), yritetäänkö uudelleen?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d kuvan lataaminen epäonnistui (%2$d Mt), yhdistä verkkoon ja yritä uudelleen</item>
+        <item quantity="one">Kuvan lataaminen epäonnistui (%2$d Mt), yhdistä verkkoon ja yritä uudelleen</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Peruutetaanko jäljellä olevien %d kuvan lataaminen?</item>
+        <item quantity="one">Peruutetaanko jäljellä olevan kuvan lataaminen?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Lisättiin %d pilvikuvaa, näytä poistamalla \"Näytä vain paikalliset albumit\" käytöstä.</item>
+        <item quantity="one">Lisättiin %d pilvikuva, näytä poistamalla \"Näytä vain paikalliset albumit\" käytöstä.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Poistetaanko %1$d kuvaa %2$s?</item>
@@ -88,6 +128,14 @@
         <item quantity="other">%d videota</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d kuvaa</item>
+        <item quantity="one">1 kuva</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videota</item>
+        <item quantity="one">1 video</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d kuvaa odottaa varmuuskopiointia</item>
         <item quantity="one">1 kuva odottaa varmuuskopiointia</item>
@@ -123,6 +171,10 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Ohitettiin %1$d kuvaa, joita ei voitu renderöidä.</item>
+        <item quantity="one">Ohitettiin kuva, jota ei voitu renderöidä.</item>
     </plurals>
 	<plurals name="file_count_format">
         <item quantity="other">Yhteensä %1$d kohdetta</item>

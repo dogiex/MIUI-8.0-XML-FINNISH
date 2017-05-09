@@ -4,11 +4,13 @@
   <string name="app_label">HTML-lukija</string>
   <string name="app_name_which_call">Sovellus:%s</string>
   <string name="app_version_which_call">Sovellusversio:%s</string>
+  <string name="ime_privacy_policy">Valitse Näppäimistö</string>
   <string name="license_host_unreachable">"Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon heti, mene %s"</string>
   <string name="loading">Ladataan…</string>
   <string name="mibi_license">Mi Krediitti Käyttöehdot</string>
   <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
   <string name="open_wifi_connect_title">Yhdistä kohteeseen %1$s</string>
+  <string name="permdesc_accessDrm">Sallii sovelluksen käyttää DRM-suojattua sisältöä.</string>
   <string name="policy_name">Käytäntö:%s</string>
   <string name="settings_ad_loading">Ladataan…</string>
   <string name="settings_ad_loading_unavailable">Latauksessa ilmeni ongelma.</string>

@@ -22,6 +22,10 @@
         <item quantity="other">%1$s henkilöä</item>
         <item quantity="one">1 henkilö</item>
     </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Poistetaanko %1$s viestiä?</item>
+        <item quantity="one">Poistetaanko %1$s viesti?</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d viestiä</item>
         <item quantity="zero">0 viestiä</item>
@@ -38,5 +42,6 @@
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">%d valittu</item>
         <item quantity="zero">Valitse kohteet</item>
+        <item quantity="one">%d valittu</item>
     </plurals>
 </resources>

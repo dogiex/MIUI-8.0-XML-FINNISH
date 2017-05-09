@@ -45,6 +45,7 @@
   <string name="action_bar_up_description">Siirry ylös</string>
   <string name="action_menu_overflow_description">Lisää asetuksia</string>
   <string name="action_mode_done">Valmis</string>
+  <string name="activity_chooser_view_dialog_title_default">Valitse toiminto</string>
   <string name="activity_chooser_view_see_all">Näytä kaikki</string>
   <string name="activity_list_empty">Osuvia toimintoja ei löytynyt.</string>
   <string name="activity_resolver_use_always">Aina</string>
@@ -88,6 +89,8 @@ Haluatko sulkea sen?"</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
   <string name="autofill_address_summary_separator">", "</string>
+  <string name="autofill_address_type_same_as_re">sama kuin</string>
+  <string name="autofill_address_type_use_my_re">käytä minun</string>
   <string name="autofill_area">Alue</string>
   <string name="autofill_county">Lääni</string>
   <string name="autofill_department">Osasto</string>
@@ -179,6 +182,18 @@ käyttäen numeroa %s"</string>
   <string name="day">päivä</string>
   <string name="days">päivää</string>
   <string name="decline">Hylkää</string>
+  <string name="def_wifi_direct_name"/>
+  <string name="def_wifi_wifihotspot_pass"/>
+  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+  <string name="defaultVoiceMailAlphaTag">Ääniviesti</string>
+  <string name="default_audio_route_category_name">Järjestelmä</string>
+  <string name="default_audio_route_name">Puhelin</string>
+  <string name="default_audio_route_name_dock_speakers">Dock speakers</string>
+  <string name="default_audio_route_name_headphones">Kuulokkeet</string>
+  <string name="default_browser"/>
+  <string name="default_media_route_name_hdmi">HDMI</string>
+  <string name="default_sms_application">com.android.mms</string>
+  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Poista</string>
   <string name="deleteText">Poista</string>
   <string name="deleted_key">%1$s poistettiin</string>
@@ -363,6 +378,7 @@ käyttäen numeroa %s"</string>
   <string name="httpErrorTooManyRequests">Liikaa käsiteltäviä pyyntöjä. Yritä myöhemmin uudelleen.</string>
   <string name="httpErrorUnsupportedAuthScheme">Sivuston todennusmallia ei tueta.</string>
   <string name="httpErrorUnsupportedScheme">Protokollaa ei tueta.</string>
+  <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
   <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Muokattu</string>
   <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -377,6 +393,7 @@ käyttäen numeroa %s"</string>
   <string name="imTypeHome">Pikaviestin (koti)</string>
   <string name="imTypeOther">Muu</string>
   <string name="imTypeWork">Työ</string>
+  <string name="ime_action_default">Suorita</string>
   <string name="ime_action_done">Valmis</string>
   <string name="ime_action_go">Siirry</string>
   <string name="ime_action_next">Seuraava</string>
@@ -491,6 +508,15 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="launch_warning_title">Sovelluksen uud.ohjaus</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Ladataan…</string>
+  <string name="locale_codes"/>
+  <string name="locale_replacement"/>
+  <string name="lock_pattern_view_aspect">neliö</string>
+  <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
+  <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_exit">Näyttö irrotettu</string>
   <string name="lock_to_app_start">Näyttö kiinnitetty</string>
   <string name="lock_to_app_toast">Poista näytön kiinnitys painamalla Edellinen- ja Viimeisimmät-kohtaa samanaikaisesti pitkään.</string>
@@ -505,6 +531,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
   <string name="lockscreen_access_pattern_start">Kuvio aloitettu</string>
+  <string name="lockscreen_carrier_default">Ei palvelua.</string>
   <string name="lockscreen_emergency_call">Hätäpuhelu</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Puhelimen lukituksen poisto epäonnistui %d kertaa. Jos teet vielä %d epäonnistunutta yritystä, puhelimeen palautetaan tehdasasetukset ja kaikki käyttäjätiedot häviävät.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Piirsit lukituksenpoistokuvion väärin %d kertaa. Jos piirrät kuvion väärin vielä %d kertaa, sinua pyydetään poistamaan puhelimesi lukitus Google-sisäänkirjautumisen avulla.
@@ -682,6 +709,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="needPuk">SIM-korttisi on PUK-lukittu. Poista lukitus antamalla PUK-koodi.</string>
   <string name="needPuk2">Pura SIM-kortin esto antamalla PUK2-koodi.</string>
   <string name="network_available_sign_in">Kirjaudu verkkoon</string>
+  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Käynnistä %1$s</string>
   <string name="new_app_description">Pysäytä vanha sovellus tallentamatta.</string>
   <string name="next_button_label">Seuraava</string>
@@ -692,6 +720,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="no_permissions">Lupia ei tarvita</string>
   <string name="no_recent_tasks">Ei viimeaikaisia sovelluksia</string>
   <string name="noon">keskipäivä</string>
+  <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Ilmoituskuuntelija</string>
   <string name="notification_title">Kirjautumisvirhe tilille %1$s</string>
   <string name="notification_work_profile_content_description">Työprofiili</string>
@@ -1189,6 +1218,9 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="system_error_wipe_data">Laitteellasi on sisäinen ongelma, joka aiheuttaa epävakautta. Voit korjata tilanteen palauttamalla tehdasasetukset.</string>
   <string name="terabyteShort">Tt</string>
   <string name="tethered_notification_message">Määritä asetukset koskettamalla.</string>
+  <string name="tethered_notification_multi_device_message">%1$s yhdistettyä laitetta</string>
+  <string name="tethered_notification_no_device_message">Ei yhdistettyä laitetta</string>
+  <string name="tethered_notification_one_device_message">%1$s yhdistetty laite</string>
   <string name="tethered_notification_title">Internetin jakaminen tai yhteyspiste käytössä</string>
   <string name="textSelectionCABTitle">Tekstin valinta</string>
   <string name="text_copied">Teksti kopioitu leikepöydälle.</string>
@@ -1200,6 +1232,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="time_picker_increment_hour_button">Lisää tuntien määrää.</string>
   <string name="time_picker_increment_minute_button">Lisää minuuttien määrää.</string>
   <string name="time_picker_increment_set_pm_button">Aseta ip</string>
+  <string name="time_placeholder">--</string>
   <string name="toolbar_collapse_description">Kutista</string>
   <string name="turn_off_radio">Poista langaton yhteys käytöstä</string>
   <string name="turn_on_radio">Ota langaton yhteys käyttöön</string>
@@ -1208,6 +1241,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="untitled">&lt;Nimetön&gt;</string>
   <string name="upload_file">Valitse tiedosto</string>
   <string name="usb_accessory_notification_title">Liitetty USB-laitteeseen</string>
+  <string name="usb_cd_installer_notification_title">Yhdistetty asentajana</string>
   <string name="usb_charging_notification_title">USB on lataustilassa</string>
   <string name="usb_midi_notification_title">USB on MIDI-tilassa</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
@@ -1284,6 +1318,7 @@ Haluatko sulkea sen?"</string>
   <string name="wifi_calling_off_summary">Ei käytössä</string>
   <string name="wifi_connect_alert_message">Sovellus %1$s yrittää yhdistää Wi-Fi-verkkoon %2$s.</string>
   <string name="wifi_connect_alert_title">Sallitaanko yhteys?</string>
+  <string name="wifi_connect_default_application">Sovellus</string>
   <string name="wifi_no_internet">Wi-Fi ei ole yhteydessä internetiin.</string>
   <string name="wifi_no_internet_detailed">Näet lisää vaihtoehtoja koskettamalla</string>
   <string name="wifi_p2p_dialog_title">Suora Wi-Fi-yhteys</string>
@@ -1298,6 +1333,7 @@ Haluatko sulkea sen?"</string>
   <string name="wifi_p2p_show_pin_message">PIN-koodi:</string>
   <string name="wifi_p2p_to_message">Kohde:</string>
   <string name="wifi_p2p_turnon_message">Käynnistä suora Wi-Fi-yhteys. Wi-Fi-asiakas/-hotspot poistetaan käytöstä.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Wi-Fi-yhteyden muodostaminen epäonnistui</string>
   <string name="wifi_watchdog_network_disabled_detailed">" : huono internetyhteys."</string>
   <string name="wireless_display_route_description">Langaton näyttö</string>
@@ -1310,6 +1346,10 @@ Haluatko sulkea sen?"</string>
   <string name="year">vuosi</string>
   <string name="years">vuotta</string>
   <string name="yes">OK</string>
+  <string name="zen_mode_alarm">Seuraavaan %1$s (hälytykseen)</string>
+  <string name="zen_mode_default_events_name">Tapahtuma</string>
+  <string name="zen_mode_default_weekends_name">Viikonloppu</string>
+  <string name="zen_mode_default_weeknights_name">Weeknight</string>
   <string name="zen_mode_downtime_feature_name">Vapaalla</string>
   <string name="zen_mode_feature_name">Älä häiritse</string>
   <string name="zen_mode_forever">Kunnes poistat tämän käytöstä</string>

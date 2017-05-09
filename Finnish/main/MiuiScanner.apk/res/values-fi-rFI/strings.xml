@@ -181,6 +181,7 @@
   <string name="allow_check_website_security">Ilmoita minulle verkkosivujen turvatarkastuksista</string>
   <string name="app_details">Sovellus:</string>
   <string name="app_name">Lukija</string>
+  <string name="back">Takaisin</string>
   <string name="barcode_into_rectangle">Aseta koodi kehyksen sisään</string>
   <string name="birthday">Syntymäpäivä:</string>
   <string name="camera_error_title">Kamera virhe</string>
@@ -235,6 +236,7 @@
   <string name="document_title">Ota asiakirjasta valokuva</string>
   <string name="document_top_panel_title">Asiakirjasta kuva</string>
   <string name="done">Valmis</string>
+  <string name="drag_barcode_into_frame">Vedä kehys sopivaksi, jotta koodi mahtuu</string>
   <string name="email">Sähköposti:</string>
   <string name="error_camera_disabled">Pääsy kameraan on estetty tietoturvan vuoksi</string>
   <string name="error_cannot_connect_camera">Kameraan ei saada yhteyttä</string>
@@ -281,7 +283,7 @@
   <string name="language_entry_russian">Venäjä</string>
   <string name="language_entry_spanish">Espanja</string>
   <string name="language_entry_swedish">Ruotsi</string>
-  <string name="low_version_tip">Lukija ei voi käynnistyä nykyisellä järjestelmällä, päivitä uusimpaan MIUI versioon</string>
+  <string name="low_version_tip">MIUI versio on liian vanha. Päivitä MIUI käyttääksesi Lukijaa.</string>
   <string name="module_title_code">QR-koodi</string>
   <string name="module_title_document">Asiakirja</string>
   <string name="module_title_namecard">Käyntikortti</string>
@@ -312,10 +314,20 @@
   <string name="preparing_sd">Valmistellaan SD-korttia…</string>
   <string name="previous">Takaisin</string>
   <string name="qr_code_details">QR-koodin tiedot:</string>
+  <string name="recognition_error_download_cancel">Myöhemmin</string>
+  <string name="recognition_error_download_data_msg">Lataa tunnistusmoottori skannataksesi kortteja. Sen koko on noin 15 Mt. Käytetäänkö lataamiseen mobiilidataa?</string>
+  <string name="recognition_error_download_fail">Tunnistusmoottorin lataaminen epäonnistui</string>
+  <string name="recognition_error_download_msg">Lataa tunnistusmoottori skannataksesi kortteja. Sen koko on noin 15 Mt.</string>
+  <string name="recognition_error_download_no_network">Lataaminen epäonnistui. Varmista, että olet yhteydessä verkkoon.</string>
+  <string name="recognition_error_download_ok">Lataa</string>
+  <string name="recognition_error_download_success">Ladattiin onnistuneesti</string>
+  <string name="recognition_error_download_title">Tunnistusmoottori vaaditaan</string>
+  <string name="recognition_error_downloading">Ladataan tunnistusmoottoria…</string>
   <string name="recognize">Skannaa</string>
   <string name="recognize_fail">Koodia ei voitu lukea</string>
   <string name="scan_fail">Koodia ei voitu lukea</string>
   <string name="scan_result">Tulos</string>
+  <string name="sdk_not_ready">Valmistellaan SDK:ta. Yritä myöhemmin uudelleen.</string>
   <string name="secure_access_web_url">Mene verkkosivulle</string>
   <string name="see_app_details">Näytä sovelluksen tiedot</string>
   <string name="settings">Asetukset</string>
@@ -324,6 +336,7 @@
   <string name="shopping_vendor_info">Teknisen tuen tarjoaa Taobao</string>
   <string name="spaceIsLow_content">SD-kortilla ei ole tarpeeksi tallennustilaa. Vapauta tilaa.</string>
   <string name="study_report_title">Raportoi</string>
+  <string name="study_rotate_picture">Kuvaa prosessoidaan</string>
   <string name="study_scan_result">Tulos</string>
   <string name="study_searching">Etsitään tulosta</string>
   <string name="study_title">Ota ongelmasta kuva</string>
@@ -360,6 +373,7 @@
   <string name="view_study_report">Näytä raportti</string>
   <string name="web">Verkkosivu:</string>
   <string name="website_details">Verkkosivu:</string>
+  <string name="weixin_code_tip">Käytä WeChat sovellusta skannataksesi tämä QR-koodi</string>
   <string name="wifi_details">W-Fi:</string>
   <string name="wifi_open_fail">Langatonta verkkoa (Wi-Fi) ei voitu ottaa käyttöön</string>
   <string name="wifi_pwd">Salasana:</string>

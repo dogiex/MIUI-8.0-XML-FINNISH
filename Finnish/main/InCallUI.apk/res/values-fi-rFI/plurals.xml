@@ -4,4 +4,8 @@
         <item quantity="other">%d puhelua nauhoitettu.</item>
         <item quantity="one">yksi puhelu nauhoitettu.</item>
     </plurals>
+    <plurals name="livetalk_left_minute">
+        <item quantity="other">%d minuuttia jäljellä</item>
+        <item quantity="one">%d minuutti jäljellä</item>
+    </plurals>
 </resources>

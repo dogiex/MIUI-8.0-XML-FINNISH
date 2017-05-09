@@ -5,6 +5,7 @@
   <string name="SMTP_username_text">Käyttäjänimi</string>
   <string name="accessibility_guide_first">Seuraavalla näytöllä valitse \"Palvelut\" välilehti aktivoidaksesi 139 Postilaatikon Automaattinen Määritys</string>
   <string name="accessibility_guide_second">Sen jälkeen paina kytkintä oikeassa yläkulmassa, paina \"Vahvista\" jatkaaksesi.</string>
+  <string name="account_cache_provider">Tilin Välimuistin Tarjoaja</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille %s.</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -28,6 +29,7 @@
   <string name="account_settings_action">Tilin asetukset</string>
   <string name="account_settings_background_attachments_label">Lataa liitetiedostoja</string>
   <string name="account_settings_background_attachments_summary">Lataa viimeaikaisten viestien liitteet Wi-Fi-yhteyden kautta.</string>
+  <string name="account_settings_background_attachments_summary_inter">Lataa liitetiedostot käyttämällä Wi-Fiä</string>
   <string name="account_settings_data_usage">Tiedonsiirto</string>
   <string name="account_settings_description_label">Tilin nimi</string>
   <string name="account_settings_edit_quick_responses_label">Pikavastaukset</string>
@@ -117,6 +119,7 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Hyväksy kaikki varmenteet)</string>
   <string name="account_setup_incoming_server_label">Palvelin</string>
   <string name="account_setup_incoming_username_label">Käyttäjätunnus</string>
+  <string name="account_setup_incoming_username_label_default_hint">Voi sisältää domainin</string>
   <string name="account_setup_need_password_verification">Tililläsi on kahden-vaiheen salasana-autentikointi. Autentikointi vaaditaan.</string>
   <string name="account_setup_options_mail_check_frequency_10min">10 minuutin välein</string>
   <string name="account_setup_options_mail_check_frequency_12hour">12 tunnin välein</string>
@@ -133,6 +136,7 @@
   <string name="account_setup_options_mail_window_3days">Kolme viime päivää</string>
   <string name="account_setup_options_mail_window_all">Kaikki</string>
   <string name="account_setup_options_mail_window_auto">Automaattinen</string>
+  <string name="account_setup_options_mail_window_default">Käytä tilin oletusta</string>
   <string name="account_setup_options_mail_window_label">Synkronoi sähköpostit kohteesta:</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Säilytä</string>
   <string name="account_setup_options_title">Tilin asetukset</string>
@@ -292,6 +296,7 @@
   <string name="contact_edit_title_phone_contact">Puhelimen yhteystietoluettelo</string>
   <string name="contact_in_filter_title">Lähettäjä</string>
   <string name="contact_info_string">Näytä henkilön %1$s yhteystiedot</string>
+  <string name="contact_info_string_default">Näytä henkilön yhteystiedot</string>
   <string name="contact_list_add_btn">Lisää</string>
   <string name="contact_list_search_hint">Etsi yhteystietoja</string>
   <string name="contact_list_title">Yhteystiedot</string>
@@ -315,6 +320,7 @@
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_sms_dot">Tekstiviesti...</string>
+  <string name="conversation_content_provider">Keskustelun Sisällöntarjoaja</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
   <string name="conversation_item_mark_read">Luettu</string>
   <string name="conversation_item_mark_unread">Lukematon</string>
@@ -334,6 +340,12 @@
   <string name="date_heading">"Päiväys: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Tänään, %1$s</string>
+  <string name="default_">OLETUS</string>
+  <string name="default_exchange">EXCHANGE</string>
+  <string name="default_imap">IMAP</string>
+  <string name="default_pop3">POP3</string>
+  <string name="default_setup">OLETUSASETUKSET</string>
+  <string name="default_signature">Lähetetty Mi puhelimestani</string>
   <string name="del_account_questionnair_hint">Voitko kertoa meille, miksi olet poistamassa tätä tiliä?</string>
   <string name="delete">Poista</string>
   <string name="delete_message_flow">Poista viestiketju</string>
@@ -429,6 +441,7 @@
   <string name="file_not_found_redownload">Tiedostoa ei löytynyt</string>
   <string name="file_rar_not_support">Salattuja rar-tiedostoja ei voi avata</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Napauta painiketta lähettääksesi \"%s\" kaikille keskustelun henkilöille</string>
   <string name="float_window_content">Havaitsi, että käytät postilaatikkoa, täytä 139 Sähköpostin käyttäjätunnus ja salasana automaattisesti painamalla Vahvista.</string>
   <string name="float_window_info">Älä käytä puhelinta 139 postilaatikon määrityksen aikana, jotta määritykseen ei tule virheitä.</string>
   <string name="float_window_title">Määritys…</string>
@@ -552,6 +565,14 @@
   <string name="mailbox_name_display_starred">Tähdelliset</string>
   <string name="mailbox_name_display_trash">Roskakori</string>
   <string name="mailbox_name_display_unread">Lukemattomat</string>
+  <string name="mailbox_name_server_all_unread">Lukematon</string>
+  <string name="mailbox_name_server_drafts">Luonnokset</string>
+  <string name="mailbox_name_server_inbox">Postilaatikko</string>
+  <string name="mailbox_name_server_junk">Roskaposti</string>
+  <string name="mailbox_name_server_outbox">Lähtevät</string>
+  <string name="mailbox_name_server_sent">Lähetetyt</string>
+  <string name="mailbox_name_server_starred">Tähdelliset</string>
+  <string name="mailbox_name_server_trash">Roskakori</string>
   <string name="mailbox_settings_activity_title">Synkronointiasetukset</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synkronointiasetukset (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synkronoitavat päivät</string>
@@ -607,6 +628,7 @@
 %s "</string>
   <string name="megabytes">%s Mt</string>
   <string name="menu_att_mgr">Liitetiedostot</string>
+  <string name="menu_att_mgr_order_default">Viimeksi katsotut</string>
   <string name="menu_att_mgr_order_mime">Järjestä tyypin mukaan</string>
   <string name="menu_att_mgr_order_name">Järjestä nimen mukaan</string>
   <string name="menu_att_mgr_order_rev_date">Järjestä päivämäärän mukaan</string>
@@ -770,6 +792,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_dont_allow_unsigned_apps">Älä salli allekirjoittamattomia sovelluksia</string>
   <string name="policy_dont_allow_unsigned_installers">Älä salli allekirjoittamattomien sovelluksien asennusta</string>
   <string name="policy_dont_allow_wifi">Älä salli Wi-Fi-yhteyttä</string>
+  <string name="policy_dont_allow_wifi_inter">Älä salli Wi-Fiä</string>
   <string name="policy_email_age">Rajoita synkronoitavien sähköpostien lukumäärää</string>
   <string name="policy_html_truncation">Rajoita HTML sähköpostin kokoa</string>
   <string name="policy_password_expiration">Vaadi salasanojen vanhenemista</string>
@@ -782,6 +805,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava näyttö</string>
   <string name="policy_text_truncation">Rajoita sähköpostin tekstin kokoa</string>
   <string name="pop3_name">Omat (POP3)</string>
+  <string name="prefDefault_autoAdvance">lista</string>
   <string name="preference_eas_tips">Aseta sähköpostipalvelin napauttamalla Aktivoi.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">POP3:ssa, liitetiedostot ladataan automaattisesti sähköpostin mukana. Tämä saattaa nostaa mobiilidatan käyttöä.</string>
@@ -1021,6 +1045,7 @@ Lopetetaanko nyt?"</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
   <string name="unsent_messages_in_outbox">%2$s: %1$s lähettämätöntä viestiä</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
+  <string name="update_date_format_templete">HH:mm, d.m.</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>
   <string name="upload_log">Lähetä lokitiedostot</string>
   <string name="upload_log_failed">Lokitiedostojen lähettäminen epäonnistui</string>
@@ -1041,6 +1066,7 @@ Lopetetaanko nyt?"</string>
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
 Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran, tai &lt;b&gt;Vaihda Synkronointiasetuksia&lt;/b&gt; ottamalla tälle tilille sähköpostin automaattisen synkronointi käyttöön.</string>
   <string name="wait_for_sync_title">Odotetaan synkronointia</string>
+  <string name="wait_help_context">odota</string>
   <string name="webview_logout">Voit yrittää kirjautua uudelleen</string>
   <string name="webview_logout_cancel">Ei nyt</string>
   <string name="webview_logout_sure">Yritä uudelleen</string>

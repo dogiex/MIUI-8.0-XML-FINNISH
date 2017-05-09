@@ -31,6 +31,7 @@
   <string name="configure_input_methods">Valitse näppäimistöt</string>
   <string name="copy">Kopioi</string>
   <string name="cut">Leikkaa</string>
+  <string name="default_name">Oletus</string>
   <string name="enable_livetalk_summary">Säästä jopa 70% puhelinlaskua</string>
   <string name="enable_livetalk_title">Ota Top-up paketti käyttöön</string>
   <string name="fc_dialog_body">Lähetetäänkö vikaraportti Xiaomille tutkittavaksi? Tämä saattaa sisältää henkilökohtaiseksi tunnistettavia tietoja. Raporttiasi käytetään vian korjaamista varten, eikä sitä tulla jakamaan eteenpäin mainostamista varten.</string>
@@ -87,8 +88,6 @@
   <string name="reboot_progress">Käynnistetään uudelleen…</string>
   <string name="replace">Korvaa</string>
   <string name="resource_select">Valitse</string>
-  <string name="screen_button_disabled_message">Navigointipainikkeet on poistettu käytöstä. Ota ne takaisin käyttöön koskettamalla Koti- ja Virtapainiketta samanaikaisesti.</string>
-  <string name="screen_button_enabled_message">Navigointipainikkeet on käytössä.</string>
   <string name="screen_button_notification_text">Ota ne takaisin käyttöön painamalla Koti- ja Virtapainiketta samanaikaisesti.</string>
   <string name="screen_button_notification_title">Navigointipainikkeet on poistettu käytöstä</string>
   <string name="screen_on_proximity_sensor_hint">Poista ominaisuus käytöstä painamalla Takaisin- ja Äänenvoimakkuus ylös -painikkeita samanaikaisesti.</string>
@@ -142,6 +141,7 @@
   <string name="status_bar_toggle_vibrate">Värinä</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="subinfo_default_name">SIM-kortti %d</string>
   <string name="translation_more">Lisää</string>
   <string name="translation_query_error">Tuloksia ei löytynyt</string>
   <string name="translation_query_error_network">Tietoa ei saatu, tarkasta verkkoyhteys ja yritä uudelleen</string>

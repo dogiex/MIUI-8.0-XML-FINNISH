@@ -108,6 +108,7 @@
 3. Meidän HD Videoliitännäinen asennetaan automaattisesti.
 4. Tämä sovellus tarvitsee internet-yhteyden toimiakseen normaalisti."</string>
   <string name="declaration_content_td_custom">Tämä sovellus tarvitsee internet-yhteyden toimiakseen normaalisti.</string>
+  <string name="defaults">Oletus</string>
   <string name="delete">Poista</string>
   <string name="delete_action_text">Poista (%d)</string>
   <string name="delete_addon">Poista</string>
@@ -132,6 +133,7 @@
   <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
   <string name="download_finished">Complete</string>
   <string name="download_geturl_fail">"Couldn't get URL"</string>
+  <string name="download_insufficient_space">Tallennustila vähissä</string>
   <string name="download_is_in_tasklist">Jonossa</string>
   <string name="download_paused">Pysäytetty</string>
   <string name="download_percent_hint">Ladataan %d%%</string>
@@ -161,6 +163,7 @@
   <string name="file_error">File error</string>
   <string name="file_not_exist">Tiedostoa ei ole olemassa</string>
   <string name="filter">Filter</string>
+  <string name="finish_install">Asennettiin onnistuneesti</string>
   <string name="forecast">Ennuste</string>
   <string name="forecast_empty_hint">Tyhjä</string>
   <string name="forecasts">EPG</string>
@@ -234,9 +237,10 @@
   <string name="not_buy_vip">no vip</string>
   <string name="not_exist_openid">getting account info, please wait...</string>
   <string name="not_login">Not signed in</string>
+  <string name="notification_default_title">Offline video</string>
   <string name="notification_sub_title">Total %d download task(s) completed</string>
   <string name="notification_ticker_text">Offline video download completion</string>
-  <string name="notification_title">\"%s\" download completion</string>
+  <string name="notification_title">\"%1$s\" download completion</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
   <string name="nowifi_alert_dialog_message">"Using your mobile data connection to stream video will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
@@ -244,7 +248,7 @@
   <string name="offline">Offline</string>
   <string name="offline_add_queue_fail">"Couldn't download \"%1$s\""</string>
   <string name="offline_alert_title">Data usage</string>
-  <string name="offline_alert_wifi">Downloads will begin when your device connects to a Wi-Fi network.</string>
+  <string name="offline_alert_wifi">Downloads will begin when your device connects to a WLAN network.</string>
   <string name="offline_already_in">\"%1$s\" is already waiting to download</string>
   <string name="offline_created_order">Added \"%1$s\" is already waiting to download</string>
   <string name="offline_loaded">Offline video</string>
@@ -560,6 +564,7 @@ lähetettyä linkkiä."</string>
   <string name="video_plugin_prepare">Just a sec…</string>
   <string name="video_pre_play_tip">You can free preview play %1$d minutes，play complete please &lt;Data&gt;&amp;lt;font color=#04b4fd&amp;gt;purchase immediately &amp;gt;&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="vip_package">vip package</string>
+  <string name="vip_rights">Vip rights and interests</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
@@ -623,7 +628,7 @@ lähetettyä linkkiä."</string>
   <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">New</string>
   <string name="vp_next_ci">Next</string>
-  <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
+  <string name="vp_notify_apk_installed">Install application successfully</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_offline_status_done">Finished</string>
   <string name="vp_offline_status_dowloading">Downloading</string>
@@ -659,7 +664,7 @@ lähetettyä linkkiä."</string>
   <string name="vp_using_4_3">Force 4:3</string>
   <string name="vp_video_bad_network_condition">Heikko internet-yhteys. Yritä myöhemmin uudelleen.</string>
   <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;Loading&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">Loading</string>
   <string name="vp_video_plugin_installation">Installing %1$s…</string>
   <string name="waiting_to_download">Waiting</string>
   <string name="wasu">Wasu</string>
