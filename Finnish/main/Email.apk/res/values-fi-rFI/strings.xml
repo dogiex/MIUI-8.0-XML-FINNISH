@@ -5,7 +5,6 @@
   <string name="SMTP_username_text">Käyttäjänimi</string>
   <string name="accessibility_guide_first">Seuraavalla näytöllä valitse \"Palvelut\" välilehti aktivoidaksesi 139 Postilaatikon Automaattinen Määritys</string>
   <string name="accessibility_guide_second">Sen jälkeen paina kytkintä oikeassa yläkulmassa, paina \"Vahvista\" jatkaaksesi.</string>
-  <string name="account_cache_provider">Tilin Välimuistin Tarjoaja</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille %s.</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -320,7 +319,6 @@
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_sms_dot">Tekstiviesti...</string>
-  <string name="conversation_content_provider">Keskustelun Sisällöntarjoaja</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
   <string name="conversation_item_mark_read">Luettu</string>
   <string name="conversation_item_mark_unread">Lukematon</string>
@@ -565,14 +563,6 @@
   <string name="mailbox_name_display_starred">Tähdelliset</string>
   <string name="mailbox_name_display_trash">Roskakori</string>
   <string name="mailbox_name_display_unread">Lukemattomat</string>
-  <string name="mailbox_name_server_all_unread">Lukematon</string>
-  <string name="mailbox_name_server_drafts">Luonnokset</string>
-  <string name="mailbox_name_server_inbox">Postilaatikko</string>
-  <string name="mailbox_name_server_junk">Roskaposti</string>
-  <string name="mailbox_name_server_outbox">Lähtevät</string>
-  <string name="mailbox_name_server_sent">Lähetetyt</string>
-  <string name="mailbox_name_server_starred">Tähdelliset</string>
-  <string name="mailbox_name_server_trash">Roskakori</string>
   <string name="mailbox_settings_activity_title">Synkronointiasetukset</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synkronointiasetukset (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synkronoitavat päivät</string>
@@ -805,7 +795,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava näyttö</string>
   <string name="policy_text_truncation">Rajoita sähköpostin tekstin kokoa</string>
   <string name="pop3_name">Omat (POP3)</string>
-  <string name="prefDefault_autoAdvance">lista</string>
   <string name="preference_eas_tips">Aseta sähköpostipalvelin napauttamalla Aktivoi.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">POP3:ssa, liitetiedostot ladataan automaattisesti sähköpostin mukana. Tämä saattaa nostaa mobiilidatan käyttöä.</string>
@@ -1066,7 +1055,6 @@ Lopetetaanko nyt?"</string>
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
 Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran, tai &lt;b&gt;Vaihda Synkronointiasetuksia&lt;/b&gt; ottamalla tälle tilille sähköpostin automaattisen synkronointi käyttöön.</string>
   <string name="wait_for_sync_title">Odotetaan synkronointia</string>
-  <string name="wait_help_context">odota</string>
   <string name="webview_logout">Voit yrittää kirjautua uudelleen</string>
   <string name="webview_logout_cancel">Ei nyt</string>
   <string name="webview_logout_sure">Yritä uudelleen</string>

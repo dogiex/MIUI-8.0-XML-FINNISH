@@ -94,7 +94,6 @@ Kohde ei saa olla pidemmällä, kuin 2 metriä."</string>
   <string name="pano_how_to_use_prompt_to_move">Aloita panoroimaan hitaasti</string>
   <string name="path_settings">Järjestelmäsovellukset/Kamera/Asetukset</string>
   <string name="pref_advance_settings">Lisäasetukset</string>
-  <string name="pref_audio_focus_default">Normaali</string>
   <string name="pref_audio_focus_entry_front">Etu</string>
   <string name="pref_audio_focus_entry_general">Normaali</string>
   <string name="pref_audio_focus_entry_rear">Taka</string>
@@ -236,9 +235,6 @@ Kohde ei saa olla pidemmällä, kuin 2 metriä."</string>
   <string name="pref_camera_snap_entry_take_movie">Nopean kuvan tila (video)</string>
   <string name="pref_camera_snap_entry_take_picture">Nopean kuvan tila (kuva)</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nopean kuvan tilaa ei voi käyttää jos \"Herätä Äänenvoimakkuuspainikkeella\" on käytössä.</string>
-  <string name="pref_camera_snap_value_off">Ei käytössä</string>
-  <string name="pref_camera_snap_value_take_movie">Elokuva</string>
-  <string name="pref_camera_snap_value_take_picture">Kuva</string>
   <string name="pref_camera_sound_title">Kameran äänet</string>
   <string name="pref_camera_square_mode_title">Neliö</string>
   <string name="pref_camera_tilt_shift_entry_circle">Ympyrä</string>

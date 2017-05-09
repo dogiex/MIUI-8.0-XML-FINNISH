@@ -193,7 +193,6 @@ käyttäen numeroa %s"</string>
   <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="default_sms_application">com.android.mms</string>
-  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Poista</string>
   <string name="deleteText">Poista</string>
   <string name="deleted_key">%1$s poistettiin</string>

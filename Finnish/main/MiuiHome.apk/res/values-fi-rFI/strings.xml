@@ -271,7 +271,6 @@
   <string name="wallpaper_failed_message">Taustakuvaa ei voi asettaa</string>
   <string name="wallpaper_scaling_message">Skaalataan määrättyyn kokoon</string>
   <string name="wallpaper_scroll_type_tips">Taustakuvan vieritys</string>
-  <string name="wallpaper_scrolling">kaikki</string>
   <string name="wallpaper_settings">Taustakuva</string>
   <string name="wallpaper_success_message">Taustakuva lisätty</string>
   <string name="widget_favorite_contacts_edit">Editori</string>
