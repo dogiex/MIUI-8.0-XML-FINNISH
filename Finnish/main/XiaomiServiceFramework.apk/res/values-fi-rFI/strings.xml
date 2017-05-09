@@ -15,8 +15,8 @@
   <string name="activate_feature_remote_assist">Etäavustaja</string>
   <string name="activate_feature_verify_mx_token">Mi Tilin varmennus</string>
   <string name="activate_history_cancelled">Peruutettu</string>
-  <string name="activate_history_multisim_overview">SIM-kortin %3$d %1$s aktivointi. It is triggered by \"%2$s\".</string>
-  <string name="activate_history_overview">SIM-kortin %1$s aktivointi. It is triggered by \"%2$s\".</string>
+  <string name="activate_history_multisim_overview">SIM-kortin %3$d %1$s aktivointi. \"%2$s\" käynnisti sen.</string>
+  <string name="activate_history_overview">SIM-kortin %1$s aktivointi. \"%2$s\" käynnisti sen.</string>
   <string name="activate_history_sms">Tekstiviesti lähetettiin aktivoinnin aikana.</string>
   <string name="activate_history_success">Onnistui</string>
   <string name="activate_history_title">SIM-kortin aktivointi</string>
