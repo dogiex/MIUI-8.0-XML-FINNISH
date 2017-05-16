@@ -80,7 +80,6 @@
   <string name="daily_forecast_no_data">"Säätietojen haku epäonnistui
 Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa</string>
-  <string name="data_source_time_fromat">d.M.yyyy HH:mm:ss</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>

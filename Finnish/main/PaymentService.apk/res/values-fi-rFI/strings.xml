@@ -268,10 +268,6 @@ Asiakaspalvelu: 400-100-5678"</string>
   <string name="mibi_recharge_other">Näytä muut tavat</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d lisättiin %2$s Mi Krediittiä tilillesi</string>
   <string name="mibi_recharge_push_notification_sub_title">Top-up valmis.</string>
-  <string name="mibi_recharge_value_money">Osta CNY %s arvoista Mi Krediittejä</string>
-  <string name="mibi_recharge_value_money_special_unit">Osta %1$s %2$s arvoista Mi Krediittejä</string>
-  <string name="mibi_recharge_value_money_with_tip">Osta CNY %s arvoista Mi Krediittejä (Et voi käyttää Mi Krediittejä sivustolla mi.com)</string>
-  <string name="mibi_recharge_value_money_with_tip_special_unit">Osta %1$s %2$s arvoista Mi Krediittejä (Et voi käyttää Mi Krediittejä sivustolla mi.com)</string>
   <string name="mibi_scan_prompt_number">Skannaa %1$s prepaid-kortin numero</string>
   <string name="mibi_scan_prompt_password">Skannaa %1$s prepaid-kortin salasana</string>
   <string name="mibi_scan_prompt_voucher">Skannaa Mi Krediitin salasana</string>
@@ -301,7 +297,6 @@ Asiakaspalvelu: 400-100-5678"</string>
   <string name="mibi_title_sms_code">Syötä matkapuhelimen vahvistuskoodi</string>
   <string name="mibi_title_visible_pattern">Tee kuviosta näkyvä</string>
   <string name="mibi_unit">Mi Krediitti</string>
-  <string name="mibi_unit_value">%1$s Mi Krediittiä</string>
   <string name="mibi_voucher_card_text">Raaputa pinta pois</string>
   <string name="mibi_voucher_error_password">Virheellinen koodi.</string>
   <string name="mibi_voucher_input_password_prompt">Syötä koodi</string>

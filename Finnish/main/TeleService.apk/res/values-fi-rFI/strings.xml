@@ -14,7 +14,6 @@
   <string name="administrative_disable">Järjestelmänhallinta pois käytöstä</string>
   <string name="administrative_enable">Järjestelmänhallinta käytössä</string>
   <string name="advanced_settings">Lisäasetukset</string>
-  <string name="advanced_settings_container">lisäasetuksien astia</string>
   <string name="advanced_settings_hide">▽ Piilota kaikki koskettamalla</string>
   <string name="advanced_settings_show">▷ Näytä kaikki koskettamalla</string>
   <string name="advertisements_disable">Mainokset pois käytöstä</string>
@@ -43,7 +42,6 @@
   <string name="audio_mode_earpiece">Puhelimen kuuloke</string>
   <string name="audio_mode_speaker">Kaiutin</string>
   <string name="audio_mode_wired_headset">Langalliset kuulokkeet</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Käyttäjänimeä käytetään todennukseen</string>
   <string name="auth_username_title">Todennuksessa käytettävä käyttäjänimi</string>
   <string name="auto_answer_delay_entries_delay_10s">10 sekuntia</string>
@@ -323,7 +321,6 @@
   <string name="deactivate_all">Peruuta kaikki</string>
   <string name="default_notification_description">Oletusääni (%1$s)</string>
   <string name="default_preference_summary">Ei asetettu</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Poista</string>
   <string name="deleteAllSimEntries">Poista kaikki SIM-kortin yhteystiedot</string>
   <string name="deleteSimContacts">Poistetaan SIM-kortin yhteystietoja</string>
@@ -406,10 +403,8 @@
   <string name="disable_pin_ok">PIN-koodi tyhjennetty</string>
   <string name="disable_sim_pin">Tyhjennä SIM-kortin PIN-koodi</string>
   <string name="disabled_by_admin">Järjestelmänvalvoja on poistanut käytöstä</string>
-  <string name="display_name">NäyttöNimi</string>
   <string name="display_name_summary">Sama kuin käyttäjänimi</string>
   <string name="display_name_title">Näyttönimi</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Palvelin</string>
   <string name="doneButton">Valmis</string>
   <string name="dtmf_tone_entries_long">Pitkä</string>
@@ -811,7 +806,6 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="other_settings">Muut puheluasetukset</string>
   <string name="other_settings_category">Muu</string>
   <string name="overseas_roaming_setting">Data roaming-tila</string>
-  <string name="password">Salasana</string>
   <string name="password_changed">Salasana vaihdettu</string>
   <string name="password_title">Salasana</string>
   <string name="path_answer_state_setting_title">Järjestelmäsovellukset/Puhelin/Saapuvan puhelun asetukset</string>
@@ -1057,9 +1051,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="select_voice_call_sim">Valitse SIM-kortti</string>
   <string name="sendSms">Lähetä tekstiviesti</string>
   <string name="send_button">Lähetä</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Lähetä tarkistusviesti</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Käytetään lähteviin puheluihin</string>
   <string name="set_primary_title">Aseta ensisijaiseksi tiliksi</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
@@ -1205,7 +1197,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="time_start_minute">time start minute</string>
   <string name="title_cfu_enabled">Puhelun siirto on käytössä</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="transport">Protokolla</string>
   <string name="transport_title">Siirtotyyppi</string>
   <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">TTY-tilan muutoksia ei sallita videopuhelun aikana.</string>
@@ -1223,7 +1214,6 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Uusi PLMN</string>
   <string name="uplmn_list_setting_title">Ensisijaiset verkot</string>
   <string name="uplmn_numeric_is_empty">Syötä verkon ID</string>
-  <string name="username">KäyttäjäNimi</string>
   <string name="username_title">Käyttäjätunnus</string>
   <string name="ussdRunning">USSD-koodi käytössä...</string>
   <string name="ussd_dialog_sep">----------</string>
