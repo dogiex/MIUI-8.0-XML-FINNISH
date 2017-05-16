@@ -6,6 +6,7 @@
   <string name="activate_auto_sms_notification_desc_2_cards">Tekstiviesti lähetettiin SIM-kortilta %s \"Etsi laite\" aktivointia varten</string>
   <string name="activate_auto_sms_notification_title">SIM-kortin aktivointi</string>
   <string name="activate_feature_call_log_sync">Synkronoi puheluhistoria</string>
+  <string name="activate_feature_default_name">Mi palvelut</string>
   <string name="activate_feature_find_device">Etsi laite</string>
   <string name="activate_feature_live_talk">Top-up paketti</string>
   <string name="activate_feature_mms_sync">Synkronoi viestit</string>
@@ -16,9 +17,7 @@
   <string name="activate_feature_verify_mx_token">Mi Tilin vahvistus</string>
   <string name="activate_history_canceled_overview">SIM-kortin aktivointi peruutettiin. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_multisim_canceled_overview">SIM-kortin %2$d aktivointi peruutettiin. \"%1$s\" käynnisti aktivoinnin.</string>
-  <string name="activate_history_multisim_overview">SIM-kortin %3$d %1$s aktivointi. \"%2$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_multisim_success_overview">SIM-kortti %2$d aktivoitiin onnistuneesti. \"%1$s\" käynnisti aktivoinnin.</string>
-  <string name="activate_history_overview">SIM-kortin %1$s aktivointi. \"%2$s\" käynnisti sen.</string>
   <string name="activate_history_sms">Tekstiviesti lähetettiin aktivoinnin aikana.</string>
   <string name="activate_history_success">SIM-kortti aktivoitiin onnistuneesti. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_title">SIM-kortin aktivointi</string>

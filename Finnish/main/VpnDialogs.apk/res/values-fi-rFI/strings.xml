@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="configure">Asetukset</string>
+  <string name="configure">Määritä</string>
   <string name="data_received">Vastaanotettu:</string>
   <string name="data_transmitted">Lähetetty:</string>
+  <string name="data_value_format">%1$s tavua / %2$s pakettia</string>
   <string name="disconnect">Katkaise yhteys</string>
   <string name="duration">Kesto:</string>
   <string name="legacy_title">VPN on yhdistetty</string>

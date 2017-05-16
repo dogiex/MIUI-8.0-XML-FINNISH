@@ -31,7 +31,6 @@
   <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>
   <string name="multisim_settings_category">SIM-kortin asetukset</string>
   <string name="multisim_settings_title">2 SIM-korttia havaittu</string>
-  <string name="network_access_warning">Sinun täytyy yhdistää internettiin aktivoidaksesi Mi palvelut ja Laitteen etsinnän.</string>
   <string name="next">Seuraava</string>
   <string name="next_fingerprint">Seuraava</string>
   <string name="other_settings">Lisäasetukset</string>

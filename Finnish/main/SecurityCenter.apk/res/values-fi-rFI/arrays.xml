@@ -45,7 +45,6 @@
     <string-array name="traffic_type">
         <item>"Mobiilidatan käyttö "</item>
         <item>"Wi-Fi käyttö "</item>
-        <item>"Dataa säästetty "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobiilidatan käyttö "</item>
@@ -54,8 +53,6 @@
     <string-array name="traffic_sort_type">
         <item>"Mobiilidatan käyttö "</item>
         <item>"Wi-Fi käyttö "</item>
-        <item>"Dataa säästetty "</item>
-        <item>Mi Datapaketti</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Hae automaattisesti</item>
@@ -69,12 +66,6 @@
         <item>Käytetyimmät</item>
         <item>Nimi</item>
     </string-array>
-    <string-array name="traffic_saving_compress_level_string_array">
-        <item>Ei mitään</item>
-        <item>Alhainen</item>
-        <item>Normaali</item>
-        <item>Suuri</item>
-    </string-array>
     <string-array name="roaming_network_type">
         <item>Aina</item>
         <item>Vain poikkeuksille</item>
@@ -85,42 +76,23 @@
         <item>Kun laite on lukittu tai sovelluksesta poistutaan</item>
         <item>Kun laite on lukittu tai yhden minuutin jälkeen, kun poistutaan sovelluksesta</item>
     </string-array>
-    <integer-array name="pc_time_choice_items">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
+    <string-array name="long_add_menu">
+        <item>Lisää poikkeuksiin</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Lajittele nimen mukaan</item>
+        <item>Lajittele koon mukaan</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Datan Käyttö</item>
+        <item>Puhelimen saldo</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 minuutin jälkeen</item>
         <item>5 minuutin jälkeen</item>
         <item>10 minuutin jälkeen</item>
         <item>30 minuutin jälkeen</item>
         <item>Ei ikinä</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 sekuntia</item>
-        <item>30 sekuntia</item>
-        <item>1 minuutti</item>
-        <item>2 minuuttia</item>
-        <item>5 minuuttia</item>
-        <item>10 minuuttia</item>
-        <item>Ei ikinä</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Suorituskyky</item>
-        <item>Tasapainoinen</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Poista käytöstä</item>
-        <item>Ota käyttöön</item>
-        <item>Oletus</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Älä värise ikinä</item>
-        <item>Värise äänettömällä</item>
-        <item>Värise aina</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Kerran</item>

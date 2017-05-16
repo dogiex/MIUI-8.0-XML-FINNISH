@@ -7,6 +7,12 @@
   <string name="application_desc">Sovellus</string>
   <string name="applications_search_label">Sovellukset</string>
   <string name="apps_search_activity"/>
+  <string name="barcode_install_back">Takaisin</string>
+  <string name="barcode_install_cancel">Peruuta</string>
+  <string name="barcode_install_confirm">Asenna</string>
+  <string name="barcode_system_unmatch">Päivitä MIUI, ennen kuin asennat Lukijaa</string>
+  <string name="barcode_to_install">Asenna Lukija jatkaaksesi</string>
+  <string name="barcode_uninstalled">Lukijan asennus poistettu</string>
   <string name="choose_search_engine">Valitse oletushakukone verkkohaulle</string>
   <string name="clear_history">Poista historia</string>
   <string name="clear_shortcuts">Poista pikakuvakkeet</string>
@@ -36,8 +42,6 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Avataan hakua</string>
   <string name="google_app_label">Google Haku</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Googlen hakuehdotukset</string>
   <string name="google_search_hint">Google Haku</string>
   <string name="google_search_label">Google</string>
@@ -48,6 +52,7 @@ Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
   <string name="local_setting">Asetukset</string>
   <string name="menu_help">Apua</string>
   <string name="menu_settings">Haku-asetukset</string>
+  <string name="mina_name">Direct sovellukset</string>
   <string name="network_unavailable">Verkkoon ei saada yhteyttä</string>
   <string name="permission_prompt_detail">Hae elokuvia, kirjoja, musiikkia ja muuta.</string>
   <string name="permission_prompt_start">Salli</string>
@@ -88,6 +93,9 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="search_videos">Hae videoita</string>
   <string name="search_widget">Haku</string>
   <string name="send_secret_code">Lähetä koodi</string>
+  <string name="setting_other">Muu</string>
+  <string name="setting_version">Sovellusversio</string>
+  <string name="setting_version_title">Sovellusversio</string>
   <string name="settings_description">Asennettujen sovelluksien nimiä</string>
   <string name="show_more">Näytä lisää</string>
   <string name="suggest_open_app_failed">Sovellusta ei voitu avata</string>
@@ -96,6 +104,7 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="switch_application">Sovellukset</string>
   <string name="switch_browser">Selain</string>
   <string name="switch_contacts">Yhteystiedot</string>
+  <string name="switch_email">Sähköposti</string>
   <string name="switch_file">Tiedostot</string>
   <string name="switch_mms">Viestit</string>
   <string name="switch_notes">Muistiot</string>
@@ -103,6 +112,7 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Hae"</string>
   <string name="switch_prompt_ignore">Älä välitä</string>
   <string name="switch_prompt_set">Näytä vaihtoehdot</string>
   <string name="switch_prompt_title">Etkö löydä %s?</string>
+  <string name="switch_prompt_title_default">Etkö löydä, mitä tarvitset?</string>
   <string name="switch_setting">Asetukset</string>
   <string name="system_search_category_title">Puhelin</string>
   <string name="top_clicked">Usein käytetyt kohteet</string>

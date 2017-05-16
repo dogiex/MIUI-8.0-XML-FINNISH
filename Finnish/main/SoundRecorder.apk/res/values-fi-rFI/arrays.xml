@@ -13,6 +13,12 @@
         <item>Ääni</item>
         <item>Haastattelu</item>
     </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musiikki</item>
+        <item>Ääni</item>
+        <item>Haastattelu</item>
+        <item>HD</item>
+    </string-array>
     <string-array name="record_scenes_summaries">
         <item>Nauhoita musiikkia paremmalla laadulla</item>
         <item>Siirrä mikrofonia lähemmäksi äänilähdettä parhaimman äänenlaadun vuoksi</item>

@@ -3,7 +3,11 @@
   <string name="accessibility_call_muted">Puhelu mykistetty.</string>
   <string name="accessibility_speakerphone_enabled">Kaiutin käytössä.</string>
   <string name="add_vm_number_str">Lisää numero</string>
+  <string name="can_not_dial_vt_while_voice_prompt">Videopuhelua ei voi suorittaa äänipuhelun ollessa käynnissä</string>
   <string name="can_not_dial_while_vt_prompt">Ei voi soittaa videopuhelun ollessa käynnissä</string>
+  <string name="change_default_dialer_dialog_title">Vaihdetaanko oletus Numeronvalintasovellus?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Käytetäänkö sovellusta %s oletuksena numeronvalinnalle?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Käytetäänkö sovellusta %1$s sovelluksen %2$s sijaan numeronvalinnan oletussovelluksena?</string>
   <string name="dial_conference_fail_prompt">Konferenssipuhelua ei voida yhdistää suoraan, koska nykyinen verkkosi ei tue VoLTE-puheluita.</string>
   <string name="dial_vt_fail_prompt">Nykyinen verkko ei tue VoLTE-puheluita. Vaihdetaanko normaaliin äänipuheluun?</string>
   <string name="duplicate_video_call_not_allowed">Puhelua ei voi lisätä juuri nyt.</string>
@@ -13,6 +17,7 @@
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Puhelinvastaajan numero puuttuu</string>
   <string name="no_vm_number_msg">SIM-kortille ei ole tallennettu puhelinvastaajan numeroa.</string>
+  <string name="notification_AllMissedCallTitle">Kaikki vastaamatta jääneet puhelut</string>
   <string name="notification_missedCallTicker">Vastaamatta jäänyt puhelu numerosta %s</string>
   <string name="notification_missedCallTitle">Vastaamatta jäänyt puhelu</string>
   <string name="notification_missedCall_call_back">Soita</string>

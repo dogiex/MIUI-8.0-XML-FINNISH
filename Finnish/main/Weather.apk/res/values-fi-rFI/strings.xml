@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Syötä sijainti</string>
+  <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_title">Lisää</string>
   <string name="act_set_city_find_side">Paikannetaan…</string>
   <string name="act_set_city_find_side_error">Laitetta ei voitu paikantaa</string>
@@ -17,7 +18,6 @@
   <string name="activity_main_alert"/>
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
-  <string name="activity_main_refresh_fail">Verkkoon ei saatu yhteyttä</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Päivitetty %1$s</string>
   <string name="activity_main_update_time_expire">Tieto on vanhentunut</string>
@@ -46,6 +46,7 @@
   <string name="aqi_detail_subtitle">ILI %1$s</string>
   <string name="aqi_detail_title">Ilmanlaatuindeksi</string>
   <string name="aqi_detail_unit">Yksikkö: µg/m³ (CO: mg/m³)</string>
+  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_publish_source">Päivitetty %1$s, Päivittäjä CNEMC</string>
   <string name="aqi_publish_time">Päivitetty %1$s</string>
   <string name="aqi_short_desc">ILI %1$s</string>
@@ -59,6 +60,7 @@
   <string name="button_not_allow">Peruuta</string>
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
+  <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>
   <string name="connect_fail">Verkkoyhteys on epänormaali. Yritä myöhemmin uudelleen.</string>
@@ -77,18 +79,37 @@
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="daily_forecast_no_data">"Säätietojen haku epäonnistui
 Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
+  <string name="data_provided_by">Tiedot tarjoaa</string>
+  <string name="data_source_time_fromat">d.M.yyyy HH:mm:ss</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
   <string name="empty">" "</string>
+  <string name="feedback_heavy_rain">Rankka sade</string>
+  <string name="feedback_heavy_snow">Lunta</string>
+  <string name="feedback_light_rain">Kevyt sade</string>
+  <string name="feedback_overcast">Pilvinen</string>
+  <string name="feedback_result_fail_no_choice">Valitse sää, jonka näet</string>
+  <string name="feedback_result_interval_time_too_short">%1$s sekuntia palautteen jälkeen</string>
+  <string name="feedback_result_success">Lähetettiin onnistuneesti, kiitos palautteestasi</string>
+  <string name="feedback_sand">Hiekkaa</string>
+  <string name="feedback_sunny">Aurinkoinen</string>
   <string name="first_start_network_msg">Tämä sovellus tarvitsee internet-yhteyden ja pääsyn sijaintiisi toimiakseen normaalisti.</string>
   <string name="first_start_network_title">Internet-yhteys ja sijainnin käyttö</string>
   <string name="global_aqi">ILI: %1$s %2$s</string>
   <string name="gps_hint">Nykyinen sijainti</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Nyt</string>
+  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+  <string name="hourly_forecast_date">d.M.</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
+  <string name="index_item_experience_now">Asenna nyt</string>
+  <string name="index_item_install_dialog"/>
+  <string name="index_item_install_dialog_cancel"/>
+  <string name="index_item_install_dialog_open"/>
   <string name="index_item_install_now">Asenna nyt</string>
+  <string name="index_item_installing">Asennetaan</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Tuntuu kuin %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -116,6 +137,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Asenna</string>
+  <string name="install_progress">%1$s%%</string>
   <string name="international_detail_menu_title">Tiedot</string>
   <string name="international_details_pressure_title">PAINE</string>
   <string name="international_details_real_feel_title">TUNTUU KUIN®</string>
@@ -125,25 +147,45 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="international_details_wind_title">TUULI</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
-  <string name="location_management">Sijainnit</string>
   <string name="location_tag">Paikanna</string>
   <string name="lunar_calendar"/>
   <string name="menu_add_city">Lisää tai poista kaupunki</string>
   <string name="menu_location">Sijainnit</string>
+  <string name="menu_minute_rain">Kahden Tunnin Sade-Ennuste</string>
+  <string name="menu_speeker">Äänilähetys</string>
+  <string name="mi_pad2">latte</string>
+  <string name="minute_rain_after_an_hour">Tunti myöhemmin</string>
+  <string name="minute_rain_after_two_hour">Kaksi tuntia myöhemmin</string>
+  <string name="minute_rain_feedback_subtitle">Kerro vain minulle, minkälainen sää on</string>
+  <string name="minute_rain_feedback_text">Palaute</string>
+  <string name="minute_rain_feedback_title">Sää ei näytä oikealta</string>
+  <string name="minute_rain_let_go_refresh">Let refresh</string>
+  <string name="minute_rain_no_data">Ei tietoa</string>
+  <string name="minute_rain_now">Nyt</string>
+  <string name="minute_rain_progress_indicator_original_time">- -</string>
+  <string name="minute_rain_pull_down_refresh">Päivitä vetämällä alas</string>
+  <string name="minute_rain_refreshing_now">Päivitetään</string>
   <string name="more_details">Lisää tietoa</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="network_unavailable">Verkkoon ei saada yhteyttä.</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Yritä uudelleen</string>
-  <string name="no_vote_num">%1$s henkilöä | </string>
   <string name="no_vote_ratio">Vastaan %1$s%%</string>
   <string name="open">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
+  <string name="open_now">Avaa</string>
   <string name="other">Muu</string>
+  <string name="precipitation_degree_five">myrsky</string>
+  <string name="precipitation_degree_four">rankka</string>
+  <string name="precipitation_degree_one">sadeton</string>
+  <string name="precipitation_degree_three">kohtalainen</string>
+  <string name="precipitation_degree_two">kevyt</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="radar_cloud_image_title">Tutka-kartta</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
   <string name="realtime_humidity_title">Suhteellinen kosteus</string>
   <string name="realtime_temperature_no_data">N/A</string>
+  <string name="realtime_wind_default_title">Tuuli</string>
   <string name="refresh_fail">Verkkoon ei saada yhteyttä</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_weather">Sää</string>
@@ -164,6 +206,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Kuvankaappauksen ottaminen epäonnistui</string>
+  <string name="some_where_on_earth">Jossain päin maata</string>
   <string name="sunrise">Auringonnousu</string>
   <string name="sunset">Auringonlasku</string>
   <string name="temperature_unit">%1$s°</string>
@@ -174,7 +217,6 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
-  <string name="total_voted_num_text">%1$s henkilöä on äänestänyt</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Ylihuomenna: %1$s</string>
   <string name="traffic_control_today_numbers">Tänään: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Huomenna: %1$s</string>
@@ -183,8 +225,10 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="tts_report_city_name"/>
   <string name="tts_report_defautl_head"/>
   <string name="tts_report_split"/>
-  <string name="tts_report_temperature_high"/>
-  <string name="tts_report_temperature_low"/>
+  <string name="tts_report_temperature_high_centigrade"/>
+  <string name="tts_report_temperature_high_fahrenheit"/>
+  <string name="tts_report_temperature_low_centigrade"/>
+  <string name="tts_report_temperature_low_fahrenheit"/>
   <string name="tts_report_weather_desc"/>
   <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
@@ -202,6 +246,5 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="wind_direction_no_data">Tuuli</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="yes_vote_num"> | %1$s henkilöä</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>
 </resources>

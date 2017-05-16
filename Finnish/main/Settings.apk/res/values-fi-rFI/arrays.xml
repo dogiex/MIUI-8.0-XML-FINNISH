@@ -150,7 +150,7 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>–</item>
+        <item>Ei mitään</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -169,6 +169,41 @@
         <item>Ei mitään</item>
         <item>Manuaalinen</item>
         <item>Välitysp. autom. määritys</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Ei mitään</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP tai CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Määrittelemätön</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Ei mitään</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Laitteen sisäinen tallennustila</item>
@@ -376,6 +411,20 @@
         <item>Animaatioasteikko 5-kertainen</item>
         <item>Animaatioasteikko 10-kertainen</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ei mitään</item>
+        <item>480p</item>
+        <item>480p (turvallinen)</item>
+        <item>720p</item>
+        <item>720p (turvallinen)</item>
+        <item>1080p</item>
+        <item>1080p (turvallinen)</item>
+        <item>4K</item>
+        <item>4K (turvallinen)</item>
+        <item>4K (ylöspäin skaalattu)</item>
+        <item>4K (ylöspäin skaalattu, turvallinen)</item>
+        <item>720p, 1080p (kaksi näyttöä)</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ei mitään</item>
         <item>Logcat</item>
@@ -475,12 +524,6 @@
         <item>Kohtalainen</item>
         <item>Voimakas</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Pois käytöstä</item>
-        <item>Kevyt</item>
-        <item>Keskiverto</item>
-        <item>Kova</item>
-    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Kova</item>
         <item>Keskiverto</item>
@@ -539,7 +582,7 @@
         <item>Ei mitään</item>
         <item>Näytä taustasovellukset</item>
         <item>Käynnistä Avustaja</item>
-        <item>Käynnistä Google now</item>
+        <item>Käynnistä Google Now</item>
         <item>Sulje nykyinen sovellus</item>
         <item>Käynnistä nopea haku</item>
         <item>Näytä valikko</item>
@@ -685,6 +728,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Kotiverkko</item>
         <item>Kaikki verkot</item>
     </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>KUUMA</item>
+        <item>LÄMMIN</item>
+        <item>KYLMÄ</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 tuumaa</item>
         <item>4,0 tuumaa</item>
@@ -722,15 +778,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Sovelluslukko</item>
         <item>Toinen tila</item>
     </string-array>
-    <string-array name="anr_record_interval_entries">
-        <item>10 sek</item>
-        <item>20 sek</item>
-        <item>30 sek</item>
-        <item>1 min</item>
-    </string-array>
     <string-array name="screen_button_style">
         <item>Vasemman käden tyyli</item>
-        <item>Oikea käden tyyli</item>
+        <item>Oikean käden tyyli</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Joka päivä</item>
@@ -747,7 +797,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Kuvat</item>
         <item>Tiedostot</item>
         <item>Muistiot</item>
-        <item>Sovelluslukko</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Lyhyempi viive</item>

@@ -36,7 +36,7 @@
         <item>央视</item>
         <item>卫视</item>
         <item>高清</item>
-        <item>最近</item>
+        <item>常看</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
         <item>全部频道</item>
@@ -44,7 +44,7 @@
         <item>央视频道</item>
         <item>卫视频道</item>
         <item>高清频道</item>
-        <item>最近观看</item>
+        <item>经常观看</item>
     </string-array>
 	<string-array name="epg_channel_tab_actionbar_v53">
         <item>全部频道</item>
@@ -59,6 +59,47 @@
         <item>高清</item>
         <item>卫视</item>
         <item>央视</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>湖南卫视</item>
+        <item>CCTV-6</item>
+        <item>浙江卫视</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>东方卫视</item>
+        <item>安徽卫视</item>
+        <item>北京卫视</item>
+        <item>广东卫视</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>综艺</item>
+        <item></item>
+        <item>体育</item>
+        <item>少儿</item>
+        <item>新闻</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>热门</item>
+        <item>电影</item>
+        <item>综艺</item>
+        <item>电视剧</item>
+        <item>体育</item>
+        <item>少儿</item>
+        <item>新闻</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>热门节目</item>
+        <item>电影节目</item>
+        <item>综艺节目</item>
+        <item>电视剧</item>
+        <item>体育节目</item>
+        <item>少儿节目</item>
+        <item>新闻节目</item>
+        <item>生活节目</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
@@ -91,5 +132,9 @@
         <item>Å</item>
         <item>Ä</item>
         <item>Ö</item>
+    </string-array>
+    <string-array name="user_notification_tab">
+        <item>\@与我相关</item>
+        <item>系统通知</item>
     </string-array>
 </resources>

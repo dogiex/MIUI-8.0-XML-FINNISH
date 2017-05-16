@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d puhelua</item>
+        <item quantity="one">1 puhelu</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d tekstiviestiä</item>
+        <item quantity="one">1 tekstiviesti</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">%d sovelluksen datan käyttöä ei seurata</item>
         <item quantity="one">%d sovelluksen datan käyttöä ei seurata</item>
@@ -213,5 +221,49 @@
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Lisättiin %d peliä</item>
+        <item quantity="one">Lisättiin %d peli</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Päivityksiä on saatavilla %d sovellukselle</item>
+        <item quantity="one">Päivitys on saatavilla sovellukselle %d</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Käytti yhteystietoja %d kertaa</item>
+        <item quantity="one">Käytti yhteystietoja %d kerran</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">Soitti %d puhelua</item>
+        <item quantity="one">Soitti %d puhelun</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">Lähetti %d tekstiviestiä</item>
+        <item quantity="one">Lähetti %d tekstiviestin</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">Luki tekstiviestejä %d kertaa</item>
+        <item quantity="one">Luki tekstiviestejä %d kerran</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Luki puheluhistoriaa %d kertaa</item>
+        <item quantity="one">Luki puheluhistoriaa %d kerran</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Käytti %d kertaa</item>
+        <item quantity="one">Käytti %d kerran</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Antoi %d käyttöoikeutta</item>
+        <item quantity="one">Antoi %d käyttöoikeuden</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d kertaa</item>
+        <item quantity="one">%d kerran</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Estettiin %d kertaa</item>
+        <item quantity="one">Estettiin %d kerran</item>
     </plurals>
 </resources>

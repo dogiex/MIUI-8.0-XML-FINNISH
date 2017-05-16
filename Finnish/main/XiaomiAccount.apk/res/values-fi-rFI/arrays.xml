@@ -53,41 +53,4 @@
         <item>8001~12000</item>
         <item>> 12000</item>
     </string-array>
-    <string-array name="question_no1">
-        <item>Perhe</item>
-        <item>Äidinäidin nimi</item>
-        <item>Äidinisän nimi</item>
-        <item>Isänisän nimi</item>
-        <item>Isänäidin nimi</item>
-        <item>Isän syntymäpäivä</item>
-        <item>Äidin syntymäpäivä</item>
-        <item>Mikä on vanhempiesi ikäero (vuodet ja kuukaudet)?</item>
-    </string-array>
-    <string-array name="question_no2">
-        <item>Alma mater</item>
-        <item>Mikä oli luokkasi presidentin nimi keskikoulussa?</item>
-        <item>Mikä oli luokkasi presidentin nimi peruskoulussa?</item>
-        <item>Opiskelija ID-numerosi korkeakoulussa</item>
-        <item>Mikä oli huonekaverisi nimi korkeakoulussa?</item>
-        <item>Mikä oli ohjaajasi nimi korkeakoulussa?</item>
-    </string-array>
-    <string-array name="question_no3">
-        <item>Henkilökohtaiset tiedot</item>
-        <item>Kuinka vanhempasi soittavat sinulle</item>
-        <item>Viimeiset 6 merkkiä passisi numerosta</item>
-        <item>Missä sairaalassa synnyit?</item>
-        <item>Mikä on parhaan ystäväsi nimi?</item>
-    </string-array>
-    <string-array name="question_no4">
-        <item>Ensimmäiset kerrat</item>
-        <item>Mikä on ensimmäisen lemmikkisi nimi?</item>
-        <item>Mikä on ensimmäisen tyttö-/poikaystäväsi nimi?</item>
-        <item>Mikä on ensimmäisen työpaikkasi nimi?</item>
-    </string-array>
-    <string-array name="question_no5">
-        <item>Avioliitto</item>
-        <item>Milloin menit naimisiin?</item>
-        <item>Puolisosi nimi</item>
-        <item>Puolisosi syntymäpäivä</item>
-    </string-array>
 </resources>

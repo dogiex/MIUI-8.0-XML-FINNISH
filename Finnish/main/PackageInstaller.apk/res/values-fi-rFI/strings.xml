@@ -34,6 +34,7 @@ Sallitaanko tämä nyt ja jatkossa"</string>
   <string name="app_permissions_group_summary">Sallitut sovellukset: %1$d/%2$d</string>
   <string name="cancel">Peruuta</string>
   <string name="current_permission_template">%1$s/%2$s</string>
+  <string name="default_permission_description">suorita tuntematon toiminto</string>
   <string name="devicePerms">Laitteen käyttö</string>
   <string name="dlg_app_replacement_statement">"Sovellus, jota olet asentamassa, korvaa toisen sovelluksen.
 

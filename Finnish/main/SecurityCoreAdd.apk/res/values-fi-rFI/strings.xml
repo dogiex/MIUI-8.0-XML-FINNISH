@@ -53,6 +53,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="create_space_loading">Luodaan Toista tilaa…</string>
   <string name="create_work_space">Luo Työtila</string>
   <string name="creating_app_icon">Luodaan kuvaketta…</string>
+  <string name="current_space">Nykyinen Tila</string>
   <string name="dataSafe">Käyttämällä Toista tilaa olisi, kuin kaksi laitetta.</string>
   <string name="declare_dialog_title">Tietoa kloonatuista sovelluksista</string>
   <string name="deleteAll">Poista kaikki</string>
@@ -85,6 +86,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="finger_print_num">Sormenjälki %d</string>
   <string name="finger_print_of_use">Käytä sormenjälkeä</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa</string>
+  <string name="function_not_support">Ei tueta tässä tilassa</string>
   <string name="goToSecondSpacce">Siirry Toiseen tilaan</string>
   <string name="go_on_import">Jatka tuomista</string>
   <string name="guide_contact_sub_title_desc">"Toiseen tilaan lisätyistä yhteystiedoista tulee yksityisiä.
@@ -109,8 +111,6 @@ Voit myös ladata ne erikseen."</string>
   <string name="import_photo_desc">Katso jaetut kohteet Toisessa tilassa</string>
   <string name="import_photo_suc">Tuodut kuvat</string>
   <string name="invalid_qr_code">Virheellinen QR-koodi</string>
-  <string name="keywords_sspace">Toinen tila;Kaksi tilaa;2 tilaa;Piilota sovelluksia;Piilota tiedostoja;Piilota kuvia;Lukitusnäyttö;Lukitusnäytön salasana;Yksityisyys;Yksityisyys tila;Yksityinen tila;Yksityinen;Vieras tila;Vierasistunto;Vieraspääsy;Vierastili;Vieras</string>
-  <string name="keywords_xspace">Kloonattu sovellus;Kloonatut sovellukset;Kaksois sovellus;Kaksois sovellukset;Kloonaa sovellus;Kloonaa sovelluksia;Sovelluksen klooni;Sovelluksen kloonit;Kaksi tiliä;2 tiliä</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="loading">Odota hetki…</string>
   <string name="loading_apps">Ladataan sovelluksia…</string>
@@ -147,8 +147,6 @@ Voit myös ladata ne erikseen."</string>
   <string name="otherSettings">Muut asetukset</string>
   <string name="passWordGuardSummary">Siirry Toiseen tilaan Lukitusnäytöltä käyttämällä salasanaa</string>
   <string name="passwordProtect">Salasana</string>
-  <string name="path_sspace">Asetukset/Toinen tila</string>
-  <string name="path_xspace">Asetukset/Kloonatut sovellukset</string>
   <string name="please_diff_finger_print">"Varmista, että käytät eri sormenjälkiä Ensimmäisessä ja Toisessa tilassa.
 Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="privacyContactsSummary">Näytä yksityiset kohteet Toisessa tilassa</string>
@@ -162,8 +160,6 @@ Tai et välttämättä voi siirtyä Toiseen tilaan Lukitusnäytöltä."</string>
   <string name="removingSpace">Poistetaan…</string>
   <string name="repeat_scanner_fingerprint">Lisää uudelleen</string>
   <string name="reset_passwd_success">Salasana palautettiin onnistuneesti</string>
-  <string name="resource_sspace">Toinen tila</string>
-  <string name="resource_xspace">Kloonatut sovellukset</string>
   <string name="restore_normal_show">Älä näytä yksityisiä viestejä</string>
   <string name="restore_show_desc">Älä näytä yksityisiä viestejä Toisessa tilassa. Ne ovat silti käytettävissä Ensimmäisessä tilassa.</string>
   <string name="restore_show_toast">Yksityisiä viestejä ei näytetä</string>
@@ -213,6 +209,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="show_private_msg">Näytä yksityiset viestit</string>
   <string name="show_private_msg_summary">Näytä yksityiset viestit Toisessa tilassa</string>
   <string name="spaceSetting">Asetukset</string>
+  <string name="space_deleted">Tämä tila poistettiin</string>
   <string name="space_des_default">Eristetty tila tietojen salauksella</string>
   <string name="space_name_default">Työtila</string>
   <string name="startSet">Aseta</string>

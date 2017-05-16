@@ -76,6 +76,12 @@
   <string name="preference_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
   <string name="preference_tip_rename">Nimeä nauhoitukset käsin</string>
   <string name="recognition_error_cancel">Peruutettu</string>
+  <string name="recognition_error_download_cancel">Myöhemmin</string>
+  <string name="recognition_error_download_fail">Lataaminen epäonnistui. Tarkista verkkoasetukset ja yritä uudelleen.</string>
+  <string name="recognition_error_download_msg">Lataa tunnistusmoottori, jotta tämä palvelu tulisi käytettäväksi.</string>
+  <string name="recognition_error_download_ok">Lataa</string>
+  <string name="recognition_error_download_title">Ei tunnistusmoottoria</string>
+  <string name="recognition_error_downloading">Ladataan</string>
   <string name="recognition_error_engine">Tunnistusmoottorin virhe</string>
   <string name="recognition_error_engine_singleton">Tunnistusmoottori on varattu</string>
   <string name="recognition_error_format">Virheellinen äänimuoto</string>
@@ -110,6 +116,7 @@
   <string name="rename">Nimeä uudelleen</string>
   <string name="rename_dialog_title">Nimeä nauhoitus uudelleen</string>
   <string name="rename_duplicate">Saman niminen nauhoitus on jo olemassa.</string>
+  <string name="rename_fail_tip">Nimeäminen uudelleen epäonnistui. Saman niminen kohde on jo olemassa.</string>
   <string name="rename_no_more_tip">Älä näytä uudelleen</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="runtime_permission_ungranted">Ääninauhuria ei voi käyttää, koska sille ei ole annettu tarvittavia käyttöoikeuksia</string>
