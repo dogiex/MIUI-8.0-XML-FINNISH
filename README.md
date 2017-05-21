@@ -122,6 +122,7 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 - TelephonyProvider.apk
 - ThemeManager.apk
 - TouchAssistant.apk
+- Updater.apk
 - UserDictionaryProvider.apk
 - VpnDialogs.apk
 - WallpaperCropper.apk
