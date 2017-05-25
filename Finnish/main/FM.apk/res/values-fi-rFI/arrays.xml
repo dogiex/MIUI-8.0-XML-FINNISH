@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sleep_duration_values">
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>45 minutes</item>
-        <item>1 hour</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>1 tunti</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
         <item>All stations</item>
@@ -70,9 +70,9 @@
         <item>Weather</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Rename</item>
-        <item>Auto-select</item>
-        <item>Delete</item>
+        <item>Nimeä uudelleen</item>
+        <item>Valitse automaattisesti</item>
+        <item>Poista</item>
     </string-array>
     <string-array name="regional_band_entries">
         <item>North America</item>
