@@ -68,7 +68,7 @@
   <string name="add_shortcut_success">Pikakuvake lisätty</string>
   <string name="add_to_bookmark">Kirjanmerkit</string>
   <string name="add_to_desk">Lisää Kotinäytölle</string>
-  <string name="add_to_desk_lite_mode_toast">Kotinäytölle lisääminen epäonnistui lite-tilassa</string>
+  <string name="add_to_desk_lite_mode_toast">Kotinäytölle lisääminen epäonnistui Lite-tilassa</string>
   <string name="add_to_desk_success">Lisätty Kotinäytölle</string>
   <string name="add_to_quicklink">Aloitussivu</string>
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
@@ -86,7 +86,7 @@
   <string name="aqi_quality_index_moderate">ILI %1$s</string>
   <string name="aqi_quality_index_pure">ILI %1$s</string>
   <string name="aqi_quality_index_unhealthy">ILI %1$s</string>
-  <string name="autoSwithcingSearchEngineTips">Hakumoottori vaihdettiin tapasi mukaan</string>
+  <string name="autoSwithcingSearchEngineTips">Vaihdettiin hakukoneeksi se, jota käytät usein</string>
   <string name="autofill_keyboard_accessory_content_description">Suosituksia saatavilla</string>
   <string name="autofill_popup_content_description">Näytetään automaattisen täyttämisen ponnahdusikkuna</string>
   <string name="autologin_bar_error">Kirjautuminen epäonnistui</string>
@@ -106,18 +106,18 @@
   <string name="bookmark_cannot_save_url">Tätä URL-osoitetta ei voi lisätä kirjanmerkkeihin.</string>
   <string name="bookmark_folder_needs_title">Syötä ryhmän nimi</string>
   <string name="bookmark_group_lable">Ryhmä</string>
-  <string name="bookmark_needs_title">Kirjanmerkillä on oltava nimi.</string>
-  <string name="bookmark_needs_url">Kirjanmerkillä on oltava sijainti.</string>
-  <string name="bookmark_not_saved">Kirjanmerkkiä ei voitu tallentaa.</string>
+  <string name="bookmark_needs_title">Kirjanmerkillä on oltava nimi</string>
+  <string name="bookmark_needs_url">Kirjanmerkin on sisällettävä URL-osoite</string>
+  <string name="bookmark_not_saved">Kirjanmerkkiä ei voitu tallentaa</string>
   <string name="bookmark_rename_group">Nimeä ryhmä uudelleen</string>
   <string name="bookmark_saved">Tallennettu kirjanmerkkeihin.</string>
   <string name="bookmark_title">Kirjanmerkin nimi</string>
   <string name="bookmark_title_lable">Otsikko</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Olet jo tallentanut tämän osoitteen kirjanmerkkeihin</string>
-  <string name="bookmark_url_can_not_null">Syötä URL-osoite.</string>
+  <string name="bookmark_url_can_not_null">Syötä URL-osoite</string>
   <string name="bookmark_url_lable">Osoite</string>
-  <string name="bookmark_url_not_valid">Tämä URL ei ole kelvollinen.</string>
+  <string name="bookmark_url_not_valid">Tämä URL ei ole kelvollinen</string>
   <string name="bookmarks_content_is_null">Ei kirjanmerkkejä</string>
   <string name="bookmarks_management">Kirjanmerkit</string>
   <string name="bookmarks_root_folder">Juurihakemisto</string>
@@ -313,7 +313,7 @@
   <string name="find_on_page_next">Seuraava</string>
   <string name="find_on_page_prev">Edellinen</string>
   <string name="find_previous">Etsi edellinen</string>
-  <string name="firstUsingSearchEngineTips">Muutetaanko hakua</string>
+  <string name="firstUsingSearchEngineTips">Vaihdetaanko hakukonetta?</string>
   <string name="fling_on_border_gesture_hint">Voit valita tälle eleelle toiminnon Asetuksista</string>
   <string name="force_quick_search_title">Hae</string>
   <string name="force_touch_bookmark_history_title">Kirjanmerkit &amp; historia</string>
@@ -515,7 +515,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_adblock_counts">%d estetty</string>
   <string name="pref_adblock_title">Mainostenesto</string>
   <string name="pref_auto_update_under_wifi">Päivitä käyttäen Wi-Fi:ä</string>
-  <string name="pref_automatic_matching_searchengines_title">Tapaan perustuva automaattinen hakukone</string>
+  <string name="pref_automatic_matching_searchengines_title">Vaihda hakukoneeseen, jota käytät usein</string>
   <string name="pref_category_hint">Kategoria</string>
   <string name="pref_check_security_url_summary">Lähetä verkkosivujen URL-osoite Mi:n palvelimille tarkastaakseen sen turvallisuuden</string>
   <string name="pref_check_security_url_title">Tarkista URL-osoitteen turvallisuus</string>
@@ -616,9 +616,9 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pull_to_refresh_pull_label">Vedä päivittääksesi</string>
   <string name="pull_to_refresh_release_label">Vapauta suositellaksesi ja päivittääksesi</string>
   <string name="qr_code_title">QR Koodi</string>
-  <string name="quicklink_bookmark_save">KIRJANMERKIN SIJAINTI</string>
+  <string name="quicklink_bookmark_save">Tallenna kohteeseen</string>
   <string name="quicklink_cannot_save_url">Tätä URL-osoitetta ei voi lisätä.</string>
-  <string name="quicklink_folder_text">Top App</string>
+  <string name="quicklink_folder_text">Top sovellukset</string>
   <string name="quicklink_not_saved">Aloitus-sivulle lisääminen epäonnistui</string>
   <string name="quicklink_saved">Tallennettiin aloitus-sivulle</string>
   <string name="quicklink_saved_before">Tämä sivu on jo lisätty</string>
@@ -722,7 +722,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="skip_current_version">Ohita tämä versio</string>
   <string name="snapshot_failed">Ei voitu tallentaa offline-käyttöä varten.</string>
   <string name="snapshot_successed">Tallenna offline-lukemista varten</string>
-  <string name="ssl_bad_clock_date_settings">Päivämäärän Asetukset</string>
+  <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
   <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
   <string name="ssl_certificate">Turvallisuusvarmenne</string>
   <string name="ssl_certificate_is_valid">Tämä varmenne on voimassa.</string>
@@ -738,7 +738,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="ssl_warnings_header">Sivuston suojausvarmenteessa on ongelmia.</string>
   <string name="start_save_page_capture">Tallennetaan kuvakaappausta…</string>
   <string name="storage_internal">Sisäinen muisti</string>
-  <string name="storage_permission_request_toast">Lataukset tarvitsee tallennustilaan käyttöoikeuden, ole hyvä ja avaa se</string>
+  <string name="storage_permission_request_toast">Lataukset tarvitsee pääsyn laitteesi tallennustilaan</string>
   <string name="storage_sd_card">SD kortti</string>
   <string name="storage_usb">USB muisti</string>
   <string name="suggest_access_appstore">Mi Sovelluskauppa</string>

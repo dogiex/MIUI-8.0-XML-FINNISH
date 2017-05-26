@@ -136,6 +136,7 @@
   <string name="cloud_welcome_message">Varmuuskopioi kappaleet</string>
   <string name="cloud_welcome_summary">Varmuuskopioi kappaleet Mi Pilveen ja kuuntele niitä muilla laitteilla</string>
   <string name="comment_format" formatted="false">%s: %s</string>
+  <string name="confirm">OK</string>
   <string name="confirm_download">Lataa</string>
   <string name="confirm_to_renew">Uudista</string>
   <string name="continue_backup">Jatka</string>
@@ -609,10 +610,18 @@
   <string name="online_music_enabled_summary">Kuuntele ja lataa suosikkikappaleitasi. Katso top-listan kappaleet ja valmiita soittolistoja mihin ikinä menetkin!</string>
   <string name="online_music_enabled_title">Ilmainen suoratoisto on täällä</string>
   <string name="online_my">Minun</string>
+  <string name="online_play_tips">Tämä kappale on saatavilla vain onlinessa. Ota online palvelut käyttöön asetuksista kuunnellaksesi sen.</string>
   <string name="online_playlist_is_empty">Soittolista on tyhjä</string>
   <string name="online_recommend">Soittolista</string>
+  <string name="online_service_open_tip">Online musiikkipalvelut on käytössä</string>
+  <string name="online_service_title">Online palvelut</string>
   <string name="online_special">Erikoinen</string>
+  <string name="online_switch">Online sisältöpalvelut</string>
+  <string name="online_switch_message">Poistamalla online palvelut käytöstä vaikuttaa VIP palveluihin ja suosituksiin. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="online_switch_setting">Online sisältöasetukset</string>
   <string name="open_download">Avaa</string>
+  <string name="open_online_service">Sinun täytyy ottaa online palvelut käyttöön käyttääksesi tätä ominaisuutta. Otetaanko käyttöön nyt?</string>
+  <string name="open_service">Ota käyttöön</string>
   <string name="order_pending">Odotetaan vahvistusta</string>
   <string name="order_process_fail">Tiliäsi ei voitu valtuuttaa. Odota muutama minuutti ja yritä uudelleen.</string>
   <string name="other_filter">Muu</string>
@@ -793,6 +802,7 @@
   <string name="sort_by_time">Päiväys</string>
   <string name="source_from">Lähde: %1$s</string>
   <string name="start_download_music">Aloita musiikin päivityspaketin lataaminen.</string>
+  <string name="start_to_backup">Varmuuskopioidaan…</string>
   <string name="start_to_download">Ladataan…</string>
   <string name="start_to_play">Toista</string>
   <string name="start_to_use">Aloita nauttiminen</string>
@@ -905,8 +915,8 @@
   <string name="vip_renew_notification_message">Et tule pystymään suoratoistamaan korkean laadun musiikkia tilauksesi loppumisen jälkeen.</string>
   <string name="vip_renew_notification_title">Tilaus vanhenee huomenna</string>
   <string name="vip_renew_title">Tilaus vanhentunut</string>
-  <string name="vip_required">Hanki Premium-tason Kappalepaketti toistaaksesi tämän kappaleen. Ohitimme kappaleen puolestasi.</string>
-  <string name="vip_required_with_song">Hanki Premium-tason Kappalepaketti toistaaksesi “%s”. Ohitimme kappaleen puolestasi.</string>
+  <string name="vip_required">Hanki Premium-tason Kappalepaketti toistaaksesi tämän kappaleen. Kappale ohitettiin.</string>
+  <string name="vip_required_with_song">Hanki Premium-tason Kappalepaketti toistaaksesi “%s”. Kappale ohitettiin.</string>
   <string name="warning_tip_cancel">Lataa</string>
   <string name="warning_tip_content">Et ole enää yhteydessä Wi-Fi-verkkoon. Käyttämällä mobiilidata-yhteyttä lataamiseen nostaa datan käyttöä. Jos mene datapakettisi rajan yli, operaattorisi voi veloittaa sinua lisämaksuista.</string>
   <string name="warning_tip_ok">Pysäytä</string>
