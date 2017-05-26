@@ -610,7 +610,7 @@
     <string-array name="wfd_status">
         <item>Aloitetaan istunto…</item>
         <item>Istunto aloitettu</item>
-        <item>Lopetetaan istuntoa…</item>
+        <item>Poistetaan palvelua käytöstä…</item>
         <item>Istuntoa ei voi aloittaa</item>
         <item>Aikakatkaistiin. Yritetään uudelleen…</item>
         <item>Laite yhdistetty</item>
@@ -626,7 +626,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2.Seuraa näytön ohjeita</item>
+        <item>2. Seuraa näytön ohjeita</item>
         <item></item>
         <item></item>
         <item></item>

@@ -7,10 +7,7 @@
   <string name="addBlackList">Estä</string>
   <string name="add_attachment">Lisää liitetiedostoja</string>
   <string name="add_contact">vCard</string>
-  <string name="add_festival">Tervehdys</string>
   <string name="add_music">Lisää musiikkia</string>
-  <string name="add_nickname">Lempinimi</string>
-  <string name="add_nickname_title">Muokkaa lempinimeä</string>
   <string name="add_number_to_sender">Lisää numero lähettäjään %s</string>
   <string name="add_picture">Lisää kuva</string>
   <string name="add_private_contact">Lisää yksityinen yhteystieto</string>
@@ -64,7 +61,6 @@
   <string name="card_insert_to_contact">Tuo yhteystieto</string>
   <string name="change_duration_activity">Vaihda kestoa</string>
   <string name="check_all">Valitse kaikki</string>
-  <string name="chenghu_disable_mms">Multimediaviesteissä et voi käyttää lempinimiä</string>
   <string name="class_0_message_activity">Luokan 0 viesti</string>
   <string name="close">Sulje</string>
   <string name="cloud_recommend_msg">Synkronoi viestit Mi Pilveen napauttamalla.</string>
@@ -118,7 +114,6 @@
   <string name="copy_to_sdcard">Tallenna liitetiedosto</string>
   <string name="copy_to_sdcard_fail">Liitetiedostoa ei voitu tallentaa</string>
   <string name="copy_to_sdcard_success">Liitetiedosto tallennettu nimellä %s</string>
-  <string name="database_corruption">Korjataan…</string>
   <string name="delete">Poista</string>
   <string name="delete_bookmark">Poista suosikeista</string>
   <string name="delete_message">Poista</string>
@@ -145,8 +140,6 @@
   <string name="duration_selector_title">"Dian kesto "</string>
   <string name="duration_zero">Keston täytyy olla suurempi, kuin 0 sekuntia</string>
   <string name="edit">Muokkaa</string>
-  <string name="edit_nickname_for_nocontact">Sinun täytyy lisätä vastaanottaja ensin</string>
-  <string name="edit_nickname_for_nocontact_by_robot">Sinun täytyy lisätä vastaanottaja ensin</string>
   <string name="edit_phrase">Muokkaa nopeita vastauksia</string>
   <string name="edit_slide_activity">Muokkaa diaa</string>
   <string name="edit_slideshow_activity">Muokkaa diaesitystä</string>
@@ -172,16 +165,9 @@
   <string name="fake_cell_safe_hint">Tämä viesti on turvallinen</string>
   <string name="fake_cell_timeout_hint">Turvallisuuden tarkastaminen epäonnistui</string>
   <string name="fdn_check_failure">Voit lähettää vain viestejä sallittuihin numeroihin.</string>
-  <string name="festival">Tervehdys</string>
-  <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">Tämä toiminto tarvitsee internet-yhteyden toimiakseen normaalisti.</string>
-  <string name="festival_networking_title">Ilmoitus</string>
-  <string name="festival_never_remind">Älä näytä uudelleen</string>
-  <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Ladataan…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Luotu:</string>
-  <string name="file_share_message_description">Haluan jakaa tiedostoja kanssasi.</string>
   <string name="file_size">Koko:</string>
   <string name="file_title">Nimi:</string>
   <string name="file_width_height">Koko:</string>
@@ -361,7 +347,6 @@
   <string name="new_message_arrived">Sinulla on uusi viesti</string>
   <string name="new_phrase">Lisää vastaus</string>
   <string name="new_phrase_hint">Syötä uusi vastaus</string>
-  <string name="nickname_placeholder">Lempinimi</string>
   <string name="no">Peruuta</string>
   <string name="no_block_button_msg">Poista esto</string>
   <string name="no_conversations">Ei keskusteluja</string>
@@ -410,7 +395,6 @@
   <string name="pref_summary_delete_limit">%1$s viestiä per keskustelu</string>
   <string name="pref_summary_delivery_reports">Näytä toimitettujen viestien tila</string>
   <string name="pref_summary_delivery_ringtone">Vastaanota ääni-ilmoituksia toimitetuista viesteistä.</string>
-  <string name="pref_summary_hide_festival">Piilota Kiinan kieliset toiminnot, kun järjestelmän kieli on asetettu muulle kielelle</string>
   <string name="pref_summary_manage_sim_messages">Hallitse SIM-kortille tallennettuja viestejä</string>
   <string name="pref_summary_mms_auto_retrieval">Lataa viesteissä olevat kuvat ja videot automaattisesti</string>
   <string name="pref_summary_mms_read_reports">Näytä ilmoitus keskustelunäkymässä, kun vastaanottajat on ladannut multimediaviestin sisällön</string>
@@ -431,9 +415,7 @@
   <string name="pref_title_allow_si_sl_push">Salli WAP push-viestit (SI/SL)</string>
   <string name="pref_title_card_format">Käyntikortin jakomuoto</string>
   <string name="pref_title_delivery_reports">Toimituksen tila</string>
-  <string name="pref_title_festival_networking">Internet-yhteys</string>
   <string name="pref_title_fwd_sender_info">Välitä lähettäjän tiedot</string>
-  <string name="pref_title_hide_festival">Piilota Kiinan kieliset toiminnot</string>
   <string name="pref_title_manage_sim_messages">SIM-kortin tallennustila</string>
   <string name="pref_title_miui_card">Lähetä käyttäen card -muotoa</string>
   <string name="pref_title_mms_auto_retrieval">Lataa multimediaviestin sisältö automaattisesti</string>
@@ -483,8 +465,6 @@
   <string name="recipients_over_size">Liian monta vastaanottajaa.</string>
   <string name="recording_failed">Ei voi nauhoittaa</string>
   <string name="refill_now">Top up nyt</string>
-  <string name="refresh">Päivitä</string>
-  <string name="refresh_failed">Päivitys epäonnistui</string>
   <string name="refreshing">Päivitetään…</string>
   <string name="release_cancel">Peruuta vapauttamalla</string>
   <string name="remove">Poista</string>

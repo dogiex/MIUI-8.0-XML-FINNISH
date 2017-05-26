@@ -1786,7 +1786,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="launch_defaults_none">Oletuksia ei asetettu</string>
   <string name="launch_defaults_some">Joitakin oletuksia asetettu</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
-  <string name="launcher_title">Kotinäyttö</string>
+  <string name="launcher_title">Kotinäyttö &amp; Valikko</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja, odota hetki.</string>
   <string name="launching_rep">Raportoidaan…</string>
@@ -2818,6 +2818,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="receiver_clean">Vapauta tallennustilaa</string>
   <string name="recent_location_requests_summary">Näytä sovellukset, jotka pyytävät käyttöoikeutta sijaintitiedoille</string>
   <string name="recent_location_requests_title">Sijaintipyyntö</string>
+  <string name="recents_config_title">Valikon asetukset</string>
   <string name="recommend_item_1">Suojakuori</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Virtapankki</string>
@@ -3366,6 +3367,7 @@ Näytön kiinnityksen käyttö:
   <string name="show_hw_screen_updates">Näytä GPU:n näytön päiv.</string>
   <string name="show_hw_screen_updates_summary">Väläytä ikkunoiden sisältö GPU:lla piirrettäessä</string>
   <string name="show_magnifier_when_input">Tekstin suurennuslasi</string>
+  <string name="show_mem_info_title">Näytä muistin tiedot</string>
   <string name="show_non_rect_clip">Korjaa ei-suorakulmaisten leiketoimintojen virheet</string>
   <string name="show_owner_info_on_lockscreen_label">Näytä omistajan tiedot Lukitusnäytöllä</string>
   <string name="show_password">Näytä salasanat</string>
@@ -4112,6 +4114,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="user_restrictions_controlled_by">Ohjaaja: %1$s</string>
   <string name="user_restrictions_title">Sovellusten ja sisällön käyttö</string>
   <string name="user_set_lock_button">Aseta lukitus</string>
+  <string name="user_settings_forbidden">Nykyisessä tilassa ei voi vaihtaa pääkäyttäjän asetuksia. Mene takaisin Ensimmäiseen tilaan.</string>
   <string name="user_settings_title">Käyttäjät</string>
   <string name="user_setup_button_setup_later">Ei nyt</string>
   <string name="user_setup_button_setup_now">Määritä nyt</string>

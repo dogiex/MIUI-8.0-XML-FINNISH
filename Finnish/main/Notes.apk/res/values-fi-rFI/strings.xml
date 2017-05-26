@@ -20,6 +20,9 @@
   <string name="cta_reminder">Tämä sovellus tarvitsee yhteyden internettiin varmuuskopioidakseen muistiot Mi Pilveen ja myös pääsyn lukea yhteystietosi merkatakseen muistiot puheluiden aikana.</string>
   <string name="default_folder_name">Nimetön kansio</string>
   <string name="delete_folder_dialog_tile">Poista kansio</string>
+  <string name="dialog_share_as_pic">Jaa muistio kuvana</string>
+  <string name="dialog_share_as_text">Jaa muistio tekstinä</string>
+  <string name="dialog_share_title">Jaa muistio</string>
   <string name="dlg_btn_set_password">Aseta salasana</string>
   <string name="dlg_check_reminder">Älä näytä uudelleen</string>
   <string name="dlg_delete_message">Poistetaan…</string>
@@ -36,6 +39,7 @@
   <string name="dlg_title_set_password">Aseta salasana</string>
   <string name="dlg_title_use_privacy_password">Käytä Yksityisyydensuojan salasanaa</string>
   <string name="dlg_unhide_message">Tuodaan esiin…</string>
+  <string name="done">Valmis</string>
   <string name="enable_sync">Synkronoi</string>
   <string name="enable_sync_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa (%1$s)?</string>
   <string name="error_contact_not_exist">Yhteystietoa ei ole olemassa</string>
@@ -49,6 +53,8 @@
   <string name="error_widget_exist_for_send_to_desktop">Tämä muistio on jo Kotinäytölläsi</string>
   <string name="folder_exist">Saman niminen kansio on jo olemassa</string>
   <string name="force_touch_menu_add">Lisää muistio</string>
+  <string name="format_move_note_out_folder">Siirrettiin pois</string>
+  <string name="format_move_note_to_folder">Siirrettiin kansioon %1$s</string>
   <string name="format_move_notes_out_folder">Siirrettiin kansiosta %1$s</string>
   <string name="format_move_notes_to_folder">Siirrettiin %1$s kansioon %2$s</string>
   <string name="hidden_notes_fragment_title">Piilotetut muistiot</string>
@@ -57,6 +63,7 @@
   <string name="info_note_enter_desktop">Lisätty Kotinäytölle</string>
   <string name="loading_text">Odota hetki…</string>
   <string name="login_sync">Kirjaudu sisään &amp; synkronoi</string>
+  <string name="menu_add_folder">Lisää kansioon</string>
   <string name="menu_create_folder">Uusi kansio</string>
   <string name="menu_delete">Poista</string>
   <string name="menu_delete_forever">Poista pysyvästi</string>

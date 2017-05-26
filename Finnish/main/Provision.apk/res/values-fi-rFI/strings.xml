@@ -37,7 +37,7 @@
   <string name="other_settings_auto_update">Päivitä automaattisesti</string>
   <string name="other_settings_auto_update_summary">MIUI valitsee parhaan ajan päivityksen lataamiseen ja asentamiseen.</string>
   <string name="other_settings_location">Sijainti</string>
-  <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi</string>
+  <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi.</string>
   <string name="other_settings_mifg_online_content">Taustakuvan Karuselli</string>
   <string name="other_settings_mifg_online_content_summary">Salli Taustakuvan Karusellin päästä internettiin ladatakseen uusia kuvia.</string>
   <string name="other_settings_upload_debug_log_summary">Tiedot, joita keräämme käytetään järjestelmässä olevien ongelmien paikantamiseen ja tutkimiseen ja ne saattaa sisältää henkilökohtaisia tietoja. Mitään tietoja ei käytetä henkilöllisyyden tunnistamiseen.</string>

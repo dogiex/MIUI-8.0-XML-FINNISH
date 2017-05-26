@@ -40,7 +40,7 @@
   <string name="memory_not_allowed">Tallennustilaa ei ole riittävästi. Vapauta tallennustilaa nauhoittaaksesi.</string>
   <string name="mic_sound">Mikrofoni</string>
   <string name="no_recorder_info">Täällä ei ole videoita</string>
-  <string name="no_recorder_info2">Lisää näytön nauhoitus napauttamalla painiketta</string>
+  <string name="no_recorder_info2">Aloita näytön nauhoitus napauttamalla painiketta</string>
   <string name="no_sound">Mykistä</string>
   <string name="operation_delete">Poista</string>
   <string name="operation_send">Lähetä</string>

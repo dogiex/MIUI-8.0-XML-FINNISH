@@ -164,10 +164,13 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_force_stop_dlg_text">Jos pakkolopetat sovelluksen, se saattaa käyttäytyä omituisesti.</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
+  <string name="app_manager_go_to_manger_app">Hallitse</string>
+  <string name="app_manager_have_not_consume">无</string>
   <string name="app_manager_loading_data">Ladataan tietoa…</string>
   <string name="app_manager_more_times">Käytetty 100000+ kertaa</string>
   <string name="app_manager_my_app">Sovellukseni</string>
-  <string name="app_manager_not_record">Täällä ei ole kohteita</string>
+  <string name="app_manager_not_record">Sovelluksia ei löytynyt, jotka tarvitsevat käyttöoikeuksia</string>
+  <string name="app_manager_perm">Käyttöoikeudet</string>
   <string name="app_manager_perm_monitor_make_calls">Soittaa puheluita</string>
   <string name="app_manager_perm_monitor_read_call_history">Lukea soittohistoriaa</string>
   <string name="app_manager_perm_monitor_read_contacts">Lukea yhteystietoja</string>
@@ -186,7 +189,6 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_permission_send_mms_over">Lähetti tekstiviestejä 100000+ kertaa</string>
   <string name="app_manager_permission_startself_summary">Sovellukset, jotka käynnistyvät automaattisesti varaavat RAM-muistia ja kuluttavat akkua nopeammin</string>
   <string name="app_manager_permission_startself_title">Käynnistys</string>
-  <string name="app_manager_power">Käyttöoikeudet</string>
   <string name="app_manager_rebide_wakepath">Rajoita</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimoi ketjukäynnistys</string>
   <string name="app_manager_reduce_wakepath_summary">Rajoittamalla käynnistystä minimoi ketjukäynnistystä. Rajoitetaanko sovelluksen %s käynnistys?</string>
@@ -206,6 +208,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Poistetaanko kloonattu sovellus?</string>
   <string name="app_manager_unstall_application">Poista</string>
   <string name="app_manager_update_label_text">Uusi</string>
+  <string name="app_manager_usage_record_title">Sovelluksen käyttö</string>
   <string name="app_manager_wake_path_card_title">Ketjukäynnistyshistoria (2 päivää)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Selvä</string>
   <string name="app_manager_wakepath_dialog_summary">Ketjukäynnistys tapahtuu, kun taustalla sovellus käynnistää toisen sovelluksen. Se voi kuluttaa akkua ja vähentää järjestelmän suoristuskykyä. MIUI estäisi normaalisti ketjukäynnistymisen.</string>
@@ -220,6 +223,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_summary">"微信/QQ/米聊抢红包神器
 支持个人红包与群红包
 春节红包活动，不错过每一个红包"</string>
+  <string name="app_usage_never">Ei käytetty äskettäin</string>
+  <string name="app_usage_recently">Käytetty äskettäin</string>
   <string name="app_version">Versio</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="applock_add_account">Lisää</string>
@@ -555,10 +560,6 @@ mikäli unohdat sen"</string>
   <string name="daily_limit_network_available_body">Näytä datan käytön tilastot napauttamalla.</string>
   <string name="daily_limit_over_message">Olet ylittänyt päivittäisen datan käytön rajan.</string>
   <string name="daily_pkg_traffic">Datan huippuraja</string>
-  <string name="daily_sim_over_limit_dialog_message">"Olet käyttänyt jo %d päivittäisestä datan rajasta.
-
-Jos otat mobiilidatan käyttöön uudelleen, operaattorisi saattaa veloittaa sinua ylimääräisestä datasta."</string>
-  <string name="daily_sim_over_limit_notify_title">Olet käyttänyt jo %d päivittäisestä datan rajasta.</string>
   <string name="data_network_blocked_notification_title">Ei internet-yhteyttä</string>
   <string name="data_usage_correction_timeout_body">Päivitä manuaalisesti napauttamalla.</string>
   <string name="data_usage_correction_timeout_title">Datan käytön synkronointi aikakatkaistiin</string>
@@ -567,8 +568,6 @@ Jos otat mobiilidatan käyttöön uudelleen, operaattorisi saattaa veloittaa sin
   <string name="data_usage_leisure_warning_body">Näytä datan käytön tiedot napauttamalla.</string>
   <string name="data_usage_leisure_warning_title">Hiljaisen ajan datan käytön raja</string>
   <string name="data_usage_limit_body">Ota mobiilidata käyttöön napauttamalla.</string>
-  <string name="data_usage_limit_snoozed_body">Tämän kuukauden datan käytön raja on ylitetty.</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Datan käyttö ylitetty</string>
   <string name="data_usage_mobile_limit_title">Mobiilidatan raja saavutettu</string>
   <string name="data_usage_no_total_package_body">Aseta datan käytön raja napauttamalla</string>
   <string name="data_usage_no_total_package_body_dual">Datarajaa ei asetettu sovellukselle %s</string>
@@ -579,7 +578,6 @@ Jos otat mobiilidatan käyttöön uudelleen, operaattorisi saattaa veloittaa sin
   <string name="data_usage_warning_body_notify">Näytä tiedot napauttamalla</string>
   <string name="data_usage_warning_title">Datan käyttövaroitus</string>
   <string name="data_usage_warning_title_notify">Menit datan rajasi yli</string>
-  <string name="datausage_ignore_app_list_count">%d sovelluksen datan käyttöä ei huomioida</string>
   <string name="declaration_dialog_msg">Tämä toiminto auttaa seuraamaan käyttöäsi, mutta ei takaa, että estäisi ylimääräisiltä maksuilta. Parhaan tuloksen saamiseksi, aseta varovainen raja.</string>
   <string name="deep_clean_disconnect_data_title">Poista mobiilidata käytöstä, kun laite lukitaan</string>
   <string name="deep_clean_memory_clean_title">Tyhjennä välimuisti, kun laite lukitaan</string>
@@ -758,8 +756,6 @@ Jos otat mobiilidatan käyttöön uudelleen, operaattorisi saattaa veloittaa sin
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="guide_get_operator_error">Väärä operaattori?</string>
   <string name="guide_operator_text">"Nykyinen operaattorisi: "</string>
-  <string name="guide_primary_text">"Ota Verkkoavustaja käyttöön
-hallitaksesi mobiilidatan käyttöäsi"</string>
   <string name="guide_quck_open">Ota käyttöön</string>
   <string name="guide_second_text">Operaattorisi valinnan jälkeen, MIUI seuraa mobiilidatan käyttöäsi päivittäin lähettämällä ilmaisen operaattoritekstiviestin. MIUI:n huomatessa, että olet ylittänyt rajasi, se ilmoittaa siitä ja katkaisee sinut verkosta automaattisesti."</string>
   <string name="guide_wait_setting">Ei nyt</string>
@@ -850,7 +846,6 @@ hallitaksesi mobiilidatan käyttöäsi"</string>
   <string name="installed">Asennettu</string>
   <string name="installing">Asennetaan</string>
   <string name="international_roaming_setting">Ulkomaan roaming</string>
-  <string name="international_roaming_whitelist_count">%d sovellusta voi käyttää mobiilidataa roaming-tilassa</string>
   <string name="ip_address_exception_summary">IP-osoitetta ei saatu. Jos törmäät tähän ongelmaan uudelleen, kokeile asettaa kiinteä IP-osoite.</string>
   <string name="item_app_permission">Sovelluksen käyttöoikeudet</string>
   <string name="item_dev_mode">Kehittäjäasetukset</string>
@@ -975,7 +970,6 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="main_activity_content_summary_root">Root käyttöoikeus</string>
   <string name="main_activity_content_summary_update">Järjestelmän päivitys</string>
   <string name="main_activity_content_title_scanning">Skannataan…</string>
-  <string name="main_alert_message_month_limit_error">Datan raja virheellinen</string>
   <string name="main_alert_message_no_imsi">SIM-korttia ei havaittu</string>
   <string name="main_alert_message_no_mobile_package">Aseta datan raja</string>
   <string name="main_alert_message_open_traffic_ctrl">Suosittelemme datan käytön rajoittamista</string>
@@ -1119,8 +1113,6 @@ vastausta"</string>
   <string name="msg_update_error_code_success">Valmis</string>
   <string name="msg_update_up">Piilota</string>
   <string name="name">Nimi</string>
-  <string name="network_assistant_upgraded_body">Näytä yksityiskohdat napauttamalla.</string>
-  <string name="network_assistant_upgraded_title">Päivitetty</string>
   <string name="network_blocked_connected_open_wifi">Yhdistetty julkiseen verkkoon</string>
   <string name="network_blocked_notification_summary">Testaa verkko</string>
   <string name="network_blocked_switch_wifi">Vaihda verkkoja</string>
@@ -1395,7 +1387,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="power_settings_title">Aseta</string>
   <string name="power_settings_top">Yläpalkki</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pref_about">Tietoa</string>
   <string name="pref_about_traffic_title">Datan käytön asetukset</string>
   <string name="pref_add_traffic_pkg">Lisäksi ostettu data</string>
   <string name="pref_adjust_data_usage">Operaattorin viestimalli</string>
@@ -1419,7 +1410,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="pref_category_title_securitycenter_settings">Yleiset asetukset</string>
   <string name="pref_category_title_virus_lib_auto_update">Päivitä virustunnisteet automaattisesti</string>
   <string name="pref_category_title_virus_white_list">Poikkeukset</string>
-  <string name="pref_check_network_diagnostics">Testaa laitteen internet-yhteys</string>
   <string name="pref_confirm_operator_setting">Varmista, että syöttämäsi tiedot on oikein</string>
   <string name="pref_connect_settings_enable_background">Salli data taustalla</string>
   <string name="pref_connect_settings_enable_background_hint">Salli sovellusten käyttää mobiilidataa taustalla, kun et käytä niitä</string>
@@ -1443,18 +1433,14 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="pref_key_daily_package_switch">Päiväkohtainen datapaketti</string>
   <string name="pref_key_daily_package_value">Päiväkohtainen datapaketti</string>
   <string name="pref_key_direction_traffic">Määritetty mobiilidata</string>
-  <string name="pref_key_extra_package_switch">Kuukausittainen top-up paketti</string>
   <string name="pref_key_extra_package_value">Paketin koko</string>
   <string name="pref_key_half_year_package_start">Aloitus päiväys</string>
   <string name="pref_key_half_year_package_switch">Puolen vuoden datapaketti</string>
   <string name="pref_key_half_year_package_value">Paketin koko</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-  <string name="pref_leisure_no_overlay">Käytössä</string>
-  <string name="pref_leisure_not_opened">Ei käytössä</string>
   <string name="pref_manual_adjust">Aseta datan käyttötilastot manuaalisesti</string>
   <string name="pref_mi_sim_settings">Mi SIM Asetukset</string>
-  <string name="pref_month_begin_date">Käytön nollauspäivä</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Lisäasetukset</string>
   <string name="pref_new_installed_preconfig_title">Uusien sovelluksien oletusasetukset</string>
@@ -1463,8 +1449,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="pref_operator_not_set">Operaattoria ei ole asetettu</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Kun ylität datapakettisi</string>
-  <string name="pref_package_traffic_leisure">"%1$s
-Hiljainen aika: %2$s"</string>
   <string name="pref_package_traffic_normal">Huippu: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Lisä: %2$s</string>
   <string name="pref_package_traffic_settings">Mobiilidatan raja</string>
@@ -1487,14 +1471,12 @@ Hiljainen aika: %2$s"</string>
   <string name="pref_title_lock_screen_memory_clean">Tyhjennä lukitusnäytöllä</string>
   <string name="pref_title_manual_check_virus_db_update">Tarkista päivitykset</string>
   <string name="pref_title_mobile_traffic">Näytä datan käyttö lukittuna</string>
-  <string name="pref_title_network_diagnostics">Testaa verkko</string>
   <string name="pref_title_over_traffic_limit_warning">Kun ylitetty</string>
   <string name="pref_title_traffic_limit_number">Koko</string>
   <string name="pref_title_traffic_speed_state">Näytä verkon nopeus</string>
   <string name="pref_title_update_notification">Datan käytön ilmoitukset</string>
   <string name="pref_title_virus_white_list">Poikkeukset</string>
   <string name="pref_traffic_manage_title">Datan käyttö</string>
-  <string name="pref_version">Versio %s</string>
   <string name="pref_warning_values">Datan käytön varoitustaso</string>
   <string name="pref_whitelist_setting">Data roamingin poikkeukset</string>
   <string name="preference_category_information_setting">category_information_setting</string>
@@ -1553,14 +1535,12 @@ Hiljainen aika: %2$s"</string>
   <string name="preferred_app_entries_launcher">Käynnistin</string>
   <string name="preferred_app_entries_messaging">Viestit</string>
   <string name="preferred_app_entries_music">Musiikki</string>
-  <string name="privacy_declare_dialog_message">Käyttäessäsi tätä palvelua, hyväksyt Operan &lt;a href=%s&gt; Palveluehdot&lt;/a&gt;.</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
   <string name="privacy_mode_dialog_title">Vieras tila</string>
   <string name="privacy_prompt_tc_sms_report_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta datan käytön tiedot voidaan päivittää.</string>
   <string name="privacy_prompt_traffic_adjust_message">"Kalibroinnin käynnistämisen jälkeen, MIUI yhdistää verkkoon, enkoodaa operaattorisi tiedot, puhelinnumerosi, IMEI-koodisi, ja Mi Tilisi ja lähettää ne Mi:n palvelimille. Tämä tehdään, jotta saadaan operaattorin kalibrointimalli ja opitaan, onko sijainnissasi mahdollista ostaa dataa.
 
 Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen kalibrointimallin."</string>
-  <string name="privacy_prompt_traffic_purchase_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta saadaan enemmän tietoa datapaketin ostamisen vaihtoehdoista.</string>
   <string name="privacy_prompt_upload">Lähetä</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Media palvelin</string>
@@ -2062,9 +2042,7 @@ Varmista, että se on tarkka ja lähetä se meille."</string>
   <string name="three_percent_total_pkg">%s (3%% kuukausittaisesta datasta)</string>
   <string name="timeshow_h">%.1f t</string>
   <string name="timeshow_h_int">%d t</string>
-  <string name="timeshow_h_m">%1$d t %2$d min</string>
   <string name="timeshow_m">%d min</string>
-  <string name="timeshow_m_s">%1$d min %2$d s</string>
   <string name="timeshow_s">%d s</string>
   <string name="tips_dialog_title">Etkö tiedä rajaasi</string>
   <string name="tips_message">Nähdäksesi datapakettisi tiedot, soita %2$s (%1$s).</string>
@@ -2194,7 +2172,6 @@ Tap to top up your balance."</string>
   <string name="traffic_over_purchase_title">Datan raja ylitetty</string>
   <string name="traffic_purchase_body">Top up saldoasi napauttamalla.</string>
   <string name="traffic_purchse_suggestion">Top up mobiilidata</string>
-  <string name="traffic_setting_app_count">%d sovellusta</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Säädä datapaketti ja käytön rajat</string>
   <string name="traffic_setting_extra_pkg_summary">Säädä datapaketti ja käytön rajat</string>
