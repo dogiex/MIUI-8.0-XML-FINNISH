@@ -379,7 +379,7 @@ mikäli unohdat sen"</string>
   <string name="bl_no_block_call">Ei estettyjä puheluita.</string>
   <string name="bl_no_block_sms">Ei estettyjä tekstiviestejä.</string>
   <string name="blacklist_prefix_add_hint">Estä kaikki numerot, jotka alkaa tällä etuliitteellä</string>
-  <string name="block_message_number">Tekstiviestit: %d</string>
+  <string name="block_message_number">Viestit: %d</string>
   <string name="block_phone_number">Puhelut: %d</string>
   <string name="booster_immediately">Nopeuta</string>
   <string name="boot_reminder">Käynnistä laitteesi tiettynä aikana</string>
@@ -626,8 +626,6 @@ mikäli unohdat sen"</string>
   <string name="disable_air_mode">Poista Lentokone-tila ensin käytöstä</string>
   <string name="dlg_add_blacklist">Estetäänkö tämä numero?</string>
   <string name="dlg_add_blacklist_title">Lisää estolistalle</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s ja %2$s muuta yhteystietoa on jo poikkeuslistallasi.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">Konflikti Poikkeuksissa</string>
   <string name="dlg_add_keyword">Lisää avainsanoja</string>
   <string name="dlg_antispam_mode_delete_message">Et voi palauttaa sääntöjä, kun ne ovat poistettu.</string>
   <string name="dlg_antispam_mode_delete_title">Poistetaanko säännöt?</string>
@@ -928,7 +926,6 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockpattern_recording_intro_header">Luo kuvio yhdistämällä vähintään 4 pistettä</string>
   <string name="lockpattern_retry_button_text">Piirrä uudelleen</string>
   <string name="lockpattern_settings_help_how_to_record">Piirrä kuvio</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Odota %d sekuntia ja yritä uudelleen. "</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta väärää yritystä!</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
@@ -1039,7 +1036,6 @@ vastausta"</string>
   <string name="mark_sell_time_setting">Estä numerot, jotka on ilmoitettu puhelinmyyjäksi tietyn monta kertaa</string>
   <string name="mark_time_setting_dialog_title">Ilmoita numero</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_others">"%d muuta henkilöä merkitsi sen kategoriaan "</string>
   <string name="marked_by_user">"sinä merkitsit sen kategoriaan "</string>
   <string name="megabyteShort">Mt</string>
   <string name="megabyte_per_second">Mt/s</string>

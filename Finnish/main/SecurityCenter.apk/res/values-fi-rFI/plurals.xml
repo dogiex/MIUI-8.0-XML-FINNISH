@@ -2,11 +2,15 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d puhelua</item>
-        <item quantity="one">1 puhelu</item>
+        <item quantity="one">%d puhelu</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d tekstiviestiä</item>
-        <item quantity="one">1 tekstiviesti</item>
+        <item quantity="one">%d tekstiviesti</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d muuta käyttäjää merkitsi sen</item>
+        <item quantity="one">%d muu käyttäjä merkitsi sen</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">%d sovelluksen datan käyttöä ei seurata</item>
@@ -165,29 +169,9 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d sovellusta sisältää yksityisyysriskejä</item>
         <item quantity="one">%d sovellus sisältää yksityisyysriskejä</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Salasanassa täytyy olla vähintään %d kirjainta.</item>
-        <item quantity="one">"Salasanassa täytyy olla vähintään 1 kirjain. "</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Salasanassa täytyy olla vähintään %d pientä kirjainta.</item>
-        <item quantity="one">Salasanassa täytyy olla vähintään 1 pieni kirjain.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Salasanassa täytyy olla vähintään %d isoa kirjainta.</item>
-        <item quantity="one">Salasanassa täytyy olla vähintään 1 iso kirjain.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Salasanassa täytyy olla vähintään %d numeroa.</item>
-        <item quantity="one">Salasanassa täytyy olla vähintään 1 numero.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Salasanassa täytyy olla vähintään %d symbolia.</item>
-        <item quantity="one">Salasanassa täytyy olla vähintään 1 symboli.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Salasanassa täytyy olla vähintään %d merkkiä muita kuin kirjaimia.</item>
-        <item quantity="one">Salasanassa täytyy olla vähintään 1 merkki muu kuin kirjain.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Odota %d sekuntia ja yritä uudelleen. "</item>
+        <item quantity="one">"Odota %d sekunti ja yritä uudelleen. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d sovellusta lukittu</item>

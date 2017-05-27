@@ -134,6 +134,15 @@
         <item>11</item>
         <item>12</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Hyvä</item>
+        <item>Tyydyttävä</item>
+        <item>Kohtuullisesti saastunut</item>
+        <item>Heikko</item>
+        <item>Hyvin heikko</item>
+        <item>Vakava</item>
+        <item>Burst Table</item>
+    </string-array>
     <string-array name="wind_unit_simple">
         <item>Boforiasteikko</item>
         <item>km/h</item>
@@ -166,5 +175,14 @@
         <item>Rankka</item>
         <item>Kohtalainen</item>
         <item>Kevyt</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Loistava</item>
+        <item>Hyvä</item>
+        <item>Kevyesti Saastunut</item>
+        <item>Kohtuullisesti Saastunut</item>
+        <item>Voimakkaasti Saastunut</item>
+        <item>Vakavasti Saastunut</item>
+        <item>Indexin Ulkopuolella</item>
     </string-array>
 </resources>
