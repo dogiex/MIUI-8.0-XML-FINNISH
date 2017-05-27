@@ -1786,7 +1786,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="launch_defaults_none">Oletuksia ei asetettu</string>
   <string name="launch_defaults_some">Joitakin oletuksia asetettu</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot automaattisesti</string>
-  <string name="launcher_title">Kotinäyttö &amp; Valikko</string>
+  <string name="launcher_title">Kotinäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja, odota hetki.</string>
   <string name="launching_rep">Raportoidaan…</string>
@@ -2818,7 +2818,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="receiver_clean">Vapauta tallennustilaa</string>
   <string name="recent_location_requests_summary">Näytä sovellukset, jotka pyytävät käyttöoikeutta sijaintitiedoille</string>
   <string name="recent_location_requests_title">Sijaintipyyntö</string>
-  <string name="recents_config_title">Valikon asetukset</string>
+  <string name="recents_config_title">Viimeaikaisten asetukset</string>
   <string name="recommend_item_1">Suojakuori</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Virtapankki</string>
