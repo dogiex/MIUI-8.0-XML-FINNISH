@@ -43,6 +43,10 @@
   <string name="cant_remove_retained_app">Sovellusta ei voitu poistaa</string>
   <string name="cant_remove_system_app">Järjestelmäsovellusta ei voi poistaa</string>
   <string name="change_wallpaper">Vaihda</string>
+  <string name="children_folder_title">Lapsi-tila</string>
+  <string name="children_mode_exit">Poistu</string>
+  <string name="children_mode_tips_message">Lapsi-tilassa ei ole tällä hetkellä sovelluksia. Lisää haluamasi sovellukset valitsemalla.</string>
+  <string name="children_mode_tips_title">Valitse sovellukset</string>
   <string name="choose_wallpaper">Valitse taustakuva</string>
   <string name="chooser_wallpaper">Valitse uusi taustakuva</string>
   <string name="cloud_app_restore_title">Vireillä</string>

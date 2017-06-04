@@ -797,6 +797,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Kuvat</item>
         <item>Tiedostot</item>
         <item>Muistiot</item>
+        <item>Lapsi-tila</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Lyhyempi viive</item>

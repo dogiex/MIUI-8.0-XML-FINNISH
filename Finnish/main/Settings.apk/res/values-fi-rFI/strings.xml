@@ -800,8 +800,14 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="check_update">Tarkista päivitykset</string>
   <string name="checkbox_notification_same_as_incoming_call">Käytä ilmoituksille puhelun äänenvoimakkuutta</string>
   <string name="checking_decryption">Tarkistetaan…</string>
-  <string name="checking_find_device_status">Tarkastetaan Etsi laite -tilaa…</string>
-  <string name="checking_for_updates">Tarkastetaan päivityksiä…</string>
+  <string name="checking_find_device_status">Tarkistetaan Etsi laite -tilaa…</string>
+  <string name="checking_for_updates">Tarkistetaan päivityksiä…</string>
+  <string name="childmod_privacy_password_role_instruction">Ota Lapsi-tila käyttöön estääksesi ei-toivotut toimenpiteet, kun lapsi käyttää laitetta</string>
+  <string name="children_mode_enable_title">Lapsi-tila</string>
+  <string name="children_mode_set_apps_title">Saatavilla olevat sovellukset</string>
+  <string name="children_mode_tips_off">Kun Lapsi-tila on otettu käyttöön, voit palata Kotinäyttöön napauttamalla Koti-painiketta.</string>
+  <string name="children_mode_tips_on">Kun Lapsi-tila on poistettu käytöstä, voit palata Kotinäyttöön napauttamalla Koti-painiketta.</string>
+  <string name="children_mode_title">Lapsi-tila</string>
   <string name="choose_assist_title">Valitse avustajasovellus</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="choose_smartcover_type">Valitse kotelon tyyppi</string>
@@ -2509,6 +2515,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="password_guard">Salasana</string>
   <string name="password_turned_off_text">Salasana ei ole käytössä</string>
   <string name="password_turned_on_text">Salasana on käytössä</string>
+  <string name="path_children_mode_settings">Asetukset/Lisäasetukset/Lapsi-tila</string>
   <string name="performance_category">Suorituskyky</string>
   <string name="permission_detail_info">Tiedot</string>
   <string name="permission_detail_info_summary">%1$d turvallisuus | %2$d yksityisyys | %3$d muuta</string>
@@ -2644,6 +2651,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="priority_storage_summary">Valitse minne tiedostot tallennetaan</string>
   <string name="priority_storage_title">Tallennustilan asetukset</string>
   <string name="privacy_applock">Sovelluslukko</string>
+  <string name="privacy_childmode">Lapsi-tila</string>
   <string name="privacy_file">Tiedostot</string>
   <string name="privacy_gallery">Kuvat</string>
   <string name="privacy_mms">Viestit</string>
@@ -3078,6 +3086,8 @@ Näytön kiinnityksen käyttö:
   <string name="search_brightness">Kirkkaus</string>
   <string name="search_button_light_timeout">Pidä painikkeiden valo päällä</string>
   <string name="search_calendar_sound_title">Kalenterin oletusääni</string>
+  <string name="search_children_mode_settings">Lapsi-tila;Lukitse tekstiviesti;Lapsilukko;Rajoita tekstiviesti</string>
+  <string name="search_children_mode_title">Lapsi-tila;Lapsi;Lapsilukko</string>
   <string name="search_captioning_locale">Kieli</string>
   <string name="search_change_password">Vaihda näytön lukitus;Näytön lukitus;Muokkaa näytön lukitusta;muokkaa näytönlukitusta;näytönlukitus</string>
   <string name="search_children_mode_title">Lapsi-tila;Lukitse sms;Lapsilukko;Rajoita SMS</string>
@@ -3323,6 +3333,11 @@ Näytön kiinnityksen käyttö:
   <string name="service_stop">Lopeta</string>
   <string name="service_stop_description">Sovellus käynnisti tämän palvelun. Palvelun pysäyttäminen saattaa estää sovellusta toimimasta.</string>
   <string name="services_subtitle">Palvelut</string>
+  <string name="set_data_limit">Aseta datan raja</string>
+  <string name="set_data_time_range">Näytä aikaväli</string>
+  <string name="set_password_action">Aseta salasana</string>
+  <string name="set_password_message">Aseta salasana poistaaksesi Lapsi-tilan käytöstä ja avataksesi laitteen lukituksen.</string>
+  <string name="set_password_title">Aseta salasana</string>
   <string name="setting_privacy_password">Aseta Yksityisyydensuojan salasana</string>
   <string name="settings_ad_loading">Ladataan…</string>
   <string name="settings_ad_loading_unavailable">Latauksessa ilmeni ongelma.</string>
