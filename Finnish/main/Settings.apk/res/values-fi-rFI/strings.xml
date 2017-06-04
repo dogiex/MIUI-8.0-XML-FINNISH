@@ -1080,7 +1080,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="debug_monitoring_category">Valvonta</string>
   <string name="debug_networking_category">Yhteysominaisuudet</string>
   <string name="debug_view_attributes">Ota attribuuttinäkymän tarkistus käyttöön</string>
-  <string name="defalut_launcher_title">Oletuskäynnistin</string>
+  <string name="defalut_launcher_title">Kotinäyttö &amp; Viimeaikaiset</string>
   <string name="default_app">(Oletus)</string>
   <string name="default_apps_title">Oletus Sovellukset</string>
   <string name="default_assist_none">Ei mitään</string>
@@ -2424,7 +2424,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_personal_assistant_dialog_title">Poista Älykäs avustaja käytöstä</string>
   <string name="open_personal_assistant_title">Ota Älykäs avustaja käyttöön</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
-  <string name="open_wifi_connect_title">Yhdistä verkkoon %1$s</string>
+  <string name="open_wifi_connect_title">Yhdistetty verkkoon %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
   <string name="optimization_cancel">Peruuta</string>
   <string name="optimization_close">Poista käytöstä &amp; käynnistä uudelleen</string>
@@ -2999,7 +2999,6 @@ Näytön kiinnityksen käyttö:
   <string name="screen_pinning_unlock_password">Pyydä salasana ennen irrotusta</string>
   <string name="screen_pinning_unlock_pattern">Pyydä lukituksenpoistokuviota ennen irrotusta</string>
   <string name="screen_pinning_unlock_pin">Pyydä PIN ennen irrotusta</string>
-  <string name="screen_recorder">Näytön nauhoitus</string>
   <string name="screen_resolution_confirm">Käynnistä uudelleen</string>
   <string name="screen_resolution_summary">Näytön resoluution pienentäminen saattaa lisätä akun kestoa ja järjestelmän suorituskykyä, mutta kuvanlaatu kärsii. Laitteesi pitää käynnistää uudelleen, jotta asetus tulee voimaan.</string>
   <string name="screen_resolution_switch">Vaihda resoluutiota</string>

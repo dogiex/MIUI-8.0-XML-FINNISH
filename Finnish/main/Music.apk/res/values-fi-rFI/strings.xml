@@ -802,7 +802,6 @@
   <string name="sort_by_time">Päiväys</string>
   <string name="source_from">Lähde: %1$s</string>
   <string name="start_download_music">Aloita musiikin päivityspaketin lataaminen.</string>
-  <string name="start_to_backup">Varmuuskopioidaan…</string>
   <string name="start_to_download">Ladataan…</string>
   <string name="start_to_play">Toista</string>
   <string name="start_to_use">Aloita nauttiminen</string>

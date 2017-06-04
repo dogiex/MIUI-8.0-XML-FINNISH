@@ -50,7 +50,7 @@
   <string name="screen_orientation">Suunta</string>
   <string name="screen_orientation_summary">Nauhoitettujen videoiden suunta</string>
   <string name="screen_record_option">Nauhoituksen asetukset</string>
-  <string name="screen_record_params">Nauhoituksen parametritRecording parameters</string>
+  <string name="screen_record_params">Nauhoituksen parametrit</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="show_hard_key">Visualisoi navigointipainikkeet</string>
   <string name="show_hard_key_summary">Näytä ilmoitukset, kun painat Koti-, Valikko- tai Takaisin-painikkeita</string>

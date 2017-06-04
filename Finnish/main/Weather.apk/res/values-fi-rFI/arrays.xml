@@ -141,7 +141,7 @@
         <item>Heikko</item>
         <item>Hyvin heikko</item>
         <item>Vakava</item>
-        <item>Burst Table</item>
+        <item>Indeksin ulkopuolella</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>Boforiasteikko</item>
@@ -179,10 +179,10 @@
     <string-array name="pollution_level_desc_arr">
         <item>Loistava</item>
         <item>Hyvä</item>
-        <item>Kevyesti Saastunut</item>
-        <item>Kohtuullisesti Saastunut</item>
-        <item>Voimakkaasti Saastunut</item>
-        <item>Vakavasti Saastunut</item>
-        <item>Indexin Ulkopuolella</item>
+        <item>Kevyesti saastunut</item>
+        <item>Kohtuullisesti saastunut</item>
+        <item>Voimakkaasti saastunut</item>
+        <item>Vakavasti saastunut</item>
+        <item>Indexin ulkopuolella</item>
     </string-array>
 </resources>

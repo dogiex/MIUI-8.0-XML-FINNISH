@@ -48,6 +48,7 @@
   <string name="album_detail_page_empty">Ei kuvia tai videoita</string>
   <string name="album_faces_name">Henkilöt</string>
   <string name="album_from_format">Sovelluksesta %s</string>
+  <string name="album_jump_failed">Odota kunnes albumit ovat synkronoitu Mi Pilven kanssa ja yritä uudelleen</string>
   <string name="album_member">Albumin jäsenet %s</string>
   <string name="album_name">Albumin nimi</string>
   <string name="album_name_recent_discovery">Viimeaikainen</string>
@@ -188,6 +189,7 @@
   <string name="cannot_send_message_reason">Ei vastaanottajia</string>
   <string name="change_to_face_mode">Näytä vain kasvot</string>
   <string name="change_to_photo_mode">Näytä esikatselut kokonaisina</string>
+  <string name="change_to_visible">Palautetaanko tämä henkilö?</string>
   <string name="choose_baby_sexy">Sukupuoli</string>
   <string name="choose_owner_relation">Yhteys</string>
   <string name="choose_people">Valitse henkilön albumi</string>
@@ -647,6 +649,7 @@
   <string name="delete_from_devices">Kaikista synkronoiduista laitteista</string>
   <string name="delete_from_devices_album">Kaikista laitteista, johon albumi on synkronoitu</string>
   <string name="delete_from_homepage_album">Albumeista, joita näytetään Galleriassa</string>
+  <string name="delete_from_local_and_cloud">tästä laitteesta ja Mi Pilvestä</string>
   <string name="delete_from_this_album_and_cloud">tästä albumista ja Mi Pilvestä</string>
   <string name="delete_from_web">Verkkoalbumeista</string>
   <string name="delete_in_album">Kun poistat kuvia tai videoita albumista, ne poistetaan myös:</string>
@@ -658,6 +661,7 @@
   <string name="delete_third_party_photo">Poistetaanko tämä kuva?</string>
   <string name="delete_third_party_video">Poistetaanko tämä video?</string>
   <string name="delete_to_trash_tips">Näet viimeaikaisesti poistetut kuvat paikasta Asetukset &gt; Roskakori</string>
+  <string name="delete_unsynced">Poista kohteet, joita ei ole varmuuskopioitu</string>
   <string name="deny">Hylkää</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -791,8 +795,9 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="hybrid_service_unavailiable">Palvelu ei ole käytettävissä</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="ignore_album">Älä näytä</string>
-  <string name="ignore_alert_title">Etkö halua nähdä tätä albumia?</string>
+  <string name="ignore_alert_title">Etkö halua nähdä tätä albumia? Napauta oikeaa yläkulmaa katsellaksesi kuvia, jotka olet jättänyt huomiotta.</string>
   <string name="ignore_face">Älä huomioi tätä henkilöä</string>
+  <string name="ignore_faces_title">Jätetään huomiotta</string>
   <string name="image_decode_failed">Kuvaa ei voitu tulkita</string>
   <string name="image_download_item_title">Lataa alkuperäinen tiedosto (%s)</string>
   <string name="image_invalid_path">Virheellinen polku</string>
@@ -824,7 +829,11 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="kilobyteShort">Kt</string>
   <string name="limit_height">Korkeuden täytyy olla &gt; 0</string>
   <string name="limit_width">Leveyden täytyy olla &gt; 0</string>
+  <string name="load_complete">Täällä ei ole enempää kohteita</string>
+  <string name="load_failed">Tietoja ei voitu ladata, yritä uudelleen napauttamalla</string>
   <string name="load_relations">Odota hetki…</string>
+  <string name="loading">Odota hetki</string>
+  <string name="loading_dots">Odota hetki…</string>
   <string name="loading_dual_tip">Ladataan kaksoiskuvaa…</string>
   <string name="loading_fail">Lataaminen epäonnistui</string>
   <string name="loading_fail_sync_off">Lataa ottamalla Mi Pilven synkronointi käyttöön</string>
@@ -876,6 +885,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="new_relation_invalid_prefix">Älä käytä \".\" tai \"_\" merkkejä ryhmän nimen edessä.</string>
   <string name="next">Seuraava</string>
   <string name="no">Ei</string>
+  <string name="no_ignore_faces">Täällä ei ole henkilöitä</string>
   <string name="no_map_app">Tälle toiminnolle ei löytynyt sopivaa sovellusta</string>
   <string name="no_network_connected">Verkkoa ei havaittu</string>
   <string name="not_ask_any_more">Älä kysy enää uudelleen \"%s\" vastaukselle</string>
@@ -927,8 +937,9 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="other_album">Muut albumit</string>
   <string name="other_settings">Lisäasetukset</string>
   <string name="owner_album_subtitle">Jaettu %1$s henkilön kanssa</string>
+  <string name="people_jump_failed">Odota, kunnes kuvat, joissa on henkilöitä synkronoidaan Mi Pilveen ja yritä uudelleen</string>
   <string name="people_page_label">Henkilöt</string>
-  <string name="people_page_unname">Nimetön</string>
+  <string name="people_page_unname">Nimeämätön</string>
   <string name="percent_sign">%</string>
   <string name="pet_album_display_name">Lemmikin kuvat</string>
   <string name="petabyteShort">Pt</string>
@@ -948,6 +959,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="picker_full_format">Voit valita enintään %d kuvaa</string>
   <string name="picker_image_need_download">%d valituista kuvista ei ole laitteella. Ladataanko ne käyttäen mobiilidata-yhteyttä?</string>
   <string name="picker_image_will_download">%d valituista kuvista ei ole laitteella. Ne ladataan.</string>
+  <string name="picker_mobile_data_video">Videoita ei voi ladata mobiilidatalla, ohitettiin %d.</string>
   <string name="picker_no_network_message">Lataa yhdistämällä verkkoon</string>
   <string name="picker_origin_need_download">%1$d valituista kuvista (%2$d Mt) ei ole laitteella. Ladataanko käyttäen mobiilidata-yhteyttä?</string>
   <string name="picker_title_format">Voit valita %d kuvaa</string>
@@ -971,6 +983,10 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Poistettiin ehdotuksista</string>
   <string name="recommanded_face_added_tip">Lisättiin \"%s\"</string>
+  <string name="recovery_merge">Yhdistä</string>
+  <string name="recovery_merge_or_rename">Yhdistä albumit</string>
+  <string name="recovery_merge_or_rename_message">Tämän niminen albumi on jo olemassa. Yhdistetäänkö nyt?</string>
+  <string name="recovery_rename">Nimeä uudelleen</string>
   <string name="relation_text_empty_alert">Lisää suhteen tiedot</string>
   <string name="relation_text_family">Perheenjäsen</string>
   <string name="relation_text_father">Isä</string>
@@ -1018,16 +1034,13 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_backup_now">Ota käyttöön</string>
   <string name="search_backup_sub_title">Ota käyttöön löytääksesi lisää kuvia</string>
   <string name="search_backup_title">Mi Pilven synkronointi</string>
+  <string name="search_clear_histories">Tyhjennä</string>
   <string name="search_connection_error">Verkkoon ei saatu yhteyttä</string>
   <string name="search_connection_error_and_set">Tarkista verkkoasetukset napauttamalla</string>
   <string name="search_error">Tapahtui virhe</string>
   <string name="search_error_and_retry">Tapahtui virhe, yritä uudelleen napauttamalla</string>
   <string name="search_hint">Hae kuvia</string>
   <string name="search_image_result_title">Hakutulokset</string>
-  <string name="search_load_complete">Ei enempää kohteita täällä</string>
-  <string name="search_load_failed">Tietoa ei voitu ladata, yritä uudelleen napauttamalla</string>
-  <string name="search_loading">Odota hetki</string>
-  <string name="search_loading_dots">Odota hetki…</string>
   <string name="search_login_now">Kirjaudu sisään</string>
   <string name="search_login_sub_title">Löydä lisää kuvia kirjautumalla sisään</string>
   <string name="search_login_title">Mi Tili</string>
@@ -1036,6 +1049,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_result_empty">Mitään ei löytynyt</string>
   <string name="search_retry">Yritä uudelleen</string>
   <string name="search_set_network_connection">Verkkoasetukset</string>
+  <string name="search_title_history">Hakuhistoria</string>
   <string name="search_title_location">Sijainnit</string>
   <string name="search_title_others">Kaikki tulokset</string>
   <string name="search_title_people">Henkilöt</string>
@@ -1057,6 +1071,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="secret_reason_too_large">Tiedosto on liian iso</string>
   <string name="secret_reason_type_not_support">Tämä tiedostotyyppi ei ole tuettu</string>
   <string name="secret_reason_unknow_reasons">Tuntematon virhe</string>
+  <string name="see_ignore_faces">Katso henkilöitä, jotka olet jättänyt huomiotta</string>
   <string name="select_item_face">"Onko tämä '%s'?"</string>
   <string name="select_origin_tip">Alkuperäinen tiedosto (%s)</string>
   <string name="send_multiple_files_hint_format">Lähetä (%s)</string>

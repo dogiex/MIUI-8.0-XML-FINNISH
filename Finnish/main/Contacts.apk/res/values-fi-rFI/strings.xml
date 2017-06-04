@@ -987,6 +987,8 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="preview_incall_show_entry">Esikatsele video</string>
   <string name="previous">Edellinen</string>
   <string name="private_num">Yksityinen numero</string>
+  <string name="profileSavedErrorToast">Muutoksia profiiliini ei voitu tallentaa</string>
+  <string name="profileSavedToast">Profiilini tallennettu</string>
   <string name="profile_binded_numbers">Todennettu Numero: %s</string>
   <string name="profile_display_name">Luo profiili</string>
   <string name="profile_name">Oma profiili</string>

@@ -266,6 +266,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_sync_exception">Synkronointivirhe</string>
   <string name="micloud_main_sync_init">Haetaan tietoja</string>
   <string name="micloud_main_sync_need_charge">Lataa laitteesi</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Lataa laitteesi ja sammuta näyttö</string>
   <string name="micloud_main_sync_now">Synkronoi nyt</string>
   <string name="micloud_main_sync_on">Synkronointi käytössä</string>
   <string name="micloud_main_sync_on_wifi">Odotetaan Wi-Fi-yhteyttä</string>
@@ -455,7 +456,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sub_sync_item_sms_summary">Synkronoi vain kuvalliset viestit, äänitiedostot ja muut mediatiedostot, kun olet yhteydessä Wi-Fi-verkkoon</string>
   <string name="sub_sync_item_sms_title_wifi_only">Synkronoi multimediaviestit vain Wi-Fi-yhteydellä</string>
   <string name="success_upgraded_space">%s lisätty</string>
-  <string name="sync_dspt">Synkronoi</string>
+  <string name="sync_dspt">Synkronointi</string>
   <string name="sync_dspt_entrance_provision">Synkronoi kuvasi, yhteystietosi, puheluhistoriasi ja viestit laitteiden välillä. Pääset käsiksi synkronoituihin tiedostoihisi millä tahansa selaimella osoitteessa %s.</string>
   <string name="sync_dspt_entrance_provision_2">Learn more</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Älä käytä</string>
@@ -468,7 +469,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa Asetuksissa.
 "</string>
-  <string name="sync_dspt_provision_header">Synkronoi</string>
+  <string name="sync_dspt_provision_header">Synkronointi</string>
   <string name="sync_dspt_provision_title">Mi Pilvi</string>
   <string name="sync_item_calllog_summary">Synkronoi tämän puhelimen nauhoitetut soitetut ja vastaanotetut puhelut</string>
   <string name="sync_item_calllog_title">Synkronoi puheluhistoria</string>

@@ -53,7 +53,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="create_space_loading">Luodaan Toista tilaa…</string>
   <string name="create_work_space">Luo Työtila</string>
   <string name="creating_app_icon">Luodaan kuvaketta…</string>
-  <string name="current_space">Nykyinen Tila</string>
+  <string name="current_space">Nykyinen tila</string>
   <string name="dataSafe">Käyttämällä Toista tilaa olisi, kuin kaksi laitetta.</string>
   <string name="declare_dialog_title">Tietoa kloonatuista sovelluksista</string>
   <string name="deleteAll">Poista kaikki</string>
@@ -86,7 +86,7 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="finger_print_num">Sormenjälki %d</string>
   <string name="finger_print_of_use">Käytä sormenjälkeä</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa</string>
-  <string name="function_not_support">Ei tueta tässä tilassa</string>
+  <string name="function_not_support">Ei tueta tällä laitteella</string>
   <string name="goToSecondSpacce">Siirry Toiseen tilaan</string>
   <string name="go_on_import">Jatka tuomista</string>
   <string name="guide_contact_sub_title_desc">"Toiseen tilaan lisätyistä yhteystiedoista tulee yksityisiä.
@@ -219,7 +219,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="start_new_fingerprint_tips">"Käytä Toisen tilan sormenjälkeä
 siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="start_setting_guide_desc_title">Muutama asia, jotka täytyy asettaa</string>
-  <string name="summary_switch_apps_settings">Valitse Toisessa tilassa käytettävät sovellukset</string>
+  <string name="summary_switch_apps_settings">Valitse nykyisessä tilassa käytettävät sovellukset</string>
   <string name="sure_to_use">Vahvista</string>
   <string name="switchDataSummary">Siirrä kohteita tilojen välillä</string>
   <string name="switch_apps_settings">Sovellusasetukset</string>
@@ -230,12 +230,12 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="switch_file_success">Tiedostot siirrettiin onnistuneesti</string>
   <string name="switch_in_contacts">Tuo yhteystietoja</string>
   <string name="switch_in_files">Tuo tiedostoja</string>
-  <string name="switch_in_hidden_space">Tuo Toiseen tilaan</string>
+  <string name="switch_in_hidden_space">Tuo nykyiseen tilaan</string>
   <string name="switch_in_photos">Tuo kuvia</string>
   <string name="switch_in_privacy_contacts">Tuo yksityisiä yhteystietoja</string>
   <string name="switch_out_contacts">Vie yhteystietoja</string>
   <string name="switch_out_files">Vie tiedostoja</string>
-  <string name="switch_out_hidden_space">Vie tiedot Toisesta tilasta</string>
+  <string name="switch_out_hidden_space">Vie tietoja nykyisestä tilasta</string>
   <string name="switch_out_photos">Vie kuvia</string>
   <string name="switch_out_privacy_contacts">Vie yksityisiä yhteystietoja</string>
   <string name="switch_success">Siirrettiin onnistuneesti</string>

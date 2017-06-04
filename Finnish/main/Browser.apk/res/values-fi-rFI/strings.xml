@@ -130,7 +130,9 @@
   <string name="browserFrameFormResubmitMessage">Sivu, jota yrität avata, sisältää jo lähetettyjä tietoja (POSTDATA). Jos lähetät tiedot uudelleen, sivulla olevan lomakkeen suorittama toimenpide (kuten haku tai verkko-ostos) toistetaan.</string>
   <string name="browserFrameNetworkErrorLabel">Yhteysongelma</string>
   <string name="cancel">Peruuta</string>
-  <string name="cannot_download">Vain http- tai https-URL-osoitteista voi ladata</string>
+  <string name="cannot_download">Vain http- tai https- URL-osoitteita voi ladata</string>
+  <string name="check_permission_of_current_location">Nykyinen sijaintitieto</string>
+  <string name="check_permission_of_current_url">Vierailemasi verkkosivujen URL-osoitteet</string>
   <string name="choosertitle_sharevia">Jaa sovelluksessa</string>
   <string name="clear_history">Tyhjennä historia</string>
   <string name="clear_most_visited">Viimeaikainen historia</string>
@@ -193,6 +195,7 @@
   <string name="contextmenu_savelink">Tallenna linkki</string>
   <string name="contextmenu_send_mail">Lähetä sähköpostia</string>
   <string name="contextmenu_set_wallpaper">Aseta taustakuvaksi</string>
+  <string name="contextmenu_share_image">Jaa kuva</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_view_image">Näytä kuva</string>
   <string name="contextmenu_webpage_capture">Tallenna kuvankaappauksena</string>
@@ -289,7 +292,7 @@
   <string name="empty_bookmark">Tyhjä</string>
   <string name="empty_history_hint">Historia on tyhjä</string>
   <string name="empty_snapshot_hint">Tyhjä</string>
-  <string name="enable_geolocation_confirm_message">Jotkut sivustot saattavat käyttäytyä omituisesti, jos poistat tämän toiminnon käytöstä.</string>
+  <string name="enable_geolocation_confirm_message">Poistamalla sijaintipalvelut käytöstä vaikuttaa saamiisi suosituksiin.</string>
   <string name="enter_developer_mode">Siirry kehittäjätilaan</string>
   <string name="enter_incongnito_mode">Siirry näkymättömään tilaan</string>
   <string name="error_console_eval_button_text">Arvioi</string>
@@ -491,6 +494,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="older">Vanhempi</string>
   <string name="open_app_confirm_message">Sallitaanko tämän sivun avata %s?</string>
   <string name="open_file_explorer_failed">Tiedostonhallintaa ei voitu avata</string>
+  <string name="open_voice_permission">Avaa äänen verkkokäyttöoikeudet</string>
   <string name="opening_file_error">Valittua tiedostoa ei voitu avata</string>
   <string name="page_info">Sivun tiedot</string>
   <string name="page_info_address">Osoite:</string>
@@ -518,7 +522,9 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_automatic_matching_searchengines_title">Vaihda hakukoneeseen, jota käytät usein</string>
   <string name="pref_category_hint">Kategoria</string>
   <string name="pref_check_security_url_summary">Lähetä verkkosivujen URL-osoite Mi:n palvelimille tarkastaakseen sen turvallisuuden</string>
+  <string name="pref_check_security_url_summary_international">Jotta parempaa palvelua voidaan tarjota, salli selaimen noutaa URL-osoitteesi</string>
   <string name="pref_check_security_url_title">Tarkista URL-osoitteen turvallisuus</string>
+  <string name="pref_check_security_url_title_international">Nouda URL-osoite</string>
   <string name="pref_clear_adblock_statistics">Tyhjennä Mainosteneston historia</string>
   <string name="pref_clear_adblock_statistics_dlg">Tyhjennä estettyjen mainosten laskenta?</string>
   <string name="pref_clear_all_data_dlg">Poista kaikki tallennettu yläpuolella oleva tieto?</string>
@@ -586,7 +592,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_privacy_clear_passwords_summary">Poista kaikki tallennetut salasanat</string>
   <string name="pref_privacy_cookies_title">Evästeet</string>
   <string name="pref_privacy_enable_geolocation">Ota sijaintitiedot käyttöön</string>
-  <string name="pref_privacy_enable_geolocation_summary">Salli sivustojen pyytää sijaintitietojesi käyttöoikeutta</string>
+  <string name="pref_privacy_enable_geolocation_summary">Salli selaimen pyytää sijaintitietojesi käyttöoikeutta</string>
   <string name="pref_privacy_formdata_title">Lomakkeen tiedot</string>
   <string name="pref_privacy_location_title">Sijainti</string>
   <string name="pref_privacy_security_title">Tietosuoja ja turvallisuus</string>
@@ -605,8 +611,6 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_ua_string">Käytettävä laite</string>
   <string name="pref_version_info">Versio</string>
   <string name="pref_volume_key_action">Vieritä käyttäen äänenvoimakkuudensäätöpainikkeita</string>
-  <string name="pref_weather_location_summary">Selaimen sää-lisäosa käyttää tätä</string>
-  <string name="pref_weather_location_title">Sään sijainti</string>
   <string name="private_browsing_warning">Tämä toiminto ei ole tuettu tässä Android versiossa.</string>
   <string name="profiler_error_toast">Profiloijaa ei voitu käynnistää</string>
   <string name="profiler_no_storage_toast">Profiloijaa ei voida käynnistää, koska ulkoinen tallennusmedia ei ole valmis</string>
@@ -679,6 +683,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="save_to_camera">Tallenna kameraan</string>
   <string name="save_to_camera_failed">Kuvaa ei voida tallentaa</string>
   <string name="save_to_camera_success">Tallennettu kameraan</string>
+  <string name="scanner_uninstalled_text">Jatka käyttöä asentamalla lukija</string>
+  <string name="scanner_uninstalled_title">Lukija on poistettu</string>
   <string name="sdcard_error">Tarkista SD-korttisi</string>
   <string name="search">Etsi</string>
   <string name="search_baidu">Baidu</string>
@@ -713,10 +719,12 @@ Poistutaanko tältä sivulta?"</string>
   <string name="send_comment_title">Kommentoi</string>
   <string name="senddesktop">Kotinäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
-  <string name="share_page_text">"Katso ihmeessä tämä 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Tämän sivun URL-osoite lähetetään Xiaomin palvelimille tarkastettavaksi, jotta se on turvallinen. Voit poistaa tämän toiminnon käytöstä koska tahansa Asetuksista.</string>
+  <string name="share_image_text">Nautin todella hienosti kuvasta</string>
+  <string name="share_page_text">Nautin %1$s | %2$s</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Parantaaksesi selaimen tietoturvaa ja vastaanottaaksesi merkityksellisiä suosituksia, salli Selaimen käyttöoikeus seuraaville kohteille:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Vastaanottaaksesi merkityksellisiä suosituksia, salli Selaimelle käyttöoikeus seuraaville kohteille:</string>
   <string name="show_security_tip_dialog_title">Palveluehdot</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Sää-palvelut tarvitsee sijaintitietojasi näyttääkseen tarkan säätiedon selaimessasi. Voit poistaa tämän toiminnon käytöstä Asetuksista.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Sivuston turvallisuuden ja paikkatietopohjaisten tietojen siirtopalvelujen ja sääpalvelun tarjoamiseksi selaimen on saatava seuraavat tiedot:</string>
   <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
   <string name="skip_button_label">Ohita</string>
   <string name="skip_current_version">Ohita tämä versio</string>
@@ -861,6 +869,11 @@ Poistutaanko tältä sivulta?"</string>
   <string name="video_unknown_duration">Tuntematon kesto</string>
   <string name="view_certificate">Näytä varmenne</string>
   <string name="view_document_downloaded_files">Katso ladattuja tiedostoja Latauksissa</string>
+  <string name="voice_check_network">Tarkista verkko ja yritä uudelleen</string>
+  <string name="voice_connect_network">Verkkoon ei saada yhteyttä</string>
+  <string name="voice_network_connection">Äänihaku tarvitsee verkkoyhteyden toimiakseen, salli verkkoyhteys</string>
+  <string name="voice_search_permission">Äänihaku tarvitsee äänen käyttöoikeuden, mene selaimen asetuksiin ja salli äänen käyttöoikeudet</string>
+  <string name="voice_semantic_analysis">Semanttinen analyysi verkon jälkeen</string>
   <string name="voice_sub_title">Etkö tiedä mitä sanoa? Kokeile avata mi.com!</string>
   <string name="voice_title">Sano komentosi</string>
   <string name="voice_title_distinguish">Käsitellään…</string>

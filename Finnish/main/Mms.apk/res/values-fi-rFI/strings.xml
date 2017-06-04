@@ -192,8 +192,6 @@
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Piilotettu lähettäjän osoite</string>
   <string name="hint_search_sms">%d viestiä</string>
-  <string name="hms_add_image_progress_message">Työskennellään…</string>
-  <string name="hms_first_use_tips">Vastaanottaaksesi palveluviestejä, sinun täytyy olla yhteydessä Wi-Fi-verkkoon</string>
   <string name="hms_uri_param_err">URL-osoite ei saa olla tyhjä</string>
   <string name="hold_to_talk">Pidä puhuaksesi</string>
   <string name="hybrid_check_network">Verkkoasetukset</string>
@@ -239,7 +237,6 @@
   <string name="menu_send_as_common">Lähetä tekstiviestinä</string>
   <string name="menu_unlock">Poista suosikeista</string>
   <string name="menu_view_contact">Näytä yhteystieto</string>
-  <string name="menu_yellowpage">Näytä %s</string>
   <string name="message_class_label">"Viestin luokka: "</string>
   <string name="message_contact">Yhteystieto:</string>
   <string name="message_details_title">Viestin tiedot</string>
@@ -262,15 +259,12 @@
   <string name="message_too_big_for_video">Viesti on liian iso lisätäkseen videon.</string>
   <string name="message_type_label">"Tyyppi: "</string>
   <string name="messagelist_sender_self">Minä</string>
-  <string name="mipub_messaging_entry_title">Mi Viesti</string>
   <string name="mms">MMS</string>
   <string name="move_down">Siirrä alas</string>
   <string name="move_up">Siirrä ylös</string>
   <string name="msg_type_hint_mms">Multimediaviesti (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Viesti</string>
-  <string name="msg_type_hint_mx_b2c">Verkkoilmoitus</string>
-  <string name="msg_type_hint_mx_b2c_omit">Verkkoilmoitus</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Tekstiviesti</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -309,9 +303,6 @@
   <string name="mx_auto_resend_mms_summary">Lähetä multimediaviestit multimediaviesteinä (MMS) mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi laskuttaa normaalisti kustannuksista.</string>
   <string name="mx_auto_resend_sms">Lähetä tekstiviestinä</string>
   <string name="mx_auto_resend_sms_summary">Lähetä viestit tekstiviesteinä mobiilidatayhteydellä, kun et ole yhteydessä Wi-Fi-verkkoon. Operaattorisi laskuttaa normaalisti kustannuksista.</string>
-  <string name="mx_b2c_message_desc">Verkkoilmoitukset</string>
-  <string name="mx_b2c_message_resend_not_online">Viestiä ei voi lähettää uudelleen. Mi Viesti on offline-tilassa.</string>
-  <string name="mx_b2c_message_server">Palvelin</string>
   <string name="mx_btn_enable">Aktivoi</string>
   <string name="mx_btn_enable_now">Aktivoi</string>
   <string name="mx_count_dspt">Olet lähettänyt %1$d tekstiviestiä ja %2$d multimediaviestiä ilmaiseksi</string>
@@ -387,6 +378,7 @@
   <string name="pref_notification_settings_title">Ilmoitukset</string>
   <string name="pref_other_title">Lisäasetukset</string>
   <string name="pref_show_blocked_messages_summary">Näytä estetyt tekstiviestit keskustelulistalla</string>
+  <string name="pref_show_list_avatar_summary">Näytä yhteystiedon kuvat ja muut tiedot luettelonäkymässä</string>
   <string name="pref_show_sms_template_in_summary">Tunnista automaattisesti kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_summary">Kopioi ja täyty automaattisesti vahvistuskoodit</string>
   <string name="pref_smart_messages_settings">Älykkäät viestit</string>
@@ -483,7 +475,6 @@
   <string name="restore_blocked_message">Palauta</string>
   <string name="restore_to_phone_memory_failed">Palauttaminen epäonnistui</string>
   <string name="restored_to_phone_memory">Palautettu</string>
-  <string name="retrive_hms_tips">Noudetaan…</string>
   <string name="save">Tallenna</string>
   <string name="save_ringtone">Tallenna soittoääneksi</string>
   <string name="save_to_sim">Tallenna SIM-kortille</string>
@@ -520,7 +511,6 @@
   <string name="select_recipient">Valitse vastaanottajat</string>
   <string name="select_top_text">Teksti ylhäällä</string>
   <string name="send">Lähetä</string>
-  <string name="send_hms_editor_hints">Mi Viesti</string>
   <string name="send_message_dlg_check_hint">Älä näytä uudelleen</string>
   <string name="send_message_dlg_mgs">CMCC ilmoitus: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
   <string name="send_message_dlg_title">Laitteen hallinta</string>
@@ -608,6 +598,7 @@
   <string name="title_collapse_sp_messages">Ryhmitä ilmoitukset</string>
   <string name="title_hide_verification_code">Piilota salasanaviestit lukitusnäytöltä automaattisesti</string>
   <string name="title_show_blocked_messages">Näytä estetyt tekstiviestit</string>
+  <string name="title_show_list_avatar">Näytä kuvat ja tiedot</string>
   <string name="title_show_sms_template">Tarkista tekstiviesti vahvistuskoodeista</string>
   <string name="title_show_sms_template_in">Tarkista tekstiviesti salasanoista</string>
   <string name="title_timed_message_dialog">Aseta ajastettu viesti</string>
@@ -653,8 +644,6 @@ Yritys tehty: %s."</string>
   <string name="user_agreement5">Napauttamalla OK hyväksyt meidän Palveluehdot ja Tietosuojakäytännön.</string>
   <string name="view">Näytä</string>
   <string name="view_bookmark">Näytä alkuperäinen viesti</string>
-  <string name="view_hms_attachment_fail">Kuvaa ei voi ladata</string>
-  <string name="view_hms_details">Tiedot</string>
   <string name="view_message_details">Näytä tiedot</string>
   <string name="voip_enable">Mi Viesti ja Ääni</string>
   <string name="voip_enable_popup_msg">Soita puheluita toisiin MIUI laitteisiin ilman lisäkustannuksia. VoIP palvelun tarjoaa Weihui. Katso Weihuin Tietosuojakäytäntö.</string>
@@ -663,7 +652,6 @@ Yritys tehty: %s."</string>
   <string name="warning_show">Lähetä %d s ajan kuluttua</string>
   <string name="wild_msg_processing">Työskennellään…</string>
   <string name="wild_msg_title">Valitse synkronoitavat puhelinnumerot</string>
-  <string name="xiaomi_service_number">Palvelunumero</string>
   <string name="yellowpage_recommend_msg">Katso MIUI:n Viestien toimintoja</string>
   <string name="yes">OK</string>
 </resources>

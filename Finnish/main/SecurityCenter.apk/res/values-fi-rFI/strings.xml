@@ -83,7 +83,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="adb_install_reject_notiy_desc">Voit sallia USB:ltä asentamisen Kehittäjäasetuksissa</string>
   <string name="adb_login_xiaomi_account">Kirjaudu ensin Mi Tilillesi</string>
   <string name="add_game_notification_summary">Käynnistä &amp; nopeuta suorituskykyä napauttamalla</string>
-  <string name="add_miservice_dialog_content">%s vaatii lisätä MIUI service frameworkin poikkeuslistalle. Saatat saada ilmoituksia MIUI:n järjestelmäsovelluksilta ja muilta kolmannen osapuolen sovelluksilta.</string>
+  <string name="add_miservice_dialog_content">%s vaatii lisätä MIUI service frameworkin poikkeuksiin. Saatat saada ilmoituksia MIUI:n järjestelmäsovelluksilta ja muilta kolmannen osapuolen sovelluksilta.</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming poikkeukset</string>
   <string name="add_white_list">Lisää</string>
@@ -458,7 +458,7 @@ mikäli unohdat sen"</string>
   <string name="cache_header_title">Tyhjennä %1$d välimuistissa olevaa tiedostoa vapauttaaksesi %2$s tallennustilaa</string>
   <string name="call_and_contact">Puhelut ja Yhteystiedot</string>
   <string name="call_delete_hint">Poistetaanko kaikki estetyt puhelut tältä numerolta?</string>
-  <string name="call_delete_title">Poista Puhelu</string>
+  <string name="call_delete_title">Poista puheluhistoria</string>
   <string name="call_transfer_block">Estä siirretyt puhelut</string>
   <string name="call_transfer_block_type">Estä siirretyt puhelut</string>
   <string name="call_transfer_info">Estä tuntemattomista numeroista siirretyt puhelut</string>
@@ -658,7 +658,7 @@ mikäli unohdat sen"</string>
   <string name="dlg_remove_whitelist_title">Poista</string>
   <string name="dlg_retore">Palautetaanko viesti postilaatikkoon?</string>
   <string name="dlg_retore_ok">Palauta</string>
-  <string name="dlg_title_not_open_stranger_identify">Tunnista Muukalaiset</string>
+  <string name="dlg_title_not_open_stranger_identify">Soittajan ID</string>
   <string name="dlg_white_address_antispam_message">Lisätäänkö tämä sijainti poikkeuksiin?</string>
   <string name="dlg_white_antispam_hint">Poikkeukset</string>
   <string name="dlg_white_antispam_message">Lisätäänkö tämä numero poikkeuksiin?</string>
@@ -717,7 +717,7 @@ mikäli unohdat sen"</string>
   <string name="firewall_fragment_tab_title_sys">Järjestelmä</string>
   <string name="firewall_network_allow">Sallittiin %1$s käyttää %2$s yhteyttä</string>
   <string name="firewall_network_restrict_notify_message">Muuta asetuksia napauttamalla.</string>
-  <string name="firewall_network_restrict_notify_mobile">mobiilidata</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobiilidata</string>
   <string name="firewall_network_restrict_notify_title">%1$s ei voi käyttää verkkoa</string>
   <string name="firewall_restrict_android_dialog_content">Jotta laitteesi toimii normaalisti, muutama Androidin järjestelmäsovellus on yhteydessä silti internettiin. Nämä sovellukset käyttävät mobiilidatayhteyttäsi ja saattaa lisätä operaattorimaksuja.</string>
   <string name="firewall_restrict_android_dialog_title">Huomio</string>
@@ -1060,6 +1060,7 @@ vastausta"</string>
   <string name="menu_item_app_permissions_control">Käyttöoikeuden hallinta</string>
   <string name="menu_item_control_app_permissions">Kysy lupaasi ennen kuin sallit sovelluksien lukea yhteystietosi, katsoa puheluhistoriaasi, muuttaa järjestelmän asetuksia, tai käyttää kameraa tai muita laitteen resursseja</string>
   <string name="menu_item_force_stop">Pakkolopetus</string>
+  <string name="menu_item_install_debug_package">Asenna debuggaus paketti</string>
   <string name="menu_item_notification_antispam_text_avail">Estolista</string>
   <string name="menu_item_notification_antispam_text_normal">Estolista</string>
   <string name="menu_item_notification_garbage_text">%s</string>
@@ -1117,38 +1118,38 @@ vastausta"</string>
   <string name="network_diagnostics">Testaa verkko</string>
   <string name="network_mobile_exception_detail">"Laitteesi ei voi yhdistää internetiin:
 
- 1. Varmista, ettet ole ylittänyt operaattorisi mobiilidatan datapakettia.
+1. Varmista, ettet ole ylittänyt operaattorisi mobiilidatan datapakettia.
 
- 2. Jos lisäsit saldoa Top up-pakettiin, käynnistä laite ja yritä uudelleen.
+2. Jos lisäsit saldoa Top up-pakettiin, käynnistä laite ja yritä uudelleen.
 
- 3. Operaattorisi verkkosignaali saattaa olla heikko sijainnissasi."</string>
+3. Operaattorisi verkkosignaali saattaa olla heikko sijainnissasi."</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="network_operator_exception_summary">SIM-korttia ei voitu aktivoida. Varmista, että SIM-korttisi on asetettu kunnolla ja että operaattorisi on aktivoinut liittymäsi.</string>
   <string name="network_permission_exception_tips">Verkkoon ei voida yhdistää mobiilidatalla</string>
   <string name="network_roaming_exception_tips">Verkkoon ei voida yhdistää, kun mobiilidata on roaming -tilassa.</string>
   <string name="network_route_exception_detail">"Yhdistetyssä reitittimessä saattaa olla ongelma:
 
- "&lt;b&gt;"1. Julkisen Wi-Fi-verkon ongelmia
-"&lt;/b&gt;"Jos olet yhteydessä julkiseen Wi-Fi-verkkoon, yhdistettyjen käyttäjien määrä saattaa hidastaa yhteyttä tai aiheuttaa yhteysongelmia. Vaihda toiseen verkkoon ja yritä uudelleen.
+1. Julkisen Wi-Fi-verkon ongelmia
+Jos olet yhteydessä julkiseen Wi-Fi-verkkoon, yhdistettyjen käyttäjien määrä saattaa hidastaa yhteyttä tai aiheuttaa yhteysongelmia. Vaihda toiseen verkkoon ja yritä uudelleen.
 
- 2."&lt;b&gt;" Internetin palveluntarjoajan ongelmia
-V"&lt;/b&gt;"armista, että liittymäsi on hyvällä mallilla Internetin palveluntarjoajasi kanssa.
+2. Internetin palveluntarjoajan ongelmia
+Varmista, että liittymäsi on hyvällä mallilla Internetin palveluntarjoajasi kanssa.
 
- 3."&lt;b&gt;" Reitittimen laitteisto-ongelmia
-K"&lt;/b&gt;"okeile käynnistää reititin uudelleen tai tarkista reitittimen järjestelmänvalvojan asetukset.
+3. Reitittimen laitteisto-ongelmia
+Kokeile käynnistää reititin uudelleen tai tarkista reitittimen järjestelmänvalvojan asetukset.
 
- 4."&lt;b&gt;" Muut reititin ongelmat
-L"&lt;/b&gt;"ue reitittimesi mukana tulleet ohjeet ja palauta reitittimesi tehdasasetuksille.
+4. Muut reititin ongelmat
+Lue reitittimesi mukana tulleet ohjeet ja palauta reitittimesi tehdasasetuksille.
 
- 5."&lt;b&gt;" Varmista, että reitittimesi on yhdistetty kunnolla
-K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luulet, että kotonasi on verkkoyhteysongelma, ota yhteyttä Internetin palveluntarjoajaasi. "</string>
+5. Varmista, että reitittimesi on yhdistetty kunnolla
+Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luulet, että kotonasi on verkkoyhteysongelma, ota yhteyttä Internetin palveluntarjoajaasi."</string>
   <string name="network_sim_exception_detail">"SIM-kortissasi saattaa olla ongelma:
 
- 1. Varmista, että liittymäsi on hyvällä mallilla operaattorisi kanssa. Kokeile kaverin SIM-korttia ja katso, jos sitten pystyt yhdistämään normaalisti.
+1. Varmista, että liittymäsi on hyvällä mallilla operaattorisi kanssa. Kokeile kaverin SIM-korttia ja katso, jos sitten pystyt yhdistämään normaalisti.
 
- 2. Jos käytät kahta SIM-korttia, kokeile vaihtaa toiseen korttiin ja katso, jos sitten pystyt yhdistämään normaalisti.
+2. Jos käytät kahta SIM-korttia, kokeile vaihtaa toiseen korttiin ja katso, jos sitten pystyt yhdistämään normaalisti.
 
- 3. Varmista, että SIM-korttisi tai laitteesi SIM-kortin paikka ei ole vioittunut. Varmista, että SIM-korttisi on asetettu kunnolla laitteen SIM-kortin paikkaan."</string>
+3. Varmista, että SIM-korttisi tai laitteesi SIM-kortin paikka ei ole vioittunut. Varmista, että SIM-korttisi on asetettu kunnolla laitteen SIM-kortin paikkaan."</string>
   <string name="network_speed_for_apps_close">Pakota lopetus</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Pakotetaanko sovelluksen lopetus?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Järjestelmäsovelluksia ei voi pakkolopettaa.</string>
@@ -1475,54 +1476,6 @@ K"&lt;/b&gt;"okeile käyttää toista ethernet-kaapelia reitittimesi yhdistämis
   <string name="pref_traffic_manage_title">Datan käyttö</string>
   <string name="pref_warning_values">Datan käytön varoitustaso</string>
   <string name="pref_whitelist_setting">Data roamingin poikkeukset</string>
-  <string name="preference_category_information_setting">category_information_setting</string>
-  <string name="preference_category_key_reference_settings">key_reference_settings</string>
-  <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
-  <string name="preference_category_key_virus_white_list">key_category_virus_white_list</string>
-  <string name="preference_key_about_version">key_about_version</string>
-  <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
-  <string name="preference_key_app_permission_control">key_app_permission_control</string>
-  <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
-  <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
-  <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
-  <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-  <string name="preference_key_create_shortcut">key_create_shortcut</string>
-  <string name="preference_key_cta_settings">key_cta_settings</string>
-  <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
-  <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
-  <string name="preference_key_information_setting_close">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
-  <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
-  <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
-  <string name="preference_key_module_antipam">module_antipam</string>
-  <string name="preference_key_module_antivirus">key_module_antivirus</string>
-  <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-  <string name="preference_key_module_network_assistant">key_network_assistant</string>
-  <string name="preference_key_module_permissions">key_module_permissions</string>
-  <string name="preference_key_module_power_center">module_power_center</string>
-  <string name="preference_key_month_report_switch">key_month_report_switch</string>
-  <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
-  <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
-  <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-  <string name="preference_key_payment_security">key_module_payment_security</string>
-  <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-  <string name="preference_key_permission_manager">key_permission_manager</string>
-  <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
-  <string name="preference_key_root_manager">key_root_manager</string>
-  <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
-  <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
-  <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
-  <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
-  <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
-  <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
-  <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-  <string name="preference_key_shortcut_safepay">key_shortcut_safepay</string>
-  <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
-  <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-  <string name="preference_key_virus_white_list">key_virus_white_list</string>
-  <string name="preference_screen_key_antivirus_setting">key_screen_key_antivirus_setting</string>
-  <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
   <string name="preferred_app_entries_browser">Selain</string>
   <string name="preferred_app_entries_camera">Kamera</string>
   <string name="preferred_app_entries_dial">Puhelin</string>
@@ -1711,7 +1664,7 @@ Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin taha
   <string name="signal_exception_summary">Tällä alueella ei saada yhteyttä verkkoon.</string>
   <string name="signal_exception_title">Testaa signaalin voimakkuus</string>
   <string name="sim_location_diagnostic">Sijainnin diagnostiikka</string>
-  <string name="sim_location_error_dialog_message">"SIM-kortti, jota käytät on %1$s. Tämä on eri sijainti,
+  <string name="sim_location_error_dialog_message">"SIM-kortti, jota käytät on sijainnista %1$s. Tämä on eri sijainti,
 jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?"</string>
   <string name="sim_location_error_notify_message">Vaihda SIM-kortin sijainti napauttamalla.</string>
   <string name="sim_location_error_notify_title">SIM-kortin virhe</string>
@@ -1722,7 +1675,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="skin_change_close_btn_text">Aseta oletus taustakuvaksi</string>
   <string name="skin_change_close_toast">Muutokset tulevat voimaan seuraavalla kerralla, kun käynnistät Tietoturvan</string>
   <string name="sms_delete_hint">Poistetaanko kaikki estetyt viestit tästä numerosta?</string>
-  <string name="sms_delete_title">Poista Viesti</string>
+  <string name="sms_delete_title">Poista viestit</string>
   <string name="sms_smart_engine_update">Päivitä tekstiviestisuodatin automaattisesti</string>
   <string name="sorted_dialog_title">Lajittele</string>
   <string name="sound_try_listen">立即试听</string>
@@ -1824,8 +1777,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_mute_title">Älä soi tai värise</string>
   <string name="st_other_setting_group">Muut asetukset</string>
   <string name="st_settings_name">Estolistan asetukset</string>
-  <string name="st_show_block_notification">Näytä eston ilmoitus</string>
-  <string name="st_show_num_keyword">" avainsanoja"</string>
+  <string name="st_show_block_notification">Ilmoita estetyistä kohteista</string>
+  <string name="st_show_num_keyword">" avainsanaa"</string>
   <string name="st_show_num_number">" numeroa"</string>
   <string name="st_sms_group">Viestit</string>
   <string name="st_sub_title_customize_mode_name">Nimi</string>
@@ -1946,10 +1899,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Tulos: Väärä operaattori&lt;br/&gt;&lt;br/&gt;Aseta operaattori: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Todellinen operaattori: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Valmis</string>
   <string name="tc_diagnostic_fragment_default">"Tietoja diagnostiikasta
-1. Laite yhdistää operaattorin
-        verkkoon, lähettää ilmaisen viestin, ja odottaa operaattorin vastausta. Tämä saattaa kestää jopa viisi minuuttia.
-2. Voit poistua
-        tältä sivulta diagnostiikan aikana, työskentely jatkuu taustalla."</string>
+1. Laite yhdistää operaattorin verkkoon, lähettää ilmaisen viestin, ja odottaa operaattorin vastausta. Tämä saattaa kestää jopa viisi minuuttia.
+2. Voit poistua tältä sivulta diagnostiikan aikana, työskentely jatkuu taustalla."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Säädä sijainti napauttamalla</string>
   <string name="tc_diagnostic_location_error_notification_title">Väärä sijainti</string>
   <string name="tc_diagnostic_notification_sumarry">Näytä tulokset napauttamalla</string>
@@ -1978,12 +1929,11 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Operaattorin diagnostiikat</string>
   <string name="tc_diagnostic_upload_button">Raportoi</string>
-  <string name="tc_diagnostic_upload_no_network">Kiitos palautteestasi! Raporttisi lähetetään, kun yhdistät verkkoon.</string>
+  <string name="tc_diagnostic_upload_no_network">Kiitos palautteestasi! Ilmoituksesi lähetetään, kun yhdistät verkkoon.</string>
   <string name="tc_diagnostic_upload_success">Kiitos palautteestasi!</string>
-  <string name="tc_sms_report_direction">SMS inquiry code</string>
+  <string name="tc_sms_report_direction">SMS kyselykoodi</string>
   <string name="tc_sms_report_do_report">Lähetä</string>
-  <string name="tc_sms_report_get_default">"Tekstiviesteistä ei veloiteta, joita käytetään
-        datan käytön saldon hakemiseksi operaattoriltasi."</string>
+  <string name="tc_sms_report_get_default">Tekstiviesteistä ei veloiteta, joita käytetään datan käytön saldon hakemiseksi operaattoriltasi.</string>
   <string name="tc_sms_report_get_sms">Hae SMS</string>
   <string name="tc_sms_report_get_sms2">Hae SMS</string>
   <string name="tc_sms_report_get_sms_again">Päivitä SMS</string>
@@ -1992,19 +1942,23 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
   <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
-  <string name="tc_sms_report_get_success">"Vastaanotettiin datan käytön raportti tekstiviestinä operaattorilta.
-Varmista, että se on tarkka ja lähetä se meille."</string>
+  <string name="tc_sms_report_get_success">Vastaanotettiin datan käytön raportti tekstiviestinä operaattorilta. Varmista, että se on tarkka ja lähetä se meille.</string>
   <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Received data usage report SMS</string>
-  <string name="tc_sms_report_geting_sms">Getting SMS info…</string>
+  <string name="tc_sms_report_geting_sms">Noudetaan tekstiviestitietoja…</string>
   <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Can't update data usage info"</string>
-  <string name="tc_sms_report_notify_get_failure_body">"Couldn't submit data usage report. Make sure that you're connected to a Mobile network."</string>
+  <string name="tc_sms_report_notify_get_failure_body">Datan käytön ilmoituksen lähettäminen epäonnistui. Varmista, että olet yhteydessä Mobiiliverkkoon.</string>
   <string name="tc_sms_report_notify_get_failure_title">"Can't get data usage SMS"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Process timed out. Confirm with your carrier that the SMS enquiry code you entered is correct.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Can't get data usage SMS"</string>
   <string name="tc_sms_report_receive_content">Data usage report SMS contents (Confirm data usage stats)</string>
-  <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"Auta meitä parantamaan tätä ominaisuutta!
+Tässä ohjeet:
+1. Mene \"Tarkista komentotekstiviesti\" ja \"Vastaanottajan numero\"
+2. Napauta \"Nouda tekstiviestimalli\"
+3. Odota, kunnes saat operaattoriltasi tekstiviestin
+4. Napauta \"Lähetä MIUI:lle\"​"</string>
   <string name="tc_sms_report_receive_num">Vastaanottajan numero</string>
   <string name="tc_sms_report_send_num">Operaattorin puhelin #</string>
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
@@ -2148,16 +2102,16 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_config_alert_package">"
 Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">Asetukset asetettu</string>
-  <string name="traffic_config_alert_title">%s Correction</string>
-  <string name="traffic_correction_failed">"Can't get info"</string>
-  <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
-  <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
+  <string name="traffic_config_alert_title">%s korjaus</string>
+  <string name="traffic_correction_failed">Tietoa ei saada</string>
+  <string name="traffic_correction_start_correction">Jutellaan operaattorin palvelimen kanssa…</string>
+  <string name="traffic_correction_start_correction_failed">Pyynnön lähettäminen epäonnistui, tarkista operaattorin asetukset</string>
   <string name="traffic_correction_success">Datan käyttö päivitetty</string>
   <string name="traffic_correction_success_notify_message">Näytä tiedot napauttamalla.</string>
-  <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
+  <string name="traffic_limit_error_alert_body">Jäljellä oleva datasi tälle kuukaudelle (%1$s) on suurempi, kuin kuukausikohtainen pakettisi (%2$s). Onko kuukausikohtainen paketti muuttunut?</string>
   <string name="traffic_limit_error_alert_package">"
 
-Remaining data includes data that has been rolled over from the previous month."</string>
+Jäljellä oleva data sisältää datan, joka lisättiin viime kuukaudelta."</string>
   <string name="traffic_limit_error_alert_title">Datan rajan muistutus %s</string>
   <string name="traffic_none">Ei mitään</string>
   <string name="traffic_over_purchase_body">Näytä tiedot napauttamalla.</string>
@@ -2230,9 +2184,9 @@ Tap to top up your balance."</string>
   <string name="usb_adb_input_apply_step_2">Developers can use special software to imitate gestures, change settings, and grant permissions via USB.</string>
   <string name="usb_adb_input_apply_step_3">Sallitaanko nyt?</string>
   <string name="usb_install_desc">Asennetaanko tämä sovellus USB:n kautta?</string>
-  <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Test shared internet over USB</string>
-  <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
+  <string name="usbsharenet_exception_summary">Internetiin ei saada yhteyttä jaetulla USB-yhteydellä. Tarkista laitteesi USB-yhteys ja käynnistä Mi PC Suite uudelleen.</string>
+  <string name="usbsharenet_exception_title">Testaa USB:llä jaettua internetiä</string>
+  <string name="usbsharenet_pc_exception_summary">Internetiin ei saada yhteyttä jaetulla USB-yhteydellä. Tarkista tietokoneesi internet-yhteys.</string>
   <string name="use_immediately">Käytä</string>
   <string name="user_define_title">Lisää sääntöjä</string>
   <string name="virus_ad_icon_text">Mainos</string>

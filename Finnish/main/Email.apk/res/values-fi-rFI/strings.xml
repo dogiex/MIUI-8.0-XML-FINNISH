@@ -217,7 +217,8 @@
   <string name="auto_remind_discribe_text">Ota käyttöön vastaanottaaksesi automaattisia muistutuksia</string>
   <string name="auto_remind_text">Automaattiset muistutukset</string>
   <string name="auto_remind_unbind">Lopeta</string>
-  <string name="auto_sync_off">Tilin synkronointi ei ole käytössä.</string>
+  <string name="auto_sync_off">Automaattinen synkronointi ei ole käytössä.</string>
+  <string name="automatic_remind_text">muistuta</string>
   <string name="bank_card_detail">Luottokortin tiedot</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Virransäästö</string>
@@ -243,6 +244,7 @@
   <string name="calendar_remind_gridview_pick_date">Valitse päiväys</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_action">Peruuta</string>
+  <string name="cancel_pop3_attchemt_downloading">POP3-tyypin tilin liitteiden lataamisen peruuttaminen ei ole käytettävissä.</string>
   <string name="cant_move_or_change_labels">Siirtäminen epäonnistui. Valinta sisältää useita tilejä.</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -387,7 +389,7 @@
   <string name="download_message_failed_for_too_large">Viesti on liian iso ladattavaksi.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Tiliotteet</string>
-  <string name="drawer_bill_title">Laskut</string>
+  <string name="drawer_classification">Älykäs luokittelu</string>
   <string name="drawer_close">Sulje navigointipalkki</string>
   <string name="drawer_contacts">Yhteystiedot</string>
   <string name="drawer_open">Avaa navigointipalkki</string>
@@ -683,6 +685,8 @@ Kokeile vaihtaa toiseen sähköpostitiliin."</string>
   <string name="no_filtrable_email_account">Ei suodatettavia tilejä</string>
   <string name="no_mails">Ei sähköpostia.</string>
   <string name="no_matched_attachment">Ei hakutuloksia.</string>
+  <string name="no_recognize_describe">"Lippuja tai varauksia sisältäviä sähköposteja ei löytynyt.
+Kokeile toista postilaatikkoa."</string>
   <string name="no_remind">Ei muistutusta</string>
   <string name="not_subject">(Ei otsikkoa)</string>
   <string name="not_synced_title">Tiliä ei ole synkronoitu</string>
@@ -731,6 +735,7 @@ Kokeile vaihtaa toiseen sähköpostitiliin."</string>
   <string name="overlays_title">Avaa kelluvan Ikkunan käyttöoikeudet</string>
   <string name="parase_setup_data">Haetaan dataa…</string>
   <string name="parse_bill_discribe">Prosessoidaan luottokortin laskuja…</string>
+  <string name="parse_recognize_describe">Analysoidaan sähköpostia…</string>
   <string name="password_expire_warning_content_title">Näytönlukituksen salasana vanhentuu pian</string>
   <string name="password_expire_warning_dialog_content_fmt">Näytönlukituksen PIN-koodi tai salasana tulee vaihtaa pian, tai tilin %s tiedot poistetaan. Haluatko vaihtaa koodin nyt?</string>
   <string name="password_expire_warning_dialog_title">Näytönlukituksen salasana vanhentuu pian</string>
@@ -881,6 +886,32 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="read_string">keskustelu on luettu</string>
   <string name="recipient_needed">Lisää vähintään yksi vastaanottaja.</string>
   <string name="recipient_needed_title">Varoitus</string>
+  <string name="recognize_hotel_check_in_date">Check-in aika</string>
+  <string name="recognize_hotel_hotel_money">Hinta %1$s</string>
+  <string name="recognize_hotel_notification_content">Nauti olostasi!</string>
+  <string name="recognize_hotel_notification_title">Varasit huoneen paikasta %1$s, alkaen %2$s/%3$s. Tarkista varauksesi varmuuden vuoksi ennen sinne saapumista.</string>
+  <string name="recognize_hotel_order_money">Yhteensä</string>
+  <string name="recognize_hotel_other_money">Muut kulut %1$s</string>
+  <string name="recognize_hotel_reverse_date">Saapuminen ennen %1$s:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Huone</string>
+  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+  <string name="recognize_hotel_title">Hotellin varaus</string>
+  <string name="recognize_hotel_user_names">Vieras</string>
+  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+  <string name="recognize_setting_title">Matkustusasetukset</string>
+  <string name="recognize_ticket_air_notification_content">Nauti lennostasi!</string>
+  <string name="recognize_ticket_air_notification_title">Lento %3$s (%1$s/%2$s) lähtee pian. Tarkista lentosi tiedot varmuuden vuoksi.</string>
+  <string name="recognize_ticket_air_state_stopover">Välilasku</string>
+  <string name="recognize_ticket_air_state_transfer">Siirrä</string>
+  <string name="recognize_ticket_air_user_name">Matkustaja:</string>
+  <string name="recognize_ticket_title">Lento- &amp; junaliput</string>
+  <string name="recognize_ticket_train_alter">Vaihdettu</string>
+  <string name="recognize_ticket_train_depart_date">Lähtee klo %3$s:%4$s, %1$s/%2$s</string>
+  <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
+  <string name="recognize_ticket_train_notification_title">Juna %3$s (%1$s/%2$s) lähtee pian. Tarkista lippusi varmuuden vuoksi.</string>
+  <string name="recognize_ticket_train_return">Palautettiin</string>
+  <string name="recognize_ticket_train_user_name">Matkustaja: %1$s</string>
+  <string name="recognize_title">Matkustustiedot</string>
   <string name="reduce_the_receiving_frequencye_summary">Synkronoi postilaatikko harvemmin, kun Älä Häiritse on käytössä</string>
   <string name="reduce_the_receiving_frequencye_title">Synkronoi harvemmin</string>
   <string name="refresh">Päivitä</string>
@@ -1027,7 +1058,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="turn_auto_sync_on_dialog_body">Gmailiin ja kaikkiin muihin sovelluksiin ja tileihin tekemäsi muutokset synkronoidaan seuraavissa kohteissa: verkko, muut laitteet ja %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Ota käyttöön</string>
   <string name="turn_auto_sync_on_dialog_title">Otetaanko automaattinen synkronointi käyttöön?</string>
-  <string name="unbind_dialog_text">"Et tule saamaan muistutuksia laskujen analysoinnin lopettamisen jälkeen.
+  <string name="unbind_dialog_text">"Et tule saamaan muistutuksia analysoinnin lopettamisen jälkeen.
 Lopetetaanko nyt?"</string>
   <string name="undo">Kumoa</string>
   <string name="unknow">Tuntematon</string>
