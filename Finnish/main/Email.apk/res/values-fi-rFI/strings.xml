@@ -894,10 +894,8 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="recognize_hotel_other_money">Muut kulut %1$s</string>
   <string name="recognize_hotel_reverse_date">Saapuminen ennen %1$s:%2$s %3$s</string>
   <string name="recognize_hotel_room_type">Huone</string>
-  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
   <string name="recognize_hotel_title">Hotellin varaus</string>
   <string name="recognize_hotel_user_names">Vieras</string>
-  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
   <string name="recognize_setting_title">Matkustusasetukset</string>
   <string name="recognize_ticket_air_notification_content">Nauti lennostasi!</string>
   <string name="recognize_ticket_air_notification_title">Lento %3$s (%1$s/%2$s) lähtee pian. Tarkista lentosi tiedot varmuuden vuoksi.</string>

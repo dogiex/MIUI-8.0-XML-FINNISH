@@ -3090,7 +3090,6 @@ Näytön kiinnityksen käyttö:
   <string name="search_children_mode_title">Lapsi-tila;Lapsi;Lapsilukko</string>
   <string name="search_captioning_locale">Kieli</string>
   <string name="search_change_password">Vaihda näytön lukitus;Näytön lukitus;Muokkaa näytön lukitusta;muokkaa näytönlukitusta;näytönlukitus</string>
-  <string name="search_children_mode_title">Lapsi-tila;Lukitse sms;Lapsilukko;Rajoita SMS</string>
   <string name="search_choose_timezone">Valitse aikavyöhyke;Aikavyöhyke;Aikavyöhykkeet</string>
   <string name="search_cloud_backup_settings_section_title">Varmuuskopioi asetukset;Varmuuskopioi;Varmuuskopiot</string>
   <string name="search_cloud_restore_section_title">Palauta Mi Pilvestä</string>

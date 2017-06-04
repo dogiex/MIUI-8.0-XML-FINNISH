@@ -346,7 +346,6 @@ Aktivoi tilisi seuraamalla
   <string name="restart_phone_bind_message">Tekstiviestin saapumisessa saattaa kestää hetki. Aloitetaanko alusta tästä huolimatta?</string>
   <string name="restart_phone_bind_title">Vaihda palautuspuhelin</string>
   <string name="scan_barcode_title">Kirjaudu Mi Tilillesi skannaamalla QR-koodi</string>
-  <string name="search_account_security_path">Asetukset/Mi Tili/Tilin tietoturva</string>
   <string name="search_account_security">Tilin tietoturva</string>
   <string name="search_account_security_key_words">Vaihda Puhelin,Vaihda Sähköposti,Tilin suojaus,Tilit,Sina Weibo,QQ,Valtuutus,Laitteet</string>
   <string name="search_account_security_desc">Tilin Asetukset</string>
