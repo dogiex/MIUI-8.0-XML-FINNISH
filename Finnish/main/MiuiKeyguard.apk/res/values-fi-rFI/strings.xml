@@ -40,6 +40,39 @@
   <string name="invalid_confirm_pin_hint">PIN-koodit eivät täsmää</string>
   <string name="invalid_sim_pin_hint">PIN-koodin pitää sisältää neljästä kahdeksaan numeroa</string>
   <string name="invalid_sim_puk_hint">PUK-koodin pitää olla vähintään kahdeksan numeroa pitkä</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Akun lämpötila</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Noin %d t kunnes täynnä</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Noin %d min kunnes täynnä​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Noin %d t %d min kunnes täynnä</string>
+  <string name="keyguard_charging_info_charging_text">Ladataan</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Jännite</string>
+  <string name="keyguard_charging_info_click_to_detail">Näytä tiedot</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Noin %d t jäljellä</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Noin %d min jäljellä</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Noin %d t %d min jäljellä</string>
+  <string name="keyguard_charging_info_current_now_text">Reaaliaikainen näyttö</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d t</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Kuluttanut</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d t %d min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Ladattu täyteen</string>
+  <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Tänään %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Eilen %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Edellinen lataus</string>
+  <string name="keyguard_charging_info_tip_text1">Paranna akkusi elinikää pitämällä laitteesi aina ladattuna vähintään 10%.</string>
+  <string name="keyguard_charging_info_tip_text2">Älä ylilataa laitettasi. Usea lyhytaikainen lataaminen on parempi, kuin yön yli lataaminen.</string>
+  <string name="keyguard_charging_info_tip_text3">Vältä lataamista, kun ympäristösi lämpötila on alle 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">Älä käytä laitettasi aktiivisesti lataamisen aikana, jotta vältät ylikuumentumisen.</string>
+  <string name="keyguard_charging_info_tip_text5">Akut latautuvat kauemmin, kun ne kuumenevat normaalia enemmän.</string>
+  <string name="keyguard_charging_info_tip_text6">Viilennä laite sammuttamalla näyttö ja laittamalla laite pois käsistä.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Pikalataus. Näytä tiedot napauttamalla.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Pikalataus…</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virta-painiketta pohjassa</string>
   <string name="left_action_default_hint_text">Mi Kaukosäädin</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
