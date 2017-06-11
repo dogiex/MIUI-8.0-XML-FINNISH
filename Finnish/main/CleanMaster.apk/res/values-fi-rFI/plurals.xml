@@ -103,5 +103,6 @@
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">%d sovellusta ei ole käytetty pitkään aikaan, katso sovellukset.</item>
+        <item quantity="one">%d sovellusta ei ole käytetty pitkään aikaan, katso sovellukset.</item>
     </plurals>
 </resources>

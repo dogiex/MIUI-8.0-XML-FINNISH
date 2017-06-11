@@ -212,12 +212,6 @@
   <string name="hints_garbage_handle_item_content">%1$d kohdetta, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Tyhjä</string>
   <string name="hints_header_left">%d</string>
-  <string name="hints_install_apps_else">Käytetty %s</string>
-  <string name="hints_install_apps_interval">Käytetty %d päivää sitten</string>
-  <string name="hints_install_apps_new">Ei koskaan avattu</string>
-  <string name="hints_install_apps_risk">Riski havaittu</string>
-  <string name="hints_install_apps_today">Käytetty tänään</string>
-  <string name="hints_install_apps_virus">Virus havaittu</string>
   <string name="hints_installed_app_fewer">Harvoin käytetty</string>
   <string name="hints_installed_app_near">Käytetty viimeaikana</string>
   <string name="hints_installed_app_never">Käyttämätön</string>

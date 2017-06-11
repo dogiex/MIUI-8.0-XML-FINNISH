@@ -102,6 +102,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">Kaikki numerot tästä maakunnasta</string>
+  <string name="antispam_mode_details">Estolistan tiedot</string>
   <string name="antispam_notificaiton_type_show_all">Kaikki numerot</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Numerot, jotka ei ole estolistalla</string>
   <string name="antispam_notificaiton_type_show_none">Ei ikinä</string>
@@ -296,6 +297,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_main_title">Automatisoidut tehtävät</string>
   <string name="auto_task_mamange_activity_title">Asetukset</string>
   <string name="auto_task_manage_delete_prompt">Poistetaanko valitut tehtävät?</string>
+  <string name="auto_task_manage_new_task">Uusi automatisoitu tehtävä</string>
   <string name="auto_task_manager_group_title">Automatisoidut tehtäväni</string>
   <string name="auto_task_notify_do_task_title">Automatisoitu tehtävä aloitettiin</string>
   <string name="auto_task_notify_exit_task_title">Automatisoitu tehtävä lopetettiin</string>
@@ -466,7 +468,6 @@ mikäli unohdat sen"</string>
   <string name="buy_immediately">Osta</string>
   <string name="buy_traffic_pack">Osta lisää dataa</string>
   <string name="byteShort">t</string>
-  <string name="cache_header_title">Tyhjennä %1$d välimuistissa olevaa tiedostoa vapauttaaksesi %2$s tallennustilaa</string>
   <string name="call_and_contact">Puhelut ja Yhteystiedot</string>
   <string name="call_delete_hint">Poistetaanko kaikki estetyt puhelut tältä numerolta?</string>
   <string name="call_delete_title">Poista puheluhistoria</string>
@@ -698,12 +699,11 @@ mikäli unohdat sen"</string>
   <string name="enter">进入</string>
   <string name="every_day">Joka päivä</string>
   <string name="examination_score_100">Kaikki näyttää hyvältä!</string>
-  <string name="examination_score_100_with_recommend">%d kohdetta voidaan optimoida</string>
   <string name="examination_score_60_0">Skannaa nyt</string>
   <string name="examination_score_80_100">Muutama kohde voidaan optimoida</string>
-  <string name="examination_score_80_100_with_recommend">%d kohdetta voidaan optimoida</string>
   <string name="examination_score_80_60">Joitakin kohteita voidaan optimoida</string>
   <string name="examination_score_has_virus">Havaittiin epäilyttäviä sovelluksia.</string>
+  <string name="exit">Poistu</string>
   <string name="file_manager_need_update_desc">当前文件管理器版本过低，无法使用随机表情功能，请先更新文件管理器。</string>
   <string name="file_manager_need_update_title">文件管理器版本过低</string>
   <string name="finger_remind_message">Voit käyttää sormenjälkeä myös Sovelluslukon kanssa.</string>
@@ -778,7 +778,7 @@ mikäli unohdat sen"</string>
   <string name="help_label">Apua</string>
   <string name="hide_mode_app_background_setting_text">Sovelluskohtainen virransäästö</string>
   <string name="hide_mode_summary_text">Hallitse sovelluksien taustatyöskentelyä virran säästämiseksi</string>
-  <string name="hide_mode_title_text">Piilota-tila</string>
+  <string name="hide_mode_title_text">Virransäästö</string>
   <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
   <string name="hint_antispam_mode_edit">Mukautettu tila</string>
   <string name="hints_auto_start_warning_info">Jos rajoitat sovelluksien käynnistymisiä, jotkut sovellukset ja palvelut eivät saa ilmoituksia.</string>
@@ -890,8 +890,6 @@ mikäli unohdat sen"</string>
   <string name="last_check_date_today">"Skannattu tänään "</string>
   <string name="last_check_date_yesterday">"Skannattu eilen "</string>
   <string name="last_check_never_checked">Skannaa nyt</string>
-  <string name="last_checked_date2">Skannattu %d päivää sitten</string>
-  <string name="last_checked_default">Skannattu %d päivää sitten</string>
   <string name="later">稍后处理</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Juhlapyhä</string>
@@ -1021,7 +1019,6 @@ vastausta"</string>
   <string name="manual_input_traffic">Aseta datan käyttö</string>
   <string name="manual_item_white_list_summary">Estä valittuja sovelluksia optimoitumasta</string>
   <string name="manual_item_white_list_title">Poikkeukset</string>
-  <string name="manual_white_list_header">%d poikkeusta</string>
   <string name="mark_agent">Estä ilmoitetut toimistot</string>
   <string name="mark_agent_block">Ilmoitettu toimistoksi</string>
   <string name="mark_agent_block_large">Virastot</string>
@@ -1074,7 +1071,7 @@ vastausta"</string>
   <string name="menu_item_app_permissions_control">Käyttöoikeuden hallinta</string>
   <string name="menu_item_control_app_permissions">Kysy lupaasi ennen kuin sallit sovelluksien lukea yhteystietosi, katsoa puheluhistoriaasi, muuttaa järjestelmän asetuksia, tai käyttää kameraa tai muita laitteen resursseja</string>
   <string name="menu_item_force_stop">Pakkolopetus</string>
-  <string name="menu_item_install_debug_package">Asenna debuggaus paketti</string>
+  <string name="menu_item_install_debug_package">Asenna viankorjauspaketti</string>
   <string name="menu_item_notification_antispam_text_avail">Estolista</string>
   <string name="menu_item_notification_antispam_text_normal">Estolista</string>
   <string name="menu_item_notification_garbage_text">%s</string>
@@ -1118,6 +1115,8 @@ vastausta"</string>
   <string name="mian_page_primary_txt">Ulkomaan roaming</string>
   <string name="miliao_lucky_warning">米聊红包</string>
   <string name="modifypassword">Vaihda salasana</string>
+  <string name="monitor_app_add">lisää</string>
+  <string name="monitor_app_more">lisää</string>
   <string name="monitor_requests_from_pc">Hallitse USB:n kautta asennettavia sovelluksia</string>
   <string name="month_report_month_report_switch">Näytä kuukausittainen raportti</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
@@ -1200,7 +1199,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
   <string name="notification_sysapp_cracked_text">Nykyinen MIUI versio on muokattu</string>
   <string name="notification_sysapp_cracked_title">Tietoturvariski havaittu</string>
-  <string name="notification_title_cmcc_app_check">%d päivää viime tarkastuksesta</string>
   <string name="notification_title_firewall_blocked">Estetty</string>
   <string name="notify_daily_data_usage_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
   <string name="notify_daily_limit_body">Aseta datan raja napauttamalla.</string>
@@ -1377,7 +1375,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_optimize_disable_start_other_app">Estä sovelluksia avaamasta toisia sovelluksia</string>
   <string name="power_optimize_loading">Ladataan</string>
   <string name="power_optimize_manual_catagory_title">Manuaali</string>
-  <string name="power_optimize_open_hide_mode">Ota Piilo-tila käyttöön</string>
+  <string name="power_optimize_open_hide_mode">Ota Virransäästö käyttöön</string>
   <string name="power_optimize_save_mode_not_opened">Virransäästö ei käytössä</string>
   <string name="power_optimize_save_on_lockscreen">Säästä virtaa, kun laite on lukittuna</string>
   <string name="power_phone">Äänipuhelut</string>
@@ -1703,7 +1701,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sp_background_risk_type_sign">Epävirallinen sovellus on käynnissä</string>
   <string name="sp_background_risk_type_virus">Virus on käynnissä taustalla</string>
   <string name="sp_background_risk_type_wifi">Tämä Wi-Fi-verkko on vaarallinen</string>
-  <string name="sp_button_text_ignore_alert_title">Sivuuta tämä kohde?</string>
+  <string name="sp_button_text_ignore_alert_title">Ohitetaanko tämä kohde?</string>
   <string name="sp_empty_title_sign_exception">Lisää sovellus poikkeuksiin painamalla sitä pitkään</string>
   <string name="sp_monitored_apps_count_zero">Ei maksusovelluksia on suojattu</string>
   <string name="sp_monitored_apps_list_title">Seuranta-asetukset</string>
@@ -1862,7 +1860,6 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_flow_notification">Näytä kuukausittainen datan käyttötilastot ilmoitusalueella</string>
   <string name="summary_flow_purchase">Näyttää, että dataa ei ole paljoa jäljellä. Osta dataa, jotta pysyt yhteydessä.</string>
   <string name="summary_flow_purchase_beyond">Olet ylittänyt operaattorisi kuukausittaisen datan rajan %s Mt:lla</string>
-  <string name="summary_flow_verify">Operaattorin datan käyttötilastoja ei ole synkronoitu %d päivään</string>
   <string name="summary_flow_verify_failed">Säädä automaattisesti datan käyttöä välttääksesi lisämaksuilta</string>
   <string name="summary_garbage_clean">Vapauta tilaa tyhjentämällä välimuisti</string>
   <string name="summary_garbage_lib">Käytä viimeisimpiä virustunnisteita poistaaksesi vakoilu- ja mainosohjelmat, ja muut ei halutut roskat</string>
@@ -1897,7 +1894,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="system_app">Järjestelmäsovellukset</string>
   <string name="system_application">Järjestelmäsovellukset</string>
   <string name="system_check_content_none">Turvallinen</string>
-  <string name="system_header_title">Vapauta %2$s muistia tyhjentämällä %1$d prosessia</string>
   <string name="system_info_remind">Lisää lukkoja estääksesi luvattomat pääsyt sovelluksiisi</string>
   <string name="system_need_update_desc">当前系统版本过低，无法使用随机表情功能，请先更新MIUI系统。</string>
   <string name="system_need_update_title">系统版本过低</string>
@@ -2025,7 +2021,6 @@ Tässä ohjeet:
   <string name="title_cloud_space_almost_full">Pilven tallennustila on lähes täynnä, kohteita ei välttämättä synkronoida</string>
   <string name="title_cloud_space_full">Pilvi on täynnä</string>
   <string name="title_cmcc_app_check">Vahvistus ei ole valmis</string>
-  <string name="title_consume_power">Akkuongelmia löytyi</string>
   <string name="title_consume_power_rank">Akun käyttö</string>
   <string name="title_data_flow">Hallitse mobiilidataa</string>
   <string name="title_default_app">MIUI %s ei ole asetettu oletukseksi</string>

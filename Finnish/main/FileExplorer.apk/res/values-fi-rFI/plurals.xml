@@ -277,7 +277,7 @@
         <item quantity="one">%1$s jalokivi</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Kerää %d jalokiveä lisää osallistuaksesi arvontaan</item>
-        <item quantity="one">Kerää %d jalokivi lisää osallistuaksesi arvontaan</item>
+        <item quantity="other">Kerää %d jalokiveä lisää osallistuaksesi arvontaan.</item>
+        <item quantity="one">Kerää %d jalokivi lisää osallistuaksesi arvontaan.</item>
     </plurals>
 </resources>

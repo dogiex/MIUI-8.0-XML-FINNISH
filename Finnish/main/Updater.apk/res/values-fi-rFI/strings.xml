@@ -201,11 +201,11 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update_content_sign">Päivitin MIUI:n versioon %1$s! Olin %2$s henkilö, joka päivitti. Nähdäksesi muutoslokin, mene %3$s</string>
   <string name="share_update_content_unsign">Päivitin MIUI:n versioon %1$s! Yksityiskohtaisen muutoslokin näet täältä %2$s</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui</string>
-  <string name="sina_share_fail_content_repeat">Jakaminen epäonnistui, sisältö on jo olemassa…</string>
+  <string name="sina_share_fail_content_repeat">Olet jo jakanut tämän.</string>
   <string name="sina_share_pendding">Lähetetään…</string>
   <string name="sina_share_success">Lähetetty</string>
-  <string name="sina_token_expired_warning">Weibo tili on vanhentunut: Liitä uudelleen</string>
-  <string name="sina_token_invalid_warning">Weibo tili on virheellinen: Liitä uudelleen</string>
+  <string name="sina_token_expired_warning">Weibo tili on vanhentunut, lisää tili uudelleen.</string>
+  <string name="sina_token_invalid_warning">Weibo tili on virheellinen, lisää tili uudelleen.</string>
   <string name="sogou_uninstall_msg">Sogou näppäimistö (Mi Edition) ei ole enää yhteensopiva MIUI 7 kanssa. Vaihda näppäimistöjä tai päivitä Sogou uudempaan versioon.</string>
   <string name="sogou_uninstall_negative_button">Päivitä Sogou</string>
   <string name="sogou_uninstall_positive_button">Vaihda näppäimistöjä</string>
@@ -218,7 +218,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="submit_progress">Lähetetään…</string>
   <string name="submit_success">Lähetetty</string>
   <string name="test">Kokeile</string>
-  <string name="timer_title">Laite käynnistyy uudelleen %d sekunnin kuluttua.</string>
   <string name="title_toast_auto">Päivitykset latautuvat automaattisesti</string>
   <string name="toast_delay_update_tonight">Laitteesi päivittyy klo 02:00 ja 05:00 välillä</string>
   <string name="top_secret_build">Top-secret</string>

@@ -210,10 +210,10 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="nav_guide_ok">Aseta</string>
   <string name="nav_guide_title">Piilota painikkeet</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">Jaettu näyttö -tilassa toimivia sovelluksia ei ole</string>
+  <string name="no_multi_window_app">Ei sovelluksia, jotka tukevat Jaettua näyttö</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>
   <string name="no_weather_description">Hae säätiedot &gt;</string>
-  <string name="not_support_multi_window">Nykyinen sovellus ei tue jaetun näytön -tilaa</string>
+  <string name="not_support_multi_window">Nykyinen sovellus ei tue Jaettua näyttöä</string>
   <string name="notification_header_title">Ilmoitukset</string>
   <string name="notification_hidden_text">Sisältö piilotettu</string>
   <string name="notification_low_battery_action_btn">Ota käyttöön</string>
@@ -254,7 +254,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Valitse lähellä oleva verkko</string>
   <string name="recent_task_app_info_text">Tietoa</string>
-  <string name="recent_task_cleaning">Puhdistetaan, odota hetki</string>
+  <string name="recent_task_cleaning">Tyhjennetään sovelluksia…</string>
   <string name="recent_task_lock_text">Lukitse</string>
   <string name="recent_task_unlock_text">Avaa lukko</string>
   <string name="reject_call">Hylätään puhelua</string>

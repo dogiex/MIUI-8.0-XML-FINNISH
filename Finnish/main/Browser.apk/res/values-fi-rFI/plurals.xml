@@ -9,7 +9,8 @@
         <item quantity="one">%d osuma</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Viimeiset %d päivää</item>
+        <item quantity="other">Edelliset %d päivää</item>
+        <item quantity="one">Edellinen %d päivä</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d %2$d:sta</item>

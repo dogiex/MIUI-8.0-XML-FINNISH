@@ -106,7 +106,7 @@
   <string name="err_version_too_old">Varmuuskopion tiedosto on liian vanha.</string>
   <string name="err_version_unsupported">Varmuuskopion versio ei ole tuettu.</string>
   <string name="every_day">Joka päivä</string>
-  <string name="exchange_account">Vaihda tiliä</string>
+  <string name="exchange_account">Vaihda tilejä</string>
   <string name="fail">Epäonnistui</string>
   <string name="feature_title_account">Mi Tili</string>
   <string name="feature_title_antispam">Estolista</string>

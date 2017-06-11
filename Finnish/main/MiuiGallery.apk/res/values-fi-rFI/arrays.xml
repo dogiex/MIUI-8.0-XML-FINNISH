@@ -12,6 +12,14 @@
         <item>Äidinisä</item>
         <item>Äidinäiti</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Isä</item>
+        <item>Äiti</item>
+        <item>Isänisä</item>
+        <item>Isänäiti</item>
+        <item>Äidinisä</item>
+        <item>Äidinäiti</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Minä</item>
         <item>Lapsi</item>

@@ -41,7 +41,8 @@
   <string name="adjust_saturation">Saturaatio</string>
   <string name="adjust_sharpen">Tarkenna</string>
   <string name="adjust_vignette">Vignette</string>
-  <string name="album_already_exists">Saman niminen albumi on jo olemassa</string>
+  <string name="album_already_exists">Näytä</string>
+  <string name="album_already_exists_msg">Albumi \"%s\" on jo olemassa</string>
   <string name="album_already_forced_top">On jo ylimpänä</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_detail_clear_local_page_empty">Poistettavia varmuuskopioituja kuvia tai videoita ei ole</string>
@@ -959,7 +960,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="picker_full_format">Voit valita enintään %d kuvaa</string>
   <string name="picker_image_need_download">%d valituista kuvista ei ole laitteella. Ladataanko ne käyttäen mobiilidata-yhteyttä?</string>
   <string name="picker_image_will_download">%d valituista kuvista ei ole laitteella. Ne ladataan.</string>
-  <string name="picker_mobile_data_video">Videoita ei voi ladata mobiilidatalla, ohitettiin %d.</string>
   <string name="picker_no_network_message">Lataa yhdistämällä verkkoon</string>
   <string name="picker_origin_need_download">%1$d valituista kuvista (%2$d Mt) ei ole laitteella. Ladataanko käyttäen mobiilidata-yhteyttä?</string>
   <string name="picker_title_format">Voit valita %d kuvaa</string>

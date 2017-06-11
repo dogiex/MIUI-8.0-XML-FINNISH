@@ -192,7 +192,6 @@
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Piilotettu lähettäjän osoite</string>
   <string name="hint_search_sms">%d viestiä</string>
-  <string name="hms_uri_param_err">URL-osoite ei saa olla tyhjä</string>
   <string name="hold_to_talk">Pidä puhuaksesi</string>
   <string name="hybrid_check_network">Verkkoasetukset</string>
   <string name="hybrid_data_error">Tapahtui virhe</string>
@@ -378,7 +377,7 @@
   <string name="pref_notification_settings_title">Ilmoitukset</string>
   <string name="pref_other_title">Lisäasetukset</string>
   <string name="pref_show_blocked_messages_summary">Näytä estetyt tekstiviestit keskustelulistalla</string>
-  <string name="pref_show_list_avatar_summary">Näytä yhteystiedon kuvat ja muut tiedot luettelonäkymässä</string>
+  <string name="pref_show_list_avatar_summary">Näytä profiilikuvat ja muut tiedot luettelonäkymässä</string>
   <string name="pref_show_sms_template_in_summary">Tunnista automaattisesti kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_summary">Kopioi ja täyty automaattisesti vahvistuskoodit</string>
   <string name="pref_smart_messages_settings">Älykkäät viestit</string>
@@ -509,6 +508,7 @@
   <string name="select_local_video">Valitse video</string>
   <string name="select_message_send_sim">Valitse SIM-kortti</string>
   <string name="select_recipient">Valitse vastaanottajat</string>
+  <string name="select_sim">Valitse SIM-kortti</string>
   <string name="select_top_text">Teksti ylhäällä</string>
   <string name="send">Lähetä</string>
   <string name="send_message_dlg_check_hint">Älä näytä uudelleen</string>
@@ -546,15 +546,18 @@
   <string name="slide_show_part">Osa %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Peruuta pyyhkäisemällä ylös</string>
   <string name="slideshow_activity">Diaesitys</string>
-  <string name="sms_card_partner_label">"SMS card partner: "</string>
+  <string name="sms_card_partner_label">"SMS-kortin kumppani: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Sisältö:</string>
   <string name="sms_full_body">Saapuva viesti hylätty: Laitteella ei ole tarpeeksi tallennustilaa.</string>
   <string name="sms_full_title">Tekstiviestin muisti on täynnä</string>
   <string name="sms_rejected_body">Saapuva tekstiviesti hylättiin.</string>
   <string name="sms_rejected_title">Tekstiviesti hylättiin</string>
-  <string name="sms_report_failed">Raportin lähettäminen epäonnistui</string>
-  <string name="sms_report_success">Raportti lähetetty</string>
+  <string name="sms_report_dialog_content">Ilmoitusta ei voitu lähettää, yritä uudelleen.</string>
+  <string name="sms_report_dialog_retry">Yritä uudelleen</string>
+  <string name="sms_report_dialog_title">Yritä uudelleen</string>
+  <string name="sms_report_failed">Ilmoituksen lähettäminen epäonnistui</string>
+  <string name="sms_report_success">Ilmoitus lähetettiin onnistuneesti</string>
   <string name="snippet_audio">[ääni]</string>
   <string name="snippet_picture">[kuva]</string>
   <string name="sp_category_all">Kaikki palveluviestit</string>
@@ -588,6 +591,8 @@
   <string name="storage_unavailable">Tallennustilaa ei ole tarpeeksi</string>
   <string name="subject_hint">Aihe</string>
   <string name="subject_label">"Aihe: "</string>
+  <string name="switch_to_editor">Muokkaus-tila</string>
+  <string name="switch_to_menu">Valikko-tila</string>
   <string name="text_in_popup_saved_to_clipboard">Kopioitiin leikepöydälle</string>
   <string name="text_message">Tekstiviesti</string>
   <string name="timed_message_expired_title">"%d ajastettua viestiä ei ole lähetetty"</string>
@@ -598,7 +603,7 @@
   <string name="title_collapse_sp_messages">Ryhmitä ilmoitukset</string>
   <string name="title_hide_verification_code">Piilota salasanaviestit lukitusnäytöltä automaattisesti</string>
   <string name="title_show_blocked_messages">Näytä estetyt tekstiviestit</string>
-  <string name="title_show_list_avatar">Näytä kuvat ja tiedot</string>
+  <string name="title_show_list_avatar">Näytä profiilikuvat</string>
   <string name="title_show_sms_template">Tarkista tekstiviesti vahvistuskoodeista</string>
   <string name="title_show_sms_template_in">Tarkista tekstiviesti salasanoista</string>
   <string name="title_timed_message_dialog">Aseta ajastettu viesti</string>

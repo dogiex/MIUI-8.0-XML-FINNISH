@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Puhelulokin tiedot</string>
+  <string name="accessibility_calllog_detail">Puheluhistorian tiedot</string>
+  <string name="accessibility_contact_detail">Yhteystiedon tiedot</string>
   <string name="account_container_title">Tuotu</string>
   <string name="account_default">Puhelin</string>
   <string name="account_phone">Vain puhelin, ei synkronoitu</string>
@@ -87,7 +88,9 @@
   <string name="call_radio">Soita radiopuhelimeen</string>
   <string name="call_record_setting_miui">Nauhoitusasetukset</string>
   <string name="call_settings">Asetukset</string>
+  <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Soita SIM 1:llä</string>
+  <string name="call_sim2_description">SIM 2</string>
   <string name="call_sim2_menu_title">Soita SIM 2:lla</string>
   <string name="call_sim_menu_title_suffix">(Ensisijainen)</string>
   <string name="call_telex">Soita teleksinumeroon</string>
@@ -168,7 +171,7 @@
   <string name="clearFrequentsProgress_title">Tyhjennetään usein käytetyt...</string>
   <string name="clear_copy_number_description">Tyhjennä kopioitu numero</string>
   <string name="clear_default">Tyhjennä oletus</string>
-  <string name="clear_digits">Tyhjennä puhelinnumero</string>
+  <string name="clear_digits">Poista puhelinnumero</string>
   <string name="click_close">Sulje koskettamalla</string>
   <string name="clip_dialog_title">Soitetaanko kopioituun numeroon?</string>
   <string name="close_dial_pad">Sulje numeronsyöttö</string>
@@ -205,7 +208,8 @@
   <string name="contactPickerActivityTitle">Valitse yhteystieto</string>
   <string name="contactSavedErrorToast">Ei voitu tallentaa yhteystietojen muutoksia.</string>
   <string name="contactSavedToast">Yhteystieto tallennettu</string>
-  <string name="contact_delete_toast">Yhteystieto poistettu</string>
+  <string name="contact_clear_search_history">Tyhjennä historia</string>
+  <string name="contact_delete_toast">Yhteystieto poistettiin onnistuneesti</string>
   <string name="contact_detail_action_item_calllog">Puheluloki</string>
   <string name="contact_detail_action_item_nocalllog">Ei Puhelulokia</string>
   <string name="contact_detail_calllog_call_note_tips">Muistiinpano</string>
@@ -249,6 +253,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_list_loading">Ladataan…</string>
   <string name="contact_pick_photo">Kuva</string>
   <string name="contact_read_only">Ei muokattavissa tästä sovelluksesta.</string>
+  <string name="contact_search_history">Historia</string>
   <string name="contact_status_update_attribution">lähteestä %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s lähteestä %2$s</string>
   <string name="contact_unfavorite_toast">Poistettu suosikeista</string>
@@ -302,7 +307,10 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="description_add_contact">Lisää yhteystieto</string>
   <string name="description_call">Soita %1$s</string>
   <string name="description_call_log_incoming_call">Saapuva puhelu</string>
+  <string name="description_call_log_incoming_forwarding_call">Saapuva siirretty puhelu</string>
   <string name="description_call_log_missed_call">Vastaamaton puhelu</string>
+  <string name="description_call_log_missed_forwarding_call">Vastaamaton siirretty puhelu</string>
+  <string name="description_call_log_new_contact">Uusi yhteystieto</string>
   <string name="description_call_log_outgoing_call">Lähtevä puhelu</string>
   <string name="description_call_log_play_button">Soita vastaajaviesti</string>
   <string name="description_call_log_unheard_voicemail">Kuuntelematon viesti</string>
@@ -710,6 +718,7 @@ Syy: %s"</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Syötä lempinimi</string>
   <string name="miprofile_nick_name_edit_dialog_message">Lempinimi tulee näkymään puheluhistoriassa ja profiilin tiedoissa</string>
   <string name="miprofile_nick_name_edit_dialog_title">Muokkaa lempinimeä</string>
+  <string name="miprofile_notice_close">Sulje</string>
   <string name="miprofile_notice_text">Kosketa nähdäksesi yhteystiedon profiilikuvan</string>
   <string name="miprofile_request_agenda_date">Tämä henkilö haluaa vaihtaa käyntikortteja [%1$s]</string>
   <string name="miprofile_request_agenda_today">Tämä henkilö haluaa vaihtaa käyntikortteja [Tänään %1$s]</string>
@@ -990,6 +999,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="profileSavedErrorToast">Muutoksia profiiliini ei voitu tallentaa</string>
   <string name="profileSavedToast">Profiili tallennettu</string>
   <string name="profile_binded_numbers">Todennettu Numero: %s</string>
+  <string name="profile_delete_toast">Poistettiin profiili onnistuneesti</string>
   <string name="profile_display_name">Luo profiili</string>
   <string name="profile_name">Oma profiili</string>
   <string name="profile_name_photo">Kuva</string>

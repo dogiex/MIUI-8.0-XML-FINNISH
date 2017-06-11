@@ -438,11 +438,11 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="share_weixin_not_installed">WeChat ei ole asennettu.</string>
   <string name="short_cut_desc">Lisätäänkö Mi Pilven kuvake Kotinäytölle?</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui</string>
-  <string name="sina_share_fail_content_repeat">Jakaminen epäonnistui, sisältö on jo olemassa…</string>
+  <string name="sina_share_fail_content_repeat">Olet jo jakanut tämän.</string>
   <string name="sina_share_pendding">Lähetetään…</string>
   <string name="sina_share_success">Lähetetty</string>
-  <string name="sina_token_expired_warning">Weibo-tili on vanhentunut: Linkitä uudelleen</string>
-  <string name="sina_token_invalid_warning">Weibo-tili on kelvoton: Linkitä uudelleen</string>
+  <string name="sina_token_expired_warning">Weibo-tili on vanhentunut, lisää tili uudelleen</string>
+  <string name="sina_token_invalid_warning">Weibo-tili on kelvoton, lisää tili uudelleen</string>
   <string name="sms">Viestit</string>
   <string name="soundrecorder_sync_only_in_wifi">Synkronoi vain Wi-Fi-verkolla</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Ääninauhuri ei käytä mobiilidataa nauhoituksien lataamiseen tai lähettämiseen</string>

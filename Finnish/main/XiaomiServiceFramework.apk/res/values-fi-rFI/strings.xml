@@ -2,9 +2,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="app_name">Xiaomi service framework</string>
-  <string name="error_device_id_message">"Virheellinen Laitteen ID: %s
+  <string name="error_device_id_message">"Virheellinen laitteen ID: %s
 Laitteen ID täytyy olla pätevä IMEI-koodi tai MAC-osoite. Ilman laitteen id:tä, joitakin tili- ja pilviominaisuuksia ei ole käytössä."</string>
-  <string name="error_device_id_title">Pätevää Laitteen ID:tä ei saatu</string>
+  <string name="error_device_id_title">Pätevää laitteen ID:tä ei saatu</string>
   <string name="explain_send_sms_permission_button">Vahvista</string>
   <string name="explain_send_sms_permission_msg">Ottaaksesi %s käyttöön, Xiaomi Service Framework lähettää tekstiviestin vahvistaakseen puhelinnumerosi. Operaattorisi veloittaa sinua normaalista tekstiviestistä.</string>
   <string name="explain_send_sms_permission_title">Vahvista puhelinnumerosi</string>

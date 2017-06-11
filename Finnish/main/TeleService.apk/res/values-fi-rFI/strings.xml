@@ -738,6 +738,7 @@ Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="new_pin_label">Uusi PIN-koodi</string>
   <string name="no_call_barring">Puhelunesto ei ole käytössä</string>
   <string name="no_change">Muutoksia ei tehty.</string>
+  <string name="no_checked_network">Et voi muodostaa yhteyttä mobiiliverkkoon ja soittaa puheluita. Valitaanko toinen verkko?</string>
   <string name="no_internet_available">Jos haluat soittaa SIP-puhelun, tarkista ensin internetyhteytesi.</string>
   <string name="no_vm_number">Puhelinvastaajan numero puuttuu</string>
   <string name="no_vm_number_msg">SIM-kortille ei ole tallennettu puhelinvastaajan numeroa.</string>

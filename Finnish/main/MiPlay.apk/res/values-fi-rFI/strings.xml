@@ -6,6 +6,7 @@
   <string name="enable_wifi_message">Ota Wi-Fi käyttöön etsiäksesi ja yhdistääksesi lähellä oleviin laitteisiin.</string>
   <string name="enable_wifi_title">Ota Wi-Fi käyttöön</string>
   <string name="media_feature_projection">Peilaa näyttö</string>
+  <string name="media_route_controller_disconnect">Katkaise yhteys</string>
   <string name="media_status_error">Virhe</string>
   <string name="media_status_started">Yhdistetty</string>
   <string name="media_status_starting">Yhdistetään…</string>

@@ -92,6 +92,16 @@
   <string name="pc_activity_title">Optimoi akku</string>
   <string name="pm_lable_name">Tietoa root-oikeuksista</string>
   <string name="power_autorun_apps_empty">Ei käynnistyviä sovelluksia</string>
+  <string name="fastboot_locked_answer_1">Fastboot on perinteinen Mi laitteiden asennusmenetelmä. Kun laite on Fastboot-tilassa, kaikkiin siihen tallennettuihin tietoihin päästään käsiksi ja ne voidaan poistaa suoraan. Lukitsemme Fastbootin varmistaaksemme, että tietosi pysyvät turvallisina, jos hukkaat laitteen ja se takaa myös Etsi laite -ominaisuuksien luotettavuuden.</string>
+  <string name="fastboot_locked_answer_2">Jos hukkaat laitteesi, Fastboot takaa laitteeseen tallennettujen tietojen turvallisuuden. Jos avaat Fastbootin, et voi enää lukita laitettasi etäkäytöllä tai poistaa laitteen tietoja käyttämällä Etsi laite -ominaisuutta. Siksi emme suosittele laitteesi Fastbootin avaamista.</string>
+  <string name="fastboot_locked_answer_3">Sinun täytyy käyttää avaustyökalua (unlock tool) MIUI:n verkkosivuilta. Jotta voit avata laitteen, meidän täytyy varmistaa, että laite kuuluu sinulle. Siksi sinun pitäisi kirjautua sisään Mi Tililläsi ja ottaa Etsi laite -ominaisuus käyttöön.</string>
+  <string name="fastboot_locked_question_1">Miksi Fastbootin täytyy olla lukittu?</string>
+  <string name="fastboot_locked_question_2">Liittyykö Fastbootin avaamiseen mitään riskejä?</string>
+  <string name="fastboot_locked_question_3">Tiedän riskeistä, mutta haluan silti avata laitteeni. Mitä minun pitää tehdä?</string>
+  <string name="fastboot_status_locked_info">Fastboot ei ole avattu tässä laitteessa</string>
+  <string name="fastboot_status_locked_summary">Root-käyttöoikeutta ei saada</string>
+  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+  <string name="fastboot_unlock_web_title">Mene viralliselle MIUI verkkosivulle ja hae avaustyökalu (unlock tool).</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
   <string name="privacy_prompt_traffic_purchase_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta saadaan tietoa datan oston vaihtoehdoista.</string>
   <string name="release_memory">Tyhjennä välimuisti</string>

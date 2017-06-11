@@ -113,6 +113,30 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="few">%1$d katselukertaa</item>
         <item quantity="many">%1$d katselukertaa</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">1 kohde</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s maksuriskiä</item>
+        <item quantity="one">%s maksuriski</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s maksusovellusta on suojattu</item>
+        <item quantity="one">%s maksusovellus on suojattu</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s sovellusta on suojattu</item>
+        <item quantity="one">%s sovellus on suojattu</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s sovellusta ei ole suojattu</item>
+        <item quantity="one">%s sovellus ei ole suojattu</item>
+    </plurals>
+    <plurals name="scan_result_description">
+        <item quantity="other">Skannauksen tulos: %d maksuriskejä löytyi</item>
+        <item quantity="one">Skannauksen tulos: %d maksuriski löytyi</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d turvallista kohdetta</item>
         <item quantity="one">%1$d turvallinen kohde</item>
@@ -145,9 +169,21 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d sovelluksella ei ole root-oikeuksia</item>
         <item quantity="one">%d sovelluksella ei ole root-oikeuksia</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d poikkeusta</item>
+        <item quantity="one">%d poikkeus</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Operaattorin datan käyttötilastoja ei ole synkronoitu %d päivään</item>
+        <item quantity="one">Operaattorin datan käyttötilastoja ei ole synkronoitu %d päivään</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Päivityksiä saatavilla %d sovellukselle.</item>
         <item quantity="one">Päivitys saatavilla %d sovellukselle.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d päivää edellisestä tarkistuksesta</item>
+        <item quantity="one">%d päivä edellisestä tarkistuksesta</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d riskiä,</item>
@@ -193,26 +229,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d sovellusta löydetty</item>
         <item quantity="zero">0 sovellusta löydetty</item>
         <item quantity="one">%d sovellus löydetty</item>
-    </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d kohdetta</item>
-        <item quantity="one">Yksi kohde</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s maksuriskiä</item>
-        <item quantity="one">%s maksuriski</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s maksusovellusta on suojattu</item>
-        <item quantity="one">%s maksusovellus on suojattu</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s sovellusta on suojattu</item>
-        <item quantity="one">%s sovellus on suojattu</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s sovellusta ei ole suojattu</item>
-        <item quantity="one">%s sovellus ei ole suojattu</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d lukittua sovellusta odottaa välimuistin tyhjennystä</item>

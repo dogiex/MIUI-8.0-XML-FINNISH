@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ad_service">Mainospalvelu</string>
-  <string name="app_label">HTML-lukija</string>
-  <string name="app_name_which_call">Sovellus:%s</string>
-  <string name="app_version_which_call">Sovellusversio:%s</string>
-  <string name="ime_privacy_policy">Valitse Näppäimistö</string>
-  <string name="license_host_unreachable">"Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon heti, mene %s"</string>
-  <string name="loading">Ladataan…</string>
-  <string name="mibi_license">Mi Krediitti Käyttöehdot</string>
+  <string name="app_label">HTML-katseluohjelma</string>
+  <string name="app_name_which_call">Sovellus: %s</string>
+  <string name="app_version_which_call">Sovellusversio: %s</string>
+  <string name="ime_privacy_policy">Valitse näppäimistö</string>
+  <string name="license_host_unreachable">Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon nyt, mene %s toisella yhdistetyllä laitteella.</string>
+  <string name="loading">Odota hetki…</string>
+  <string name="mibi_license">Mi Krediitin Käyttöehdot</string>
   <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
-  <string name="open_wifi_connect_title">Yhdistä kohteeseen %1$s</string>
+  <string name="open_wifi_connect_title">Yhdistetty kohteeseen %1$s</string>
   <string name="permdesc_accessDrm">Sallii sovelluksen käyttää DRM-suojattua sisältöä.</string>
-  <string name="policy_name">Käytäntö:%s</string>
-  <string name="settings_ad_loading">Ladataan…</string>
-  <string name="settings_ad_loading_unavailable">Latauksessa ilmeni ongelma.</string>
-  <string name="settings_license_activity_loading">Ladataan…</string>
+  <string name="policy_name">Protokolla: %s</string>
+  <string name="settings_ad_loading">Odota hetki…</string>
+  <string name="settings_ad_loading_unavailable">Tietoja ei voitu ladata.</string>
+  <string name="settings_license_activity_loading">Odota hetki…</string>
   <string name="settings_license_activity_title">Vapaan lähdekoodin lisenssit</string>
-  <string name="settings_license_activity_unavailable">Lisenssien lataamisessa on ongelma.</string>
-  <string name="settings_safetylegal_activity_loading">Ladataan…</string>
-  <string name="settings_safetylegal_activity_title">Turvallisuustieto</string>
-  <string name="settings_safetylegal_activity_unreachable">"Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon heti, mene %s millä tahansa tietokoneella, jossa on Internet-yhteys."</string>
-  <string name="settings_safetylegal_title">Turvallisuustieto</string>
+  <string name="settings_license_activity_unavailable">Lisenssien lataaminen epäonnistui.</string>
+  <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
+  <string name="settings_safetylegal_activity_title">Turvallisuustiedot</string>
+  <string name="settings_safetylegal_activity_unreachable">Verkkoon ei saada yhteyttä. Nähdäksesi tämän tiedon nyt, mene %s millä tahansa tietokoneella, jossa on Internetyhteys.</string>
+  <string name="settings_safetylegal_title">Turvallisuustiedot</string>
 </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d valittu</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">Poistetaanko %1$d sovellusta?</item>
+        <item quantity="one">Poistetaanko %1$d sovellus?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="other">%1$d sovellusta poistettu</item>
+        <item quantity="one">%1$d sovellus poistettu</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">%1$d sovellusta ei voi poistaa</item>
+        <item quantity="one">%1$d sovellusta ei voi poistaa</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">sivu %1$d, %2$d sovellusta</item>
+        <item quantity="one">sivu %1$d, %2$d sovellus</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">Poistetaanko %1$d taustakuvaa?</item>
+        <item quantity="one">Poistetaanko %1$d taustakuva?</item>
+    </plurals>
+</resources>

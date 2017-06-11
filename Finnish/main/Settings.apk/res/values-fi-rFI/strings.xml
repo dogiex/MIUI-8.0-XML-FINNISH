@@ -2842,6 +2842,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="regulatory_information">Lakitiedot</string>
   <string name="remove_account_failed">Järjestelmänvalvoja ei salli tätä muutosta</string>
   <string name="remove_account_label">Poista tili</string>
+  <string name="remove_continue">Poista</string>
   <string name="remove_device_admin">Poista käytöstä</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Poista työprofiili</string>
@@ -3925,6 +3926,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="uninstall_all_users_text">Poista kaikilta käyttäjiltä</string>
   <string name="uninstall_dlg_msg">Poistaminen poistaa kaikki sovellustiedot.</string>
   <string name="uninstall_dlg_title">Poistetaanko nyt?</string>
+  <string name="uninstall_protected_dlg_msg">Järjestelmäsovelluksien poistaminen saattaa estää joitakin MIUI:n osia toimimasta oikein. Poistetaanko siitä huolimatta?</string>
+  <string name="uninstall_protected_dlg_title">Järjestelmäsovelluksien poistaminen</string>
   <string name="uninstall_text">Poista</string>
   <string name="uninstall_wifi_master_key">Poista Wi-Fi Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Vastaavat kloonatut sovellukset poistetaan sovellustietojen mukana.</string>

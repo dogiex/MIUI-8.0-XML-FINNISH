@@ -69,7 +69,7 @@
   <string name="add_to_bookmark">Kirjanmerkit</string>
   <string name="add_to_desk">Lisää Kotinäytölle</string>
   <string name="add_to_desk_lite_mode_toast">Kotinäytölle lisääminen epäonnistui Lite-tilassa</string>
-  <string name="add_to_desk_success">Lisätty Kotinäytölle</string>
+  <string name="add_to_desk_success">Lisättiin Kotinäytölle</string>
   <string name="add_to_quicklink">Aloitussivu</string>
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
   <string name="adjust_text_zoom_toast">Jos vaihdat tekstin zoomausta, jotkut sivustot saattavat näyttää sisällön väärin</string>
@@ -86,7 +86,7 @@
   <string name="aqi_quality_index_moderate">ILI %1$s</string>
   <string name="aqi_quality_index_pure">ILI %1$s</string>
   <string name="aqi_quality_index_unhealthy">ILI %1$s</string>
-  <string name="autoSwithcingSearchEngineTips">Vaihdettiin hakukoneeksi se, jota käytät usein</string>
+  <string name="autoSwithcingSearchEngineTips">Vaihdettiin usein käytettyyn hakukoneeseen</string>
   <string name="autofill_keyboard_accessory_content_description">Suosituksia saatavilla</string>
   <string name="autofill_popup_content_description">Näytetään automaattisen täyttämisen ponnahdusikkuna</string>
   <string name="autologin_bar_error">Kirjautuminen epäonnistui</string>
@@ -476,8 +476,8 @@ Poistutaanko tältä sivulta?"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Peruuta</string>
   <string name="navigationbar_rightbutton_actiontext_go">Siirry</string>
   <string name="navigationbar_rightbutton_actiontext_search">Etsi</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Yhdistä tähän verkkoon</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Avoin Wi-Fi verkko on saatavilla</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Löydettiin läheltä Wi-Fi Hotspot. Yritetäänkö yhdistää?</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi-verkko on käytettävissä</string>
   <string name="new_folder_name_lable">Ryhmän nimi</string>
   <string name="next_button_label">Seuraava</string>
   <string name="no_app_open_document">Tälle toiminnolle ei löytynyt soveltuvaa sovellusta</string>
@@ -494,7 +494,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="older">Vanhempi</string>
   <string name="open_app_confirm_message">Sallitaanko tämän sivun avata %s?</string>
   <string name="open_file_explorer_failed">Tiedostonhallintaa ei voitu avata</string>
-  <string name="open_voice_permission">Avaa äänen verkkokäyttöoikeudet</string>
+  <string name="open_voice_permission">Salli mikrofonin yhdistää internetiin</string>
   <string name="opening_file_error">Valittua tiedostoa ei voitu avata</string>
   <string name="page_info">Sivun tiedot</string>
   <string name="page_info_address">Osoite:</string>
@@ -519,10 +519,10 @@ Poistutaanko tältä sivulta?"</string>
   <string name="pref_adblock_counts">%d estetty</string>
   <string name="pref_adblock_title">Mainostenesto</string>
   <string name="pref_auto_update_under_wifi">Päivitä käyttäen Wi-Fi:ä</string>
-  <string name="pref_automatic_matching_searchengines_title">Vaihda hakukoneeseen, jota käytät usein</string>
+  <string name="pref_automatic_matching_searchengines_title">Vaihda usein käytettyyn hakukoneeseen</string>
   <string name="pref_category_hint">Kategoria</string>
   <string name="pref_check_security_url_summary">Lähetä verkkosivujen URL-osoite Mi:n palvelimille tarkastaakseen sen turvallisuuden</string>
-  <string name="pref_check_security_url_summary_international">Jotta parempaa palvelua voidaan tarjota, salli selaimen noutaa URL-osoitteesi</string>
+  <string name="pref_check_security_url_summary_international">Salli Selaimen käyttää vierailemiesi verkkosivustojen URL-osoitteita saadaksesi parempia suosituksia.</string>
   <string name="pref_check_security_url_title">Tarkista URL-osoitteen turvallisuus</string>
   <string name="pref_check_security_url_title_international">Nouda URL-osoite</string>
   <string name="pref_clear_adblock_statistics">Tyhjennä Mainosteneston historia</string>
@@ -683,7 +683,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="save_to_camera">Tallenna kameraan</string>
   <string name="save_to_camera_failed">Kuvaa ei voida tallentaa</string>
   <string name="save_to_camera_success">Tallennettu kameraan</string>
-  <string name="scanner_uninstalled_text">Jatka käyttöä asentamalla lukija</string>
+  <string name="scanner_uninstalled_text">Asenna Lukija jatkaaksesi</string>
   <string name="scanner_uninstalled_title">Lukija on poistettu</string>
   <string name="sdcard_error">Tarkista SD-korttisi</string>
   <string name="search">Etsi</string>
@@ -719,17 +719,17 @@ Poistutaanko tältä sivulta?"</string>
   <string name="send_comment_title">Kommentoi</string>
   <string name="senddesktop">Kotinäyttö</string>
   <string name="sendstartpage">Aloitussivu</string>
-  <string name="share_image_text">Nautin todella hienosti kuvasta</string>
-  <string name="share_page_text">Nautin %1$s | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Parantaaksesi selaimen tietoturvaa ja vastaanottaaksesi merkityksellisiä suosituksia, salli Selaimen käyttöoikeus seuraaville kohteille:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Vastaanottaaksesi merkityksellisiä suosituksia, salli Selaimelle käyttöoikeus seuraaville kohteille:</string>
+  <string name="share_image_text">Katso mitä löysin!</string>
+  <string name="share_page_text">Katso mitä löysin: %1$s | %2$s</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia, salli Selaimelle seuraavien kohteiden käyttö:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Vastaanottaaksesi suosituksia, salli Selaimelle seuraavien kohteiden käyttö:</string>
   <string name="show_security_tip_dialog_title">Palveluehdot</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Sivuston turvallisuuden ja paikkatietopohjaisten tietojen siirtopalvelujen ja sääpalvelun tarjoamiseksi selaimen on saatava seuraavat tiedot:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia ja sijaintitietoihisi perustuvia säätietoja, salli Selaimelle seuraavien kohteiden käyttö:</string>
   <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
   <string name="skip_button_label">Ohita</string>
   <string name="skip_current_version">Ohita tämä versio</string>
-  <string name="snapshot_failed">Ei voitu tallentaa offline-käyttöä varten.</string>
-  <string name="snapshot_successed">Tallenna offline-lukemista varten</string>
+  <string name="snapshot_failed">Sivua ei voitu tallentaa.</string>
+  <string name="snapshot_successed">Sivu tallennettiin onnistuneesti</string>
   <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
   <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
   <string name="ssl_certificate">Turvallisuusvarmenne</string>
@@ -869,11 +869,11 @@ Poistutaanko tältä sivulta?"</string>
   <string name="video_unknown_duration">Tuntematon kesto</string>
   <string name="view_certificate">Näytä varmenne</string>
   <string name="view_document_downloaded_files">Katso ladattuja tiedostoja Latauksissa</string>
-  <string name="voice_check_network">Tarkista verkko ja yritä uudelleen</string>
-  <string name="voice_connect_network">Verkkoon ei saada yhteyttä</string>
-  <string name="voice_network_connection">Äänihaku tarvitsee verkkoyhteyden toimiakseen, salli verkkoyhteys</string>
-  <string name="voice_search_permission">Äänihaku tarvitsee äänen käyttöoikeuden, mene selaimen asetuksiin ja salli äänen käyttöoikeudet</string>
-  <string name="voice_semantic_analysis">Semanttinen analyysi verkon jälkeen</string>
+  <string name="voice_check_network">Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="voice_connect_network">Verkkoon ei saatu yhteyttä.</string>
+  <string name="voice_network_connection">Äänihaku tarvitsee internetyhteyden toimiakseen normaalisti.</string>
+  <string name="voice_search_permission">Äänihaku tarvitsee käyttää mikrofoniasi toimiakseen normaalisti.</string>
+  <string name="voice_semantic_analysis">Selain pystyy analysoimaan semantiikan, kun olet sallinut sen yhdistää.</string>
   <string name="voice_sub_title">Etkö tiedä mitä sanoa? Kokeile avata mi.com!</string>
   <string name="voice_title">Sano komentosi</string>
   <string name="voice_title_distinguish">Käsitellään…</string>

@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_folder_description">Näytä kansiot</string>
+  <string name="action_mode_switcher_grid_description">Ruudukkonäkymä</string>
+  <string name="action_mode_switcher_list_description">Luettelonäkymä</string>
+  <string name="action_settings_description">Avaa Asetukset</string>
   <string name="add_account_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa?</string>
   <string name="alarm_bar_title">Muistutus</string>
   <string name="alert_action_edit_anyway">Jatka muokkaamista</string>
@@ -16,6 +20,7 @@
   <string name="app_name">Muistio</string>
   <string name="app_widget">Muistio</string>
   <string name="call_folder_name">Puheluiden muistiot</string>
+  <string name="cancel_alarm_description">Peruuta hälytys</string>
   <string name="cloud_trash_bin_title">Poista muistiot Mi Pilvestä</string>
   <string name="cta_reminder">Tämä sovellus tarvitsee yhteyden internettiin varmuuskopioidakseen muistiot Mi Pilveen ja myös pääsyn lukea yhteystietosi merkatakseen muistiot puheluiden aikana.</string>
   <string name="default_folder_name">Nimetön kansio</string>
@@ -40,6 +45,8 @@
   <string name="dlg_title_use_privacy_password">Käytä Yksityisyydensuojan salasanaa</string>
   <string name="dlg_unhide_message">Tuodaan esiin…</string>
   <string name="done">Valmis</string>
+  <string name="edit_header_done_description">Valmis</string>
+  <string name="edit_header_home_description">Takaisin</string>
   <string name="enable_sync">Synkronoi</string>
   <string name="enable_sync_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa (%1$s)?</string>
   <string name="error_contact_not_exist">Yhteystietoa ei ole olemassa</string>
@@ -63,7 +70,9 @@
   <string name="info_note_enter_desktop">Lisätty Kotinäytölle</string>
   <string name="loading_text">Odota hetki…</string>
   <string name="login_sync">Kirjaudu sisään &amp; synkronoi</string>
+  <string name="menu_add_description">Lisää muistio</string>
   <string name="menu_add_folder">Lisää kansioon</string>
+  <string name="menu_add_folder_description">Lisää kansio</string>
   <string name="menu_create_folder">Uusi kansio</string>
   <string name="menu_delete">Poista</string>
   <string name="menu_delete_forever">Poista pysyvästi</string>
@@ -115,12 +124,13 @@
   <string name="search_path_notes">Järjestelmäsovellukset/Muistio</string>
   <string name="search_setting_description">Hae tekstiä muistioistasi</string>
   <string name="select_account_prompt">Synkronoi muistiot</string>
+  <string name="set_alarm_description">Aseta hälytys</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui</string>
-  <string name="sina_share_fail_content_repeat">Jakaminen epäonnistui, sisältö on jo olemassa…</string>
+  <string name="sina_share_fail_content_repeat">Olet jo jakanut tämän</string>
   <string name="sina_share_pendding">Lähetetään…</string>
   <string name="sina_share_success">Lähetetty</string>
-  <string name="sina_token_expired_warning">Weibo tili on vanhentunut: Kiinnitä uudelleen</string>
-  <string name="sina_token_invalid_warning">Weibo tili on virheellinen: Kiinnitä uudelleen</string>
+  <string name="sina_token_expired_warning">Weibo tili on vanhentunut, lisää tili uudelleen</string>
+  <string name="sina_token_invalid_warning">Weibo tili on virheellinen, lisää tili uudelleen</string>
   <string name="snippet_image_stub">[Kuva]</string>
   <string name="snippet_image_template">[Kuva %1$s]</string>
   <string name="sns_action_send">Lähetä</string>
@@ -139,6 +149,9 @@
   <string name="sns_toast_empty">Tyhjää viestiä ei voi lähettää</string>
   <string name="sns_toast_over_limit">Lähetetty kuvana</string>
   <string name="sync_tips">Synkronoi muistiot Mi Pilveen napauttamalla.</string>
+  <string name="theme_blue_description">Sininen</string>
+  <string name="theme_green_description">Vihreä</string>
+  <string name="theme_red_description">Punainen</string>
   <string name="theme_title_antique">Syksy</string>
   <string name="theme_title_arty">Kukka</string>
   <string name="theme_title_blue">Sininen</string>
@@ -150,6 +163,8 @@
   <string name="theme_title_red">Punainen</string>
   <string name="theme_title_star">Tähdet</string>
   <string name="theme_title_yellow">Keltainen</string>
+  <string name="theme_white_description">Valkoinen</string>
+  <string name="theme_yellow_description">Keltainen</string>
   <string name="toast_message_add_image_fail">Kuvaa ei voitu lisätä</string>
   <string name="toast_notes_delete_success">Poistettiin onnistuneesti</string>
   <string name="toast_notes_hidden">Piilotettiin onnistuneesti</string>
@@ -158,6 +173,14 @@
   <string name="toast_notes_unhidden_count">Poistettiin %1$s piilosta onnistuneesti</string>
   <string name="toast_reach_text_limit_attachment">Uusia liitetiedostoja ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_truncate">Tämä muistio on liian pitkä. Joitakin tekstejä poistettiin lopusta.</string>
+  <string name="toolbar_check_description">Lisää valintaruutu</string>
+  <string name="toolbar_delete_description">Poista tämä muistio</string>
+  <string name="toolbar_gallery_description">Lisää kuva</string>
+  <string name="toolbar_more_description">Lisää</string>
+  <string name="toolbar_redo_description">Tee uudelleen</string>
+  <string name="toolbar_share_description">Jaa tämä muistio</string>
+  <string name="toolbar_theme_description">Valitse teema</string>
+  <string name="toolbar_undo_description">Kumoa</string>
   <string name="trash_folder_name">Roskakori</string>
   <string name="trash_folder_reminder">Muistiot jotka poistat, poistetaan pysyvästi 30 päivän kuluttua.</string>
   <string name="undo">Kumoa</string>
