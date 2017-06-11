@@ -9,7 +9,7 @@
   <string name="accessibility_hdr">HDR vaihtopainike</string>
   <string name="accessibility_mode_dismiss_button">Sulje Tilan Valinta painike</string>
   <string name="accessibility_peak">Focus peak button</string>
-  <string name="accessibility_portrait_button">Pystykuva-tila</string>
+  <string name="accessibility_portrait_button">Muotokuva</string>
   <string name="accessibility_review_thumbnail">Viimeaikaisin kuva</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Lisäasetuksien painike</string>
@@ -49,7 +49,7 @@
   <string name="dual_camera_lens_covered_toast">Linssi on peitetty.</string>
   <string name="dual_camera_lowlight_toast">Näyttää siltä, että on liian pimeää.</string>
   <string name="dual_camera_too_close_toast">Kamera on liian lähellä kohdetta.</string>
-  <string name="dual_camera_use_hint">"Stereo-tila auttaa sinua hämärtämään taustan.
+  <string name="dual_camera_use_hint">"Muotokuva auttaa sinua sumentamaan taustan.
 Kohde ei saa olla pidemmällä, kuin 2 metriä."</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Äänenkaappauksen aloittaminen epäonnistui</string>
@@ -102,7 +102,9 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="portrait_mode_lowlight_hint">Nyt on liian pimeää</string>
   <string name="portrait_mode_too_close_hint">Siirry kauemmaksi kohteesta</string>
   <string name="portrait_mode_too_far_hint">Aseta kohde alle 2,5 metrin päähän</string>
-  <string name="portrait_with_facebeauty_hint">Kaunista on nyt käytettävissä Pystykuva-tilassa.</string>
+  <string name="portrait_mode_use_hint">"Muotokuva auttaa sinua sumentamaan taustan,
+jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
+  <string name="portrait_with_facebeauty_hint">Kaunista on nyt käytettävissä Muotokuvassa.</string>
   <string name="pref_advance_settings">Lisäasetukset</string>
   <string name="pref_audio_focus_entry_front">Etu</string>
   <string name="pref_audio_focus_entry_general">Normaali</string>
@@ -211,10 +213,10 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Normaali 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kameran kehys</string>
-  <string name="pref_camera_portrait_mode_entry_off">Pystykuva-tila pois käytöstä</string>
-  <string name="pref_camera_portrait_mode_entry_on">Pystykuva-tila käytössä</string>
-  <string name="pref_camera_portrait_mode_title">Pystykuva-tila</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Kaunista Pystykuva-tilassa</string>
+  <string name="pref_camera_portrait_mode_entry_off">Muotokuva pois käytöstä</string>
+  <string name="pref_camera_portrait_mode_entry_on">Muotokuva käytössä</string>
+  <string name="pref_camera_portrait_mode_title">Muotokuva</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Kaunista Muotokuvassa</string>
   <string name="pref_camera_proximity_lock_summary">Lukitse eleet, kun laitetaan taskuun</string>
   <string name="pref_camera_proximity_lock_title">Tasku-tila</string>
   <string name="pref_camera_raw_title">RAW</string>
