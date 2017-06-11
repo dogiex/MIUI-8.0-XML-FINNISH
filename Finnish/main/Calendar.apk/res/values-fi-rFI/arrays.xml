@@ -171,4 +171,13 @@
         <item>Eteenpäin</item>
         <item>Taaksepäin</item>
     </string-array>
+    <string-array name="week_header_name">
+        <item>SU</item>
+        <item>MA</item>
+        <item>TI</item>
+        <item>KE</item>
+        <item>TO</item>
+        <item>PE</item>
+        <item>LA</item>
+    </string-array>
 </resources>

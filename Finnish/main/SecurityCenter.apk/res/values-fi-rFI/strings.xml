@@ -153,6 +153,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_appupdate_remind">Ilmoita päivityksistä</string>
   <string name="app_manager_bipartition">Kloonatut sovellukset</string>
   <string name="app_manager_card_permission_title">Käyttöoikeudet</string>
+  <string name="app_manager_clear_data_dlg_message">Tämän sovelluksen kaikki sovellusdatat poistetaan pysyvästi. Tämä sisältää kaikki tiedostot, asetukset, tilit, tietokannat, jne.</string>
+  <string name="app_manager_clear_data_dlg_title">Poistetaanko sovellusdata?</string>
+  <string name="app_manager_clear_failed_dlg_message">Sovelluksen datan poistaminen epäonnistui.</string>
+  <string name="app_manager_clear_failed_dlg_title">Poista data</string>
   <string name="app_manager_default_close_summary">Oletuksia ei asetettu.</string>
   <string name="app_manager_default_open">Avaa oletuksena</string>
   <string name="app_manager_default_open_summary">Olet valinnut tämän sovelluksen käynnistymään oletuksena joillekin toiminnoille.</string>
@@ -165,8 +169,10 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_force_stop_dlg_text">Jos pakkolopetat sovelluksen, se saattaa käyttäytyä omituisesti.</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
   <string name="app_manager_go_to_manger_app">Hallitse</string>
-  <string name="app_manager_have_not_consume">无</string>
+  <string name="app_manager_have_not_consume">Ei mitään</string>
   <string name="app_manager_loading_data">Ladataan tietoa…</string>
+  <string name="app_manager_manage_space">Hallitse tilaa</string>
+  <string name="app_manager_menu_clear_data">Tyhjennä data</string>
   <string name="app_manager_more_times">Käytetty 100000+ kertaa</string>
   <string name="app_manager_my_app">Sovellukseni</string>
   <string name="app_manager_not_record">Sovelluksia ei löytynyt, jotka tarvitsevat käyttöoikeuksia</string>
@@ -189,6 +195,11 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_permission_send_mms_over">Lähetti tekstiviestejä 100000+ kertaa</string>
   <string name="app_manager_permission_startself_summary">Sovellukset, jotka käynnistyvät automaattisesti varaavat RAM-muistia ja kuluttavat akkua nopeammin</string>
   <string name="app_manager_permission_startself_title">Käynnistys</string>
+  <string name="app_manager_permission_summary_reject">Rajoita kaikki</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Virransäästö</string>
+  <string name="app_manager_powerkeeper_no_bg">Rajoita taustatyöskentelyä</string>
+  <string name="app_manager_powerkeeper_no_restrict">Ei rajoituksia</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Rajoita taustasovelluksia</string>
   <string name="app_manager_rebide_wakepath">Rajoita</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimoi ketjukäynnistys</string>
   <string name="app_manager_reduce_wakepath_summary">Rajoittamalla käynnistystä minimoi ketjukäynnistystä. Rajoitetaanko sovelluksen %s käynnistys?</string>
@@ -465,7 +476,6 @@ mikäli unohdat sen"</string>
   <string name="cancal_to_setting_fingerprint">Peruuta</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_button">Peruuta</string>
-  <string name="cancle">Peruuta</string>
   <string name="card_main_applock_action">Ota käyttöön</string>
   <string name="card_main_applock_summary">Suojaa yksityiset kohteet Sovelluslukolla</string>
   <string name="card_main_applock_title">Sovelluslukko</string>
@@ -616,7 +626,6 @@ mikäli unohdat sen"</string>
   <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
   <string name="dialog_remobe_luckymoney_ok">Uusi</string>
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
-  <string name="dialog_roaming_apps_sorted_title">Järjestä</string>
   <string name="dialog_roaming_message">Sallitaanko tämän sovelluksen käyttää mobiilidataa ulkomaan roaming-tilassa?</string>
   <string name="dialog_roaming_title">Ulkomaan roaming</string>
   <string name="dialog_title_attention">Huomio</string>
@@ -779,8 +788,6 @@ mikäli unohdat sen"</string>
   <string name="hints_handle_item_text_safe">Turvallinen</string>
   <string name="hints_handle_item_text_virus">Virukset: %d</string>
   <string name="hints_input_roaming_daily_limit">Syötä datan käytön raja</string>
-  <string name="hints_install_apps_new">Ei käytetty koskaan</string>
-  <string name="hints_install_apps_today">Käytetty tänään</string>
   <string name="hints_last_virus_scan_none">Skannausta ei suoritettu koskaan</string>
   <string name="hints_last_virus_scan_risk">Skannattu %d päivää sitten: Epäilyttävä</string>
   <string name="hints_last_virus_scan_safe">Skannattu %d päivää sitten: Turvallinen</string>
@@ -929,7 +936,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta väärää yritystä!</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
-  <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+  <string name="lockscreen_access_pattern_cell_added">Kuvio lisätty</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
   <string name="lockscreen_access_pattern_start">Kuvio aloitettu</string>
@@ -940,6 +947,13 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Paina listalla olevia kohteita pitkään lisätäksesi ne poikkeuksiin</string>
   <string name="long_click_dialog_title">Huomio</string>
+  <string name="low_memory_clean_dialog_msg">Tyhjennä ensin vähintään 100 Mt tiedostoja</string>
+  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
+  <string name="low_memory_warning_dialog_cancel_button">Peruuta</string>
+  <string name="low_memory_warning_dialog_msg">Vapauta tilaa laitteeltasi jatkaaksesi</string>
+  <string name="low_memory_warning_dialog_ok_button">Tyhjennä</string>
+  <string name="low_memory_warning_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
   <string name="lucky_activity">红包活动</string>
   <string name="lucky_alarm">红包闹钟</string>
   <string name="lucky_alarm_app">红包活动倒计时</string>
@@ -1462,6 +1476,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pref_specified_adjust">Aseta omavalintainen datan raja</string>
   <string name="pref_specified_traffic_settings">Datarajan asetukset</string>
   <string name="pref_summary_lock_screen_memory_clean">Tyhjennä automaattisesti, kun laite on lukittu</string>
+  <string name="pref_summary_upload_data_usage">Ilmoita datan käyttötilastosi auttaaksesi meitä parantamaan MIUI:ta. Ilmoittaminen noudattaa Tietosuojakäytäntöämme.</string>
   <string name="pref_summary_virus_white_list">Estä valittuja sovelluksia joutumasta siivotuksi</string>
   <string name="pref_title_declaration">Tärkeä vastuuvapauslauseke</string>
   <string name="pref_title_diagnostics_show_float_notification">Kelluvat ilmoitukset</string>
@@ -1472,6 +1487,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pref_title_traffic_limit_number">Koko</string>
   <string name="pref_title_traffic_speed_state">Näytä verkon nopeus</string>
   <string name="pref_title_update_notification">Datan käytön ilmoitukset</string>
+  <string name="pref_title_upload_data_usage">Ilmoita datan käyttötilastot</string>
   <string name="pref_title_virus_white_list">Poikkeukset</string>
   <string name="pref_traffic_manage_title">Datan käyttö</string>
   <string name="pref_warning_values">Datan käytön varoitustaso</string>
@@ -1778,8 +1794,6 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_other_setting_group">Muut asetukset</string>
   <string name="st_settings_name">Estolistan asetukset</string>
   <string name="st_show_block_notification">Ilmoita estetyistä kohteista</string>
-  <string name="st_show_num_keyword">" avainsanaa"</string>
-  <string name="st_show_num_number">" numeroa"</string>
   <string name="st_sms_group">Viestit</string>
   <string name="st_sub_title_customize_mode_name">Nimi</string>
   <string name="st_sub_title_whiteblack_list_group">Estolista</string>

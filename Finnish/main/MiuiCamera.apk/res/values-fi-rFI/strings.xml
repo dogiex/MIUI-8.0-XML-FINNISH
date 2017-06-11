@@ -82,8 +82,8 @@ Kohde ei saa olla pidemmällä, kuin 2 metriä."</string>
   <string name="face_beauty_intelligent_level_3">Korkea</string>
   <string name="face_beauty_smart">Älykäs</string>
   <string name="groupshot_mode_use_hint">"Kamera ottaa useita kuvia
-ja luo kuvan, jossa kaikki ovat parhaimmillaan."</string>
-  <string name="hibernate_hint">Herätä koskettamalla mihin tahansa</string>
+ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
+  <string name="hibernate_hint">Herätä Kamera koskettamalla näyttöä</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää NFC:n nyt. Korvataanko tämä ominaisuus?</string>
   <string name="no_storage">Syötä SD-kortti ennen kameran käyttöä</string>
@@ -99,10 +99,10 @@ ja luo kuvan, jossa kaikki ovat parhaimmillaan."</string>
   <string name="pano_how_to_use_prompt_to_move">Aloita panoroimaan hitaasti</string>
   <string name="path_settings">Järjestelmäsovellukset/Kamera/Asetukset</string>
   <string name="portrait_mode_depth_effect_success_hint">Syvyystehosteet</string>
-  <string name="portrait_mode_lowlight_hint">Lisää valoa tarvitaan</string>
-  <string name="portrait_mode_too_close_hint">Siirry kauemmaksi</string>
+  <string name="portrait_mode_lowlight_hint">Nyt on liian pimeää</string>
+  <string name="portrait_mode_too_close_hint">Siirry kauemmaksi kohteesta</string>
   <string name="portrait_mode_too_far_hint">Aseta kohde alle 2,5 metrin päähän</string>
-  <string name="portrait_with_facebeauty_hint">Kaunista-asetus vaakakuvassa on nyt käytettävissä.</string>
+  <string name="portrait_with_facebeauty_hint">Kaunista on nyt käytettävissä Pystykuva-tilassa.</string>
   <string name="pref_advance_settings">Lisäasetukset</string>
   <string name="pref_audio_focus_entry_front">Etu</string>
   <string name="pref_audio_focus_entry_general">Normaali</string>
@@ -214,7 +214,7 @@ ja luo kuvan, jossa kaikki ovat parhaimmillaan."</string>
   <string name="pref_camera_portrait_mode_entry_off">Pystykuva-tila pois käytöstä</string>
   <string name="pref_camera_portrait_mode_entry_on">Pystykuva-tila käytössä</string>
   <string name="pref_camera_portrait_mode_title">Pystykuva-tila</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Kaunista pystykuva-tilassa</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Kaunista Pystykuva-tilassa</string>
   <string name="pref_camera_proximity_lock_summary">Lukitse eleet, kun laitetaan taskuun</string>
   <string name="pref_camera_proximity_lock_title">Tasku-tila</string>
   <string name="pref_camera_raw_title">RAW</string>
@@ -292,7 +292,7 @@ ja luo kuvan, jossa kaikki ovat parhaimmillaan."</string>
   <string name="pref_front_mirror_entry_on">Käytössä</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
-  <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat ryhmäselfie-tilassa</string>
+  <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat Ryhmäselfie-tilassa</string>
   <string name="pref_manual_exposure_title">Valotusaika</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">Tarkennus</string>

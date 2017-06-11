@@ -94,7 +94,6 @@
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="login_website_in_case_forget_password">Palauta salasanasi menemällä osoitteeseen: www.mi.com/micloud</string>
-  <string name="missed_call_text">%d vastaamatonta puhelua</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattu Bluetooth-laitteella</string>
   <string name="open_camera_hint_text">Avaa Kamera pyyhkäisemällä vasemmalle</string>
   <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
@@ -111,7 +110,6 @@ Kirjaudu sisään osoitteeseen i.mi.com, mene “Etsi laite (Find device)”, va
   <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %s minuutin kuluttua</string>
   <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %s sekunnin kuluttua</string>
   <string name="symbol_colon">:</string>
-  <string name="unlock_sim_string">Avaa SIM</string>
   <string name="unlock_string">Avaa</string>
   <string name="unlocking_sim_card">Avataan SIM-korttia</string>
   <string name="unlockscreen_low_battery">Yhdistä laturi nyt</string>

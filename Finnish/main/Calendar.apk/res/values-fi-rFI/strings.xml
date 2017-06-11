@@ -275,6 +275,8 @@
   <string name="insert_event_dialog_title">Huomio</string>
   <string name="insert_event_toast_add_failed">Lisääminen epäonnistui</string>
   <string name="insert_event_toast_add_success">Tapahtuma luotu</string>
+  <string name="install_weather_app_error">应用加载失败.</string>
+  <string name="install_weather_app_loading">加载中...</string>
   <string name="item_num_selected">%1$d valittu</string>
   <string name="joke_card_click_toast">长按可复制笑话</string>
   <string name="joke_card_icon_text">%1$s人笑过</string>
@@ -319,6 +321,7 @@
   <string name="menu_preferences">Asetukset</string>
   <string name="menu_reminder_preferences">Muistutukset</string>
   <string name="missing_name">(Ei nimeä)</string>
+  <string name="missing_required_permission">Olet poistanut käytöstä tarvittavan käyttöoikeuden.</string>
   <string name="modify_all">Muuta tapahtuman kaikki toistokerrat</string>
   <string name="modify_all_following">Muuta tämä ja kaikki tulevat tapahtumat</string>
   <string name="modify_event">Muuta vain tämä tapahtuma</string>
@@ -554,7 +557,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="weekly">Viikottain (joka %s)</string>
   <string name="when_label">Milloin</string>
   <string name="widget_events">Seuraava tapahtuma</string>
-  <string name="widget_get_weather_info">Hae säätiedot &gt;</string>
+  <string name="widget_get_weather_info">Hae säätiedot</string>
   <string name="widget_no_events">Ei tapahtumia</string>
   <string name="widget_select_style">Valitse tyyli</string>
   <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>

@@ -261,8 +261,8 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contacts_setting_title">Yhteystietojen asetukset</string>
   <string name="contacts_unavailable_add_account">Kirjaudu tiliin</string>
   <string name="contacts_unavailable_create_contact">Lisää uusi yhteystieto</string>
-  <string name="contacts_unavailable_import_contacts">Tuo yhteystietoja</string>
-  <string name="convenient_service">Convient Service</string>
+  <string name="contacts_unavailable_import_contacts">Tuo tiedostosta</string>
+  <string name="convenient_service">Palvelut</string>
   <string name="copy_number">Kopioi</string>
   <string name="copy_text">Kopioi leikepöydälle</string>
   <string name="createContactShortcutSuccessful">Yhteystiedot-widget lisätty aloitusruutuun.</string>
@@ -988,7 +988,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="previous">Edellinen</string>
   <string name="private_num">Yksityinen numero</string>
   <string name="profileSavedErrorToast">Muutoksia profiiliini ei voitu tallentaa</string>
-  <string name="profileSavedToast">Profiilini tallennettu</string>
+  <string name="profileSavedToast">Profiili tallennettu</string>
   <string name="profile_binded_numbers">Todennettu Numero: %s</string>
   <string name="profile_display_name">Luo profiili</string>
   <string name="profile_name">Oma profiili</string>

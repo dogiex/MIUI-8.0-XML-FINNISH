@@ -183,7 +183,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_detail_force_sync">Synkronoi nyt</string>
   <string name="micloud_detail_lastest">Synkronoitu</string>
   <string name="micloud_detail_lastest_with_off">Synkronoitu</string>
-  <string name="micloud_detail_need_charge">Yhdistä laturi jatkaaksesi synkronointia</string>
+  <string name="micloud_detail_need_charge_or_sleep">Yhdistä laturi ja sammuta näyttö jatkaaksesi synkronointia</string>
   <string name="micloud_detail_not_sync">%d odottaa synkronointia</string>
   <string name="micloud_detail_not_synced">Ei synkronoitu</string>
   <string name="micloud_detail_ok">OK</string>
