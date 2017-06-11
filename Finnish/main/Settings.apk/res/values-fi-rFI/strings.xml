@@ -23,6 +23,8 @@
   <string name="access_control_recording_intro_header">Piirrä kuvio avataksesi:</string>
   <string name="access_control_reset_by_account">Kirjaudu Mi Tilillesi palauttaaksesi salasanasi</string>
   <string name="access_point_names">Tukiasemien nimet</string>
+  <string name="accessibility_autoclick_delay_preference_title">Viive ennen klikkausta</string>
+  <string name="accessibility_autoclick_preference_title">Klikkaa, kun osoitin lopettaa liikkumisen</string>
   <string name="accessibility_captioning_title">Tekstitykset</string>
   <string name="accessibility_category_personal">Henkilökohtaiset profiilit</string>
   <string name="accessibility_category_work">Työprofiilit – %s</string>
@@ -74,6 +76,8 @@ Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&am
   <string name="accessibility_system_title">Järjestelmä</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Suurikontrastinen teksti</string>
   <string name="accessibility_toggle_large_text_preference_title">Suuri teksti</string>
+  <string name="accessibility_toggle_master_mono_summary">Yhdistä kanavat, kun ääntä toistetaan</string>
+  <string name="accessibility_toggle_master_mono_title">Monoääni</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Päivitä näytön suurennus sovellussiirtymissä</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Päivitä näytön suurennus automaatt.</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Näytön suurennus</string>

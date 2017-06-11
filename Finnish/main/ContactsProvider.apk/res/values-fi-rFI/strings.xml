@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Yhteystietojen tallennus</string>
+  <string name="app_label">Yhteystietojen Tallennustila</string>
   <string name="call_log_provider_label">Soittohistoria</string>
   <string name="create_contact">Uusi yhteystieto</string>
   <string name="debug_dump_database_message">Olet aikeissa 1) tehdä sisäiseen tallennustilaan kopion tietokannasta, joka sisältää kaikki yhteystietoihin liittyvät tiedot ja puhelulokit ja 2) lähettää sen. Muista poistaa kopio heti kopioituasi sen laitteelta tai kun sähköposti on vastaanotettu.</string>
