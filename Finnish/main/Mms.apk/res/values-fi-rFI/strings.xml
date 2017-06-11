@@ -191,7 +191,6 @@
   <string name="guild_msim_switcher">Vaihda SIM-kortteja napauttamalla</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Piilotettu lähettäjän osoite</string>
-  <string name="hint_search_sms">%d viestiä</string>
   <string name="hold_to_talk">Pidä puhuaksesi</string>
   <string name="hybrid_check_network">Verkkoasetukset</string>
   <string name="hybrid_data_error">Tapahtui virhe</string>
@@ -308,7 +307,7 @@
   <string name="mx_current_status">Asetukset</string>
   <string name="mx_dspt">Lähetä teksti- ja multimediaviestejä toisiin MIUI laitteisiin ilman lisäkustannuksia, kun olet yhteydessä Wi-Fi-verkkoon.</string>
   <string name="mx_dspt_listview">Lähetä viestejä toisiin MIUI laitteisiin ilman lisäkustannuksia</string>
-  <string name="mx_dspt_provision">Mi Viestillä voit lähettää viestejä toisille MIUI käyttäjille ilman lisäkustannuksia. Lähtevä tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="mx_dspt_provision">Mi Viestillä voit lähettää viestejä toisille MIUI käyttäjille ilman lisäkustannuksia. Lähtevä tekstiviesti saatetaan vaatia Mi Viestin uudelleenaktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä. Lisäksi tämä palvelu tarvitsee pääsyn mobiilidataan toimiakseen normaalisti.</string>
   <string name="mx_dspt_provision_ex">Lähetä viestejä ja soita puheluita toisille MIUI käyttäjille ilman operaattorin lisäkustannuksia. VoIP palvelun tarjoaa Weihui. Katso Weihuin Tietosuojakäytäntö.</string>
   <string name="mx_dspt_provision_ex2">Tietosuojakäytäntö</string>
   <string name="mx_enable">Mi Viesti</string>

@@ -12,8 +12,26 @@
         <item quantity="other">Valittua toimintoa ei voi käyttää, kun puhelin on hätäpuhelujen takaisinsoittotilassa. Puhelin on takaisinsoittotilassa %s minuutin ajan. Haluatko poistua nyt?</item>
         <item quantity="one">Valittua toimintoa ei voi käyttää, kun puhelin on hätäpuhelujen takaisinsoittotilassa. Puhelin on takaisinsoittotilassa %s minuutin ajan. Haluatko poistua nyt?</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numeroa</item>
+        <item quantity="one">%d numero</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numeroa poistetaan.</item>
+        <item quantity="one">%d numero poistetaan.</item>
+    </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Voit valita maksimissaan %s henkilöä, valitse uudelleen.</item>
         <item quantity="one">Voit valita maksimissaan %s henkilön, valitse uudelleen.</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">viive: %s sekuntia</item>
+        <item quantity="one">viive: %s sekunti</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d yritystä jäljellä."</item>
+        <item quantity="one">"
+%d yritys jäljellä."</item>
     </plurals>
 </resources>

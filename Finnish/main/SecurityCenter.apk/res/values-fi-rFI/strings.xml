@@ -171,6 +171,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
   <string name="app_manager_go_to_manger_app">Hallitse</string>
   <string name="app_manager_have_not_consume">Ei mitään</string>
+  <string name="app_manager_instruction">Ohje</string>
   <string name="app_manager_loading_data">Ladataan tietoa…</string>
   <string name="app_manager_manage_space">Hallitse tilaa</string>
   <string name="app_manager_menu_clear_data">Tyhjennä data</string>
@@ -206,6 +207,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_reduce_wakepath_summary">Rajoittamalla käynnistystä minimoi ketjukäynnistystä. Rajoitetaanko sovelluksen %s käynnistys?</string>
   <string name="app_manager_reject_count_over">Estetty 100000+ kertaa</string>
   <string name="app_manager_show_detail_infos">Näytä kaikki</string>
+  <string name="app_manager_sort">Lajittele</string>
   <string name="app_manager_start_by">Käynnistäjä %s</string>
   <string name="app_manager_start_count_over">100000+ kertaa</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Rajoitetaanko ketjukäynnistys poistamalla %s?</string>

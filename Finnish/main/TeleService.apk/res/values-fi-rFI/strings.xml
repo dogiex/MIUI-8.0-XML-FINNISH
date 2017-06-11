@@ -57,7 +57,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Vain kuulokkeet</string>
   <string name="auto_answer_scenario_title">Automaattisen vastaamisen asetukset</string>
   <string name="auto_answer_setting_title">Automaattisen vastaamisen asetukset</string>
-  <string name="auto_answer_summary_delay">viive: %s sekuntia</string>
   <string name="auto_answer_summary_not_enabled">Pois</string>
   <string name="auto_record_yellowpage">Hakemisto</string>
   <string name="auto_redial_pref_summary">Soita automaattisesti uudelleen jos linja on varattu</string>
@@ -184,8 +183,6 @@
   <string name="call_record_auto_unknown_number">Tuntemattomat numerot</string>
   <string name="call_record_auto_whitelist">Oma lista</string>
   <string name="call_record_auto_whitelist_no_item">Lisää numero koskettamalla lisää (+) painiketta</string>
-  <string name="call_record_auto_whitelist_summary">%d numeroa</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 numero</string>
   <string name="call_record_loading_content">Ladataan…</string>
   <string name="call_record_off_summary">Ei käytössä</string>
   <string name="call_record_on_summary">Käytössä</string>
@@ -199,7 +196,6 @@
   <string name="call_recording_notification_title_error">Puhelun nauhoittaminen epäonnistui</string>
   <string name="call_recording_notification_toggle_title">Puhelun nauhoittamisen ilmoitus</string>
   <string name="call_recording_setting">Puhelun nauhoittaminen</string>
-  <string name="call_remove_exception_numbers_confirm">%d numeroa poistetaan.</string>
   <string name="call_settings">Puhelin</string>
   <string name="call_settings_primary_user_only">Vain ensisijainen käyttäjä voi muuttaa puheluasetuksia.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
@@ -876,8 +872,6 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
 PIN2-koodin aiheiset toiminnot lukitaan yhden väärän yrityksen jälkeen.."</string>
   <string name="pin2_or_fdn_invalid">FDN-numeroa ei päivitetty. PIN2 on virheellinen tai puhelinnumero hylättiin.</string>
   <string name="pin2_unblocked">PIN2-koodi ei ole enää estetty</string>
-  <string name="pin_attempts">"
-%d yritystä jäljellä."</string>
   <string name="pin_changed">PIN-koodi päivitetty</string>
   <string name="pin_failed">Virheellinen PIN-koodi</string>
   <string name="pin_lock_warning">"

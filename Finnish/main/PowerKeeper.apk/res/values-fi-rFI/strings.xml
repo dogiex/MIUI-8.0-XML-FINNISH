@@ -163,6 +163,11 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="set_cpufreq_max">MAX CPU taajuus</string>
   <string name="set_lcd_mode">Näyttö-tila</string>
   <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
+  <string name="sleep_config_disable_description">MIUI ei paranna illan virransäästöä</string>
+  <string name="sleep_config_disable_title">Ei käytössä</string>
+  <string name="sleep_config_enhance_description">MIUI parantaa illan valmiustilaa</string>
+  <string name="sleep_config_enhance_title">Käytössä</string>
+  <string name="sleep_config_mode_title">Lepotilat</string>
   <string name="still">Kuva</string>
   <string name="ui">Normaali</string>
   <string name="user_define_mode">Nimi</string>

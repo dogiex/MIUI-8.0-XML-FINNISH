@@ -73,8 +73,9 @@
   <string name="add_to_quicklink">Aloitussivu</string>
   <string name="added_to_bookmarks">Lisätty kirjanmerkkeihin</string>
   <string name="adjust_text_zoom_toast">Jos vaihdat tekstin zoomausta, jotkut sivustot saattavat näyttää sisällön väärin</string>
+  <string name="agree">Suostu</string>
   <string name="alert_tips">Tämä sivusto saattaa olla turvallisuusriski</string>
-  <string name="allow">Allow</string>
+  <string name="allow">Salli</string>
   <string name="app_new_version">Uusin versio tästä sovelluksesta on jo asennettuna</string>
   <string name="app_update_install">Valmiina asentamaan päivitys.</string>
   <string name="application_name">Selain</string>
@@ -131,8 +132,6 @@
   <string name="browserFrameNetworkErrorLabel">Yhteysongelma</string>
   <string name="cancel">Peruuta</string>
   <string name="cannot_download">Vain http- tai https- URL-osoitteita voi ladata</string>
-  <string name="check_permission_of_current_location">Nykyinen sijaintitieto</string>
-  <string name="check_permission_of_current_url">Vierailemasi verkkosivujen URL-osoitteet</string>
   <string name="choosertitle_sharevia">Jaa sovelluksessa</string>
   <string name="clear_history">Tyhjennä historia</string>
   <string name="clear_most_visited">Viimeaikainen historia</string>
@@ -303,9 +302,10 @@
   <string name="error_not_acceptable">Synkronointi on pois käytöstä.</string>
   <string name="error_title">Synkronointi epäonnistui</string>
   <string name="error_unauthorized">Synkronointi Mi Tililläsi on otettu pois käytöstä liian monen kirjautumisyrityksen takia.</string>
-  <string name="exit_browser_warning">Sulje Selain nyt?</string>
-  <string name="file_dir">Hakemisto</string>
-  <string name="file_name">Nimi</string>
+  <string name="exit">Poistu</string>
+  <string name="exit_browser_warning">Poistutaanko Selaimesta nyt?</string>
+  <string name="file_dir">Vaihda kansiota</string>
+  <string name="file_name">"Nimi: "</string>
   <string name="file_picker">Valitse polku</string>
   <string name="filename_empty_alert_message">Syötä tiedostonimi</string>
   <string name="filename_illegal_alert_message">Virheellinen merkki poistettiin tiedoston nimestä</string>
@@ -721,10 +721,10 @@ Poistutaanko tältä sivulta?"</string>
   <string name="sendstartpage">Aloitussivu</string>
   <string name="share_image_text">Katso mitä löysin!</string>
   <string name="share_page_text">Katso mitä löysin: %1$s | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia, salli Selaimelle seuraavien kohteiden käyttö:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Vastaanottaaksesi suosituksia, salli Selaimelle seuraavien kohteiden käyttö:</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Vastaanottaaksesi suosituksia, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
   <string name="show_security_tip_dialog_title">Palveluehdot</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Parantaaksesi tietoturvaa ja vastaanottaaksesi suosituksia ja sijaintitietoihisi perustuvia säätietoja, salli Selaimelle seuraavien kohteiden käyttö:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Selain tarvitsee internetyhteyden toimiakseen normaalisti. Parantaaksesi tietoturvaa, vastaanottaaksesi suosituksia ja säätietoja, salli Selaimelle pääsy vierailemiesi verkkosivustojen URL-osoitteisiin ja sijaintitietoosi.</string>
   <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
   <string name="skip_button_label">Ohita</string>
   <string name="skip_current_version">Ohita tämä versio</string>

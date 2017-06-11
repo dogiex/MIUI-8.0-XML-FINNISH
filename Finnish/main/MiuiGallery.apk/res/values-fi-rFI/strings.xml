@@ -1110,7 +1110,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="slim_now">Optimoi nyt</string>
   <string name="slim_result_size">Säästettiin %1$s</string>
   <string name="slim_result_title">Optimoitu onnistuneesti</string>
-  <string name="slim_tip_msg">Kuvat optimoidaan kun laitteesi on yhdistettynä Wi-Fi-verkkoon. Lataa alkuperäiset kuvat napauttamalla \"Lataa kuva\" valikkoa kuvan tiedot-sivulta.</string>
+  <string name="slim_tip_msg">Tiedostot optimoidaan kun laitteesi on yhdistettynä Wi-Fi-verkkoon. Lataa täyden resoluution tiedostot napauttamalla \"Lataa alkuperäinen tiedosto\" valikkoa kuvan tiedot-sivulla.</string>
   <string name="slim_tip_title">Optimoidaan tallennustilaa</string>
   <string name="slimming">Optimoidaan…</string>
   <string name="start_debug">Debuggaa Galleria</string>
