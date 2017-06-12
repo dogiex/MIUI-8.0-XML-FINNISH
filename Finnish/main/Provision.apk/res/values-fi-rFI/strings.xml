@@ -52,7 +52,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="provision_inputmethod_policy_description1">Tietosuojakäytäntö</string>
   <string name="setting_locale">Asetetaan kieltä…</string>
   <string name="shut_down">Sammuta</string>
-  <string name="sim_card_detecting">Tarkastetaan SIM-korttia…</string>
+  <string name="sim_card_detecting">Tarkistetaan SIM-korttia…</string>
   <string name="sim_card_detecting_title">SIM-kortin tarkastus</string>
   <string name="sim_card_detection">Aseta SIM-kortti</string>
   <string name="sim_card_detection_info">Asettaaksesi SIM-korttisi, lue laitteen mukana tulleet ohjeet.</string>

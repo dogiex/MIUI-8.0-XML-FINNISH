@@ -350,7 +350,7 @@
   <string name="menu_install">Asenna tämä sovellus</string>
   <string name="menu_view">Näytä kansiossa</string>
   <string name="month_day_format">"d. MMMM'ta'"</string>
-  <string name="msg_cleanup_db_update_checking">Tarkastetaan päivityksiä…</string>
+  <string name="msg_cleanup_db_update_checking">Tarkistetaan päivityksiä…</string>
   <string name="msg_cleanup_db_update_time_unknown">Viimeisin päivitys tuntematon</string>
   <string name="msg_update_error_code_already_running">Päivitetään…</string>
   <string name="msg_update_error_code_network_error">Verkkoon ei saada yhteyttä</string>
@@ -430,7 +430,7 @@
   <string name="privacy_browser_desc">Etsityt asiat</string>
   <string name="privacy_cache_desc">Tili, salasana, historia, asetukset, ja muuta</string>
   <string name="privacy_cache_empty">Ei yksityisiä tietoja</string>
-  <string name="privacy_cache_scaning">Tarkastetaan…</string>
+  <string name="privacy_cache_scaning">Tarkistetaan…</string>
   <string name="privacy_cache_title">Henkilökohtainen tieto</string>
   <string name="privacy_clipboard_desc">Leikepöydän sisältö</string>
   <string name="privacy_clipboard_type">Leikepöytä</string>
@@ -454,7 +454,7 @@
   <string name="share">Jaa</string>
   <string name="similar_image_desc">Poista samankaltaiset kuvat</string>
   <string name="similar_image_empty">Kaksoiskappaleita ei löytynyt</string>
-  <string name="similar_image_scaning">Tarkastetaan…</string>
+  <string name="similar_image_scaning">Tarkistetaan…</string>
   <string name="similar_image_title">Kuvat</string>
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponsoroitu</string>

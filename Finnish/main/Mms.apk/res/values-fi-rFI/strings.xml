@@ -160,7 +160,7 @@
   <string name="failed_to_add_media">Et voi lisätä %1$s viestiisi.</string>
   <string name="failed_to_resize_image">Kuvan kokoa ei muokattu.</string>
   <string name="fake_cell_alert_hint">Näyttää siltä, että tämä viesti lähetettiin eri numerosta, miltä näyttää. Ole varovainen, jos viesti sisältää taloudellisten tietojen pyyntöjä.</string>
-  <string name="fake_cell_checking_hint">Tarkastetaan turvallisuutta…</string>
+  <string name="fake_cell_checking_hint">Tarkistetaan turvallisuutta…</string>
   <string name="fake_cell_detection_entry">Väärän mobiilitukiaseman tunnistus</string>
   <string name="fake_cell_safe_hint">Tämä viesti on turvallinen</string>
   <string name="fake_cell_timeout_hint">Turvallisuuden tarkastaminen epäonnistui</string>
@@ -291,7 +291,7 @@
   <string name="mx_activate_status_desc_check_net_connection">Verkkoon ei saatu yhteyttä</string>
   <string name="mx_activate_status_desc_fail">Mi Viestin aktivointi epäonnistui</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">Lähetetään aktivointiviesti…</string>
-  <string name="mx_activate_status_desc_query_activte_info">Tarkastetaan SIM-kortin tietoa…</string>
+  <string name="mx_activate_status_desc_query_activte_info">Tarkistetaan SIM-kortin tietoa…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Syöttämäsi puhelinnumero on virheellinen</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Mi Viestin aktivointi epäonnistui</string>
   <string name="mx_and_voip_enable">Mi Viesti &amp; Ääni</string>
@@ -640,7 +640,7 @@ Yritys tehty: %s."</string>
   <string name="url_fraud_title">Verkkosivu voi olla väärennös</string>
   <string name="url_fraud_visit">Siirry silti</string>
   <string name="url_result_safe">Tämä URL-osoite on turvallinen</string>
-  <string name="url_scanning">Tarkastetaan URL-osoitetta…</string>
+  <string name="url_scanning">Tarkistetaan URL-osoitetta…</string>
   <string name="user_agreement1">Lue sovellettavat ehdot huolellisesti ennen lisäohjelmien asennusta tai ennen kuin käytät tätä tuotetta.</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement3">" ja "</string>

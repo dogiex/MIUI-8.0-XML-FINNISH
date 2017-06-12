@@ -436,7 +436,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_diagnose_success">Heikko verkkosignaali</string>
   <string name="miuichromium_error_page_diagnose_timeout">Yhteyden aikakatkaisu</string>
   <string name="miuichromium_error_page_diagnose_website">Verkkosivu on alhaalla</string>
-  <string name="miuichromium_error_page_diagnosing">Tarkastetaan verkkoa</string>
+  <string name="miuichromium_error_page_diagnosing">Tarkistetaan verkkoa</string>
   <string name="miuichromium_error_page_homepage">Etusivu</string>
   <string name="miuichromium_error_page_mobile">Mobiilidata</string>
   <string name="miuichromium_error_page_network_hijack">Nykyinen verkko ei ole turvallinen</string>

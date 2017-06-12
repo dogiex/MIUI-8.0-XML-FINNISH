@@ -107,7 +107,7 @@
   <string name="release_memory">Tyhjennä välimuisti</string>
   <string name="save_energy_text">Rajoita sovelluksien käynnistystä ja synkronointia taustalla, jotta saat kaiken irti laitteesi akusta</string>
   <string name="save_energy_title">Optimoi akku</string>
-  <string name="scan_installed_games">Tarkastetaan asennettuja pelejä…</string>
+  <string name="scan_installed_games">Tarkistetaan asennettuja pelejä…</string>
   <string name="setting">Asetukset</string>
   <string name="share">Jaa</string>
   <string name="shield_keyboard_detail">Tuplanapauta painikkeita ottaaksesi ne takaisin käyttöön</string>

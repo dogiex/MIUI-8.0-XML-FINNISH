@@ -430,8 +430,8 @@
   <string name="input_hint_prefix">Syötä %1$s</string>
   <string name="insufficient_space">Laitteesi sisäisellä tallennustilalla ei ole tarpeeksi tilaa</string>
   <string name="is_loading_data">Ladataan vieläkin kappaleita. Odota minuutti tai kaksi ja yritä uudelleen.</string>
-  <string name="is_scanning">Tarkastetaan tallennustilaa…</string>
-  <string name="is_scanning_support_online">"Tarkastetaan tallennustilaa…
+  <string name="is_scanning">Tarkistetaan tallennustilaa…</string>
+  <string name="is_scanning_support_online">"Tarkistetaan tallennustilaa…
 (Sillä aikaa voit suoratoistaa musiikkia)"</string>
   <string name="japan_korea_female">Naisartistit (Japani/Korea)</string>
   <string name="japan_korea_group">Yhtyeet (Japani/Korea)</string>

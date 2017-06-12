@@ -940,7 +940,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
   <string name="lockscreen_access_pattern_start">Kuvio aloitettu</string>
-  <string name="lockscreen_glogin_checking_password">Tarkastetaan…</string>
+  <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="loding">Ladataan dataa</string>
@@ -1271,7 +1271,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="optmizingbar_title_system">Järjestelmän tietoturva</string>
   <string name="organization">Organisaatio</string>
   <string name="other_exception_summary">Sinulla ei ole internet-yhteyttä</string>
-  <string name="other_exception_title">Tarkastetaan muita ongelmia</string>
+  <string name="other_exception_title">Tarkistetaan muita ongelmia</string>
   <string name="package_change_notification_summary">Lisää tietoa napauttamalla.</string>
   <string name="package_change_notification_title">Säädä datan raja automaattisesti</string>
   <string name="package_setted_error_notification_summary">Näytä datan käytön yksityiskohdat napauttamalla.</string>

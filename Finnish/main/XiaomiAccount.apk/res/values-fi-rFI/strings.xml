@@ -191,8 +191,8 @@
   <string name="passport_barcode_add_account_prompt">Yhdistä tili skannaamalla QR-koodi uudelleen kirjautumisen jälkeen.</string>
   <string name="passport_change_account">Vaihda tiliä</string>
   <string name="passport_change_phone_number">Vaihda numeroita</string>
-  <string name="passport_checking_account">Tarkastetaan salasanaa…</string>
-  <string name="passport_checking_input">Tarkastetaan…</string>
+  <string name="passport_checking_account">Tarkistetaan salasanaa…</string>
+  <string name="passport_checking_input">Tarkistetaan…</string>
   <string name="passport_click_email_to_valid">"
 
 Aktivoi tilisi seuraamalla

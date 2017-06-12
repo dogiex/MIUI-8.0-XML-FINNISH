@@ -1380,11 +1380,11 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="erase_data">Poista</string>
   <string name="erase_external_storage">Tyhjennä USB-tallennustila</string>
   <string name="erase_external_storage_description">Poista kaikki sisäisen USB-tallennustilan tiedot, kuten musiikki tai valokuvat.</string>
-  <string name="erase_internal_storage">Poista sisäinen tallennustilan sisältö</string>
-  <string name="erase_internal_storage_description">Poista musiikki, kuvat, videot, ja muu käyttäjätiedot</string>
+  <string name="erase_internal_storage">Poista sisäisen tallennustilan sisältö</string>
+  <string name="erase_internal_storage_description">Poista musiikki, kuvat, videot, ja muut käyttäjätiedot</string>
   <string name="erase_optional">Sisältö</string>
   <string name="erase_personal_data">Kaikki puhelimessa olevat tiedostot</string>
-  <string name="erase_personal_data_description">Kaikki tiedostot ja tiedot, sisältää tilit, yhteystiedot, kuvat, ja sovellukset</string>
+  <string name="erase_personal_data_description">Kaikki tiedostot ja tiedot, sisältäen tilit, yhteystiedot, kuvat, ja sovellukset</string>
   <string name="erase_sd_data">Formatoi SD-kortti</string>
   <string name="erase_sd_data_description">Formatointi poistaa kaikki tiedostot ja tiedot Sd-kortilta</string>
   <string name="erase_sure">Henkilökohtaiset tiedot</string>
@@ -2008,7 +2008,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta virheellistä yritystä</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
-  <string name="lockscreen_glogin_checking_password">Tarkastetaan…</string>
+  <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="long_press_volume_down">Paina pitkään Ääni alas-painiketta</string>
@@ -3697,11 +3697,11 @@ Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjenn
 
 Alustamisen jälkeen ^1 toimii vain tässä laitteessa. 
 
-"&lt;b&gt;Alustaminen tarkoittaa, ett&amp;#228; ^1 tyhjennet&amp;#228;&amp;#228;n kaikista tiedoista.&lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menet&amp;#228; t&amp;#228;rkeit&amp;#228; tietoja.</string>
+"Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista. Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_next">Poista tiedot ja alusta</string>
   <string name="storage_wizard_format_confirm_public_body">"^1 on alustettava. 
 
-"&lt;b&gt;Alustaminen tarkoittaa, ett&amp;#228; ^1 tyhjennet&amp;#228;&amp;#228;n kaikista tiedoista. &lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menet&amp;#228; t&amp;#228;rkeit&amp;#228; tietoja.</string>
+"Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista. Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_public_title">Alusta kannettavana tallennustilana</string>
   <string name="storage_wizard_format_confirm_title">Alusta sisäisenä tallennustilana</string>
   <string name="storage_wizard_format_progress_body">Pidä ^1 laitteessa alustuksen ajan.</string>
@@ -3714,7 +3714,7 @@ Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
   <string name="storage_wizard_migrate_body">"Uusi ^1 on nyt käytettävissä, ja voit siirtää kuvasi, tiedostosi ja jotkin sovellukset siihen. 
 
 Siirto vie noin ^2 ja vapauttaa ^3 sisäistä tallennustilaa. Jotkin sovellukset eivät toimi siirron aikana."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron my&amp;#246;t&amp;#228; ^3 saa ^2 lis&amp;#228;tilaa.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body">Siirron kesto on arviolta ^1. Siirron myötä ^3 saa ^2 lisää tilaa.</string>
   <string name="storage_wizard_migrate_confirm_next">Siirrä</string>
   <string name="storage_wizard_migrate_confirm_title">Siirrä tiedot nyt</string>
   <string name="storage_wizard_migrate_details">"Siirron aikana: 
@@ -3753,7 +3753,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_range_symbol_combination">%1$s–%2$s</string>
   <string name="summary_range_verbal_combination">%1$s–%2$s</string>
-  <string name="supl_not_set">&lt;Ei asetettu&gt;</string>
+  <string name="supl_not_set">Ei asetettu</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="suspend_gesture_enabled">Sammuta näyttö kääntämällä puhelin ympäri</string>
   <string name="suspension_ball_enable">Pikavalikon pikakuvaketta</string>
@@ -3783,8 +3783,8 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="sync_menu_sync_now">Synkronoi nyt</string>
   <string name="sync_one_time_sync">"Kosketa ja synkronoi nyt
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa k&amp;#228;ytt&amp;#228;m&amp;#228;&amp;#228;n Google Sync -palvelua!&lt;/font&gt;" 
-Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#228;&amp;#228; yhteystietojasi, tapaamisiasi ynn&amp;#228; muita tietoja mist&amp;#228; tahansa."</string>
+  <string name="sync_plug">Tervetuloa käyttämään Google Sync -palvelua!" 
+Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystietojasi, tapaamisiasi ynnä muita tietoja mistä tahansa."</string>
   <string name="sync_settings">Synkronoi</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Vain Wi-Fi</string>
@@ -3798,7 +3798,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="system_and_device_section_title">Järjestelmä ja laite</string>
   <string name="system_app_settings">Järjestelmäsovellukset</string>
   <string name="system_apps_updater">Järjestelmäsovelluksien päivittäjä</string>
-  <string name="system_backup_section_title">Varmuuskopioi</string>
+  <string name="system_backup_section_title">Varmuuskopiointi</string>
   <string name="system_package">Järjestelmäpäivityksiä ei voi asentaa ulkoiseen mediaan.</string>
   <string name="system_storage">Järjestelmän tallennusmedia</string>
   <string name="system_ui_settings">Näytä SystemUI-viritin</string>

@@ -35,7 +35,7 @@
   <string name="lock_msg_phone">Kontaktin tiedot: %s</string>
   <string name="login_extra_steps">Kirjautumisen varmennus</string>
   <string name="login_failed">Kirjautuminen epäonnistui. %s.</string>
-  <string name="passport_checking_vcode">Tarkastetaan salasanaa…</string>
+  <string name="passport_checking_vcode">Tarkistetaan salasanaa…</string>
   <string name="passport_error_empty_vcode">Syötä varmennus-koodi</string>
   <string name="passport_notification_need_unlock_again">Yritä avata lukitus uudelleen</string>
   <string name="passport_notification_processing">Käsitellään…</string>

@@ -41,7 +41,7 @@
 Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivointiviestiä ei voitu lähettää. Varmista, että SIM-korttisi on aktivoitu.
 Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
-  <string name="activate_popup_desc_error_device_id">Tarkasta IMEI-koodi soittamalla *#06#</string>
+  <string name="activate_popup_desc_error_device_id">Tarkista IMEI-koodi soittamalla *#06#</string>
   <string name="activate_popup_desc_failed_phone_error">Syöttämäsi puhelinnumero on virheellinen.</string>
   <string name="activate_popup_desc_failed_query_info">Puhelinnumeroasi ei löydy. Varmista, että SIM-korttisi on aktivoitu.</string>
   <string name="activate_popup_desc_failed_receive_sms">Varmista, että syöttämäsi puhelinnumero on oikein ja että SIM-korttisi on aktivoitu.</string>
