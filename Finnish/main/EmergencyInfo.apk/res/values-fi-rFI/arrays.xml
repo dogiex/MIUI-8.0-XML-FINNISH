@@ -2,44 +2,44 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään…</item>
+        <item>Todennetaan…</item>
+        <item>Haetaan IP-osoitetta…</item>
+        <item>Yhdistetty</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan yhteyttä…</item>
+        <item>Yhteys katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Väliaikaisesti vältetään huonoa yhteyttä</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Skannataan…</item>
+        <item>Yhdistetään verkkoon %1$s…</item>
+        <item>Todennetaan %1$s kanssa…</item>
+        <item>Haetaan IP-osoitetta verkolta %1$s…</item>
+        <item>Yhdistetty verkkoon %1$s</item>
+        <item>Keskeytetty</item>
+        <item>Katkaistaan yhteyttä verkosta %1$s…</item>
+        <item>Yhteys katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Väliaikaisesti vältetään huonoa yhteyttä</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Älä tarkista ikinä</item>
+        <item>Tarkista vain DRM sisällölle</item>
+        <item>Tarkista aina</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Älä käytä HDCP tarkistusta ikinä</item>
+        <item>Käytä HDCP tarkistusta vain DRM sisällölle</item>
+        <item>Käytä aina HDCP tarkistusta</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Ei käytössä</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -47,107 +47,107 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Ei käytössä</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>Ei käytössä</item>
+        <item>64K per lokipuskuri</item>
+        <item>256K per lokipuskuri</item>
+        <item>1M per lokipuskuri</item>
+        <item>4M per lokipuskuri</item>
+        <item>16M per lokipuskuri</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Ei käytössä</item>
+        <item>Kaikki</item>
+        <item>Kaikki paitsi radio</item>
+        <item>Vain kernel</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Ei käytössä</item>
+        <item>Kaikki lokipuskurit</item>
+        <item>Kaikki paitsi radion lokipuskurit</item>
+        <item>Vain kernelin lokipuskuri</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animaatio poistettu käytöstä</item>
+        <item>Animaatioasteikko .5x</item>
+        <item>Animaatioasteikko 1x</item>
+        <item>Animaatioasteikko 1.5x</item>
+        <item>Animaatioasteikko 2x</item>
+        <item>Animaatioasteikko 5x</item>
+        <item>Animaatioasteikko 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animaatio poistettu käytöstä</item>
+        <item>Animaatioasteikko .5x</item>
+        <item>Animaatioasteikko 1x</item>
+        <item>Animaatioasteikko 1.5x</item>
+        <item>Animaatioasteikko 2x</item>
+        <item>Animaatioasteikko 5x</item>
+        <item>Animaatioasteikko 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animaatio poistettu käytöstä</item>
+        <item>Animaatioasteikko .5x</item>
+        <item>Animaatioasteikko 1x</item>
+        <item>Animaatioasteikko 1.5x</item>
+        <item>Animaatioasteikko 2x</item>
+        <item>Animaatioasteikko 5x</item>
+        <item>Animaatioasteikko 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Ei mitään</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (turvallinen)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (turvallinen)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (turvallinen)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (turvallinen)</item>
+        <item>4K (ylöspäin skaalattu)</item>
+        <item>4K (ylöspäin skaalattu, turvallinen)</item>
+        <item>720p, 1080p (usea näyttö)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Ei mitään</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
+        <item>Systrace (Grafiikka)</item>
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Ei käytössä</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>Ei käytössä</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Ei käytössä</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Normaali raja</item>
+        <item>Ei taustaprosesseja</item>
+        <item>Enintään 1 prosessi</item>
+        <item>Enintään 2 prosessia</item>
+        <item>Enintään 3 prosessia</item>
+        <item>Enintään 4 prosessia</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>Ladataan</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Äänilähde</item>
         <item>MIDI</item>
     </string-array>
     <integer-array name="color_mode_ids">
@@ -157,15 +157,15 @@
     </integer-array>
     <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Hyvin hidas</item>
+        <item>Hidas</item>
+        <item>Normaali</item>
+        <item>Nopea</item>
+        <item>Nopeampi</item>
+        <item>Hyvin nopea</item>
+        <item>Ripeä</item>
+        <item>Hyvin ripeä</item>
+        <item>Nopein</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -184,14 +184,14 @@
         <item>kor</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+        <item>Eloisa (oletus)</item>
+        <item>Luonnollinen</item>
+        <item>Standardi</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Parannetut värit</item>
+        <item>Luonnolliset värit silmin nähden</item>
+        <item>Digitaaliselle sisällölle optimoidut värit</item>
     </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
