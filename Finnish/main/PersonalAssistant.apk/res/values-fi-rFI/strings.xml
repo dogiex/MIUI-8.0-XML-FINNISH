@@ -168,7 +168,7 @@
   <string name="notification_express_app_open">Ota käyttöön</string>
   <string name="notification_express_content">Track orders using Smart assistant</string>
   <string name="notification_express_title">Turn on cards from shopping apps</string>
-  <string name="opened">On</string>
+  <string name="opened">Päällä</string>
   <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_parent">Alipay</string>
   <string name="place_label">Frequent places</string>

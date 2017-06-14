@@ -325,7 +325,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_operation_modify_string">Muokkaa %s</string>
   <string name="auto_task_operation_mute">Äänetön-tila</string>
   <string name="auto_task_operation_no_op">Älä valitse tätä toimintoa</string>
-  <string name="auto_task_operation_open">Ei käytössä</string>
+  <string name="auto_task_operation_open">Päällä</string>
   <string name="auto_task_operation_open_string">Ota %s käyttöön</string>
   <string name="auto_task_operation_string_comma">,</string>
   <string name="auto_task_operation_string_etc">, jne.</string>
@@ -409,7 +409,7 @@ mikäli unohdat sen"</string>
   <string name="btn_lock">Lisää lukko</string>
   <string name="btn_start_diagnostic">Testaa verkkoa</string>
   <string name="btn_stop_diagnostic">Pysäytä</string>
-  <string name="btn_text_already_opened">Käytössä</string>
+  <string name="btn_text_already_opened">Päällä</string>
   <string name="btn_text_cleanup_all">Puhdista</string>
   <string name="btn_text_done">Valmis</string>
   <string name="btn_text_goto_power_rank">Näytä akun tilasto</string>
@@ -1222,7 +1222,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="open_alarm_right_now">立刻开启</string>
   <string name="open_app">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
-  <string name="open_callwait">Käytössä</string>
+  <string name="open_callwait">Päällä</string>
   <string name="open_dnd_mode">勿扰模式</string>
   <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
   <string name="open_lucky">开启小米红包助手</string>
@@ -1350,7 +1350,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_ontime_shutdown">Sammuttamisen aika</string>
   <string name="power_center_repeat">Toista</string>
   <string name="power_center_state_off">Ei käytössä</string>
-  <string name="power_center_state_on">Käytössä</string>
+  <string name="power_center_state_on">Päällä</string>
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
   <string name="power_center_title">Virta</string>

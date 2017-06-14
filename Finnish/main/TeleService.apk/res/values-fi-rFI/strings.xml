@@ -185,7 +185,7 @@
   <string name="call_record_auto_whitelist_no_item">Lisää numero koskettamalla lisää (+) painiketta</string>
   <string name="call_record_loading_content">Ladataan…</string>
   <string name="call_record_off_summary">Ei käytössä</string>
-  <string name="call_record_on_summary">Käytössä</string>
+  <string name="call_record_on_summary">Päällä</string>
   <string name="call_record_setting">Puhelun nauhoittaminen</string>
   <string name="call_record_whitelist_custom">Valitut numerot</string>
   <string name="call_recording_notification_message">Kuuntele napauttamalla.</string>
@@ -608,7 +608,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="lable_all_outgoing_international">Kansainväliset lähtevät puhelut</string>
   <string name="lable_call_barring">Puhelunesto</string>
   <string name="lable_disable">Ei käytössä</string>
-  <string name="lable_enable">Käytössä</string>
+  <string name="lable_enable">Päällä</string>
   <string name="lable_incoming_calls_except">Saapuvat puhelut roaming-tilassa</string>
   <string name="lable_network_not_supported">Verkkoa ei tueta</string>
   <string name="lafs_disable">Paikallisten lentokenttien lentoaikataulut pois käytöstä</string>

@@ -36,7 +36,7 @@
   <string name="accessibility_enable">Esteettömyys</string>
   <string name="accessibility_feature_or_input_method_not_allowed">Ei sallita organisaatiossasi</string>
   <string name="accessibility_feature_state_off">Ei käyt.</string>
-  <string name="accessibility_feature_state_on">Käytössä</string>
+  <string name="accessibility_feature_state_on">Päällä</string>
   <string name="accessibility_global_gesture_preference_description">"Kun tämä ominaisuus on käytössä, voit ottaa esteettömyystoiminnot käyttöön nopeasti kahden vaiheen kautta.
 
 Vaihe 1: paina virtapainiketta, kunnes kuulet äänen tai tunnet värinän.
@@ -45,7 +45,7 @@ Vaihe 2: kosketa kahdella sormella, kunnes kuulet äänivahvistuksen.
 
 Jos laitteella on useita käyttäjiä, tämän pikanäppäimen käyttö lukitusnäytössä ottaa esteettömyystilan käyttöön väliaikaisesti, kunnes laitteen lukitus poistetaan."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Pois käytöstä</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Käytössä</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Päällä</string>
   <string name="accessibility_global_gesture_preference_title">Esteettömyystilan oikotie</string>
   <string name="accessibility_lock_screen_progress">%1$d/%2$d merkkiä käytössä</string>
   <string name="accessibility_long_press_timeout_preference_title">Pitkäkestoisen kosketuksen viive</string>
@@ -670,7 +670,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_unlock_state_too_far">Ei tarpeeksi lähellä</string>
   <string name="bluetooth_unlock_title">Avaa lukitus Bluetooth-laitteella</string>
   <string name="bluetooth_unlock_turned_off">Ei käytössä</string>
-  <string name="bluetooth_unlock_turned_on">Käytössä</string>
+  <string name="bluetooth_unlock_turned_on">Päällä</string>
   <string name="bluetooth_untether_blank">Jaettu internetyhteys katkaistaan laitteesta %1$s.</string>
   <string name="bluetooth_visibility_timeout">Näkyvyyden aikakatkaisu</string>
   <string name="bootloader">Fastboot-tila</string>
@@ -984,6 +984,10 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="daltonizer_type">Korjaustila</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
   <string name="dashboard_title">Asetukset</string>
+  <string name="data_limit">Datan raja</string>
+  <string name="data_saver_off">Pois päältä</string>
+  <string name="data_saver_on">Päällä</string>
+  <string name="data_saver_title">Datan säästäjä</string>
   <string name="data_size_label">Tiedot</string>
   <string name="data_summary_format">%1$s käytetty %2$s jälkeen</string>
   <string name="data_switch_started">Vaihdetaan tiedonsiirron SIM-korttia, odota hetki…</string>
@@ -1201,12 +1205,12 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disabled">Ei käytössä</string>
   <string name="disabled_because_no_backup_security">Käytä asettamalla ensin näytön lukitus</string>
   <string name="disconnect">katkaise yhteys</string>
-  <string name="display_auto_rotate_rotate">Kierrä näytön sisältö</string>
-  <string name="display_auto_rotate_stay_in_current">Säilytä nykyinen suunta</string>
-  <string name="display_auto_rotate_stay_in_landscape">Säilytä vaakanäkymä</string>
-  <string name="display_auto_rotate_stay_in_portrait">Säilytä pystynäkymä</string>
-  <string name="display_auto_rotate_title">Kun laite käännetään</string>
-  <string name="display_font_size_label">Kirjasimen koko:</string>
+  <string name="display_auto_rotate_rotate">Päällä</string>
+  <string name="display_auto_rotate_stay_in_current">Pois päältä</string>
+  <string name="display_auto_rotate_stay_in_landscape">Lukitse vaakanäkymä</string>
+  <string name="display_auto_rotate_stay_in_portrait">Lukitse pystynäkymä</string>
+  <string name="display_auto_rotate_title">Käännä näytön sisältöä</string>
+  <string name="display_font_size_label">Fontin koko:</string>
   <string name="display_label">Näyttö</string>
   <string name="display_order_text">Lajittelu:</string>
   <string name="display_preview_label">Esikatselu:</string>
@@ -1849,7 +1853,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="link_speed_label">Linkin nopeus:</string>
   <string name="loading_notification_apps">Ladataan sovelluksia…</string>
   <string name="local_auto_backup_off">Ei käytössä</string>
-  <string name="local_auto_backup_on">Käytössä</string>
+  <string name="local_auto_backup_on">Päällä</string>
   <string name="local_auto_backup_section_title">Automaattinen varmuuskopiointi</string>
   <string name="local_backup_password_summary_change">Muuta tai vaihda tietokoneen kaikkien tietojen varmuuskopioinnin salasana koskettamalla</string>
   <string name="local_backup_password_summary_none">Tietokoneen kaikkien tietojen varmuuskopiointia ei ole tällä hetkellä suojattu</string>
@@ -2658,7 +2662,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="print_cancelling_state_title_template">Peruutetaan työ %1$s</string>
   <string name="print_failed_state_title_template">Tulostinvirhe työlle %1$s</string>
   <string name="print_feature_state_off">Ei käyt.</string>
-  <string name="print_feature_state_on">Käytössä</string>
+  <string name="print_feature_state_on">Päällä</string>
   <string name="print_job_summary">"%1$s
 %2$s"</string>
   <string name="print_menu_item_add_printer">Lisää tulostin</string>
@@ -3019,7 +3023,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_time_title">Ajasta</string>
   <string name="screen_paper_mode_title">Luku-tila</string>
   <string name="screen_paper_mode_turn_off">Ei käytössä</string>
-  <string name="screen_paper_mode_turn_on">Käytössä</string>
+  <string name="screen_paper_mode_turn_on">Päällä</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Älä näytä uudestaan</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Salli</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Jos haluat päivittää luetteloa sovelluksista, jotka käyttävät Luku-tilaa, sinun on muodostettava yhteys internetiin..</string>
@@ -3791,7 +3795,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suw_more_button_label">Lisää</string>
   <string name="suw_next_button_label">Seuraava</string>
   <string name="switch_off_text">Ei käytössä</string>
-  <string name="switch_on_text">Käytössä</string>
+  <string name="switch_on_text">Päällä</string>
   <string name="switch_screen_button_order">Peilaa painikkeet</string>
   <string name="switch_screen_button_order_desc">Peilaa Takaisin- ja Valikko-painikkeet</string>
   <string name="symbols_not_allowed_for_password">Salasana ei voi sisältää symboleja</string>
@@ -4287,7 +4291,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vpn_no_server_cert">(palvelimelta saatu)</string>
   <string name="vpn_not_used">(ei käytössä)</string>
   <string name="vpn_off">Ei käytössä</string>
-  <string name="vpn_on">Käytössä</string>
+  <string name="vpn_on">Päällä</string>
   <string name="vpn_password">Salasana</string>
   <string name="vpn_routes">Reititykset (esim. 10.0.0.0/8)</string>
   <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
@@ -4631,7 +4635,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="wifi_share_summary2">Kun joku toinen MIUI käyttäjä jakaa verkon, voit yhdistää siihen suoraan ilman salasanaa.</string>
   <string name="wifi_share_summary3">Voit myös jakaa sinsun julkiset Wi-Fi-verkkosi muiden MIUI käyttäjien kanssa.</string>
   <string name="wifi_share_turn_off">Ei käytössä</string>
-  <string name="wifi_share_turn_on">Käytössä</string>
+  <string name="wifi_share_turn_on">Päällä</string>
   <string name="wifi_share_upload">Jaa</string>
   <string name="wifi_share_upload_finish">Jaettu</string>
   <string name="wifi_share_uploading">Jaetaan…</string>
@@ -4719,7 +4723,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="window_animation_scale_title">Ikkuna</string>
   <string name="wireless_networks_settings_title">Langaton verkko ja verkot</string>
   <string name="wireless_off">Ei käytössä</string>
-  <string name="wireless_on">Käytössä</string>
+  <string name="wireless_on">Päällä</string>
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
   <string name="wizard_next">Seuraava</string>

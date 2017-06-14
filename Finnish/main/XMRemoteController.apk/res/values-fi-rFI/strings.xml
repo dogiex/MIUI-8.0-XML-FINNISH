@@ -580,7 +580,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="num_keys">Numeropainikkeet</string>
   <string name="off">Ei käytössä</string>
   <string name="office">Toimisto</string>
-  <string name="on">Käytössä</string>
+  <string name="on">Päällä</string>
   <string name="open">Päällä</string>
   <string name="open_close">Virta</string>
   <string name="operator">Operaattori</string>
@@ -755,8 +755,8 @@ Aktivoidaksesi tilisi, seuraa linkkiä,
   <string name="popup_installed_app_title">Valitse TV:ssä avattava sovellus</string>
   <string name="popup_select_device">Valitse Wi-Fi kaukosäädin</string>
   <string name="power">Virta</string>
-  <string name="power_off">Sammunut</string>
-  <string name="power_on">Käynnissä</string>
+  <string name="power_off">Pois päältä</string>
+  <string name="power_on">Päällä</string>
   <string name="press_to_continue_match">Jatka napauttamalla</string>
   <string name="press_to_match">Parita napauttamalla</string>
   <string name="prev_remote">Edellinen kaukosäädin</string>

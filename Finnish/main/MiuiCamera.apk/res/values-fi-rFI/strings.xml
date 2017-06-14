@@ -163,7 +163,7 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_camera_fisheye_title">Kalansilmä</string>
   <string name="pref_camera_flashmode_entry_auto">Automaattinen</string>
   <string name="pref_camera_flashmode_entry_off">Ei käytössä</string>
-  <string name="pref_camera_flashmode_entry_on">Käytössä</string>
+  <string name="pref_camera_flashmode_entry_on">Päällä</string>
   <string name="pref_camera_flashmode_entry_torch">Taskulamppu</string>
   <string name="pref_camera_flashmode_title">Salaman tila</string>
   <string name="pref_camera_focusmode_entry_auto">Automaattinen</string>
@@ -207,7 +207,7 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_camera_multilevel_entry_normal">Normaali</string>
   <string name="pref_camera_panoramamode_title">Panoraama</string>
   <string name="pref_camera_peak_entry_off">Ei käytössä</string>
-  <string name="pref_camera_peak_entry_on">Käytössä</string>
+  <string name="pref_camera_peak_entry_on">Päällä</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -222,7 +222,7 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_camera_proximity_lock_title">Tasku-tila</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Ei käytössä</string>
-  <string name="pref_camera_recordlocation_entry_on">Käytössä</string>
+  <string name="pref_camera_recordlocation_entry_on">Päällä</string>
   <string name="pref_camera_recordlocation_title">Tallenna sijaintitiedot</string>
   <string name="pref_camera_referenceline_title">Näytä apuviivat</string>
   <string name="pref_camera_saturation_title">Saturaatio</string>
@@ -263,7 +263,7 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Rinnakkainen</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Ei käytössä</string>
-  <string name="pref_camera_touchafaec_entry_on">Käytössä</string>
+  <string name="pref_camera_touchafaec_entry_on">Päällä</string>
   <string name="pref_camera_ubifocus_title">Uudelleentarkennus</string>
   <string name="pref_camera_video_duration_entry_10">10 minuuttia</string>
   <string name="pref_camera_video_duration_entry_120">Ei rajaa</string>
@@ -287,12 +287,12 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_camera_zoom_mode_entry_wide">Laaja</string>
   <string name="pref_camera_zoom_mode_title">Linssi</string>
   <string name="pref_camera_zsl_entry_off">Ei käytössä</string>
-  <string name="pref_camera_zsl_entry_on">Käytössä</string>
+  <string name="pref_camera_zsl_entry_on">Päällä</string>
   <string name="pref_capture_settings">Kamera</string>
   <string name="pref_face_beauty_title">Kaunista</string>
   <string name="pref_front_mirror_entry_auto">Kun kasvot tunnistetaan</string>
   <string name="pref_front_mirror_entry_off">Ei käytössä</string>
-  <string name="pref_front_mirror_entry_on">Käytössä</string>
+  <string name="pref_front_mirror_entry_on">Päällä</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat Ryhmäselfie-tilassa</string>
@@ -302,7 +302,7 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_scan_qrcode_title">Skannaa QR-koodit</string>
   <string name="pref_setting_title">Asetukset</string>
   <string name="pref_simple_hdr_entry_off">Ei käytössä</string>
-  <string name="pref_simple_hdr_entry_on">Käytössä</string>
+  <string name="pref_simple_hdr_entry_on">Päällä</string>
   <string name="pref_skin_beautify_color_title">Väri</string>
   <string name="pref_skin_beautify_eye_title">Silmä</string>
   <string name="pref_skin_beautify_intelligent_title">Älykäs</string>

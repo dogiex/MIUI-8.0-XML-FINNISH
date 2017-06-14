@@ -104,7 +104,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_disable_description">MIUI ei rajoita taustatyöskentelyjä</string>
   <string name="power_config_disable_title">Ei käytössä</string>
   <string name="power_config_enhance_description">MIUI rajoittaa kaiken taustatyöskentelyn, kun se on mahdollista</string>
-  <string name="power_config_enhance_title">Käytössä</string>
+  <string name="power_config_enhance_title">Päällä</string>
   <string name="power_config_event_delete">Poista</string>
   <string name="power_config_idle_notification_summary">Näytä vain sovelluksen ensimmäinen ilmoitus</string>
   <string name="power_config_idle_notification_title">Näytä vain ensimmäinen ilmoitus</string>
@@ -166,7 +166,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="sleep_config_disable_description">MIUI ei paranna illan virransäästöä</string>
   <string name="sleep_config_disable_title">Ei käytössä</string>
   <string name="sleep_config_enhance_description">MIUI parantaa illan valmiustilaa</string>
-  <string name="sleep_config_enhance_title">Käytössä</string>
+  <string name="sleep_config_enhance_title">Päällä</string>
   <string name="sleep_config_mode_title">Lepotilat</string>
   <string name="still">Kuva</string>
   <string name="ui">Normaali</string>

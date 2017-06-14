@@ -27,7 +27,7 @@
   <string name="account_none_user_name">Ei mitään</string>
   <string name="account_protection">Tilin suojaaminen</string>
   <string name="account_protection_off">Ei käytössä</string>
-  <string name="account_protection_on">Käytössä</string>
+  <string name="account_protection_on">Päällä</string>
   <string name="account_secure_info_pref_title">Tilitiedot</string>
   <string name="account_security">Tilin turvallisuus</string>
   <string name="account_security_info_pref_title">Turvallisuustiedot</string>

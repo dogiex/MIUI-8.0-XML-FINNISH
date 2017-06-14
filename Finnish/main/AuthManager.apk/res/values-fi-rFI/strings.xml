@@ -41,11 +41,11 @@
   <string name="Generic_Operating">Työskennellään…</string>
   <string name="Generic_Optimize">Optimoi</string>
   <string name="Generic_Service_Disabled">Ei käytössä</string>
-  <string name="Generic_Service_Enabled">Käytössä</string>
+  <string name="Generic_Service_Enabled">Päällä</string>
   <string name="Generic_Shortcut">Kohdevalikko</string>
   <string name="Generic_ShowSystemApp">Näytä järjestelmäsovellukset</string>
   <string name="Generic_Summary_Disabled">Ei käytössä</string>
-  <string name="Generic_Summary_Enabled">Käytössä</string>
+  <string name="Generic_Summary_Enabled">Päällä</string>
   <string name="Generic_SystemApp">Järjestelmä (%d)</string>
   <string name="Generic_SystemApp_Label">Järjestelmäsovellus</string>
   <string name="Generic_TrustedApp">Luotettu (%1$d)</string>

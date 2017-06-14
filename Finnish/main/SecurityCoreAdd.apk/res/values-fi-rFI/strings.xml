@@ -142,7 +142,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="ok_button">OK</string>
   <string name="openPasswordGuard">Aseta Toisen tilan salasana</string>
   <string name="openSuccess">Otettu käyttöön</string>
-  <string name="opened">Käytössä</string>
+  <string name="opened">Päällä</string>
   <string name="other">Muut</string>
   <string name="otherSettings">Muut asetukset</string>
   <string name="passWordGuardSummary">Siirry Toiseen tilaan Lukitusnäytöltä käyttämällä salasanaa</string>

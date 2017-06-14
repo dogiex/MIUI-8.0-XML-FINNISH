@@ -817,7 +817,7 @@
   <string name="streamloadingtext">Yhdistetään kohteeseen %s</string>
   <string name="sub_explanation">Mi Musiikin datapaketti</string>
   <string name="sub_explanation_message">Mi Musiikin datapaketti on tällä hetkellä tuettuna vain Kiinan Unicomilla. Verkko-operaattorisi ei tue tätä ominaisuutta. Voit ostaa normaalia mobiilidataa.</string>
-  <string name="subed">Käytössä</string>
+  <string name="subed">Päällä</string>
   <string name="suggest_text">Henkilöt, jotka tykkäsivät tästä, tykkäsivät myös</string>
   <string name="sync_only_in_wifi">Synkronoi vain Wi-Fi-yhteydellä</string>
   <string name="sync_only_in_wifi_summary">Synkronoi musiikkisi kaikkien laitteiden välillä Mi Pilven avulla. Musiikin synkronoiminen mobiilidatalla nostaa datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja.</string>
