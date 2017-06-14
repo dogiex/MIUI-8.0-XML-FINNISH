@@ -31,7 +31,7 @@
   <string name="Generic_Clean">Tyhjennä</string>
   <string name="Generic_Configuration">Asetukset</string>
   <string name="Generic_Copyright">LBE Privacy Guardin tarjoama</string>
-  <string name="Generic_Disable">Ei käytössä</string>
+  <string name="Generic_Disable">Poista käytöstä</string>
   <string name="Generic_Enable">Ota käyttöön</string>
   <string name="Generic_Good">Hyvä</string>
   <string name="Generic_HideSystemApp">Piilota järjestelmäsovellukset</string>

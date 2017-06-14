@@ -29,7 +29,7 @@
   <string name="birthday_alarm">Syntymäpäivä herätys</string>
   <string name="birthday_alarm_summary">Soita \"Paljon onnea vaan\" syntymäpäivänäsi oletussoittoäänen sijasta</string>
   <string name="cancel">Peruuta</string>
-  <string name="close_alarm">Sammuta</string>
+  <string name="close_alarm">Sulje herätys</string>
   <string name="common_settings">Asetukset</string>
   <string name="confirm_abort">Hylkää</string>
   <string name="control_set_alarm">Aseta herätys</string>

@@ -56,7 +56,7 @@
   <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
   <string name="do_not_remind_me">"Don't show again"</string>
-  <string name="dont_enable">Turn off</string>
+  <string name="dont_enable">Poista käytöstä</string>
   <string name="download_completed">Download saved to %s</string>
   <string name="download_failed">Download failed</string>
   <string name="download_failed_blocked">"Can't connect to network"</string>

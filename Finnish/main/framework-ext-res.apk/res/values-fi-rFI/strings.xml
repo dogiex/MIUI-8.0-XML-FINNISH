@@ -145,7 +145,7 @@
   <string name="translation_more">Lisää</string>
   <string name="translation_query_error">Tuloksia ei löytynyt</string>
   <string name="translation_query_error_network">Tietoa ei saatu, tarkasta verkkoyhteys ja yritä uudelleen</string>
-  <string name="turn_off">Ei käytössä</string>
+  <string name="turn_off">Poista käytöstä</string>
   <string name="unknown_caller">Tuntematon numero</string>
   <string name="user_switching_dialog_text">Vaihdetaan käyttäjää…</string>
   <string name="xspace_resolver_activity_title">Valitse sovellus</string>
