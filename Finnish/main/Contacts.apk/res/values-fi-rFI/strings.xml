@@ -652,7 +652,7 @@ Syy: %s"</string>
   <string name="menu_deleteContact">Poista</string>
   <string name="menu_deleteGroup">Poista</string>
   <string name="menu_dial_ip_number">Valitse IP-puhelu</string>
-  <string name="menu_dialpad_text">Puhelinnäppäimistö</string>
+  <string name="menu_dialpad_text">Numeronäppäimistö</string>
   <string name="menu_discard">Hylkää muutokset</string>
   <string name="menu_display_all">Näytä kaikki</string>
   <string name="menu_display_selected">Näytä valitut</string>
@@ -861,7 +861,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="notification_action_voicemail_play">Kuuntele</string>
   <string name="notification_new_voicemail_ticker">Uusi ääniviesti %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-  <string name="openDialKeyboard">Puhelinnäppäimistö</string>
+  <string name="openDialKeyboard">Numeronäppäimistö</string>
   <string name="open_contact">Tarkastele yhteystietoa</string>
   <string name="open_dial_pad_description">Avaa numeronvalinta</string>
   <string name="option_delete_contact">Poista</string>
@@ -928,7 +928,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="picker_number_title">Valitse numero</string>
   <string name="picker_postal_title">Valitse postitoimipaikka</string>
   <string name="picker_recent_list_empty">Ei viimeaikaisia yhteystietoja</string>
-  <string name="pkgLabel">Yhteystiedot ja puhelinnäppäimistö</string>
+  <string name="pkgLabel">Yhteystiedot ja numeronäppäimistö</string>
   <string name="play_add_incall_show_entry">Toista tai lisää video</string>
   <string name="play_incall_show_entry">Toista video</string>
   <string name="postalLabelsGroup">Osoite</string>
@@ -963,8 +963,8 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_human">Ihmisääni</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon ääni</string>
-  <string name="preference_dial_pad_touch_tone_switch">Puhelinnäppäimistön ääni</string>
-  <string name="preference_dial_pad_touch_tone_title">Puhelinnäppäimistön ääni</string>
+  <string name="preference_dial_pad_touch_tone_switch">Numeronäppäimistön ääni</string>
+  <string name="preference_dial_pad_touch_tone_title">Numeronäppäimistön ääni</string>
   <string name="preference_display">Näyttäminen</string>
   <string name="preference_displayOptions">Näyttövalinnat</string>
   <string name="preference_export">Vie</string>
