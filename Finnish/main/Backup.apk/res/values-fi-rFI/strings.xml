@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">"Varmuuskopiointi ei ole vielä valmis. Lopetetaanko kuitenkin?"</string>
+  <string name="abort_backup_confirm">Varmuuskopiointi ei ole vielä valmis. Lopetetaanko kuitenkin?</string>
   <string name="abort_restore_confirm">Palauttaminen ei ole valmis. Lopetetaanko silti?</string>
   <string name="account_contact_backup_info">Google Tili, Mi Tili, ja Yhteystietojen tiedot</string>
   <string name="account_login">Kirjaudu sisään</string>
@@ -132,7 +132,7 @@ http://www.miliao.com
   <string name="local_restore_window_title">Paikallinen palautus</string>
   <string name="local_select_account_contact">Tilit &amp; yhteystiedot</string>
   <string name="local_select_audio">Audiotiedostot</string>
-  <string name="local_select_doc">Dokumentit</string>
+  <string name="local_select_doc">Asiakirjat</string>
   <string name="local_select_files">SD-kortti</string>
   <string name="local_select_image">Kuvat</string>
   <string name="local_select_sysdata">Järjestelmä</string>
@@ -250,7 +250,8 @@ http://www.miliao.com
   <string name="task_running_restore_hint">Tämä tehtävä on jo käynnissä taustalla</string>
   <string name="task_service_not_launched">"Tehtävä ei ole vielä alkanut"</string>
   <string name="task_stopped_exception">Palautus peruutettu</string>
-  <string name="total_num">%d items,</string>
+  <string name="total_num">%d kohdetta,</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">Varmuuskopioidaan …</string>
   <string name="trans_backingup_no_items">Synkronoidaan…</string>
   <string name="trans_calculating">Lasketaan…</string>

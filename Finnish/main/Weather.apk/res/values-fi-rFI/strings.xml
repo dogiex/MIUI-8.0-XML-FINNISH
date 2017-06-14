@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Syötä sijainti</string>
-  <string name="act_find_city_hot_attractions_title">Popular sites</string>
+  <string name="act_find_city_hot_attractions_title">Suositut sivustot</string>
+  <string name="act_find_city_hot_city_title">Suositut kaupungit</string>
   <string name="act_find_city_hot_title">Lisää</string>
   <string name="act_set_city_find_side">Paikannetaan…</string>
   <string name="act_set_city_find_side_error">Laitetta ei voitu paikantaa</string>
@@ -263,5 +264,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="wind_direction_no_data">Tuuli</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="xiaomi_weather_description_content">Xiaomin Sää -sovellus tarjoaa tarkkaa sääennustustietoa, joka tuo mukavuutta päivittäisiin matkoihisi. Sovelluksen poistaminen vaikuttaa ilmoitusalueeseen, sääkello widgettiin yms. toimintoihin. Haluatko jatkaa järjestelmäkomponentin poistamista?</string>
+  <string name="xiaomi_weather_description_title">Xiaomi Sää -sovelluksen Kuvaus</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>
 </resources>

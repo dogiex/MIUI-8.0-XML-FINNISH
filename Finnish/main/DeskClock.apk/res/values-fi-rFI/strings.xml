@@ -58,6 +58,8 @@
   <string name="hour">1 tunti</string>
   <string name="hour_unit">t +</string>
   <string name="hours">%d tuntia</string>
+  <string name="install_weather_app_error">Sovelluksen lataus epäonnistui.</string>
+  <string name="install_weather_app_loading">Ladataan…</string>
   <string name="keep_screen_on">Pidä näyttö päällä</string>
   <string name="label">Aseta nimike</string>
   <string name="label_pref_summary">Nimeä tämä herätys</string>
