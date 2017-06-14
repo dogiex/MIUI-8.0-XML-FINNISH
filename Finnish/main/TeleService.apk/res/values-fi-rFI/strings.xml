@@ -1244,6 +1244,7 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="volte_provision_notification_activate">Aktivoi</string>
   <string name="volte_provision_text">VoLTE puhelut tarjoaa paremman äänenlaadun verrattuna normaaliin puheluun. Lähetetäänkö tekstiviesti aktivointia varten?</string>
   <string name="volte_provision_title">Aktivoi VoLTE puhelut</string>
+  <string name="volte_switch_not_support_summary">VoLTE puhelut ei ole tuettu mobiilidata SIM-kortilla.</string>
   <string name="volte_switch_summary">Käytä VoLTEa parantamaan ääni- ja videopuhelun laatua</string>
   <string name="volte_switch_title">VoLTE käytössä</string>
   <string name="wait_prompt_str">"Lähetäänkö seuraavat äänet?

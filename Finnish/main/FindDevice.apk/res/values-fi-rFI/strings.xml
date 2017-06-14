@@ -5,6 +5,8 @@
   <string name="app_name">Etsi laite</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Ei voida avata. %s.</string>
+  <string name="default_debt_msg_words">"Tämä laite on lukittu laitteen velan takia. 
+Ota yhteyttä myyjääsi."</string>
   <string name="default_lock_msg_words">Tämä laite on liitettynä jo olemassa olevaan Mi Tiliin. Turvallisuussyistä sinun täytyy syöttää salasanasi vahvistaaksesi laitteesi.</string>
   <string name="default_lock_msg_words_with_phone">Hei! Hävitin puhelimeni. Voitteko ottaa minuun yhteyttä? Kiitos!</string>
   <string name="device_locked">Tämä laite on lukittu</string>

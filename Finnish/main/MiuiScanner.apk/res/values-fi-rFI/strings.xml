@@ -179,6 +179,8 @@
   <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
   <string name="alisdk_message_952_type">E</string>
   <string name="allow_check_website_security">Ilmoita minulle verkkosivujen turvatarkastuksista</string>
+  <string name="app_description_content">Lukija voi skannata QR-koodeja, käyntikortteja ja asiakirjoja. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="app_description_title">Tietoja Lukijasta</string>
   <string name="app_details">Sovellus:</string>
   <string name="app_name">Lukija</string>
   <string name="back">Takaisin</string>

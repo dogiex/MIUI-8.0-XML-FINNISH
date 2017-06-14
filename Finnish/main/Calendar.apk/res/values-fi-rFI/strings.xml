@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_opened">Avatut yhteystietoehdotukset</string>
   <string name="accessibility_add_attendee">Lisää osallistuja</string>
   <string name="accessibility_add_reminder">Lisää muistutus</string>
   <string name="accessibility_all_day">Koko päivän tapahtuma</string>
@@ -20,7 +19,6 @@
   <string name="acessibility_cal_notification">Kalenteri-ilmoitus</string>
   <string name="acessibility_selected_marker_description">Valittu tapahtuma</string>
   <string name="acessibility_snooze_notification">Torkuta ilmoitus</string>
-  <string name="action_label">Syötä</string>
   <string name="action_text_today">Tänään</string>
   <string name="ad_card_connecting">连接中</string>
   <string name="ad_card_download_count">%1$s人下载</string>
@@ -94,9 +92,6 @@
   <string name="change_response_title">Muuta vastausta</string>
   <string name="check_reminded_text">查看提醒</string>
   <string name="chinese_leap">闰</string>
-  <string name="chips_action_cancel">Peruuta</string>
-  <string name="chips_action_copy">Kopioi</string>
-  <string name="chips_permission_text">Salli yhteystietojen ehdotukset</string>
   <string name="chongsha">冲煞</string>
   <string name="copy_email">Kopioi sähköpostiosoite</string>
   <string name="copy_number">Kopioi puhelinnumero</string>
@@ -142,7 +137,7 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today"> (tänään)</string>
   <string name="day_view">Päivä</string>
-  <string name="day_view_new_event_hint">Uusi tapahtuma</string>
+  <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
   <string name="default_reminder_mode">Muistutukset</string>
   <string name="delete_calendar">Poista tilaus</string>
   <string name="delete_label">Poista</string>
@@ -159,12 +154,12 @@
   <string name="discard_label">Peruuta</string>
   <string name="dismiss_all_label">Ohita kaikki</string>
   <string name="does_not_repeat">Yksittäinen tapahtuma</string>
-  <string name="download">Lataa</string>
+  <string name="done">Takaisin</string>
+  <string name="download">下载</string>
   <string name="download_finished">下载完成</string>
   <string name="downloaded">已下载</string>
   <string name="downloading">下载中</string>
   <string name="downloading_wallpaper">原图下载中</string>
-  <string name="dropdown_delete_button_desc">Poista %s vastaanottajista</string>
   <string name="edit_date_calculate_days_backward_error_hint">Eteenpäin ei voi laskea</string>
   <string name="edit_date_calculate_days_empty_hint">Syötä päivien lukumäärä</string>
   <string name="edit_date_calculate_days_error_hint">Syötä päivät %1$d sisällä</string>
@@ -227,7 +222,7 @@
   <string name="event_reminders_to_max">Voit asettaa enintään %d muistutusta</string>
   <string name="event_title">Otsikko</string>
   <string name="event_view">Näytä tapahtuma</string>
-  <string name="every_weekday">Joka arkipäivä (ma–pe)</string>
+  <string name="every_weekday">Joka arkipäivä (Ma–Pe)</string>
   <string name="festival_detail_title">Festivaali</string>
   <string name="force_touch_title_add_new_event">Lisää tapahtuma</string>
   <string name="fortune_birthday">生日</string>
@@ -339,10 +334,10 @@
   <string name="month_medium_september">Syys</string>
   <string name="month_view">Kuukausi</string>
   <string name="monthly">Kuukausittain</string>
-  <string name="monthly_on_day">Kuukausittain (%s. päivänä)</string>
-  <string name="monthly_on_day_count">Kuukausittain (%1$s %2$s)</string>
+  <string name="monthly_on_day">Kuukausittain (samana päivänä joka kuukausi)</string>
+  <string name="monthly_on_day_count">Kuukausittain (%1$s %2$s joka kuukausi)</string>
   <string name="more_match">更多赛事</string>
-  <string name="more_string">yli %1$d</string>
+  <string name="more_string">+%1$s</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="new_event_dialog_label">Uusi tapahtuma</string>
   <string name="new_event_dialog_option">Uusi tapahtuma</string>
@@ -434,7 +429,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="select_synced_calendars_button">Synkronoitavat kalenterit</string>
   <string name="select_synced_calendars_title">Synkronoitavat kalenterit</string>
   <string name="select_visible_calendars_title">Näytettävät kalenterit</string>
-  <string name="set_as_wallpaper">Aseta taustakuvaksi</string>
+  <string name="set_as_wallpaper">设为壁纸</string>
   <string name="setting_about_calendar_version">Kalenterin versio:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI versio:</string>

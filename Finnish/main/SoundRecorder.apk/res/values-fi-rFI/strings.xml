@@ -51,7 +51,7 @@
   <string name="mark_point_list_title">Merkkauslista</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
   <string name="network_tip_dialog_cancel">Peruuta</string>
-  <string name="network_tip_dialog_content">Puheentunnistusmoottorin on yhdistettävä internettiin toimiakseen normaalisti.</string>
+  <string name="network_tip_dialog_content">Tämä sovellus tarvitsee internetyhteyden ja luvan lukea yhteystietojasi, jotta puheluiden aikana nauhoitetut nauhoitukset voidaan nimetä.</string>
   <string name="network_tip_dialog_ok">Salli</string>
   <string name="network_tip_dialog_title">Internet-yhteys vaaditaan</string>
   <string name="new_record_name">Uusi nauhoitus</string>
@@ -138,7 +138,7 @@
   <string name="status_bar_recording">Nauhoitetaan…</string>
   <string name="status_bar_recording_pause">Nauhoitus pysäytetty</string>
   <string name="text_btn_complete">Valmis</string>
-  <string name="text_btn_list">Lista</string>
+  <string name="text_btn_list">Nauhoitukset</string>
   <string name="text_btn_mark">Merkitse</string>
   <string name="text_btn_pause">Pysäytä</string>
   <string name="text_btn_play">Toista</string>

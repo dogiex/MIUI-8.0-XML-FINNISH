@@ -94,6 +94,8 @@
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ei nyt</string>
   <string name="note_alert_expired">Vanhentunut</string>
+  <string name="note_description_content">Muistio on loistava sovellus kirjata ideasi. Siinä on sisäänrakennetut muistutukset ja se synkronoi muistiosi Mi Pilveen, jotta voit käyttää niitä milloin tahansa, mistä tahansa. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="note_description_title">Tietoja Muistiosta</string>
   <string name="note_link_email">Kirjoita sähköposti</string>
   <string name="note_link_other">Avaa käyttäen karttasovellusta</string>
   <string name="note_link_select">Valitse teksti</string>
