@@ -33,10 +33,10 @@
   <string name="ad_card_open_app">马上打开</string>
   <string name="ad_card_spread">推广</string>
   <string name="add_account">Lisää tili</string>
-  <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
   <string name="add_anniversary">Lisää vuosipäivä</string>
   <string name="add_countdown">Lisää laskenta</string>
   <string name="add_event">Lisää tapahtuma</string>
+  <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
   <string name="agenda_today">TÄNÄÄN, %1$s</string>
   <string name="agenda_tomorrow">HUOMENNA, %1$s</string>
   <string name="agenda_view">Tapahtumat</string>
@@ -372,11 +372,11 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_alerts_ringtone_title">Ääni</string>
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
+  <string name="preferences_build_version">Ohjelmistoversio</string>
   <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
   <string name="preferences_home_tz_default">Europe/Helsinki</string>
-  <string name="preferences_build_version">Ohjelmistoversio</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
   <string name="preferences_import_travel">机票火车票</string>

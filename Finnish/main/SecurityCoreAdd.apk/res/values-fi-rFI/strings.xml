@@ -44,7 +44,7 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="contact_sub_titile_text">Viestien data jaetaan molempien tilojen kesken</string>
   <string name="contact_titile_text">"Näytä yksityiset viestit Toisessa tilassa,
 jotta voit katsoa niitä milloin tahansa"</string>
-<string name="contact_us">Ota yhteyttä</string>
+  <string name="contact_us">Ota yhteyttä</string>
   <string name="continueButton">Jatka</string>
   <string name="createANewSpace">Luo puhelimeesi erillinen tila.</string>
   <string name="createUserFail">Luonti epäonnistui</string>

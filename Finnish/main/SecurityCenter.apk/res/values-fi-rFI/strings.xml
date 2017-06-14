@@ -1828,7 +1828,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_title_man_editwhitelist">Valitse suuntakoodi poikkeuksiin</string>
   <string name="st_title_man_head_addblacklist">Lisää puhelinnumeron etuliite estolistalle</string>
   <string name="st_title_man_head_addwhitelist">Lisää puhelinnumeron etuliite poikkeuksiin</string>
-  <string name="st_title_markednumber_group">>Estä ilmoitetut numerot</string>
+  <string name="st_title_markednumber_group">&gt;Estä ilmoitetut numerot</string>
   <string name="st_title_mode_choose_group">Valitse profiili</string>
   <string name="st_title_not_sim">Tyhjä</string>
   <string name="st_title_open_antispam">Estolista</string>

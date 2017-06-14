@@ -350,8 +350,8 @@ Aktivoi tilisi seuraamalla
   <string name="restart_phone_bind_title">Vaihda palautuspuhelin</string>
   <string name="scan_barcode_title">Kirjaudu Mi Tilillesi skannaamalla QR-koodi</string>
   <string name="search_account_security">Tilin tietoturva</string>
-  <string name="search_account_security_key_words">Vaihda Puhelin,Vaihda Sähköposti,Tilin suojaus,Tilit,Sina Weibo,QQ,Valtuutus,Laitteet</string>
   <string name="search_account_security_desc">Tilin Asetukset</string>
+  <string name="search_account_security_key_words">Vaihda Puhelin,Vaihda Sähköposti,Tilin suojaus,Tilit,Sina Weibo,QQ,Valtuutus,Laitteet</string>
   <string name="search_account_security_path">Asetukset/Mi Tili/Tilin tietoturva</string>
   <string name="search_app_name">Mi Tili</string>
   <string name="search_mi_account">Mi Tili</string>
