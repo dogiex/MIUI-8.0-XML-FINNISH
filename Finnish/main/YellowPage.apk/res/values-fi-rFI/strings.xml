@@ -68,7 +68,7 @@
   <string name="download_failed_space">Not enough space</string>
   <string name="download_failed_storage">Download failed. Check your SD card.</string>
   <string name="downloading">Downloading…</string>
-  <string name="enable_now">Turn on</string>
+  <string name="enable_now">Ota käyttöön</string>
   <string name="exapress_save_address_to_contact">Tallenna tämä osoite Yhteystietoihin</string>
   <string name="express_add_new_address">Add address</string>
   <string name="express_address_delete_warning">Delete this address?</string>

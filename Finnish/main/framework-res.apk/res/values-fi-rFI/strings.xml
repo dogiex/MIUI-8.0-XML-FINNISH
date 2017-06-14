@@ -152,6 +152,9 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="create_contact_using">"Luo yhteystieto
 käyttäen numeroa %s"</string>
   <string name="cut">Leikkaa</string>
+  <string name="data_saver_description">Vähentääksesi datan käyttöä, Datan Säästäjä estää joitakin sovelluksia lähettämästä ja vastaanottamasta dataa taustalla. Tällä hetkellä käyttämäsi sovellus voi käyttää dataa, mutta käyttää sitä harvemmin. Tämä saattaa tarkoittaa esimerkiksi sitä, että katsomasi kuvat näkyvät vasta, kun napautat niitä.</string>
+  <string name="data_saver_enable_button">Ota käyttöön</string>
+  <string name="data_saver_enable_title">Otetaanko Datan Säästäjä käyttöön?</string>
   <string name="data_usage_3g_limit_snoozed_title">2G-3G-tiedonsiirtoraja ylitetty</string>
   <string name="data_usage_3g_limit_title">2G-3G-tietojen raja saavutettu</string>
   <string name="data_usage_4g_limit_snoozed_title">4G-tiedonsiirtoraja ylitetty</string>
@@ -166,7 +169,7 @@ käyttäen numeroa %s"</string>
   <string name="data_usage_warning_title">Tiedonsiirtovaroitus</string>
   <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi-tiedonsiirtoraja ylitetty</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi-tietojen raja saavutettu</string>
-  <string name="date_and_time" formatted="false">%-k.%M.%S %-e.%-m.%Y</string>
+  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Vähennä päivien määrää.</string>
   <string name="date_picker_decrement_month_button">Vähennä kuukausien määrää.</string>
   <string name="date_picker_decrement_year_button">Vähennä vuosien määrää.</string>
@@ -1336,6 +1339,9 @@ Haluatko sulkea sen?"</string>
   <string name="wifi_watchdog_network_disabled">Wi-Fi-yhteyden muodostaminen epäonnistui</string>
   <string name="wifi_watchdog_network_disabled_detailed">" : huono internetyhteys."</string>
   <string name="wireless_display_route_description">Langaton näyttö</string>
+  <string name="work_mode_off_message">Salli työprofiilin toimia, sisältäen sovellukset, synkronointi taustalla ja niihin liittyvät ominaisuudet.</string>
+  <string name="work_mode_off_title">Työtila on POIS PÄÄLTÄ</string>
+  <string name="work_mode_turn_on">Ota käyttöön</string>
   <string name="work_profile_deleted">Työprofiili poistettiin</string>
   <string name="work_profile_deleted_description">Työprofiili poistettiin, koska laitteelta puuttuu järjestelmänvalvojasovellus.</string>
   <string name="work_profile_deleted_description_dpm_wipe">Työprofiilisi ei ole enää käytettävissä tällä laitteella.</string>

@@ -142,8 +142,8 @@
   <string name="music">Music &amp; radio</string>
   <string name="music_open">Show music &amp; radio card</string>
   <string name="music_setting_brief">Connect earphones to continue listening to music or radio from the place you left off.</string>
-  <string name="navigation_network_location_enable">Turn on</string>
-  <string name="navigation_network_location_enable_later">Later</string>
+  <string name="navigation_network_location_enable">Ota käyttöön</string>
+  <string name="navigation_network_location_enable_later">Myöhemmin</string>
   <string name="navigation_network_location_enabled">Location services are on. You can change this in the Settings.</string>
   <string name="navigation_network_location_not_enabled_summary">Smart assistant gives suggestions acording to your location. Turn on location services for better experience.</string>
   <string name="navigation_network_location_not_enabled_title">Turn on location services</string>
@@ -165,7 +165,7 @@
   <string name="not_installed">Not installed</string>
   <string name="note_name">Luo muistio</string>
   <string name="note_parent">Muistiot</string>
-  <string name="notification_express_app_open">Turn on</string>
+  <string name="notification_express_app_open">Ota käyttöön</string>
   <string name="notification_express_content">Track orders using Smart assistant</string>
   <string name="notification_express_title">Turn on cards from shopping apps</string>
   <string name="opened">On</string>
