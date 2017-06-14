@@ -257,9 +257,6 @@ jotta keho erottuu kuvasta selvemmin ja saat kauniimman muotokuvan"</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Kuva</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nopean kuvan tilaa ei voi käyttää jos \"Herätä Äänenvoimakkuuspainikkeella\" on käytössä.</string>
-  <string name="pref_camera_snap_value_off">Pois päältä</string>
-  <string name="pref_camera_snap_value_take_movie">Elokuva</string>
-  <string name="pref_camera_snap_value_take_picture">Kuva</string>
   <string name="pref_camera_sound_title">Kameran äänet</string>
   <string name="pref_camera_square_mode_title">Neliö</string>
   <string name="pref_camera_tilt_shift_entry_circle">Ympyrä</string>
