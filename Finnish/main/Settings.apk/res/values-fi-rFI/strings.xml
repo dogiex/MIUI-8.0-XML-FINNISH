@@ -1311,7 +1311,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="drive_mode_sms_report">Viestit</string>
   <string name="drive_mode_title">Auto-tila</string>
   <string name="drive_mode_voice_report">Teksti-puheeksi ulostulo</string>
-  <string name="dtmf_tone_enable_title">Valintanäppäimien näppäinäänet</string>
+  <string name="dtmf_tone_enable_title">Numeronäppäimistön kosketusäänet</string>
   <string name="edge_mode_back">Palaa takaisin</string>
   <string name="edge_mode_back_summary">Palataksesi takaisin, tuplanapauta puhelimen reunaa</string>
   <string name="edge_mode_clean">Tyhjennä järjestelmän välimuisti</string>
@@ -3163,7 +3163,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_dndm_vip_call_setting_title">VIP;Poikkeukset</string>
   <string name="search_dndm_wristband">Aktivoi Mi Bandilla</string>
   <string name="search_do_not_disturb_mode">Älä häiritse</string>
-  <string name="search_dtmf_tone_enable_title">Valintanäppäimien näppäinäänet</string>
+  <string name="search_dtmf_tone_enable_title">Numeronäppäimistön kosketusäänet</string>
   <string name="search_empty">Pahoittelut, yhtään asetusta ei löytynyt</string>
   <string name="search_enable_adb">USB-vianetsintä</string>
   <string name="search_fluency_mode">Järjestelmän animaatiot</string>
