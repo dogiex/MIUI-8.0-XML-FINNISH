@@ -74,7 +74,7 @@
   <string name="call_transfer_block_type">Estä soitonsiirrossa olevat puhelut</string>
   <string name="call_transfer_info">Estä tuntemattomista numeroista siirretyt puhelut</string>
   <string name="cancle">Peruuta</string>
-  <string name="close_callwait">Pois</string>
+  <string name="close_callwait">Pois päältä</string>
   <string name="customizer_mode_user_define_name">Omat säännöt</string>
   <string name="dlg_add_blacklist">Estetäänkö tämä numero?</string>
   <string name="dlg_add_blacklist_title">Lisää estolistalle</string>
@@ -238,7 +238,7 @@
   <string name="st_antispam_des_permit">Salli</string>
   <string name="st_antispam_des_permit_nokeyword">Salli</string>
   <string name="st_antispam_des_smart_anti">Suodatin</string>
-  <string name="st_antispam_des_uesless">Pois</string>
+  <string name="st_antispam_des_uesless">Pois päältä</string>
   <string name="st_antispam_mode_add_new">Lisää sääntöjä</string>
   <string name="st_antispam_mode_blacklist">Estetyt numerot</string>
   <string name="st_antispam_mode_blacklist_sum">"Estä puhelut ja viestit numeroista, jotka olet manuaalisesti lisännyt estolistalle"</string>

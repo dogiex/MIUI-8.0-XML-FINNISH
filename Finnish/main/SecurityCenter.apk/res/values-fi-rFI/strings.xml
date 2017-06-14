@@ -316,7 +316,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_operation_auto_brightness">Automaattinen kirkkaus</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Näytön kirkkaus</string>
-  <string name="auto_task_operation_close">Ei käytössä</string>
+  <string name="auto_task_operation_close">Pois päältä</string>
   <string name="auto_task_operation_close_string">Poista %s käytöstä</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Lukitusnäyttö</string>
@@ -535,7 +535,7 @@ mikäli unohdat sen"</string>
   <string name="clear_garbage">Tyhjennä roskat vapauttaaksesi tilaa</string>
   <string name="clear_immediately">Puhdista nyt</string>
   <string name="close">Sulje</string>
-  <string name="close_callwait">Pois käytöstä</string>
+  <string name="close_callwait">Pois päältä</string>
   <string name="close_float_view_dialog_message">确定关闭红包助手悬浮窗？关闭后，您将无法快速打开微信摇一摇与支付宝咻一咻页面，并且无法收到最新红包活动消息。</string>
   <string name="close_float_view_dialog_title">关闭悬浮窗</string>
   <string name="close_lucky_money_dialog_ok">确认关闭</string>
@@ -1349,7 +1349,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>
   <string name="power_center_ontime_shutdown">Sammuttamisen aika</string>
   <string name="power_center_repeat">Toista</string>
-  <string name="power_center_state_off">Ei käytössä</string>
+  <string name="power_center_state_off">Pois päältä</string>
   <string name="power_center_state_on">Päällä</string>
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
@@ -1655,8 +1655,8 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="settings_battery_over_heat_summary">Vastaanota ilmoituksia, kun laite lämpenee normaalia enemmän</string>
   <string name="settings_battery_over_heat_title">Ylikuumenemisen ilmoitus</string>
   <string name="settings_category_other">Muut asetukset</string>
-  <string name="settings_category_overheat">Ylikuumeneminen</string>
-  <string name="settings_choice_no_notification">Pois</string>
+  <string name="settings_category_overheat">Ylikuumentuminen</string>
+  <string name="settings_choice_no_notification">Pois päältä</string>
   <string name="settings_power_save_ontime_title">Ajastus</string>
   <string name="settings_title_payment_security">Maksamisen tietoturvan asetukset</string>
   <string name="settings_title_permission">Käyttöoikeusasetukset</string>
@@ -1745,7 +1745,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_antispam_des_permit">Salli</string>
   <string name="st_antispam_des_permit_nokeyword">Salli</string>
   <string name="st_antispam_des_smart_anti">Suodata</string>
-  <string name="st_antispam_des_uesless">Ei käytössä</string>
+  <string name="st_antispam_des_uesless">Pois päältä</string>
   <string name="st_antispam_mode_add_new">Lisää sääntöjä</string>
   <string name="st_antispam_mode_blacklist">Estetyt numerot</string>
   <string name="st_antispam_mode_blacklist_sum">Estä puhelut ja tekstiviestit numeroista, jotka olet lisännyt estolistalle itse</string>

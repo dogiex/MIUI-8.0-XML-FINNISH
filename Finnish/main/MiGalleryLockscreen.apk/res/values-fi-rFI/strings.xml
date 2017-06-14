@@ -30,7 +30,7 @@
   <string name="like">Lisää suosikkeihin</string>
   <string name="liked">Lisättiin suosikkeihin</string>
   <string name="lockscreen_h5_back_tv">Takaisin</string>
-  <string name="lockscreen_h5_close_tv">Off</string>
+  <string name="lockscreen_h5_close_tv">Pois päältä</string>
   <string name="lockscreen_h5_refresh_btn_tv">Päivitä</string>
   <string name="lockscreen_h5_refresh_tip">Tarkista verkkoasetuksesi ja yritä uudelleen</string>
   <string name="lockscreen_magazine_summary">Valitse kategoriat</string>

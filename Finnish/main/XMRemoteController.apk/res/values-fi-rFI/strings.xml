@@ -155,7 +155,7 @@
   <string name="click_to_login">Kirjaudu sisään</string>
   <string name="click_to_retry">Yritä uudelleen napauttamalla</string>
   <string name="click_to_shrink">Pienennä</string>
-  <string name="close">Sammuta</string>
+  <string name="close">Pois päältä</string>
   <string name="comment_bad">En tykkää</string>
   <string name="comment_good">Tykkää</string>
   <string name="commit_done">Lähetetty</string>
@@ -578,7 +578,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="notification_str2">on alkamassa</string>
   <string name="notification_title">Ajastimen ilmoitus</string>
   <string name="num_keys">Numeropainikkeet</string>
-  <string name="off">Ei käytössä</string>
+  <string name="off">Pois päältä</string>
   <string name="office">Toimisto</string>
   <string name="on">Päällä</string>
   <string name="open">Päällä</string>

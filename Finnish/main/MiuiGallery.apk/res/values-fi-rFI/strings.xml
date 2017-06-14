@@ -98,7 +98,7 @@
   <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
   <string name="auto_update_face">Lisää kuvat automaattisesti</string>
   <string name="auto_update_face_summary">Sovita ja lisää kuvat automaattisesti Vauva albumiin</string>
-  <string name="auto_update_off">Ei käytössä</string>
+  <string name="auto_update_off">Pois päältä</string>
   <string name="auto_update_on">Päällä</string>
   <string name="auto_upload_before_share_message">Varmuuskopioi tämä albumi Mi Pilveen ennen jakamista</string>
   <string name="auto_upload_before_share_title">Vinkki</string>

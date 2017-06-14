@@ -356,23 +356,26 @@
         <item>Muokattu</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>64 kt</item>
-        <item>256 kt</item>
-        <item>1 Mt</item>
-        <item>4 Mt</item>
-        <item>16 Mt</item>
+        <item>Pois päältä</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>64 kt</item>
-        <item>256 kt</item>
-        <item>1 Mt</item>
+        <item>Pois päältä</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>64 kt / lokipuskuri</item>
-        <item>256 kt / lokipuskuri</item>
-        <item>1 Mt / lokipuskuri</item>
-        <item>4 Mt / lokipuskuri</item>
-        <item>16 Mt / lokipuskuri</item>
+        <item>Pois päältä</item>
+        <item>64K per lokipuskuri</item>
+        <item>256K per lokipuskuri</item>
+        <item>1M per lokipuskuri</item>
+        <item>4M per lokipuskuri</item>
+        <item>16M per lokipuskuri</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Älä tarkista koskaan</item>
@@ -432,17 +435,17 @@
         <item>Kutsu pinoa, jos glGetError tapaht.</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Pois</item>
+        <item>Pois päältä</item>
         <item>Piirrä ei-suorakulm. leikealue sinisellä</item>
         <item>Korosta testatut piirtokom. vihreällä</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Pois käytöstä</item>
+        <item>Pois päältä</item>
         <item>Näytöllä palkkeina</item>
         <item>Adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Ei käytössä</item>
+        <item>Pois päältä</item>
         <item>Näytä päällekkäiset alueet</item>
         <item>Näytä alueet puna-vihersokeille näkyvinä</item>
     </string-array>
@@ -519,7 +522,7 @@
         <item>Matkapuhelinverkko ensisijainen</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>Pois</item>
+        <item>Pois päältä</item>
         <item>Kevyt</item>
         <item>Kohtalainen</item>
         <item>Voimakas</item>
@@ -719,7 +722,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Nopeampi</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Pois</item>
+        <item>Pois päältä</item>
         <item>Matala</item>
         <item>Keskitaso</item>
         <item>Korkea</item>

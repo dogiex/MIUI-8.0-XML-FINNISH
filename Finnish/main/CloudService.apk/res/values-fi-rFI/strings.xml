@@ -478,7 +478,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_item_sms_summary">Synkronoi tämän puhelimen lähetetyt ja vastaanotetut tekstiviestit</string>
   <string name="sync_item_sms_title">Synkronoi viestit</string>
   <string name="sync_item_title">Synkronoitavat kohteet</string>
-  <string name="sync_off">Ei käytössä</string>
+  <string name="sync_off">Pois päältä</string>
   <string name="sync_on">Päällä</string>
   <string name="sync_resend_sms_dspt_provision">" Jos vaihdat SIM-kortteja, operaattorisi veloittaa sinulta tekstiviestin hinnan, mikäli se vaaditaan tämän palvelun uudelleenaktivoimiseksi."</string>
   <string name="sync_sub_1_intl_sms">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>

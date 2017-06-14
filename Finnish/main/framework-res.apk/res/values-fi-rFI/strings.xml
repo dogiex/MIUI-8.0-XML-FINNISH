@@ -1317,7 +1317,7 @@ Haluatko sulkea sen?"</string>
   <string name="whichViewApplication">Avaa sovelluksessa</string>
   <string name="whichViewApplicationNamed">Avaa sovelluksessa %1$s</string>
   <string name="wifi_available_sign_in">Kirjaudu Wi-Fi-verkkoon</string>
-  <string name="wifi_calling_off_summary">Ei käytössä</string>
+  <string name="wifi_calling_off_summary">Pois päältä</string>
   <string name="wifi_connect_alert_message">Sovellus %1$s yrittää yhdistää Wi-Fi-verkkoon %2$s.</string>
   <string name="wifi_connect_alert_title">Sallitaanko yhteys?</string>
   <string name="wifi_connect_default_application">Sovellus</string>

@@ -28,7 +28,7 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="closeSecondSpaceSummary">Poista Toinen tila ja data</string>
   <string name="closeSuccess">Poistettu käytöstä</string>
   <string name="close_second_space_success">Toinen tila poistettiin</string>
-  <string name="closed">Ei käytössä</string>
+  <string name="closed">Pois päältä</string>
   <string name="complete_setting">Valmis</string>
   <string name="complete_setting_sub_title">Voit säätää asetuksia myös myöhemmin.</string>
   <string name="complete_setting_title">Kaikki on valmista!</string>

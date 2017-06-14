@@ -57,7 +57,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Vain kuulokkeet</string>
   <string name="auto_answer_scenario_title">Automaattisen vastaamisen asetukset</string>
   <string name="auto_answer_setting_title">Automaattisen vastaamisen asetukset</string>
-  <string name="auto_answer_summary_not_enabled">Pois</string>
+  <string name="auto_answer_summary_not_enabled">Pois päältä</string>
   <string name="auto_record_yellowpage">Hakemisto</string>
   <string name="auto_redial_pref_summary">Soita automaattisesti uudelleen jos linja on varattu</string>
   <string name="auto_redial_pref_title">Soita uudelleen</string>
@@ -184,7 +184,7 @@
   <string name="call_record_auto_whitelist">Oma lista</string>
   <string name="call_record_auto_whitelist_no_item">Lisää numero koskettamalla lisää (+) painiketta</string>
   <string name="call_record_loading_content">Ladataan…</string>
-  <string name="call_record_off_summary">Ei käytössä</string>
+  <string name="call_record_off_summary">Pois päältä</string>
   <string name="call_record_on_summary">Päällä</string>
   <string name="call_record_setting">Puhelun nauhoittaminen</string>
   <string name="call_record_whitelist_custom">Valitut numerot</string>
@@ -607,7 +607,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="lable_all_outgoing">Kaikki lähtevät puhelut</string>
   <string name="lable_all_outgoing_international">Kansainväliset lähtevät puhelut</string>
   <string name="lable_call_barring">Puhelunesto</string>
-  <string name="lable_disable">Ei käytössä</string>
+  <string name="lable_disable">Pois päältä</string>
   <string name="lable_enable">Päällä</string>
   <string name="lable_incoming_calls_except">Saapuvat puhelut roaming-tilassa</string>
   <string name="lable_network_not_supported">Verkkoa ei tueta</string>
@@ -688,7 +688,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="msim_setting_screen_title">SIM-kortit &amp; matkapuhelinverkot</string>
   <string name="msim_setting_sim_info_editor_title">Muokkaa SIM-kortin tietoja</string>
   <string name="msim_sim_lock">Lukittu</string>
-  <string name="msim_sim_radio_off">Pois</string>
+  <string name="msim_sim_radio_off">Pois päältä</string>
   <string name="msim_switch_data_conn_toast">SIM-kortteja vaihdettu. Verkon tyyppi on vaihtunut. Näet lisää tietoa asetuksista Asetukset &gt; SIM-kortit &amp; matkapuhelinverkot.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM2-paikka tukee vain GSM-verkkoja. Tälle paikalle vaihdettiin ensisijaisen verkon tyypiksi Vain 2G.</string>
   <string name="multi_category_disable">Useat luokat pois käytöstä</string>
@@ -720,7 +720,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="network_settings_select_automatic_hint">"Valitsemaasi verkkoon rekisteröinti epäonnistui.
 Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="network_settings_title">Matkapuhelinverkot</string>
-  <string name="network_settings_turn_off">pois</string>
+  <string name="network_settings_turn_off">Pois päältä</string>
   <string name="network_settings_warn_message">Laitteesi yhdistyy vain verkkoihin, jotka valitset manuaalisesti.</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
@@ -883,12 +883,12 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="pin_progress_unlock_icc">Avataan SIM-kortin lukitusta…</string>
   <string name="please_login_mi_accout">Kirjaudu</string>
   <string name="port_title">Porttinumero</string>
-  <string name="preference_auto_ip_summary_disable">Ei käytössä</string>
+  <string name="preference_auto_ip_summary_disable">Pois päältä</string>
   <string name="preference_category_ringtone">Soittoääni ja värinä</string>
   <string name="preference_data_usage_summary">Hallitse mobiilidatan käyttöä asettamalla datan raja</string>
   <string name="preference_data_usage_title">Aseta datan raja</string>
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
-  <string name="preference_dial_pad_touch_tone_off">Ei käytössä</string>
+  <string name="preference_dial_pad_touch_tone_off">Pois päältä</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon ääni</string>
   <string name="preference_dial_pad_touch_tone_title">Numeronvalinnan näppäinäänet</string>
   <string name="preference_telocation_summary_countrycode_off">Älä lisää maakoodia automaattisesti</string>
@@ -1106,11 +1106,11 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="stock_quotes_enable">Pörssikurssit käytössä</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
   <string name="sum_cdma_call_settings">Vain CDMA -puhelujen lisäasetukset</string>
-  <string name="sum_cfb_disabled">Ei käytössä</string>
+  <string name="sum_cfb_disabled">Pois päältä</string>
   <string name="sum_cfb_enabled">Puhelu siirretään numeroon {0}</string>
   <string name="sum_cfnrc_disabled">Pois käytöstä</string>
   <string name="sum_cfnrc_enabled">Puhelu siirretään numeroon {0}</string>
-  <string name="sum_cfnry_disabled">Ei käytössä</string>
+  <string name="sum_cfnry_disabled">Pois päältä</string>
   <string name="sum_cfnry_enabled">Puhelu siirretään numeroon {0}</string>
   <string name="sum_cfu_disabled">Ei käytössä</string>
   <string name="sum_cfu_enabled">Siirretään kaikki puhelut numeroon {0}</string>

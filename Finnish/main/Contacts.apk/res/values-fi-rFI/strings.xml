@@ -953,7 +953,7 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="pref_summary_import_from_account">Tuo yhteystiedot Google- ja Exchange-tileiltä Mi Tilille</string>
   <string name="pref_title_account_import">Tuo yhteystietoja</string>
   <string name="pref_title_import_from_account">Tuo Mi Tililtä</string>
-  <string name="preference_auto_ip_summary_disable">Ei käytössä</string>
+  <string name="preference_auto_ip_summary_disable">Pois päältä</string>
   <string name="preference_auto_ip_summary_on">Operaattorin IP-etuliite: %s</string>
   <string name="preference_auto_ip_title">Automaattinen IP-etuliite</string>
   <string name="preference_contacts">Yhteystiedot</string>

@@ -46,7 +46,7 @@
   <string name="cleanup_memory">Tyhjennä välimuisti</string>
   <string name="cleanup_power">Syväpuhdista</string>
   <string name="clear">Tyhjennä</string>
-  <string name="closed">Pois</string>
+  <string name="closed">Pois päältä</string>
   <string name="commute">Karttasuositukset</string>
   <string name="commute_open">Näytä karttasuosituksien kortti</string>
   <string name="commute_setting_brief">Saat reitti ja liikennesuosituksia ennen kuin lähdet.</string>
@@ -200,7 +200,7 @@
   <string name="setting_dialog_cancel">Cancel</string>
   <string name="setting_dialog_quit">Exit</string>
   <string name="setting_dialog_title">All changes will be lost. Exit now?</string>
-  <string name="setting_disable">Pois</string>
+  <string name="setting_disable">Pois päältä</string>
   <string name="setting_home_label">Add home address</string>
   <string name="setting_launch_change">Change</string>
   <string name="setting_place">Add frequent places to see traffic and route suggestions</string>

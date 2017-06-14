@@ -75,7 +75,7 @@
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
   <string name="dialog_title_recommend">Poista suositellut lähteet käytöstä</string>
-  <string name="disable">Ei käytössä</string>
+  <string name="disable">Pois päältä</string>
   <string name="display_expire_netiv1">Tämä kuukausi</string>
   <string name="do_not_support_url">Tämänkaltainen URL ei ole tuettu</string>
   <string name="doc_filter">Dokumentit</string>

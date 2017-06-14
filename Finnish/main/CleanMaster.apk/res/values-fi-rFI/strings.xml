@@ -42,7 +42,7 @@
   <string name="apps_sort_type_item_size">Koko</string>
   <string name="apps_sort_type_item_time">Viimeksi käytetyt</string>
   <string name="apps_sort_type_title">Lajittele</string>
-  <string name="auto_clean_switch_off">Ei käytössä</string>
+  <string name="auto_clean_switch_off">Pois päältä</string>
   <string name="auto_clean_switch_on">Päällä</string>
   <string name="auto_cleaner_open">Ota käyttöön</string>
   <string name="back">Takaisin</string>

@@ -33,7 +33,7 @@
   <string name="fastboot_status_locked_summary">Root-käyttöoikeutta ei saada</string>
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Mene viralliselle MIUI verkkosivulle ja hae avaustyökalu (unlock tool).</string>
-  <string name="function_close">Pois käytöstä</string>
+  <string name="function_close">Pois päältä</string>
   <string name="game_booster">Pelien Nopeuttaja</string>
   <string name="game_booster_intro">Tietoa Pelien nopeuttajasta</string>
   <string name="game_booster_title">Nopeuta</string>

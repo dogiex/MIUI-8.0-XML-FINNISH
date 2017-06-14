@@ -84,4 +84,41 @@
         <item>Jäätävä vesisade</item>
         <item></item>
     </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Pois päältä</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Pois päältä</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Pois päältä</item>
+        <item>64K per lokipuskuri</item>
+        <item>256K per lokipuskuri</item>
+        <item>1M per lokipuskuri</item>
+        <item>4M per lokipuskuri</item>
+        <item>16M per lokipuskuri</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Pois päältä</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Pois päältä</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Pois päältä</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
 </resources>

@@ -29,7 +29,7 @@
 Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="config_suggest_suffix_title">MIUI Virransäästö (suositus)</string>
   <string name="config_suggest_title">MIUI Virransäästö</string>
-  <string name="disabled">Ei käytössä</string>
+  <string name="disabled">Pois päältä</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
   <string name="foreground_change">Sovellus on käynnissä etualalla</string>
@@ -102,7 +102,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_data_connect_summary">Salli sovelluksien yhdistää verkkoon taustalla</string>
   <string name="power_config_data_connect_title">Data-yhteys</string>
   <string name="power_config_disable_description">MIUI ei rajoita taustatyöskentelyjä</string>
-  <string name="power_config_disable_title">Ei käytössä</string>
+  <string name="power_config_disable_title">Pois päältä</string>
   <string name="power_config_enhance_description">MIUI rajoittaa kaiken taustatyöskentelyn, kun se on mahdollista</string>
   <string name="power_config_enhance_title">Päällä</string>
   <string name="power_config_event_delete">Poista</string>
@@ -164,7 +164,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="set_lcd_mode">Näyttö-tila</string>
   <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
   <string name="sleep_config_disable_description">MIUI ei paranna illan virransäästöä</string>
-  <string name="sleep_config_disable_title">Ei käytössä</string>
+  <string name="sleep_config_disable_title">Pois päältä</string>
   <string name="sleep_config_enhance_description">MIUI parantaa illan valmiustilaa</string>
   <string name="sleep_config_enhance_title">Päällä</string>
   <string name="sleep_config_mode_title">Lepotilat</string>

@@ -35,7 +35,7 @@
   <string name="accessibility_display_title">Näyttö</string>
   <string name="accessibility_enable">Esteettömyys</string>
   <string name="accessibility_feature_or_input_method_not_allowed">Ei sallita organisaatiossasi</string>
-  <string name="accessibility_feature_state_off">Ei käyt.</string>
+  <string name="accessibility_feature_state_off">Pois päältä</string>
   <string name="accessibility_feature_state_on">Päällä</string>
   <string name="accessibility_global_gesture_preference_description">"Kun tämä ominaisuus on käytössä, voit ottaa esteettömyystoiminnot käyttöön nopeasti kahden vaiheen kautta.
 
@@ -44,7 +44,7 @@ Vaihe 1: paina virtapainiketta, kunnes kuulet äänen tai tunnet värinän.
 Vaihe 2: kosketa kahdella sormella, kunnes kuulet äänivahvistuksen.
 
 Jos laitteella on useita käyttäjiä, tämän pikanäppäimen käyttö lukitusnäytössä ottaa esteettömyystilan käyttöön väliaikaisesti, kunnes laitteen lukitus poistetaan."</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Pois käytöstä</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Pois päältä</string>
   <string name="accessibility_global_gesture_preference_summary_on">Päällä</string>
   <string name="accessibility_global_gesture_preference_title">Esteettömyystilan oikotie</string>
   <string name="accessibility_lock_screen_progress">%1$d/%2$d merkkiä käytössä</string>
@@ -669,7 +669,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_unlock_state_ok">Avattu</string>
   <string name="bluetooth_unlock_state_too_far">Ei tarpeeksi lähellä</string>
   <string name="bluetooth_unlock_title">Avaa lukitus Bluetooth-laitteella</string>
-  <string name="bluetooth_unlock_turned_off">Ei käytössä</string>
+  <string name="bluetooth_unlock_turned_off">Pois päältä</string>
   <string name="bluetooth_unlock_turned_on">Päällä</string>
   <string name="bluetooth_untether_blank">Jaettu internetyhteys katkaistaan laitteesta %1$s.</string>
   <string name="bluetooth_visibility_timeout">Näkyvyyden aikakatkaisu</string>
@@ -1852,7 +1852,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="link_speed">%1$d Mt/s</string>
   <string name="link_speed_label">Linkin nopeus:</string>
   <string name="loading_notification_apps">Ladataan sovelluksia…</string>
-  <string name="local_auto_backup_off">Ei käytössä</string>
+  <string name="local_auto_backup_off">Pois päältä</string>
   <string name="local_auto_backup_on">Päällä</string>
   <string name="local_auto_backup_section_title">Automaattinen varmuuskopiointi</string>
   <string name="local_backup_password_summary_change">Muuta tai vaihda tietokoneen kaikkien tietojen varmuuskopioinnin salasana koskettamalla</string>
@@ -2264,7 +2264,7 @@ Valitse käyttöjärjestelmäsi:"</string>
 %1$s ilmestyy USB tallennuslaitteena, kun se on yhdistetty tietokoneeseen."</string>
   <string name="msd_pc_system_install_summary_xp">1. Asenna käynnistämällä setup.exe</string>
   <string name="msg_wlan_signal_found">Yhdistetäänkö kohteeseen %s?</string>
-  <string name="msim_sim_radio_off">Pois</string>
+  <string name="msim_sim_radio_off">Pois päältä</string>
   <string name="mtp_ptp_mode_summary">MTP- tai PTP-toiminto on käytössä</string>
   <string name="multi_touch_points_category_title">Moni-kosketuspisteet</string>
   <string name="multi_touch_points_preference">Tämä asetus tulee voimaan uudelleenkäynnistämisen jälkeen</string>
@@ -2293,7 +2293,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Musiikki</string>
-  <string name="music_dolby_mode_off">Pois</string>
+  <string name="music_dolby_mode_off">Pois päältä</string>
   <string name="music_equalizer">Taajuuskorjain</string>
   <string name="music_equalizer_summary">Säädä yksittäisiä tasoja eri musiikkityypeille</string>
   <string name="music_hd_title">HD Ääni</string>
@@ -2661,7 +2661,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="print_cancel">Peruuta</string>
   <string name="print_cancelling_state_title_template">Peruutetaan työ %1$s</string>
   <string name="print_failed_state_title_template">Tulostinvirhe työlle %1$s</string>
-  <string name="print_feature_state_off">Ei käyt.</string>
+  <string name="print_feature_state_off">Pois päältä</string>
   <string name="print_feature_state_on">Päällä</string>
   <string name="print_job_summary">"%1$s
 %2$s"</string>
@@ -3022,7 +3022,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_time_summary">Ajasta Luku-tilan ottaminen käyttöön ja poistaminen käytöstä</string>
   <string name="screen_paper_mode_time_title">Ajasta</string>
   <string name="screen_paper_mode_title">Luku-tila</string>
-  <string name="screen_paper_mode_turn_off">Ei käytössä</string>
+  <string name="screen_paper_mode_turn_off">Pois päältä</string>
   <string name="screen_paper_mode_turn_on">Päällä</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Älä näytä uudestaan</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Salli</string>
@@ -3060,7 +3060,7 @@ Näytön kiinnityksen käyttö:
   <string name="screensaver_settings_summary_dock">Telakoituna</string>
   <string name="screensaver_settings_summary_either_long">Telakoituna tai virransäästötilassa ja ladattaessa</string>
   <string name="screensaver_settings_summary_either_short">Kumpi vain</string>
-  <string name="screensaver_settings_summary_off">Pois käytöstä</string>
+  <string name="screensaver_settings_summary_off">Pois päältä</string>
   <string name="screensaver_settings_summary_sleep">Latauksen aikana</string>
   <string name="screensaver_settings_title">Lepotila</string>
   <string name="screensaver_settings_when_to_dream">Lepotila käytössä</string>
@@ -3490,7 +3490,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sim_pref_divider">Ensisijainen SIM-kortti seuraaville toiminnoille:</string>
   <string name="sim_preferred_message">%1$s on laitteesi ainoa SIM-kortti. Haluatko käyttää korttia tiedonsiirrolle, puheluille ja tekstiviesteille?</string>
   <string name="sim_preferred_title">Päivitä ensisij. SIM-kortti?</string>
-  <string name="sim_radio_off">Pois</string>
+  <string name="sim_radio_off">Pois päältä</string>
   <string name="sim_reenter_new">Kirjoita uusi PIN-koodi uudelleen</string>
   <string name="sim_select_card">SIM-kortin valinta</string>
   <string name="sim_selection_required_pref">Valinta on pakollinen</string>
@@ -3794,7 +3794,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suw_back_button_label">Takaisin</string>
   <string name="suw_more_button_label">Lisää</string>
   <string name="suw_next_button_label">Seuraava</string>
-  <string name="switch_off_text">Ei käytössä</string>
+  <string name="switch_off_text">Pois päältä</string>
   <string name="switch_on_text">Päällä</string>
   <string name="switch_screen_button_order">Peilaa painikkeet</string>
   <string name="switch_screen_button_order_desc">Peilaa Takaisin- ja Valikko-painikkeet</string>
@@ -4290,7 +4290,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vpn_no_selected">Select VPN</string>
   <string name="vpn_no_server_cert">(palvelimelta saatu)</string>
   <string name="vpn_not_used">(ei käytössä)</string>
-  <string name="vpn_off">Ei käytössä</string>
+  <string name="vpn_off">Pois päältä</string>
   <string name="vpn_on">Päällä</string>
   <string name="vpn_password">Salasana</string>
   <string name="vpn_routes">Reititykset (esim. 10.0.0.0/8)</string>
@@ -4634,7 +4634,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="wifi_share_summary1">MIUI käyttäjät voivat jakaa julkisia Wi-Fi-verkkoja (kahviloita, ravintoloita, hotelleja jne.) muiden käyttäjien kanssa.</string>
   <string name="wifi_share_summary2">Kun joku toinen MIUI käyttäjä jakaa verkon, voit yhdistää siihen suoraan ilman salasanaa.</string>
   <string name="wifi_share_summary3">Voit myös jakaa sinsun julkiset Wi-Fi-verkkosi muiden MIUI käyttäjien kanssa.</string>
-  <string name="wifi_share_turn_off">Ei käytössä</string>
+  <string name="wifi_share_turn_off">Pois päältä</string>
   <string name="wifi_share_turn_on">Päällä</string>
   <string name="wifi_share_upload">Jaa</string>
   <string name="wifi_share_upload_finish">Jaettu</string>
@@ -4722,7 +4722,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Ikkuna</string>
   <string name="wireless_networks_settings_title">Langaton verkko ja verkot</string>
-  <string name="wireless_off">Ei käytössä</string>
+  <string name="wireless_off">Pois päältä</string>
   <string name="wireless_on">Päällä</string>
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
@@ -4750,7 +4750,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="xiaomi_account">Mi Tili</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
   <string name="xiaomi_cloud_service_description">Mi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi, ja auttaa löytämään laitteesi käyttämällä Etsi laite -toimintoa.</string>
-  <string name="xiaomi_cloud_service_disabled">Ei käytössä</string>
+  <string name="xiaomi_cloud_service_disabled">Pois päältä</string>
   <string name="xiaomi_cloud_service_unknown">Tuntematon</string>
   <string name="xiaomi_money_service">Mi Krediitti</string>
   <string name="xiaomi_router_available_notif_summary">Näytä lisää tietoa napauttamalla.</string>
@@ -4768,6 +4768,9 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="zen_mode_add_rule">Lisää sääntö</string>
   <string name="zen_mode_alarm_use">Äänet</string>
   <string name="zen_mode_alarms">Herätykset</string>
+  <string name="zen_mode_all_callers">Kaikki soittajat</string>
+  <string name="zen_mode_all_messages">Kaikki viestit</string>
+  <string name="zen_mode_all_visual_interruptions">Pois päältä</string>
   <string name="zen_mode_automation_settings_title">Automaattiset säännöt</string>
   <string name="zen_mode_calls">Puhelut</string>
   <string name="zen_mode_configure_rule">Määritä sääntö</string>
