@@ -1427,8 +1427,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pref_allow_connect_network_title">Ulkomaan data-roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Salli poikkeuksia käyttää mobiilidataa roamingin aikana</string>
   <string name="pref_app_traffic_managent">Rajoita sovelluskohtaisesti datan käyttöä</string>
-  <string name="pref_auto_adjust_settings">Säädä automaattisesti datan käytön tilastot asetukset</string>
-  <string name="pref_auto_adjust_traffic">Säädä automaattisesti datan käytön tilastot</string>
+  <string name="pref_auto_adjust_settings">Säädä datan käyttötilaston asetukset automaattisesti</string>
+  <string name="pref_auto_adjust_traffic">Säädä datan käyttötilastot automaattisesti</string>
   <string name="pref_automatic_adjust">Synkronoi operaattorin datan käyttö</string>
   <string name="pref_avaible_traffic">Datapaketti</string>
   <string name="pref_category_daily_package_tile">Päiväkohtainen datapaketti</string>
