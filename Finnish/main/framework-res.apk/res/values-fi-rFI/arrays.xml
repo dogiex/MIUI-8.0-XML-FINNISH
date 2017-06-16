@@ -72,4 +72,11 @@
         <item>Muu</item>
         <item>Muokattu</item>
     </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Mobiilidata</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
 </resources>

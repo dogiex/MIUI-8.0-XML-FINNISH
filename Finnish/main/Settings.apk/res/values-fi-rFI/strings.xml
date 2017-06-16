@@ -456,6 +456,9 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="battery_sugg_wifi">Poista Wi-Fi käytöstä, kun sitä ei käytetä tai kun yhteys ei ole käytettävissä</string>
   <string name="battery_summary">%1$d %% käytetty täyteen lataamisen jälkeen.</string>
   <string name="bearer">Haltija</string>
+  <string name="billing_cycle">Laskutusjakso</string>
+  <string name="billing_cycle_fragment_summary">Kuukausittain alkaen %1$s</string>
+  <string name="billing_cycle_summary">Kuukausittainen jakso alkaa %1$s päivänä joka kuukausi</string>
   <string name="bind_xiaomi_account_confirm">Lisää</string>
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
   <string name="bind_xiaomi_account_success">Mi Tili lisätty onnistuneesti</string>
@@ -792,8 +795,16 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="category_work">Työ</string>
   <string name="cdma_security_settings_summary">Aseta Oma sijainti, näytön lukituksen poisto, käyttöoikeustietojen tallennustilan lukitus</string>
   <string name="cell_broadcast_settings">Hätätilalähetykset</string>
-  <string name="cellular_data_summary">Salli tiedonsiirto matkapuh.verkossa</string>
+  <string name="cell_data_template">%1$s mobiilidataa</string>
+  <string name="cell_warning_and_limit">%1$s Datavaroitus / %2$s Datan raja</string>
+  <string name="cell_warning_only">%1$s Datavaroitus</string>
+  <string name="cellular_data_summary">Salli tiedonsiirto matkapuhelinverkossa</string>
   <string name="cellular_data_title">Mobiilitiedonsiirto</string>
+  <string name="cellular_data_usage">Mobiilidatan käyttö</string>
+  <string name="cellular_to_wlan_hint_summary">Allow hint when choose manually or always ask in Cellular-&gt;Wi-Fi</string>
+  <string name="cellular_to_wlan_hint_title">Cellular-&gt;Wi-Fi hint</string>
+  <string name="cellular_to_wlan_hint_toast">Cellular-&gt;Wi-Fi connection may be affected</string>
+  <string name="cellular_to_wlan_title">Cellular-&gt;Wi-Fi</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Vaihda</string>
   <string name="change_password">Vaihda näytön lukitus</string>
@@ -1056,6 +1067,7 @@ Puhelin mittaa tiedonsiirron. Operaattorisi voi kuitenkin käyttää eri mittaus
   <string name="data_usage_metered_title">Verkkorajoitukset</string>
   <string name="data_usage_metered_wifi">Käytön mukaan laskutettavat Wi-Fi-verkot</string>
   <string name="data_usage_metered_wifi_disabled">Ota Wi-Fi käyttöön, niin voit valita käytön mukaan laskututettavat verkot.</string>
+  <string name="data_usage_other_apps">Käyttöön sisältyvät muut sovellukset</string>
   <string name="data_usage_pick_cycle_day">Tiedonsiirtojakson nollauspäivä (kk):</string>
   <string name="data_usage_received_sent">%1$s vastaanotettu, %2$s lähetetty</string>
   <string name="data_usage_restrict_background">Jos rajoitat taustalla tapahtuvaa mobiilitiedonsiirtoa, osa sovelluksista ja palveluista toimii vain kun käytät Wi‑Fi-yhteyttä.</string>
@@ -1065,20 +1077,23 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="data_usage_restrict_background_title">Rajoitetaanko taustatiedonsiirtoa?</string>
   <string name="data_usage_restrict_denied_dialog">Aseta ensin mobiilitiedonsiirtoraja, niin voit rajoittaa taustalla tapahtuvaa tiedonsiirtoa.</string>
   <string name="data_usage_summary_title">Datan käyttö</string>
-  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;rajoitus&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;varoitus&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit">^1 ^2"
+"rajoitus</string>
+  <string name="data_usage_sweep_warning">^1 ^2"
+"varoitus</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mobiili</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
+  <string name="data_usage_template">%1$s käytetty välillä: %2$s</string>
   <string name="data_usage_total_during_range">%2$s: n. %1$s käytetty.</string>
   <string name="data_usage_total_during_range_mobile">%2$s: n. %1$s käytetty puhelimen mukaan. Operaattorin mittaustulos voi erota tästä.</string>
   <string name="data_usage_uninstalled_apps">Poistetut sovellukset</string>
   <string name="data_usage_uninstalled_apps_users">Poistetut sovellukset ja käyttäjät</string>
-  <string name="data_usage_warning_editor_title">Aseta tiedonsiirtovaroitus</string>
+  <string name="data_usage_warning_editor_title">Aseta datan käyttövaroitus</string>
+  <string name="data_used_template">%1$s käytetty</string>
+  <string name="data_warning">Datavaroitus</string>
   <string name="date_and_time">Päivämäärä &amp; aika</string>
   <string name="date_and_time_settings_summary">Aseta päivämäärä, aika, aikavyöhyke ja muodot</string>
   <string name="date_and_time_settings_title">Päivämäärä &amp; aika</string>
@@ -4406,6 +4421,8 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_context_menu_change_wapi_certificate">Vaihda WAPI sertifikaatti</string>
   <string name="wifi_context_menu_connect">Yhdistä</string>
   <string name="wifi_context_menu_forget">Unohda</string>
+  <string name="wifi_data_template">%1$s Wi-Fi dataa</string>
+  <string name="wifi_data_usage">Wi-Fi datan käyttö</string>
   <string name="wifi_datanetwork_switch_not_remind">Älä näytä uudelleen</string>
   <string name="wifi_dialog_remind_type_title">Mobiilidataverkko</string>
   <string name="wifi_disabled_generic">Pois käytöstä</string>
