@@ -369,7 +369,7 @@
   <string name="translation_type_word">Sana</string>
   <string name="url_is_phish">Tämä saattaa olla phishing verkkosivu</string>
   <string name="url_is_safety">Tämä verkkosivu on turvallinen</string>
-  <string name="url_is_unknown">Tämän verkkosivun turvallisuutta ei voida tarkastaa</string>
+  <string name="url_is_unknown">Tämän verkkosivun turvallisuutta ei voida tarkistaa</string>
   <string name="url_is_unsafety">Tämä verkkosivu ei ole turvallinen</string>
   <string name="vender_info_translation_kingsoft">Teknisen tuen tarjoaa Kingsoft</string>
   <string name="view_study_report">Näytä raportti</string>

@@ -1435,8 +1435,8 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="extreme_threats_summary">Saa hälytyksiä ihmishenkiä ja omaisuutta koskevista uhista</string>
   <string name="extreme_threats_title">Erittäin vakavat uhat</string>
   <string name="factory_reset_summary">Poista kaikki tiedot laitteen sisäiseltä tallennustilalta</string>
-  <string name="failed_to_check_find_device_status_content">Etsi laite tilaa ei voitu tarkastaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
-  <string name="failed_to_check_find_device_status_title">Tilaa ei voitu tarkastaa</string>
+  <string name="failed_to_check_find_device_status_content">Etsi laite tilaa ei voitu tarkistaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="failed_to_check_find_device_status_title">Tilaa ei voitu tarkistaa</string>
   <string name="failed_to_open_app_settings_toast">Sovelluksen %1$s asetuksia ei voi avata</string>
   <string name="failed_to_shut_down_find_device_content">Etsi laite -toimintoa ei voitu poistaa käytöstä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="failed_to_shut_down_find_device_title">Ei voitu poistaa käytöstä</string>

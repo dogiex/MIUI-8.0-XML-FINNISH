@@ -678,7 +678,7 @@
   <string name="unlock_pattern_title">Uusi salasana</string>
   <string name="unlogin">Kirjaudu sisään ensin</string>
   <string name="unmount_inform_text">Poistetaanko USB-tallennustila?</string>
-  <string name="unreviewed_video_cannot_share">Videot täytyy tarkastaa ennen jakamista</string>
+  <string name="unreviewed_video_cannot_share">Videot täytyy tarkistaa ennen jakamista</string>
   <string name="update_failed">Tallennus epäonnistui, yritä uudelleen</string>
   <string name="update_loading">Tallennetaan…</string>
   <string name="upload_avatar_camera">Kamera</string>
@@ -695,7 +695,7 @@
   <string name="upload_notification_failed_content">Yritä uudelleen</string>
   <string name="upload_notification_progress">Lähetetään %1$s%%</string>
   <string name="upload_notification_success">Lähetettiin onnistuneesti</string>
-  <string name="upload_notification_success_content">Videosi täytyy tarkastaa ennen muille ihmisille jakamista</string>
+  <string name="upload_notification_success_content">Videosi täytyy tarkistaa ennen muille ihmisille jakamista</string>
   <string name="upload_notification_title">Lähetetään videota</string>
   <string name="upload_popup">Voita palkintoja lähettämällä videoita</string>
   <string name="upload_user_photo">Lähetä</string>
