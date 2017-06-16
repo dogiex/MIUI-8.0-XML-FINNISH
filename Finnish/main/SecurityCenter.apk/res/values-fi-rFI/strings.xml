@@ -570,7 +570,7 @@ mikäli unohdat sen"</string>
   <string name="current_network_state_not_need_diagnose">Internet-yhteys on normaali.</string>
   <string name="customize_limit_pkg">%s (mukautettu)</string>
   <string name="customizer_mode_user_define_name">Sääntöni</string>
-  <string name="daily_limit_and_lock_screen">Datan raja &amp; ilmoitukset</string>
+  <string name="daily_limit_and_lock_screen">Tiedonsiirtoraja &amp; ilmoitukset</string>
   <string name="daily_limit_network_available_body">Näytä datan käytön tilastot napauttamalla.</string>
   <string name="daily_limit_over_message">Olet ylittänyt päivittäisen tiedonsiirtorajan.</string>
   <string name="daily_pkg_traffic">Datan huippuraja</string>
@@ -1015,7 +1015,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="main_primary_message_leisure_alert">Hiljaisen ajan datavaroitus</string>
   <string name="main_primary_message_leisure_overlimit">Hiljaisen ajan datan raja ylittyi</string>
   <string name="main_primary_message_leisure_remain">Hiljaisen ajan data</string>
-  <string name="main_primary_message_traffic_overlimit">Datan raja ylittyi</string>
+  <string name="main_primary_message_traffic_overlimit">Tiedonsiirtoraja ylittyi</string>
   <string name="main_primary_message_traffic_remain">Mobiilidata</string>
   <string name="main_primary_message_traffic_warning">Mobiilidatavaroitus</string>
   <string name="main_purchase_tips">Mainos</string>
@@ -2150,7 +2150,7 @@ Jäljellä oleva data sisältää datan, joka lisättiin viime kuukaudelta."</st
 If you go over your plans data usage limit, your carrier may charge you additional fees.
 
 Tap to top up your balance."</string>
-  <string name="traffic_over_purchase_title">Datan raja ylitetty</string>
+  <string name="traffic_over_purchase_title">Tiedonsiirtoraja ylitetty</string>
   <string name="traffic_purchase_body">Top up saldoasi napauttamalla.</string>
   <string name="traffic_purchse_suggestion">Top up mobiilidata</string>
   <string name="traffic_setting_completed">OK</string>

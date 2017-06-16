@@ -796,7 +796,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="cdma_security_settings_summary">Aseta Oma sijainti, näytön lukituksen poisto, käyttöoikeustietojen tallennustilan lukitus</string>
   <string name="cell_broadcast_settings">Hätätilalähetykset</string>
   <string name="cell_data_template">%1$s mobiilidataa</string>
-  <string name="cell_warning_and_limit">%1$s Datavaroitus / %2$s Datan raja</string>
+  <string name="cell_warning_and_limit">%1$s Datavaroitus / %2$s Tiedonsiirtoraja</string>
   <string name="cell_warning_only">%1$s Datavaroitus</string>
   <string name="cellular_data_summary">Salli tiedonsiirto matkapuhelinverkossa</string>
   <string name="cellular_data_title">Mobiilitiedonsiirto</string>
@@ -994,7 +994,7 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="daltonizer_type">Korjaustila</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
   <string name="dashboard_title">Asetukset</string>
-  <string name="data_limit">Datan raja</string>
+  <string name="data_limit">Tiedonsiirtoraja</string>
   <string name="data_saver_off">Pois päältä</string>
   <string name="data_saver_on">Päällä</string>
   <string name="data_saver_title">Datan säästäjä</string>
