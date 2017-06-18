@@ -209,7 +209,7 @@
   <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enabled_by_admin">Järjestelmänvalvojan ottanut käyttöön</string>
   <string name="force_allow_on_external">Pakota sovelluksien salliminen ulkoiselle tallennustilalle</string>
-  <string name="force_allow_on_external_summary">Tekee mistä tahansa sovelluksesta mahdollista kirjoittaa ulkoiselle tallennustilalle riippumatta muista arvoista</string>
+  <string name="force_allow_on_external_summary">Tekee mistä tahansa sovelluksesta mahdollisen kirjoittaa ulkoiselle tallennustilalle riippumatta muista arvoista</string>
   <string name="force_hw_ui">Pakota GPU renderöinti</string>
   <string name="force_hw_ui_summary">Pakota GPU:n käyttö 2d piirtämisessä</string>
   <string name="force_msaa">Pakota 4x MSAA</string>

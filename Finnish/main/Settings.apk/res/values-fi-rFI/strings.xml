@@ -1366,6 +1366,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_terminal_summary">Ota käyttöön päätesov. joka mahdollistaa paikall. liittymäkäytön</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
   <string name="enable_text">Ota käyttöön</string>
+  <string name="enable_webview_multiprocess">Multiprosessinen WebView</string>
+  <string name="enable_webview_multiprocess_desc">Suorita WebView renderöijät erikseen</string>
   <string name="enable_wifi_display">Langaton näyttö</string>
   <string name="enable_wifi_master_key_service">Ota Wi-Fi Master Key käyttöön</string>
   <string name="enable_wifi_master_key_service_first">Ota käyttöön</string>
@@ -1511,10 +1513,14 @@ Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
   <string name="font_size_summary1">"Jos järjestelmäsi teksti on vieläkin liian pieni, kokeile "</string>
   <string name="font_size_summary2">Lite-tilaa.</string>
   <string name="forbidden_switch_apn_string">Valitut APN asetukset eivät vastaa nykyistä verkon tyyppiä</string>
+  <string name="force_allow_on_external">Pakota sovelluksien salliminen ulkoiselle tallennustilalle</string>
+  <string name="force_allow_on_external_summary">Tekee mistä tahansa sovelluksesta mahdollisen kirjoittaa ulkoiselle tallennustilalle, riippumatta muista arvoista.</string>
   <string name="force_hw_ui">Pakota GPU-hahmonnus</string>
   <string name="force_hw_ui_summary">Käytä GPU:ta 2d-piirtämiseen</string>
   <string name="force_msaa">Pakota 4x MSAA</string>
   <string name="force_msaa_summary">Ota käyttöön 4x MSAA OpenGL ES 2.0 -sovelluksissa</string>
+  <string name="force_resizable_activities">Pakota aktiviteettien koon muokattavuus</string>
+  <string name="force_resizable_activities_summary">Tee aktiviteettien koosta muokattavia moni-ikkunaa varten, riippumatta muista arvoista.</string>
   <string name="force_rtl_layout_all_locales">Pakota RTL-ulkoasun suunta</string>
   <string name="force_rtl_layout_all_locales_summary">Pakota kaikkien kielten näytön ulkoasun suunnaksi RTL</string>
   <string name="force_stop">Pakota lopetus</string>
@@ -2605,6 +2611,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="phone_language">Kieli</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fyysinen näppäimistö</string>
+  <string name="picture_color_mode">Kuvan väritila</string>
+  <string name="picture_color_mode_desc">Käytä sRGB</string>
   <string name="pico_installed">Asennettu</string>
   <string name="pico_languages_and_voices">Kielet &amp; äänet</string>
   <string name="pico_not_installed">Ei asennettu</string>
@@ -3389,6 +3397,9 @@ Näytön kiinnityksen käyttö:
   <string name="select_ssid_type_title">Valitse SSID</string>
   <string name="select_usb_configuration_dialog_title">Valitse USB-määritykset</string>
   <string name="select_usb_configuration_title">Valitse USB-määritykset</string>
+  <string name="select_webview_provider_dialog_title">Aseta WebView-toteutus</string>
+  <string name="select_webview_provider_title">WebView-toteutus</string>
+  <string name="select_webview_provider_toast_text">Tämä valinta ei ole enää voimassa. Yritä uudelleen.</string>
   <string name="selinux_status">SELinux-tila</string>
   <string name="selinux_status_disabled">Ei käytössä</string>
   <string name="selinux_status_enforcing">Täytäntöönpano</string>
