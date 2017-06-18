@@ -4127,7 +4127,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="use_wifi_master_key_summary">Yhdistä käyttämällä Wi-Fi Master Key:tä</string>
   <string name="user_account_title">Käytettävä tili</string>
   <string name="user_add_max_count">Voit lisätä korkeintaan %1$d käyttäjää.</string>
-  <string name="user_add_on_lockscreen_menu">Lisää käyttäjiä lukitustilassa</string>
+  <string name="user_add_on_lockscreen_menu">Lisää käyttäjiä</string>
+  <string name="user_add_on_lockscreen_menu_summary">kun laite on lukittu</string>
   <string name="user_add_profile_item_summary">Voit rajoittaa tilisi sovelluksien ja sisällön käyttöä</string>
   <string name="user_add_profile_item_title">Rajoitettu profiili</string>
   <string name="user_add_user_item_summary">Tavallisilla käyttäjillä on omia sovelluksia ja sisältöä.</string>
