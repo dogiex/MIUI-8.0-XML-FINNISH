@@ -368,18 +368,14 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_paired_dialog_title">Noudetaan yhteystietoja…</string>
   <string name="device_pairing_dialog_message">Paritetaan…</string>
   <string name="device_pairing_dialog_title">Parita laitteet</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Ota toisen laitteen \"Bluetooth\" käyttöön;
+  <string name="device_transfer_by_bluetooth_message">"1. Ota toisessa laitteessa Bluetooth käyttöön.
         
+- Bluetooth löytyy verkkoasetuksista Android-laitteissa. 
+- iOS-laitteissa, Bluetooth löytyy Asetuksista. 
 
-- Android laitteilla \"Bluetooth\" asetuksen löytää usein verkkoasetuksen alapuolelta
-        
-- iOS laitteiden täytyy etsiä \"Bluetooth\" asetusta Asetuksien sisältä
-        
+2. Tunnistettavuus on myös otettava käyttöön Android-laitteissa.. 
 
-2. Android laitteiden täytyy myös ottaa \"Tunnistettavuus\" asetus käyttöön;
-        
-
-3. Paina \"Seuraava\", ja salli yhteystiedoille käyttöoikeus seuraavassa vaiheessa."</string>
+3. Napauta \"Seuraava\", ja anna Yhteystiedolle tarvittavat käyttöoikeudet."</string>
   <string name="device_transfer_by_sim_message">"1. Tallenna toisen laitteesi yhteystiedot SIM-kortille;
         
 
@@ -1302,7 +1298,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_search_history">Historia</string>
   <string name="yellowpage_navigation_search_offline_hint">Olet offline-tilassa</string>
   <string name="yellowpage_navigation_search_result_average_price">Keskiarvo RMB %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">Verkkoon ei saada yhteyttä</string>
+  <string name="yellowpage_navigation_search_result_network_error">Verkkoon ei voi yhdistää</string>
   <string name="yellowpage_navigation_search_result_no_more">Ei enempää tuloksia</string>
   <string name="yellowpage_navigation_search_result_service_error">Palvelu ei käytettävissä</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Tuntematon virhe</string>

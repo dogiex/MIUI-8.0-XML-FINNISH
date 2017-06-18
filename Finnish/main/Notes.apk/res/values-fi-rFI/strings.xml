@@ -60,7 +60,7 @@
   <string name="error_widget_exist_for_send_to_desktop">Tämä muistio on jo Kotinäytölläsi</string>
   <string name="folder_exist">Saman niminen kansio on jo olemassa</string>
   <string name="force_touch_menu_add">Lisää muistio</string>
-  <string name="format_move_note_out_folder">Siirrettiin pois</string>
+  <string name="format_move_note_out_folder">Tämä muistio on siirretty</string>
   <string name="format_move_note_to_folder">Siirrettiin kansioon %1$s</string>
   <string name="format_move_notes_out_folder">Siirrettiin kansiosta %1$s</string>
   <string name="format_move_notes_to_folder">Siirrettiin %1$s kansioon %2$s</string>

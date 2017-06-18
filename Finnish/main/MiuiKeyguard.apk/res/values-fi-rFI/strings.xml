@@ -15,7 +15,6 @@
   <string name="experimental_validate_thanks">Kiitos!</string>
   <string name="experimental_validate_username">Käyttäjänimi</string>
   <string name="experimental_validate_warning">Kiitos, että autat tekemään MIUI:sta paremman!</string>
-  <string name="find_device_turn_off_flight_mode">Poista lentokone-tila käytöstä</string>
   <string name="fingerprint_add_text">Sormenjäljen käyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
   <string name="fingerprint_add_title">Lisää sormenjälki</string>
   <string name="fingerprint_again_identified_msg">Sormenjälkesi on nyt aktiivinen. Käytä sitä avataksesi laitteesi tai syöttämällä salasanan.</string>
@@ -32,6 +31,7 @@
   <string name="incorrect_pukcode">Väärä PUK-koodi</string>
   <string name="incorrect_pukcode_remaining_attempts">Väärä PUK-koodi, %d yritystä jäljellä</string>
   <string name="input_password_after_boot_msg">Avaa laitteen lukitus syöttämällä salasana</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi siirtyä Tilojen välillä</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
   <string name="input_password_hint_text">Syötä salasana</string>
   <string name="input_pattern_hint_text">Piirrä lukituksen poistokuviosi</string>
@@ -89,15 +89,9 @@
 
  Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Olet yrittänyt avata puhelimen väärin %d kertaa. Puhelin palautetaan nyt tehdasasetuksille.</string>
-  <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
-  <string name="lockscreen_glogin_invalid_input">Käyttäjänimi tai salasana on väärin.</string>
-  <string name="lockscreen_glogin_password_hint">Salasana</string>
-  <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
-  <string name="login_website_in_case_forget_password">Palauta salasanasi menemällä osoitteeseen: www.mi.com/micloud</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattu Bluetooth-laitteella</string>
   <string name="open_camera_hint_text">Avaa Kamera pyyhkäisemällä vasemmalle</string>
   <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
-  <string name="open_wifi_settings">Avaa verkkoyhteydet</string>
   <string name="phone_locked_foget_password">Unohtuiko salasana?</string>
   <string name="phone_locked_foget_password_content">"Voit kirjautua sisään osoitteeseen i.mi.com ja käyttää Mi Tiliäsi, jota käytetään tässä laitteessa ja poistaa kaiken tiedon. Tämä poistaa kaikki tähän laitteeseen tallennetut henkilökohtaiset tiedot. Tämän jälkeen voit käynnistää laitteen uudelleen ja palauttaa yhteystiedot, viestit, kuvat ja muut kohteet Mi Pilvestä. 
 

@@ -6,9 +6,8 @@
   <string name="btn_title_force">Pakota</string>
   <string name="choice_no">Ei</string>
   <string name="choice_yes">Kyllä</string>
-  <string name="dialog_download_space_cancel">Peruuta</string>
+  <string name="default_space_name">Nimeämätön Tila</string>
   <string name="dialog_download_space_create">OK</string>
-  <string name="dialog_download_space_title">Lataa Tila?</string>
   <string name="dialog_password_expired_button">Päivitä salasana</string>
   <string name="dialog_password_expired_message">Your password has either expired or is no longer valid under the current policy. Please update your password.</string>
   <string name="dialog_password_expired_title">Password expired</string>
@@ -59,6 +58,7 @@
   <string name="sscm_registration_summary">Pull down the notifications to view details</string>
   <string name="title_sscm_registration">Secure Spaces Service Reminder</string>
   <string name="toast_space_creation_failed">Tilan luonti epäonnistui</string>
+  <string name="unknown"> (Tuntematon)</string>
   <string name="uri_invalid">URI tai QR-koodi ei kuvaile Turvallista Tilaa</string>
   <string name="uri_invalid_server_url">Väärä palvelimen URL-osoite rekisteröinti URI:ssä</string>
   <string name="uri_missing_registration_token">Empty or missing registration token in registration URI</string>

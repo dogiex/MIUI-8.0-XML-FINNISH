@@ -119,12 +119,15 @@
   <string name="delete_message">Poista</string>
   <string name="delete_phrase">Poista vastaus</string>
   <string name="delete_unlocked">Poista lukitut viestit</string>
+  <string name="delete_verification_code_sms_message">Poistetaanko kaikki kertakäyttösalasanat?</string>
+  <string name="delete_verification_code_sms_title">Tyhjennä kertakäyttösalasanat</string>
   <string name="delete_wild_sims">Poista numeroita</string>
   <string name="delete_wild_sims_confirm">Kaikki valittujen numeroiden viestit poistetaan tästä puhelimesta. Voit palauttaa ne osoitteessa i.mi.com.</string>
   <string name="delete_wild_sims_title">Poista valitut numerot</string>
   <string name="delivery_report_activity">Toimitusraportti</string>
   <string name="delivery_toast_body">%s vastaanotti viestin</string>
   <string name="disable_notifications_dialog_message">Lopetetaanko tekstiviesti-ilmoituksien kaksoiskappaleet oletus Viestintäsovelluksesta?</string>
+  <string name="disabled">Ei käytössä</string>
   <string name="discard">Hylkää</string>
   <string name="discard_message">Hylkää</string>
   <string name="discard_message_reason">Viestisi hylätään, koska sillä ei ole kelpuutettavia vastaanottajia.</string>
@@ -139,10 +142,12 @@
   <string name="duration_sec">Kesto (%s sek)</string>
   <string name="duration_selector_title">"Dian kesto "</string>
   <string name="duration_zero">Keston täytyy olla suurempi, kuin 0 sekuntia</string>
+  <string name="earlier">Aiemmin</string>
   <string name="edit">Muokkaa</string>
   <string name="edit_phrase">Muokkaa nopeita vastauksia</string>
   <string name="edit_slide_activity">Muokkaa diaa</string>
   <string name="edit_slideshow_activity">Muokkaa diaesitystä</string>
+  <string name="enabled">Käytössä</string>
   <string name="english_subject_limit">40 merkin raja</string>
   <string name="enter_edit_mode">Muokkaa viestejä</string>
   <string name="error_code_label">"Virhekoodi: "</string>
@@ -164,6 +169,7 @@
   <string name="fake_cell_detection_entry">Väärän mobiilitukiaseman tunnistus</string>
   <string name="fake_cell_safe_hint">Tämä viesti on turvallinen</string>
   <string name="fake_cell_timeout_hint">Turvallisuuden tarkastaminen epäonnistui</string>
+  <string name="favorite_at_time">Lisätty suosikkeihin klo: %1s</string>
   <string name="fdn_check_failure">Voit lähettää vain viestejä sallittuihin numeroihin.</string>
   <string name="festival_sms_loading">Ladataan…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -186,6 +192,8 @@
   <string name="group_message">Ryhmäviesti</string>
   <string name="group_message_failed_title">Lähetys epäonnistui %d yhteystiedolle</string>
   <string name="group_resend_message">Lähetä uudelleen (%d)</string>
+  <string name="group_verification_codes_summary">Ryhmitä kertakäyttösalasanat automaattisesti keskenään</string>
+  <string name="group_verification_codes_title">OTP viestien ryhmä</string>
   <string name="guild_add_attachments">Lisää hymiöitä ja muuta sisältöä napauttamalla</string>
   <string name="guild_add_recipients">Lisää vastaanottajia osoitekirjasta napauttamalla</string>
   <string name="guild_msim_switcher">Vaihda SIM-kortteja napauttamalla</string>
@@ -377,6 +385,7 @@
   <string name="pref_other_title">Lisäasetukset</string>
   <string name="pref_show_blocked_messages_summary">Näytä estetyt tekstiviestit keskustelulistalla</string>
   <string name="pref_show_list_avatar_summary">Näytä profiilikuvat ja muut tiedot luettelonäkymässä</string>
+  <string name="pref_show_sms_template_entry_summary">Tunnista kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_in_summary">Tunnista automaattisesti kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_summary">Kopioi ja täyty automaattisesti vahvistuskoodit</string>
   <string name="pref_smart_messages_settings">Älykkäät viestit</string>
@@ -394,13 +403,9 @@
   <string name="pref_summary_off_system_mms_priority">Käytä kolmannen osapuolen sovelluksia multimediaviestien lähettämiseen ja vastaanottamiseen</string>
   <string name="pref_summary_on_system_mms_priority">Aseta MIUI:n viestisovellus oletussovellukseksi multimediaviestien lähettämiseen ja vastaanottamiseen</string>
   <string name="pref_summary_send_delivery_reports">Lähetä vastaanottovahvistus lähettäjälle, kun olet saanut multimediaviestin</string>
-  <string name="pref_summary_show_recent_contacts">Näytä viimeaikaiset yhteystiedot, kun kirjoitetaan uutta viestiä</string>
   <string name="pref_summary_wake_up_screen">Herätä näyttö uuden viestin vastaanottaessa</string>
   <string name="pref_switch_sdk_setting">Vaihda älykkään tekstiviestin moottori</string>
   <string name="pref_system_title">Järjestelmä</string>
-  <string name="pref_time_auto_group_disabled_summary">Ei ole tuettu nykyisellä fontin koolla</string>
-  <string name="pref_time_auto_group_summary">Ryhmitä viestit yhteen, jotka vastaanotetaan minuutin sisällä toisistaan</string>
-  <string name="pref_time_auto_group_title">Ryhmitä ajan mukaan</string>
   <string name="pref_title_about_smart_sms">Tietoa Älykkäiden viestien kumppaneista</string>
   <string name="pref_title_allow_si_sl_push">Salli WAP push-viestit (SI/SL)</string>
   <string name="pref_title_card_format">Käyntikortin jakomuoto</string>
@@ -417,7 +422,6 @@
   <string name="pref_title_ringtone_repeat">Ilmoitusäänet</string>
   <string name="pref_title_ringtone_repeat_summary">Toista ilmoitusääni, kun viesti vastaanotetaan näytön ollessa sammutettuna</string>
   <string name="pref_title_send_delivery_reports">Lähetä vastaanottovahvistus</string>
-  <string name="pref_title_show_recent_contacts">Näytä viimeaikaiset yhteystiedot</string>
   <string name="pref_title_sms_delete">Tekstiviestin raja</string>
   <string name="pref_title_sms_validity_period">Tekstiviestin vanhentuminen</string>
   <string name="pref_title_storage_status">Viestin tallennustilan tila</string>
@@ -449,6 +453,7 @@
   <string name="prvate_contact">Yksityiset yhteystiedot</string>
   <string name="quick_reply">Vastaa</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="received_at_time">Vastaanotettu klo: %1s</string>
   <string name="received_label">"Vastaanotettu: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Vastaanottaja: "</string>
@@ -522,6 +527,7 @@
   <string name="send_to">To:</string>
   <string name="send_to_count">Lähetettiin %1$s viestiä</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Lähetetty klo: %1s</string>
   <string name="sent_label">"Lähetetty: "</string>
   <string name="service_message_not_found">Viesti on vanhentunut tai ei ole käytettävissä</string>
   <string name="service_network_problem">Ei voitu lähettää verkkovian takia</string>
@@ -611,6 +617,7 @@
   <string name="to_count">%d vastaanottajaa</string>
   <string name="to_label">"Vast.ott. "</string>
   <string name="to_send_wrapper">Lähetetään klo %s</string>
+  <string name="today">Tänään</string>
   <string name="too_many_attachments">%1$s liitetiedostoa ei voi ylittää. Vain %2$s ensimmäistä lisätään.</string>
   <string name="too_many_recipients">Viesti sisältää liian monta vastaanottajaa (%1$s). Voit valita enintään %2$s vastaanottajaa.</string>
   <string name="too_many_unsent_mms">Viestiä ei voi lähettää juuri nyt. Liian monta lähettämätöntä multimediaviestiä.</string>
@@ -646,6 +653,8 @@ Yritys tehty: %s."</string>
   <string name="user_agreement3">" ja "</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>
   <string name="user_agreement5">Napauttamalla OK hyväksyt meidän Palveluehdot ja Tietosuojakäytännön.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Vahvistuskoodit</string>
   <string name="view">Näytä</string>
   <string name="view_bookmark">Näytä alkuperäinen viesti</string>
   <string name="view_message_details">Näytä tiedot</string>
@@ -658,4 +667,5 @@ Yritys tehty: %s."</string>
   <string name="wild_msg_title">Valitse synkronoitavat puhelinnumerot</string>
   <string name="yellowpage_recommend_msg">Katso MIUI:n Viestien toimintoja</string>
   <string name="yes">OK</string>
+  <string name="yesterday">Eilen</string>
 </resources>

@@ -739,12 +739,12 @@ mikäli unohdat sen"</string>
   <string name="firewall_network_allow">Sallittiin %1$s käyttää %2$s yhteyttä</string>
   <string name="firewall_network_restrict_notify_message">Muuta asetuksia napauttamalla.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobiilidata</string>
-  <string name="firewall_network_restrict_notify_title">%1$s ei voi käyttää verkkoa</string>
   <string name="firewall_partial">Salli joidenkin sovelluksien yhdistäminen käyttämällä seuraavaa menetelmää</string>
   <string name="firewall_restrict_all">Rajoita kaikkien sovelluksien yhteyttä käyttämällä seuraavaa menetelmää</string>
   <string name="firewall_restrict_android_dialog_content">Jotta laitteesi toimii normaalisti, muutama Androidin järjestelmäsovellus on yhteydessä silti internettiin. Nämä sovellukset käyttävät mobiilidatayhteyttäsi ja saattaa lisätä operaattorimaksuja.</string>
   <string name="firewall_restrict_android_dialog_title">Huomio</string>
   <string name="firewall_restrict_data">Rajoita mobiilidatan käyttöä</string>
+  <string name="firewall_restrict_notify_title">%s verkkoa ei voi käyttää</string>
   <string name="firewall_restrict_wlan">Rajoita Wi-Fi-yhteyden käyttöä</string>
   <string name="firewall_rule_group_title_mobile">Mobiili</string>
   <string name="firewall_rule_group_title_roaming">Ulkomaan roaming</string>

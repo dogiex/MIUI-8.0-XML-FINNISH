@@ -28,7 +28,6 @@
   <string name="add_to_secret_fail">Piilotettuun albumiin lisääminen epäonnistui</string>
   <string name="add_to_secret_failed_with_reason">Piilotettuun albumiin ei voi lisätä. %1$s.</string>
   <string name="add_to_secret_failed_with_reason_and_count">%2$s kohdetta ei voi lisätä piilotettuun albumiin. %1$s.</string>
-  <string name="add_to_secret_successful">Lisätty piilotettuun albumiin</string>
   <string name="add_to_share_album_not_delete">Jaetun albumin kuvaa ei voi poistaa</string>
   <string name="adding">Lisätään…</string>
   <string name="adding_recipients">Lisätään vastaanottajia…</string>
@@ -79,9 +78,9 @@
   <string name="album_type_system">Järjestelmän albumit</string>
   <string name="album_videos_name">Videot</string>
   <string name="alert_secret_album_enter">Selvä</string>
-  <string name="alert_secret_album_message">Näe piilotettu albumi vetämällä ylhäältä alas Albumi-sivulla.</string>
-  <string name="alert_secret_album_title">Kuinka nähdä piilotettu albumi</string>
-  <string name="all_faces">Kuvat, jossa tämä henkilö</string>
+  <string name="alert_secret_album_message">Pyyhkäise alaspäin Albumit-välilehdellä nähdäksesi piilotetun albumin.</string>
+  <string name="alert_secret_album_title">Kuinka näät piilotetun albumin</string>
+  <string name="all_faces">Kuvat, joissa on tämä henkilö</string>
   <string name="all_items_synced">Kaikki albumit on varmuuskopioitu Mi Pilveen</string>
   <string name="all_video_album_display_name">Kaikki videot</string>
   <string name="already_create_baby_album">Vauva albumi on jo olemassa Mi Pilvessä.</string>
@@ -590,6 +589,8 @@
   <string name="cloud_storage_video_title">Videot</string>
   <string name="cloud_storage_warn_desc">Osta pilven VIP lisätäksesi tallennustilaa</string>
   <string name="cloud_storage_warn_title">Mi Pilven tallennustilaa ei ole tarpeeksi</string>
+  <string name="cloud_sync_card_description">Synkronoi kuvasi ja videosi Mi Pilveen käyttääksesi niitä useilla laitteilla</string>
+  <string name="cloud_sync_card_title">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="cloudfolder_cannot_start_with">"Albumin nimi ei voi alkaa merkillä '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Albumin nimi ei voi sisältää merkkiä '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Syötä albumin nimi</string>
@@ -600,6 +601,7 @@
   <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
   <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Hetket</string>
   <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+  <string name="comma_separator">,</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Aloittaaksesi katselun, lopeta ensin tämän videon lataaminen. Lataus jatkuu, kun Wi-Fi on käytettävissä.</string>
   <string name="confirm_download_video_title">Lataa video</string>
@@ -1057,6 +1059,8 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_title_tag">Kohteet</string>
   <string name="search_transition_element_icon">search_icon</string>
   <string name="search_transition_element_input">search_input</string>
+  <string name="secret_album_card_description">Paras paikka kaikille pienille salaisuuksillesi</string>
+  <string name="secret_album_card_title">Kokeile yksityisiä albumeja</string>
   <string name="secret_album_display_name">Piilotettu albumi</string>
   <string name="secret_album_password_first_use_msg">Yksityisyydensuojan salasanaa käytetään. Se toimii kuvissa, muistioissa, piilotetuissa kansioissa, jne.</string>
   <string name="secret_album_password_first_use_title">Yksityisyydensuojan salasana</string>
@@ -1156,6 +1160,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="to_enable_sync_dialog_message">Ota synkronointi ensin käyttöön</string>
   <string name="to_enable_sync_dialog_positive_button_text">Mene Asetuksiin</string>
   <string name="to_enable_sync_dialog_title">Synkronointi</string>
+  <string name="today">Tänään</string>
   <string name="too_many_recipients">Voit lisätä enintään %2$s vastaanottajaa (Tällä hetkellä lisätyt %1$s).</string>
   <string name="trash_bin">Roskakori</string>
   <string name="trash_bin_summary">Selaa varmuuskopioituja kuvia, jotka poistettiin äskettäin</string>
@@ -1244,5 +1249,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="who_is_this">Kuka hän on?</string>
   <string name="xiaomi_account_not_exists_toast">Mi Tilia ei ole olemassa</string>
   <string name="yes">Kyllä</string>
+  <string name="yesterday">Eilen</string>
   <string name="you_are">Olet vauvan</string>
 </resources>

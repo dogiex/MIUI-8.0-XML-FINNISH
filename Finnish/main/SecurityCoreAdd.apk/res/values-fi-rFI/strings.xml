@@ -15,6 +15,8 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="appData">Asennetut sovellukset</string>
   <string name="app_name">Tietoturvaytimen Komponentti</string>
   <string name="back">Takaisin</string>
+  <string name="can_not_delete_when_calling">Tiloja ei voi poistaa puhelun aikana</string>
+  <string name="can_not_switch_when_calling">Tilojen välillä ei voi siirtyä puhelun aikana</string>
   <string name="cancelClosePassword">Älä poista käytöstä</string>
   <string name="cancel_button">Peruuta</string>
   <string name="changePassword">Vaihda salasana</string>

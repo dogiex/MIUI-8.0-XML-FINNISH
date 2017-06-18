@@ -107,9 +107,11 @@
   <string name="permdesc_bluetoothAvrcpDataManager">Salli sovellukselle pääsy BluetoothAvrcpData hallintaan ja käyttää sitä näyttääkseen käyttöliittymän päällä.</string>
   <string name="permdesc_bluetoothShareManager">Antaa sovelluksen käyttää BluetoothShare-hallintaa tiedostojen siirtoon.</string>
   <string name="permdesc_bluetoothWhitelist">Mahdollistaa tilapäisten käyttöoikeuksien antamisen Bluetooth-laitteelle, jolloin tiedostojen lähettäminen laitteesta tähän laitteeseen ei vaadi käyttäjän hyväksyntää.</string>
+  <string name="permdesc_handoverStatus">Sallii handover siirron tilatietojen vastaanoton Bluetoothilta.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Salli pääsy avrcp metadataan.</string>
   <string name="permlab_bluetoothShareManager">Lataustenhallinnan käyttö.</string>
   <string name="permlab_bluetoothWhitelist">Käyttö Bluetooth-laitteella, jolla on tilapäinen käyttöoikeus.</string>
+  <string name="permlab_handoverStatus">Vastaanota BT handover siirron tilatiedot.</string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">Käynnistä TCP-palvelin</string>

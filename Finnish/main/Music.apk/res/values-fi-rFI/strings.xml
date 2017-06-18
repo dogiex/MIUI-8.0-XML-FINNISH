@@ -149,7 +149,7 @@
   <string name="current_version">Nykyinen versio</string>
   <string name="data_usage_warning">Datan käyttö</string>
   <string name="data_usage_warning_summary">Käyttämällä mobiilidata-yhteyttä korkealaatuisen musiikin suoratoistoon saattaa nostaa datan käyttömaksuja.</string>
-  <string name="date_format_str">yyyy-MM-dd</string>
+  <string name="date_format_str">d.M.yyyy</string>
   <string name="delete">Poista</string>
   <string name="delete_download">Poista</string>
   <string name="delete_downloads_records">Poista lataukset</string>
@@ -803,7 +803,7 @@
   <string name="sort_by_time">Päiväys</string>
   <string name="source_from">Lähde: %1$s</string>
   <string name="start_download_music">Ladataan päivityksiä Musiikille.</string>
-  <string name="start_shuffle">Aloita sekoittaminen...</string>
+  <string name="start_shuffle">Sekoitetaan…</string>
   <string name="start_to_download">Ladataan…</string>
   <string name="start_to_play">Toista</string>
   <string name="start_to_use">Aloita nauttiminen</string>

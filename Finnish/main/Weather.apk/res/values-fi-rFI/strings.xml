@@ -47,7 +47,6 @@
   <string name="aqi_detail_subtitle">ILI %1$s</string>
   <string name="aqi_detail_title">Ilmanlaatuindeksi</string>
   <string name="aqi_detail_unit">Yksikkö: µg/m³</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_fifteen_dates_time_format">d.M.</string>
   <string name="aqi_publish_source">Päivitetty %1$s, Päivittäjä CNEMC</string>
   <string name="aqi_publish_time">Päivitetty %1$s</string>
@@ -264,7 +263,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="wind_direction_no_data">Tuuli</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">Xiaomin Sää -sovellus tarjoaa tarkkaa sääennustustietoa, joka tuo mukavuutta päivittäisiin matkoihisi. Sovelluksen poistaminen vaikuttaa ilmoitusalueeseen, sääkello widgettiin yms. toimintoihin. Haluatko jatkaa järjestelmäkomponentin poistamista?</string>
-  <string name="xiaomi_weather_description_title">Xiaomi Sää -sovelluksen Kuvaus</string>
+  <string name="xiaomi_weather_description_content">Sää -sovellus tarjoaa sinulle tarkkoja sääennustustietoja. Ilman tätä sovellusta, ilmoitusalueen ja Kotinäytön widgetit ei toimi normaalisti. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="xiaomi_weather_description_title">Tietoja Sää -sovelluksesta</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>
 </resources>

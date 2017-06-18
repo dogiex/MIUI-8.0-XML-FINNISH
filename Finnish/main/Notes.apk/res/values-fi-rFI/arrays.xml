@@ -9,8 +9,8 @@
         <item>Galleria</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Lajiteltu luomispäivän mukaan</item>
-        <item>Lajiteltu muokkaamispäivän mukaan</item>
+        <item>Luomispäivän mukaan</item>
+        <item>Muokkauspäivämäärän mukaan</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nimi</item>

@@ -462,6 +462,9 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="bind_xiaomi_account_confirm">Lisää</string>
   <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
   <string name="bind_xiaomi_account_success">Mi Tili lisätty onnistuneesti</string>
+  <string name="biometric_weak_improve_matching_title">Paranna kasvojen tunnistusta</string>
+  <string name="biometric_weak_liveliness_summary">Vaadi silmien räpyttely avaamisessa</string>
+  <string name="biometric_weak_liveliness_title">Eläväisyystarkistus</string>
   <string name="ble_scan_notify_text">Parantaakseen sijainnin tarkkuutta, järjestelmäsovellukset ja -palvelut voivat edelleen havaita Bluetooth-laitteita. Voit muuttaa tätä LINK_BEGINetsintäasetuksissaLINK_END.</string>
   <string name="block_list_connected_devices">Yhdistetyt laitteet</string>
   <string name="block_list_diaglog_cancle">Peruuta</string>
@@ -3920,7 +3923,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="track_frame_time">Profiilin GPU-hahmonnus</string>
   <string name="trackball_settings">Pallohiiri</string>
   <string name="trackball_wake_title">Pallohiiri herätys</string>
-  <string name="transition_animation_scale_title">Siirtymä</string>
+  <string name="traffic_balance">Älykäs tiedonsiirtostrategia</string>
+  <string name="transition_animation_scale_title">Siirtymäanimaatioasteikko</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Avustajat</string>
   <string name="trust_agent_disabled_device_admin">Järjestelmänvalvojan käytöstä poistama</string>
@@ -4015,6 +4019,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_disable_lock_title">Poista näytön lukitus käytöstä</string>
   <string name="unlock_set_enter_system">Ohita näytön lukitus</string>
   <string name="unlock_set_enter_system_summary">Heräämisen jälkeen mene suoraan Kotinäytölle</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Matala turvallisuus, kokeellinen</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Kasvojentunnistus</string>
   <string name="unlock_set_unlock_disabled_summary">Ei käytössä (järj.valv/salauskäyt./tunnuks. hall.)</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Vaihda tai poista käytöstä kuvio-, PIN-koodi- tai salasanasuojaus</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Vaihda näytön lukitus</string>
@@ -4701,8 +4707,8 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="wifi_tether_checkbox_text">Kannettava Wi-Fi Hotspot</string>
   <string name="wifi_tether_configure_ap_text">Luo Wi-Fi Hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-  <string name="wifi_tether_configure_subtext">%1$s %2$s kannettava Hotspot</string>
-  <string name="wifi_tether_enabled_subtext">Kannettava yhteyspiste %1$s käytössä</string>
+  <string name="wifi_tether_configure_subtext">%1$s %2$s kannettava</string>
+  <string name="wifi_tether_enabled_subtext">Kannettava hotspot %1$s käytössä</string>
   <string name="wifi_tether_failed_subtext">Kannettavan Wi-Fi Hotspotin virhe</string>
   <string name="wifi_tether_setting_title">Asetukset</string>
   <string name="wifi_tether_settings_title">Wi-Fi Hotspot</string>

@@ -105,31 +105,36 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 2.Tap the shutter button.
 3.Tap the Check icon. The system will save the photo automatically.
 4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
-  <string name="cit_front_camera_check_title">Front camera</string>
-  <string name="cit_gps_check_summary">The corresponding GPS info should be displayed below.</string>
+  <string name="cit_front_camera_check_title">Etukamera</string>
+  <string name="cit_gps_check_summary">Vastaavat GPS-tiedot pitäisi näkyä alla.</string>
   <string name="cit_gps_check_title">GPS</string>
-  <string name="cit_gps_disabled">"GPS hasn't started
+  <string name="cit_gps_disabled">"GPS ei ole päällä
 
-Touch the screen to start GPS…"</string>
+Kosketa näyttöä laittaaksesi GPS:n päälle…"</string>
   <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
-  <string name="cit_gps_location">Location: %s</string>
-  <string name="cit_gps_satellite_count">Satellite count: %d</string>
+  <string name="cit_gps_location">Sijainti: %s</string>
+  <string name="cit_gps_satellite_count">Satelliittien lukumäärä: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
-  <string name="cit_gyroscope_sensor_check_title">Gyroscope</string>
+  <string name="cit_gyroscope_sensor_check_summary">X, Y, Z, koordinaattien arvot pitäisi näkyä alla</string>
+  <string name="cit_gyroscope_sensor_check_title">Gyroskooppi</string>
+  <string name="cit_hall_down_arrow">↓</string>
+  <string name="cit_hall_far">kaukana</string>
+  <string name="cit_hall_near">lähellä</string>
+  <string name="cit_hall_test_summary">Kun magneetti lähestyy vihreää aluetta pitäisi tekstin olla lähellä, muussa tapauksessa tekstin pitäisi olla kaukana.</string>
+  <string name="cit_hall_test_title">Sali</string>
   <string name="cit_headset_button_check_summary">When headphones are connected, press the buttons on the headphone remote (often located on the cord). The corresponding text on screen should turn green.</string>
-  <string name="cit_headset_button_check_title">Headphone buttons</string>
-  <string name="cit_headset_button_click">Press the buttons on the headphones</string>
-  <string name="cit_headset_button_current">Current button: %s</string>
-  <string name="cit_headset_button_fast_forward">Fast forward</string>
-  <string name="cit_headset_button_next">Next</string>
-  <string name="cit_headset_button_pass">Pass</string>
-  <string name="cit_headset_button_play_pause">Play/Pause</string>
-  <string name="cit_headset_button_previous">Previous</string>
-  <string name="cit_headset_button_rewind">Rewind</string>
-  <string name="cit_headset_button_stop">Stop</string>
-  <string name="cit_headset_button_unknown">Unknown</string>
+  <string name="cit_headset_button_check_title">Kuulokkeiden painikkeet</string>
+  <string name="cit_headset_button_click">Paina kuulokkeissa olevia painikkeita</string>
+  <string name="cit_headset_button_current">Nykyinen painike: %s</string>
+  <string name="cit_headset_button_fast_forward">Kelaus eteenpäin</string>
+  <string name="cit_headset_button_next">Seuraava</string>
+  <string name="cit_headset_button_pass">Läpäisty</string>
+  <string name="cit_headset_button_play_pause">Toista/Pysäytä</string>
+  <string name="cit_headset_button_previous">Edellinen</string>
+  <string name="cit_headset_button_rewind">Kelaus taaksepäin</string>
+  <string name="cit_headset_button_stop">Pysäytä</string>
+  <string name="cit_headset_button_unknown">Tuntematon</string>
   <string name="cit_headset_loopback_check_summary">"While wearing the headphones, connect them to the device. Speak into the headphone microphone (often located on the cord). You should hear your voice in the headphone's speakers."</string>
   <string name="cit_headset_loopback_check_title">Headphone mic feedback test</string>
   <string name="cit_headset_plug_detect_summary">When headphones are connected, the text \"Headphones detected\" should be displayed below.</string>
