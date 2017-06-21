@@ -569,10 +569,7 @@
   <string name="sp_category_bank">Pankin ilmoitusviestit</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Ilmoitukset</string>
-  <string name="sp_mark_as_read">Merkataanko kaikki viestit luetuiksi?</string>
   <string name="sp_mark_as_read_menu_title">Merkitse luetuiksi</string>
-  <string name="sp_mark_as_read_progress">Työskennellään…</string>
-  <string name="sp_mark_as_read_title">Merkataanko kaikki viestit luetuiksi?</string>
   <string name="status_failed">Epäonnistui</string>
   <string name="status_label">"Tila: "</string>
   <string name="status_pending">Odottaa</string>

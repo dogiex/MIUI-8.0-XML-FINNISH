@@ -46,6 +46,8 @@
   <string name="default_text">我</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">poista</string>
+  <string name="description_content">Perus ominaisuuksien lisäksi, Laskin toimii myös monimuuntimena, lainojen laskemiseen ja verolaskurina. Varmista, että voi elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="description_title">Tietoja Laskimesta</string>
   <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>

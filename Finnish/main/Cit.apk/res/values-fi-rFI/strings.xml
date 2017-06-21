@@ -294,11 +294,12 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
   <string name="cit_torch_off">Turn off flash light</string>
   <string name="cit_torch_on">Turn on flash light</string>
-  <string name="cit_touch_calib_fail">Touch Calibration failed, Please retry</string>
-  <string name="cit_touch_calib_instruction">start calibration</string>
-  <string name="cit_touch_calib_pass">Touch Calibration pass, Please use it normally</string>
-  <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
-  <string name="cit_touch_calib_title">Touch Calibration</string>
+  <string name="cit_touch_calib_fail">Kosketuksen Kalibrointi epäonnistui. Yritä uudelleen</string>
+  <string name="cit_touch_panel_test_title">Kosketusanturi</string>
+  <string name="cit_touch_calib_instruction">Aloita kalibrointi</string>
+  <string name="cit_touch_calib_pass">Kosketuksen Kalibrointi läpäisty, Käytä sitä normaalisti</string>
+  <string name="cit_touch_calib_summary">Seuraavaksi tehdään kosketuksen kalibrointi, paina vahvista ja älä koske näyttöön sen jälkeen vaan odota kalibroinnin onnistumisvihjettä</string>
+  <string name="cit_touch_calib_title">Kosketuksen Kalibrointi</string>
   <string name="cit_usb_OTG_in">USB OTG device detected</string>
   <string name="cit_usb_OTG_out">USB OTG device removed</string>
   <string name="cit_usb_charger_in">Charging via USB</string>

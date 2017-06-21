@@ -101,8 +101,8 @@ Kirjaudu sisään osoitteeseen i.mi.com, mene “Etsi laite (Find device)”, va
   <string name="phone_locked_foget_password_header">Mitä minun pitäisi tehdä, jos unohdan salasanani?</string>
   <string name="phone_locked_foget_password_ok">Selvä</string>
   <string name="phone_locked_string">Puhelin on lukittu</string>
-  <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %s minuutin kuluttua</string>
-  <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %s sekunnin kuluttua</string>
+  <string name="phone_locked_timeout_minutes_string">Yritä uudelleen %d minuutin kuluttua</string>
+  <string name="phone_locked_timeout_seconds_string">Yritä uudelleen %d sekunnin kuluttua</string>
   <string name="symbol_colon">:</string>
   <string name="unlock_string">Avaa</string>
   <string name="unlocking_sim_card">Avataan SIM-korttia</string>

@@ -288,6 +288,7 @@ Asiakaspalvelu: 400-100-5678"</string>
   <string name="mibi_web_login_app_description">Kirjaudu %1$s</string>
   <string name="mibi_web_login_description">Kirjaudu</string>
   <string name="mibi_web_login_waiting">Odota hetki…</string>
+  <string name="mibi_web_sso_login_fail">Sinun täytyy kirjutua sisään uudelleen</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
   <string name="passport_account_hint_text">Sähköpostiosoite tai Mi Tilin ID</string>
   <string name="passport_account_identity_title">Todenna henkilöllisyytesi</string>

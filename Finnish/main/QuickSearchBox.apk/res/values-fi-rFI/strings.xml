@@ -12,16 +12,19 @@
   <string name="barcode_install_confirm">Asenna</string>
   <string name="barcode_system_unmatch">Päivitä MIUI, ennen kuin asennat Lukijaa</string>
   <string name="barcode_to_install">Asenna Lukija jatkaaksesi</string>
-  <string name="barcode_uninstalled">Lukijan asennus poistettu</string>
+  <string name="barcode_uninstalled">Lukija on poistettu</string>
   <string name="choose_search_engine">Valitse oletushakukone verkkohaulle</string>
   <string name="clear_history">Poista historia</string>
-  <string name="clear_shortcuts">Poista pikakuvakkeet</string>
-  <string name="clear_shortcuts_agree">Poista pikakuvakkeet</string>
-  <string name="clear_shortcuts_disagree">Älä poista pikakuvakkeita</string>
-  <string name="clear_shortcuts_prompt">"Do you want to clear all shortcuts to recently chosen search suggestions?
+  <string name="clear_history_cancel">Peruuta</string>
+  <string name="clear_history_confirm">Poista koko historia</string>
+  <string name="clear_history_ok">OK</string>
+  <string name="clear_shortcuts">Poista pikavalinnat</string>
+  <string name="clear_shortcuts_agree">Poista pikavalinnat</string>
+  <string name="clear_shortcuts_disagree">Älä poista pikavalintoja</string>
+  <string name="clear_shortcuts_prompt">"Haluatko poistaa pikavalinnat äskettäin valituista hakuehdotuksista?
 
 Käytä Selaimen asetuksia selainhistorian tyhjentämiseen."</string>
-  <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
+  <string name="clear_shortcuts_summary">Poista pikavalinnat äskettäin valittuihin hakuehdotuksiin</string>
   <string name="common_setting">Yleiset asetukset</string>
   <string name="connect_and_retry">Yhdistä internettiin ja yritä uudelleen</string>
   <string name="corpus_description_apps">Asennetut sovellukset</string>
