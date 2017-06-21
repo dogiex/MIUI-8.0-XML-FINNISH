@@ -61,7 +61,7 @@
     <string-array name="roaming_network_type">
         <item>Aina</item>
         <item>Vain poikkeuksille</item>
-        <item>Ei ikinä</item>
+        <item>Ei koskaan</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Kun laite on lukittu</item>
@@ -84,7 +84,7 @@
         <item>5 minuutin jälkeen</item>
         <item>10 minuutin jälkeen</item>
         <item>30 minuutin jälkeen</item>
-        <item>Ei ikinä</item>
+        <item>Ei koskaan</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Kerran</item>

@@ -145,7 +145,7 @@ http://www.miliao.com
   <string name="multi_user_mode_backup_message">Varmuuskopiointia ei voi käyttää Moni-käyttäjä tilassa. Jatka poistamalla Moni-käyttäjä tila käytöstä.</string>
   <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Poista Moni-käyttäjä tila käytöstä jatkaaksesi.</string>
   <string name="multi_user_mode_dialog_title">Olet Moni-käyttäjä tilassa</string>
-  <string name="never">Ei ikinä</string>
+  <string name="never">Ei koskaan</string>
   <string name="new_backup">Varmuuskopioi</string>
   <string name="no_encrypt_password">Ei salasanaa</string>
   <string name="no_network">Verkkoon ei saada yhteyttä</string>

@@ -105,7 +105,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antispam_mode_details">Estolistan tiedot</string>
   <string name="antispam_notificaiton_type_show_all">Kaikki numerot</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Numerot, jotka ei ole estolistalla</string>
-  <string name="antispam_notificaiton_type_show_none">Ei ikinä</string>
+  <string name="antispam_notificaiton_type_show_none">Ei koskaan</string>
   <string name="antispam_notification_setting_title">Ilmoitukset</string>
   <string name="antispam_xpace_text">Vaihda Ensimmäiseen tilaan asettaaksesi Estolistan</string>
   <string name="antivirus_choose_engine">%s</string>
@@ -605,7 +605,7 @@ mikäli unohdat sen"</string>
   <string name="declaration_dialog_msg">Tämä toiminto auttaa seuraamaan käyttöäsi, mutta ei takaa, että estäisi ylimääräisiltä maksuilta. Parhaan tuloksen saamiseksi, aseta varovainen raja.</string>
   <string name="deep_clean_disconnect_data_title">Poista mobiilidata käytöstä, kun laite lukitaan</string>
   <string name="deep_clean_memory_clean_title">Tyhjennä välimuisti, kun laite lukitaan</string>
-  <string name="deep_clean_never_memory_clean">Ei ikinä</string>
+  <string name="deep_clean_never_memory_clean">Ei koskaan</string>
   <string name="deep_save_memory_clean_summary">Tyhjennä välimuisti, kun laite lukitaan estääksesi sovelluksia kuluttamasta akkua</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Ajasta laitteen käynnistys ja sammutus</string>
   <string name="delete">Poista</string>

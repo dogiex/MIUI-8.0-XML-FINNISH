@@ -52,7 +52,7 @@
   <string name="all_address_choose_hint">Kaikki sijainnit</string>
   <string name="antispam_notificaiton_type_show_all">Kaikki numerot</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Estolistan ulkopuoliset numerot</string>
-  <string name="antispam_notificaiton_type_show_none">Ei ikinä</string>
+  <string name="antispam_notificaiton_type_show_none">Ei koskaan</string>
   <string name="antispam_notification_setting_title">Ilmoitukset</string>
   <string name="antispam_xpace_text">Siirry omistajatilaan voidaksesi tehdä antispam asetuksiin muutoksia</string>
   <string name="app_name">Estolista</string>

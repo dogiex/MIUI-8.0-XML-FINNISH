@@ -1228,7 +1228,7 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voicemail_notification_ringtone_title">Ääni</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Värinä</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-  <string name="voicemail_notification_vibrate_when_default">Ei ikinä</string>
+  <string name="voicemail_notification_vibrate_when_default">Ei koskaan</string>
   <string name="voicemail_notification_vibrate_when_title">Värinä</string>
   <string name="voicemail_number_not_set">&lt;Ei asetettu&gt;</string>
   <string name="voicemail_provider">Palveluntarjoaja</string>
