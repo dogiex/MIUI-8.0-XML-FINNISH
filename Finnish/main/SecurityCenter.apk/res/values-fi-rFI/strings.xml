@@ -1066,10 +1066,10 @@ vastausta"</string>
   <string name="mark_sell_time_setting">Estä numerot, jotka on ilmoitettu puhelinmyyjäksi tietyn monta kertaa</string>
   <string name="mark_time_setting_dialog_title">Ilmoita numero</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_user">"sinä merkitsit sen kategoriaan "</string>
+  <string name="marked_by_user">"Merkitsit sen kategoriaan "</string>
   <string name="megabyteShort">Mt</string>
   <string name="megabyte_per_second">Mt/s</string>
-  <string name="memory_check_content">Vapautettu %s</string>
+  <string name="memory_check_content">Vapautettiin %s</string>
   <string name="memory_check_content_none">Tyhjä</string>
   <string name="menu_add">Lisää</string>
   <string name="menu_add_into_contact">Lisää olemassa olevaan yhteystietoon</string>
@@ -1134,8 +1134,8 @@ vastausta"</string>
   <string name="mian_page_primary_txt">Ulkomaan roaming</string>
   <string name="miliao_lucky_warning">米聊红包</string>
   <string name="modifypassword">Vaihda salasana</string>
-  <string name="monitor_app_add">lisää</string>
-  <string name="monitor_app_more">lisää</string>
+  <string name="monitor_app_add">Lisää</string>
+  <string name="monitor_app_more">Lisää</string>
   <string name="monitor_requests_from_pc">Hallitse USB:n kautta asennettavia sovelluksia</string>
   <string name="month_report_month_report_switch">Näytä kuukausittainen raportti</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>

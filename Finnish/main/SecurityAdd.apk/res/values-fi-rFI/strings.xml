@@ -65,6 +65,7 @@
   <string name="gs_performance_mode">Suorituskyky-tila</string>
   <string name="gs_performance_mode_detail">Nosta prosessorin (CPU) käyttöä suorituskyvyn parantamiseksi</string>
   <string name="i_know">Selvä</string>
+  <string name="install_sucess">Asennettiin %s onnistuneesti</string>
   <string name="intro_improve">Paranna pelikokemustasi järjestelmätasolla</string>
   <string name="intro_skip">Ohita</string>
   <string name="loading">Odota hetki…</string>
@@ -92,12 +93,14 @@
   <string name="month_report_warning_dialog_description">Nähdäksesi kuukausittaiset raportit, ota tämä ominaisuus käyttöön Tietoturva-sovelluksen Asetuksista.</string>
   <string name="month_report_warning_dialog_positive">Ota käyttöön</string>
   <string name="month_report_warning_dialog_title">Kuukausittainen turvallisuusraportti</string>
+  <string name="more_game">Lisää pelejä</string>
   <string name="net_delay_title">Viive</string>
   <string name="network_not_available">Verkkoon ei saada yhteyttä</string>
   <string name="no_game">Pelejä ei löytynyt</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Avaa selaimessa</string>
+  <string name="open_game">Avaa</string>
   <string name="other">Muut asetukset</string>
   <string name="pc_activity_title">Optimoi akku</string>
   <string name="pm_lable_name">Tietoa root-oikeuksista</string>
@@ -117,10 +120,13 @@
   <string name="support_game_booster_tips">Käynnistä pelit käyttämällä Pelien nopeuttajaa</string>
   <string name="sys_cpu_title">CPU usage</string>
   <string name="sys_freememory_title">Käytettävissä</string>
+  <string name="sys_title_gamebooster_unit_gb">Gt</string>
+  <string name="sys_title_gamebooster_unit_mb">Mt</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="top_game">Top pelit</string>
   <string name="top_load_fail_detail">Lataaminen epäonnistui, yritä uudelleen napauttamalla</string>
   <string name="top_no_network_detial">Lataaminen epäonnistui, tarkista verkkoyhteys ja yritä uudelleen</string>
+  <string name="try_game">Kokeile</string>
   <string name="usage_sorted_loading_text">Odota hetki…</string>
   <string name="wlan_change_protection_detail">Älä vaihda Wi-Fi-verkkoon automaattisesti, kun yhteydessä mobiilidataverkkoon</string>
   <string name="wlan_change_protection_title">Estä verkkojen vaihtaminen</string>

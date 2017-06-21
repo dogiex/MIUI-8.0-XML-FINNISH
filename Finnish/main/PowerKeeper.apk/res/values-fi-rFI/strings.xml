@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">Tietoja MIUI Virransäästöstä</string>
   <string name="action_bar_delete">Poista</string>
   <string name="action_settings">Asetukset</string>
   <string name="activity_title_poweranalyze">Testaa akku</string>
@@ -25,12 +26,17 @@
   <string name="config_restrict_function_title">Rajoita taustasovelluksia</string>
   <string name="config_restrict_running_description">Sovellukset suljetaan virran säästämiseksi</string>
   <string name="config_restrict_running_title">Rajoita taustatyöskentelyä</string>
+  <string name="config_restrict_running_warning">Sovellus suljetaan, kun se on taustalla, se ei välttämättä toimi oikein</string>
+  <string name="config_scenario_policies_title">Skenaariot</string>
   <string name="config_suggest_description">"Pidä tärkeät prosessit käytössä tunnistamalla sovellukset ja niiden taustatyöskentelyt.
 Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="config_suggest_suffix_title">MIUI Virransäästö (suositus)</string>
   <string name="config_suggest_title">MIUI Virransäästö</string>
+  <string name="disable_hide_mode">Poista MIUI Virransäästö käytöstä</string>
+  <string name="disable_hide_mode_warning">Poistamalla MIUI Virransäästön käytöstä saattaa aiheuttaa lisää virrankulutusta</string>
   <string name="disabled">Pois päältä</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
+  <string name="enable_hide_mode">Ota MIUI Virransäästö käyttöön</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
   <string name="foreground_change">Sovellus on käynnissä etualalla</string>
   <string name="fragment_nonesys_listempty">Ei asennettuja sovelluksia</string>
@@ -41,6 +47,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="google_base_app_install_choice">\"%s\" vaatii Google Service Framework sovelluksia toimiakseen normaalisti, ladataanko ja asennetaanko ne?</string>
   <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Toiminto saattaa vaikuttaa verkkoyhteyteen, sijaintipalveluun, Radioon, Ajastimeen jne. Tämä määritys on sopiva useammille sovelluksille, mutta jos tietty sovellus käyttäytyy taustalla epänormaalisti, voit muokata asetuksia sovelluskohtaisesti.</string>
   <string name="hide_mode_ultimate_desc">Ultimate-tila on käytössä. Taustalla olevat sovellukset jäädytetään. Poistu Ultimate-tilasta poistamalla Virransäästö käytöstä.</string>
+  <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
   <string name="high">Suorituskyky</string>
   <string name="hints_loading_text">Odota hetki…</string>
   <string name="invalid_size_value">Paketin kokoa ei saatu.</string>
@@ -90,7 +97,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_config_app_background_title">Taustalla</string>
   <string name="power_config_app_full_screen_title">Koko näyttö</string>
   <string name="power_config_app_launch_title">Etualalla</string>
-  <string name="power_config_apps">Säästä virtaa taustalla</string>
+  <string name="power_config_apps">MIUI Virransäästö</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Valitse aika, jolloin taustadataa rajoitetaan</string>
   <string name="power_config_bg_data_delay_time_title">Rajoita taustadataa</string>
   <string name="power_config_choose_apps">Valitse sovellukset</string>
@@ -139,7 +146,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_dialog_screen_brightness_title">Kirkkaus</string>
   <string name="power_event_user_define_title">Uusia tapahtumia</string>
   <string name="power_event_view_event_title">Käynnistimet</string>
-  <string name="power_hide_mode_app_list_summary">Sovellusasetukset</string>
+  <string name="power_hide_mode_app_list_summary">Säästetään virtaa taustalla</string>
   <string name="power_hide_mode_summary">Säästä virtaa rajoittamalla yksittäisten sovelluksien taustaprosesseja, Wi-Fi- ja mobiilidata-yhteyksiä, sekä GPS:ää</string>
   <string name="power_hide_mode_title">Hallitse sovelluksien akun käyttöä</string>
   <string name="power_keeper">Virransäästö</string>
@@ -155,6 +162,8 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_optimize_activity_profile_file_error">Virransäästö virhe</string>
   <string name="ragment_sys_listempty">Ei järjestelmäsovelluksia</string>
   <string name="reading">Luku-tila</string>
+  <string name="scenario_policies_summary">Skenaarion muokainen virransäästö</string>
+  <string name="scenario_policies_title">Skenaarion virransäästöpolitiikat</string>
   <string name="screen_off">Näyttö pois päältä</string>
   <string name="screen_off_10_min">Näyttö pois päältä yli 10 minuuttia</string>
   <string name="screen_on">Näyttö päällä</string>
@@ -163,12 +172,14 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="set_cpufreq_max">MAX CPU taajuus</string>
   <string name="set_lcd_mode">Näyttö-tila</string>
   <string name="settings_safetylegal_activity_loading">Odota hetki…</string>
-  <string name="sleep_config_disable_description">MIUI ei paranna illan virransäästöä</string>
-  <string name="sleep_config_disable_title">Pois päältä</string>
-  <string name="sleep_config_enhance_description">MIUI parantaa illan valmiustilaa</string>
-  <string name="sleep_config_enhance_title">Päällä</string>
-  <string name="sleep_config_mode_title">Lepotilat</string>
+  <string name="show_system_app">Näytä järjestelmäsovellukset</string>
+  <string name="sleep_config_enhance_description">Parantaa yöllä lepotilassa virrankäyttöä</string>
+  <string name="sleep_config_enhance_title">Lepotilat</string>
   <string name="still">Kuva</string>
   <string name="ui">Normaali</string>
   <string name="user_define_mode">Nimi</string>
+  <string name="vip_feedback">Vip Palaute</string>
+  <string name="vip_feedback_apply">Lähetä Vip Palaute</string>
+  <string name="vip_feedback_apply_msg">Ota yhteyttä qiufeng@xiaomi.com lähettääksesi Vip Palautetta</string>
+  <string name="vip_feedback_enable">Ota automaattinen Vip Palaute käyttöön</string>
 </resources>

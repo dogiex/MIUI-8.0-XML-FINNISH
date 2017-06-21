@@ -77,14 +77,14 @@
   <string name="cloud_service">Mi Pilvi</string>
   <string name="completed">Kaikki valmiina</string>
   <string name="confirm_activate_email">Todennettu</string>
-  <string name="confirm_bundled_phone_dialog_title">Vahvista yhdistetty puhelinnumero</string>
-  <string name="confirm_delete_app_message">Sovelluksen poistamisen jälkeen, sinun täytyy todentaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sovelluksella sisään Mi Tililläsi.</string>
-  <string name="confirm_delete_browser_message">Tämän selaimen poistamisen jälkeen, sinun täytyy todentaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sovelluksella sisään Mi Tililläsi.</string>
-  <string name="confirm_delete_device_message">Tämän laitteen poistamisen jälkeen, sinun täytyy todentaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sisään Mi Tililläsi.</string>
-  <string name="confirm_phone_number_dialog_message">Todennuskoodi lähetetään: %s.</string>
+  <string name="confirm_bundled_phone_dialog_title">Vahvista liitetty puhelinnumero</string>
+  <string name="confirm_delete_app_message">Sovelluksen poistamisen jälkeen, sinun täytyy vahvistaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sovelluksella sisään Mi Tililläsi.</string>
+  <string name="confirm_delete_browser_message">Tämän selaimen poistamisen jälkeen, sinun täytyy vahvistaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sovelluksella sisään Mi Tililläsi.</string>
+  <string name="confirm_delete_device_message">Tämän laitteen poistamisen jälkeen, sinun täytyy vahvistaa puhelinnumerosi seuraavalla kerralla, kun kirjaudut sisään Mi Tililläsi.</string>
+  <string name="confirm_phone_number_dialog_message">Vahvistuskoodi lähetetään numeroon %s.</string>
   <string name="confirm_phone_number_dialog_title">Vahvista puhelinnumero</string>
   <string name="confirm_unbind">Katkaistaanko yhteys tähän tiliin?</string>
-  <string name="confirm_unbundled_phone_dialog_message">Puhelinnumero %1$s yhdistetty tiliin %2$s， Jatketaanko tilin %3$s yhdistämisen poistamista? Olet varma, että haluat jatkaa?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Puhelinnumero %1$s on liitetty Mi Tilin %2$s kanssa. Se ei ole enää liitettynä Mi Tilin %3$s kanssa jos jatkat. Jatketaanko?</string>
   <string name="continue_action">Jatka</string>
   <string name="cta_declaration_agree_and_continue">Hyväksy</string>
   <string name="cta_declaration_exit">Poistu</string>
@@ -133,7 +133,7 @@
   <string name="find_device_unknown_error">Laitteen tilan saanti epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>
-  <string name="get_phone_bind_exceed_limit">Tiliin yhdistettyjen matkapuhelinnumeroiden määrä on ylittänyt maksimiarvon(3), uutta tiliä ei voi yhdistää.</string>
+  <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumerolle enintään kolme Mi Tiliä. Tilejä ei voi lisätä.</string>
   <string name="get_phone_verifycode_exceed_limit">Liian monta vahvistuskoodia on lähetetty tälle numerolle. Odota 24 tuntia ja yritä uudelleen.</string>
   <string name="guest_account_label">Mi Vierastili</string>
   <string name="input_email_address_notice">Käytämme tätä sähköpostia tilisi vahvistamiseen</string>
@@ -209,7 +209,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_error_device_id">Laitteen ID:tä ei saatu</string>
   <string name="passport_error_dup_email">Syöttämäsi sähköposti on jo liitettynä toiseen tiliin.</string>
   <string name="passport_error_email">Syöttämäsi sähköpostiosoite ei kelpaa</string>
-  <string name="passport_error_empty_captcha_code">Syötä passport_captcha koodi</string>
+  <string name="passport_error_empty_captcha_code">Syötä captcha</string>
   <string name="passport_error_empty_email">Syötä sähköpostiosoitteesi</string>
   <string name="passport_error_empty_phone_num">Syötä puhelinnumerosi</string>
   <string name="passport_error_empty_pwd">Syötä salasanasi</string>
@@ -303,7 +303,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_send_too_many_code">Liian monta vahvistuskoodia on lähetetty tälle numerolle. Odota 24 tuntia ja yritä uudelleen.</string>
   <string name="passport_setting">Asetetaan…</string>
   <string name="passport_skip_login">Ohita</string>
-  <string name="passport_skip_register">Ohita kirjautuminen</string>
+  <string name="passport_skip_register">Ohita rekisteröinti</string>
   <string name="passport_skip_setup_account_msg">Voit asettaa Mi Tilin myöhemmin Asetuksissa.</string>
   <string name="passport_skip_setup_account_title">Ohita asetus</string>
   <string name="passport_title_reg">Luo tili</string>

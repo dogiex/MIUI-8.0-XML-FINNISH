@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="group_move_success_toast">
-        <item quantity="other">Siirrettiin %1$d yhteystietoa</item>
-        <item quantity="one">Siirrettiin %1$d yhteystieto</item>
-    </plurals>
-    <plurals name="group_copy_success_toast">
-        <item quantity="other">Kopioitiin %1$d yhteystietoa</item>
-        <item quantity="one">Kopioitiin %1$d yhteystieto</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d yhteystietoa puhelinnumerolla</item>
         <item quantity="one">1 yhteystieto puhelinnumerolla</item>
@@ -128,10 +120,6 @@
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Poistetaanko nämä %1$d puhelinnumerot estosta?</item>
         <item quantity="one">Poistetaanko tämä puhelinnumero estosta?</item>
-    </plurals>
-    <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d henkilöä</item>
-        <item quantity="one">%1$d henkilö</item>
     </plurals>
     <plurals name="livetalk_unit">
         <item quantity="other">Minuuttia</item>

@@ -7,10 +7,7 @@
   <string name="accessibility_guide_second">Sen jälkeen paina kytkintä oikeassa yläkulmassa, paina \"Vahvista\" jatkaaksesi.</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille %s.</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
+  <string name="account_failure">Tilivirhe</string>
   <string name="account_name_toast">Tämän niminen tili on jo olemassa</string>
   <string name="account_options_sync_title">Synkronoi</string>
   <string name="account_password_spaces_error">"Salasanan alussa tai lopussa on tyhjiä merkkejä. Monet palvelimet ei tue niiden käyttöä."</string>
@@ -253,6 +250,7 @@
   <string name="change_folders_selection_dialog_title">Vaihda kansiota</string>
   <string name="change_sync_settings">Muuta synkronointiasetuksia</string>
   <string name="changepw_dialog_tips">Syötä salasana uudelleen tilille %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Tarkista vahvistuskoodi %s ja kirjaudu uudelleen</string>
   <string name="chat_item_msg_people_unit">henkilöä</string>
   <string name="chat_item_msg_user_etc">jne.</string>
   <string name="check_setup_data">"    Vahvistetaan palvelinasetuksia…"</string>
@@ -357,12 +355,13 @@
   <string name="device_admin_label">Sähköposti</string>
   <string name="device_not_activiey_lint1">Laitehallinta ei ole aktivoitu</string>
   <string name="device_not_activiey_lint2">Sähköpostipalvelu ei toimi Exchange:n kanssa</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Viestejä ei voida vastaanottaa automaattisesti. Synkronointi ei käytössä.</string>
-  <string name="dialog_auto_sync_setting_no_open">Viestejä ei voida vastaanottaa automaattisesti. Synkronointi ei käytössä.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Olet muokannut manuaalista synkronointia. Päivitä manuaalisesti vastaanottaaksesi sähköposteja.</string>
   <string name="dialog_change_sync_lookback">Sähköpostit, jotka vastaanotettiin %s sitten poistetaan automaattisesti. Vaihda napauttamalla.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail välityspalvelinvirhe.</string>
   <string name="dialog_insufficient_space_on_external">Liitetiedoston lataaminen epäonnistui. Ulkoisella tallennustilalla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_insufficient_space_on_internal">Sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
+  <string name="dialog_system_auto_sync_account_no_open">Tilin synkronointi ei ole käytössä ja viestejä ei voi synkronoida automaattisesti</string>
+  <string name="dialog_system_auto_sync_master_no_open">Järjestelmän synkronointi ei ole käytössä ja viestejä ei voi synkronoida automaattisesti</string>
   <string name="disable_admin_warning">VAROITUS: jos poistat sähköpostisovellukselta oikeuden hallinnoida laitettasi, myös kaikki sovellukseen liittyvät sähköpostitilit sekä niiden sähköpostit, yhteystiedot, kalenteritapahtumat ja muut tiedot poistetaan.</string>
   <string name="discard">Hylkää</string>
   <string name="discard_drafts">Hylkää luonnokset</string>
@@ -389,7 +388,7 @@
   <string name="download_message_failed_for_too_large">Viesti on liian iso ladattavaksi.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Tiliotteet</string>
-  <string name="drawer_classification">Älykäs luokittelu</string>
+  <string name="drawer_classification">Kategoriat</string>
   <string name="drawer_close">Sulje navigointipalkki</string>
   <string name="drawer_contacts">Yhteystiedot</string>
   <string name="drawer_open">Avaa navigointipalkki</string>
@@ -553,6 +552,8 @@
   <string name="long_string">pitkäääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääää</string>
   <string name="mail">Sähköposti</string>
   <string name="mail_body_turncated">Tämä sähköposti on liian pitkä näytettäväksi, vain osa siitä näytetään, katso loput viestistä tietokoneella</string>
+  <string name="mail_description_content">Sähköposti on sähköpostisovellus, jolla voi hallita useita postilaatikoita, se tukee lähettämistä ja vastaanottamista, sähköpostien merkkailua, ja tarjoaa palveluita, kuten istuntotilaa, laskutussähköposteja ja muita palveluita. Sähköpostin poistamisen jälkeen sähköpostin data poistetaan.</string>
+  <string name="mail_description_title">Sähköpostiesittely</string>
   <string name="mail_header_network_not_available">Ei verkkoyhteyttä.</string>
   <string name="mailbox_list_account_selector_combined_view">Yhdistetty näkymä</string>
   <string name="mailbox_name_display_ad">Mainokset</string>
@@ -787,7 +788,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_dont_allow_unsigned_apps">Älä salli allekirjoittamattomia sovelluksia</string>
   <string name="policy_dont_allow_unsigned_installers">Älä salli allekirjoittamattomien sovelluksien asennusta</string>
   <string name="policy_dont_allow_wifi">Älä salli Wi-Fi-yhteyttä</string>
-  <string name="policy_dont_allow_wifi_inter">Älä salli Wi-Fiä</string>
+  <string name="policy_dont_allow_wifi_inter">Älä salli Wi-Fi:ä</string>
   <string name="policy_email_age">Rajoita synkronoitavien sähköpostien lukumäärää</string>
   <string name="policy_html_truncation">Rajoita HTML sähköpostin kokoa</string>
   <string name="policy_password_expiration">Vaadi salasanojen vanhenemista</string>
@@ -1017,6 +1018,9 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">Synkronointi epäonnistui.</string>
   <string name="sync_error_message">Laitteessa ei ole tarpeeksi tallennustilaa synkronointiin.</string>
+  <string name="syncing_wait_restart">Paina Yritä uudelleen</string>
+  <string name="syncing_wait_restart_title">"Palvelimen yhteys aikakatkaistiin 
+ viestiä ei voi ladata"</string>
   <string name="system_account_create_failed">Tiliä ei voitu luoda. Yritä uudelleen.</string>
   <string name="system_folders_sent_dlg">Valitse palvelimen Lähetetyt-kansio</string>
   <string name="system_folders_sent_summary">Valitse palvelimen Lähetetyt-kansio</string>
@@ -1025,6 +1029,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="system_folders_trash_dlg">Valitse palvelimen roskakori</string>
   <string name="system_folders_trash_summary">Valitse palvelimen roskakori</string>
   <string name="system_folders_trash_title">Roskakori</string>
+  <string name="system_setup_open_error">"Can not call up the account synchronization, please turn on the system 'set up' in sync mail account"</string>
   <string name="tablet">tabletti</string>
   <string name="tap_to_configure">Kosketa ja määritä asetukset</string>
   <string name="tap_to_enable_sync">Ota käyttöön koskettamalla.</string>

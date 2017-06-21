@@ -265,9 +265,9 @@ Check your tracking number."</string>
   <string name="miuishare_account_login_cancel">Cancel</string>
   <string name="miuishare_account_login_confirmation">Signing in required</string>
   <string name="miuishare_account_login_ok">Sign in</string>
-  <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
-  <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
-  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_account_need_activate">Jakaaksesi Weiboon, sinulla täytyy olla Weibo tili, joka on liitettynä Mi Tiliisi. Aktivoi Mi Tilisi jatkaaksesi.</string>
+  <string name="miuishare_account_need_login">Jakaaksesi Weiboon, sinulla täytyy olla Weibo tili, joka on liitettynä Mi Tiliisi. Kirjaudu Mi Tiliisi jatkaaksesi.</string>
+  <string name="miuishare_app_name">MIUI Jako</string>
   <string name="miuishare_no_network">No network for share</string>
   <string name="miuishare_publish">Send</string>
   <string name="miuishare_qzone_title">Qzone</string>

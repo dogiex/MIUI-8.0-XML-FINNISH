@@ -79,7 +79,7 @@
   <string name="confirm_delete_message">Poistetaanko tämä viesti?</string>
   <string name="confirm_dialog_locked_title">Poistetaanko lukittu viesti?</string>
   <string name="confirm_dialog_title">Poistetaanko?</string>
-  <string name="confirm_dlg__msg">CMCC ilmoitus: CMCC ilmaista post-palvelua ei tarjota jos peruutat palvelun. Haluatko varmasti peruuttaa?</string>
+  <string name="confirm_dlg__msg">CMCC ilmoitus: Ilmaista CMCC -palvelua ja tukea ei tarjota jos peruutat. Perutaanko silti?</string>
   <string name="confirm_dlg_title">Laitteen hallinta</string>
   <string name="confirm_export_dialog_description">Edelliset keskustelut tämän yhteystiedon kanssa ei pidetä enää piilossa.</string>
   <string name="confirm_export_dialog_title">Poista yksityisistä yhteystiedoista</string>
@@ -127,7 +127,7 @@
   <string name="delivery_report_activity">Toimitusraportti</string>
   <string name="delivery_toast_body">%s vastaanotti viestin</string>
   <string name="disable_notifications_dialog_message">Lopetetaanko tekstiviesti-ilmoituksien kaksoiskappaleet oletus Viestintäsovelluksesta?</string>
-  <string name="disabled">Ei käytössä</string>
+  <string name="disabled">Pois päältä</string>
   <string name="discard">Hylkää</string>
   <string name="discard_message">Hylkää</string>
   <string name="discard_message_reason">Viestisi hylätään, koska sillä ei ole kelpuutettavia vastaanottajia.</string>
@@ -147,7 +147,7 @@
   <string name="edit_phrase">Muokkaa nopeita vastauksia</string>
   <string name="edit_slide_activity">Muokkaa diaa</string>
   <string name="edit_slideshow_activity">Muokkaa diaesitystä</string>
-  <string name="enabled">Käytössä</string>
+  <string name="enabled">Päällä</string>
   <string name="english_subject_limit">40 merkin raja</string>
   <string name="enter_edit_mode">Muokkaa viestejä</string>
   <string name="error_code_label">"Virhekoodi: "</string>
@@ -516,7 +516,7 @@
   <string name="select_top_text">Teksti ylhäällä</string>
   <string name="send">Lähetä</string>
   <string name="send_message_dlg_check_hint">Älä näytä uudelleen</string>
-  <string name="send_message_dlg_mgs">CMCC ilmoitus: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
+  <string name="send_message_dlg_mgs">CMCC ilmoitus: We need to register your device in our device management platform in order to provide free customer services and support. This CMCC platform manages mobile devices and allows you to change settings and upgrade software remotely. A free text message with the information about your device will be sent for registration. The message will only be sent once and will not contain your personal data. This message cannot be sent by customers from Hong Kong, Macao, Taiwan, and overseas. Select \"OK\" to agree and register your device. Select \"Cancel\" if you disagree with the terms. Services will not be provided to you in this case.</string>
   <string name="send_message_dlg_title">Laitteen hallinta</string>
   <string name="send_message_notification_msg">Näytä pyyntötiedot napauttamalla.</string>
   <string name="send_message_notification_tickerText">Laite pyytää käyttöoikeutta</string>

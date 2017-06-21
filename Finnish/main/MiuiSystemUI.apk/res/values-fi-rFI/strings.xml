@@ -368,7 +368,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="vpn_title_long">Yhdistetään VPN-palvelimeen käyttäen %s</string>
   <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Päivitetty %1$s</string>
-  <string name="wifi_connected_no_internet">Yhdistetty, ei Internetiä</string>
+  <string name="wifi_connected_no_internet">Yhdistetty, ei internetiä</string>
   <string name="wifi_disabled_generic">Ei käytössä</string>
   <string name="wifi_disabled_network_failure">IP-osoitetta ei voitu määrittää</string>
   <string name="wifi_disabled_password_failure">Todennusvirhe</string>

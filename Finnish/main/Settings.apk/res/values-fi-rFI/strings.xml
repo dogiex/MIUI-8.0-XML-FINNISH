@@ -597,8 +597,8 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_pairing_shares_phonebook">Salli laitteen %1$s käyttää yhteystietojasi ja puheluhistoriaasi</string>
   <string name="bluetooth_pairing_will_share_phonebook">Laiteparin muodostaminen mahdollistaa yhteystietojen ja soittohistorian käyttämisen yhteyden aikana.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Paikallinen internetyhteys jaetaan laitteen kanssa</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Käytä internetyhteyteen</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Yhdistetty laitteen internetyhteyteen</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Käytä internet-yhteyteen</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Yhdistetty laitteen internet-yhteyteen</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s pyytää yhteystietojesi ja puheluhistoriasi käyttöoikeutta. Annetaanko käyttöoikeus (%2$s)?</string>
   <string name="bluetooth_pb_remember_choice">Älä kysy uudestaan</string>
   <string name="bluetooth_permission_request">Bluetooth-yhteyspyyntö</string>
@@ -907,6 +907,9 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_reset_aaid">OK</string>
+  <string name="confirm_reset_shortcut_manager_throttling_message">Nollataanko ShortcutManager rate-limiting counters?</string>
+  <string name="confirm_reset_shortcut_manager_throttling_title">Nollataanko ShortcutManager rate-limiting?</string>
+  <string name="connect_mode">Yhdistämisen tila</string>
   <string name="connect_to_internet">Yhdistä verkkoon</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
   <string name="connected_via_wfa">Yhteys muodostettu Wi-Fi-apurin kautta</string>
@@ -2898,7 +2901,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="receiver_clean">Vapauta tallennustilaa</string>
   <string name="recent_location_requests_summary">Näytä sovellukset, jotka pyytävät käyttöoikeutta sijaintitiedoille</string>
   <string name="recent_location_requests_title">Sijaintipyyntö</string>
-  <string name="recents_config_title">Viimeaikaisten asetukset</string>
+  <string name="recents_config_title">Viimeaikaiset</string>
   <string name="recommend_item_1">Suojakuori</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Virtapankki</string>
@@ -3825,6 +3828,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="summary_range_verbal_combination">%1$s–%2$s</string>
   <string name="supl_not_set">Ei asetettu</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="sure_sync_now">Synkronoidaanko kohteet nyt?</string>
   <string name="suspend_gesture_enabled">Sammuta näyttö kääntämällä puhelin ympäri</string>
   <string name="suspension_ball_enable">Pikavalikon pikakuvaketta</string>
   <string name="suspension_ball_enable_desc">Ota Pikavalikko käyttöön ja poista se käytöstä käyttämällä pikakuvaketta</string>
@@ -3851,6 +3855,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Peruuta synkronointi</string>
   <string name="sync_menu_sync_now">Synkronoi nyt</string>
+  <string name="sync_now">Synkronoi</string>
   <string name="sync_one_time_sync">"Kosketa ja synkronoi nyt
 %1$s"</string>
   <string name="sync_plug">Tervetuloa käyttämään Google Sync -palvelua!" 
@@ -4427,7 +4432,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_connect_cmcc_dialog_not_remind">Älä näytä uudelleen</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC yhdistetty</string>
   <string name="wifi_connect_failed_message">Puhelin ei voi muodostaa yhteyttä tähän Wi-Fi-verkkoon.</string>
-  <string name="wifi_connected_no_internet">Yhdistetty, ei internetyhteyttä.</string>
+  <string name="wifi_connected_no_internet">Yhdistetty, ei internet-yhteyttä.</string>
   <string name="wifi_context_menu_change_password">Vaihda salasana</string>
   <string name="wifi_context_menu_change_wapi_certificate">Vaihda WAPI sertifikaatti</string>
   <string name="wifi_context_menu_connect">Yhdistä</string>

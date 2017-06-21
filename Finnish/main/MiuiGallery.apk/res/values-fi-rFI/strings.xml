@@ -1060,7 +1060,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_transition_element_icon">search_icon</string>
   <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">Paras paikka kaikille pienille salaisuuksillesi</string>
-  <string name="secret_album_card_title">Kokeile yksityisiä albumeja</string>
+  <string name="secret_album_card_title">Kokeile piilotettua albumia</string>
   <string name="secret_album_display_name">Piilotettu albumi</string>
   <string name="secret_album_password_first_use_msg">Yksityisyydensuojan salasanaa käytetään. Se toimii kuvissa, muistioissa, piilotetuissa kansioissa, jne.</string>
   <string name="secret_album_password_first_use_title">Yksityisyydensuojan salasana</string>

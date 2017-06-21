@@ -59,8 +59,8 @@
         <item>Viimeaikoina</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Estää syvän Lepotilan</item>
-        <item>Estää Lepotilan</item>
+        <item>Estää syvän lepotilan</item>
+        <item>Estää lepotilan</item>
         <item>Etsitään WLAN</item>
         <item>Käyttää GPS</item>
         <item>Käyttää CPU</item>
