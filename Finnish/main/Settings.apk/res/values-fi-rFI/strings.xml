@@ -906,7 +906,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="confirm_new_backup_pw_prompt">Anna varmuuskopioinnin uusi salasana uudelleen</string>
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
-  <string name="confirm_privacy_password_instruction">Tämä salasana suojaa sovelluksia, viestejä, kuvia ja yhteystietoja.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Yhdistä verkkoon</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
@@ -1738,12 +1737,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="intent_sender_resource_label">Resurssi:</string>
   <string name="intent_sender_sendbroadcast_text">Lähetä broadcast</string>
   <string name="intent_sender_startactivity_text">Käynnistä toiminta</string>
-  <string name="internal_format">Tyhjennä sisäinen tallennustila</string>
-  <string name="internal_format_summary">Tyhjentää kaikki tiedot sisäiseltä tallennustilalta</string>
-  <string name="internal_media_format_button_text">Tyhjennä sisäinen tallennustila</string>
-  <string name="internal_media_format_desc">Tyhjennetäänkö sisäinen tallennustila? Kaikki tiedot poistetaan. Laite käynnistetään uudelleen tyhjentämisen jälkeen.</string>
-  <string name="internal_media_format_final_desc">Tyhjennetäänkö sisäinen tallennustila? Et voi peruuttaa tätä toimintoa! Laite käynnistyy uudelleen tyhjentämisen jälkeen.</string>
-  <string name="internal_media_format_title">Tyhjennä sisäinen tallennustila</string>
   <string name="internal_memory">Sisäinen tallennustila</string>
   <string name="internal_storage">Sisäinen tallennustila</string>
   <string name="internal_storage_sentence">sisäinen tallennustila</string>
@@ -2724,7 +2717,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="priority_storage_settings_summary">Jos SD-korttia ei tunnisteta, tiedostosi tallennetaan laitteesi sisäiseen tallennustilaan automaattisesti.</string>
   <string name="priority_storage_summary">Valitse minne tiedostot tallennetaan</string>
   <string name="priority_storage_title">Tallennustilan asetukset</string>
-  <string name="privacy_applock">Sovelluslukko</string>
   <string name="privacy_delete_space_dlg_message">Vaihtaaksesi Toisen tilan salasanasi, sinun pitää poistaa nykyinen Toinen tila ja luoda uusi.</string>
   <string name="privacy_dlg_button_cancel">Peruuta</string>
   <string name="privacy_factory_reset_dlg_button_text">Varmuuskopioi tiedot</string>
@@ -2899,6 +2891,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="radio_info_toggle_dns_check_label">Ota DNS-tarkistus käyttöön tai poista tarkistus käytöstä</string>
   <string name="rank_title">Sijoitukset</string>
   <string name="rarely_running">Harvoin käynnissä (%s)</string>
+  <string name="reading_data">Haetaan tietoja…</string>
   <string name="really_remove_account_message">Poistamalla tämän tilin poistat kaikki sen viestit, kontaktit ja muut tiedot puhelimesta.</string>
   <string name="really_remove_account_title">Poistetaanko tili?</string>
   <string name="rebootiing_for_updates">Käynnistetään uudelleen…</string>

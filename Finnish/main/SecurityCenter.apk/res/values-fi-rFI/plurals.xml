@@ -205,6 +205,14 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Kaikki näyttää hyvältä</item>
         <item quantity="one">Kaikki näyttää hyvältä</item>
     </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Vaarallisia sovelluksia: %d</item>
+        <item quantity="one">Vaarallinen sovellus: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Troijalaisia: %d</item>
+        <item quantity="one">Troijalainen: %d</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d sovellusta sisältää yksityisyysriskejä</item>
         <item quantity="one">%d sovellus sisältää yksityisyysriskejä</item>
