@@ -126,6 +126,7 @@ Huomaa: suurennus kolmoisnapauttamalla toimii kaikkialla paitsi n&amp;#228;pp&am
   <string name="add_fingerprint_success_msg">Lisätty onnistuneesti</string>
   <string name="add_fingerprint_text">Lisää sormenjälki</string>
   <string name="add_fingerprint_toast_text">Aseta sormesi tunnistimelle</string>
+  <string name="add_virtual_keyboard">Hallitse näppäimistöjä</string>
   <string name="adding_profile_owner_warning">"Jatkamalla hyväksyt, että järjestelmänvalvoja voi hallinnoida käyttäjää ja tallentaa käyttäjään liittyviä tietoja, kuten henkilökohtaisia tietoja.
 
 Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksia, käyttöoikeuksia, sovelluksia ja tähän käyttäjään liittyviä tietoja, kuten verkon käyttöä ja laitteen sijaintitietoja."</string>
