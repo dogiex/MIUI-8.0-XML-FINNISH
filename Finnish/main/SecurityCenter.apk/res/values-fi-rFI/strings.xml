@@ -506,8 +506,8 @@ mikäli unohdat sen"</string>
   <string name="card_main_deepclean_wechat_title">WeChat välimuisti</string>
   <string name="card_main_gamebooster_summary">Nopeuta &amp; paranna pelikokemusta</string>
   <string name="card_main_gamebooster_title">Pelien nopeuttaja</string>
-  <string name="card_main_hbassistant_summary">Käytä tätä työkalua ottamaan kirjekuoret nopeammin kiinni</string>
-  <string name="card_main_hbassistant_title">Punaisen kirjekuoren avustaja</string>
+  <string name="card_main_hbassistant_summary">Nopeuta &amp; paranna pelikokemusta</string>
+  <string name="card_main_hbassistant_title">Pelien nopeuttaja</string>
   <string name="card_main_monthreport_action">Näytä</string>
   <string name="card_main_monthreport_summary">Näytä kuukausittaisia raportteja</string>
   <string name="card_main_monthreport_title">Tietoturvan tilastot</string>
