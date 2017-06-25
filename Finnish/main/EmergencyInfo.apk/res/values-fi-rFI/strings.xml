@@ -230,7 +230,7 @@
   <string name="inactive_app_inactive_summary">Passiivinen. Vaihda napauttamalla.</string>
   <string name="inactive_apps_title">Passiiviset sovellukset</string>
   <string name="keep_screen_on">Pidä hereillä</string>
-  <string name="keep_screen_on_summary">Näyttö ei ikinä siirry lepotilaan latauksen aikana</string>
+  <string name="keep_screen_on_summary">Näyttö ei siirry lepotilaan latauksen aikana</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu</string>
   <string name="local_backup_password_summary_change">Napauta vaihtaaksesi tai poistaaksesi paikallisen varmuuskopion salasanan</string>
