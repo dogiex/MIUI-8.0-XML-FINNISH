@@ -85,7 +85,6 @@
   <string name="delete_backup_title">Poista varmuuskopio</string>
   <string name="delete_failed_backup_confirm">Tämä varmuuskopio sisältää virheitä.</string>
   <string name="deselect_all">Poista valinnat</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Poista salaus käytöstä</string>
   <string name="enable_encrypt">Ota salaus käyttöön</string>
@@ -340,7 +339,6 @@ ja Mi Siirtäjä on käytössä"</string>
   <string name="user_notice_message">Jotkut toiminnot tarvitsevat internet yhteyden toimiakseen normaalisti.</string>
   <string name="user_notice_title">Huomio</string>
   <string name="wifi_title">Wi-Fi asetukset</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$s t</string>
   <string name="xiaomi_connect_download_manager_fail">Lataamista ei voitu aloittaa. Varmista, että Download Manager toimii normaalisti.</string>
   <string name="xiaomi_external_storage_unavailable">Taltio ei ole käytettävissä, tarkista SD-kortti.</string>

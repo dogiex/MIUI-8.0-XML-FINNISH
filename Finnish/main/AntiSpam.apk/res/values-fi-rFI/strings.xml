@@ -352,5 +352,4 @@
   <string name="website">Nettisivusto</string>
   <string name="whitelist_prefix_add_hint">Lisää kaikki syötetyt numerot poikkeuksiin</string>
   <string name="wl_no_whitelist">Ei poikkeuksia.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

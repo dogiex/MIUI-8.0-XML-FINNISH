@@ -943,7 +943,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="people_jump_failed">Odota, kunnes kuvat, joissa on henkilöitä synkronoidaan Mi Pilveen ja yritä uudelleen</string>
   <string name="people_page_label">Henkilöt</string>
   <string name="people_page_unname">Nimeämätön</string>
-  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">Lemmikin kuvat</string>
   <string name="petabyteShort">Pt</string>
   <string name="photo">Kuvat</string>
@@ -1057,8 +1056,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="search_title_people">Henkilöt</string>
   <string name="search_title_recommend">Suositeltu</string>
   <string name="search_title_tag">Kohteet</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">Paras paikka kaikille pienille salaisuuksillesi</string>
   <string name="secret_album_card_title">Kokeile piilotettua albumia</string>
   <string name="secret_album_display_name">Piilotettu albumi</string>

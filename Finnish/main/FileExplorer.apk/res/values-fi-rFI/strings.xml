@@ -553,8 +553,6 @@
   <string name="search_result_more">Lisää</string>
   <string name="search_statistic_appname">lähde</string>
   <string name="search_statistic_keyword">keyin</string>
-  <string name="search_statistic_match_invalid">0</string>
-  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Etsi</string>
   <string name="search_title_hint">Etsi</string>

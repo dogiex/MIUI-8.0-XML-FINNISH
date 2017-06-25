@@ -152,5 +152,4 @@
   <string name="toast_uninstall_fileexplorer">Tiedostoselain-sovellusta ei ole asennettu</string>
   <string name="wifi_recommended_body" formatted="false">Käyttämällä mobiilidata-yhteyttä tämän tiedoston (%s) lataamiseen lisää datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja. Jos haluat odottaa ja ladata tiedoston Wi-Fi-yhteydellä, napauta %s.</string>
   <string name="wifi_recommended_title">Datan käyttövaroitus</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

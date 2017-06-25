@@ -2247,6 +2247,5 @@ Tap to top up your balance."</string>
   <string name="wifi_item_title_fake">Tunnista vale Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Ei internet-yhteyttä</string>
   <string name="wl_no_whitelist">Ei poikkeuksia.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

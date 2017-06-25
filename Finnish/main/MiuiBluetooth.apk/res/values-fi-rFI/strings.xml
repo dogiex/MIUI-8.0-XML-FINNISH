@@ -6,8 +6,6 @@
   <string name="ble_device_profile_header_title">Asetukset</string>
   <string name="ble_device_profile_title">Yhdistetty Bluetooth Älylaite</string>
   <string name="ble_device_rename">Nimeä uudelleen</string>
-  <string name="ble_profile_1">ble_profile_mi_band</string>
-  <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_connected">Yhdistetty</string>
   <string name="bluetooth_connecting">Yhdistetään…</string>
   <string name="bluetooth_disconnected">Yhteys katkaistu</string>

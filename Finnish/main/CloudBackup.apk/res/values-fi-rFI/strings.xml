@@ -122,5 +122,4 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="start_recover">Palauta %s</string>
   <string name="success_open_cloudbackup">Kotinäytön sovelluksien varmuuskopiot on käytössä</string>
   <string name="wait_icon_download">Ladataan sovelluksien kuvakkeita</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

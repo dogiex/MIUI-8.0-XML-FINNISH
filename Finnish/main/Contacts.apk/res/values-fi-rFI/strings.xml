@@ -885,8 +885,6 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="path_wipe_data">Järjestelmäsovellukset/Yhteystiedot/Järjestä yhteystietoja/Tyhjennä tiedot</string>
   <string name="payphone">Maksupuhelin</string>
   <string name="people">Yhteystiedot</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Puhelin</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numero on liian pitkä</string>

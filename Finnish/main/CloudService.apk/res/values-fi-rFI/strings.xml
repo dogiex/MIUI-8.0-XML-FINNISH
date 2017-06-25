@@ -516,7 +516,5 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="wipe_data_dialog_msg_and_on">, ja muita kohteita</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Joitakin kohteita ei ole synkronoitu</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
-  <string name="xmpp_server_addr"/>
 </resources>

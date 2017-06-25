@@ -394,8 +394,6 @@
   <string name="drawer_open">Avaa navigointipalkki</string>
   <string name="due">Maksettava</string>
   <string name="due_date_text">Viimeinen takaisinmaksu</string>
-  <string name="eas_hotmail_email">hotmail.com</string>
-  <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Pikavastaukset</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">Sähköpostiosoite</string>
