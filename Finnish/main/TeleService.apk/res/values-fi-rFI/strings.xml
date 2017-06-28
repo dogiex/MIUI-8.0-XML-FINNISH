@@ -983,7 +983,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="registration_status_server_unreachable">Tilin rekisteröinti epäonnistui: tarkista palvelimen nimi.</string>
   <string name="registration_status_still_trying">Yritetään edelleen…</string>
   <string name="reject_via_sms">Pikavastaukset</string>
-  <string name="reject_via_sms_summary">Muokkaa nopeita vastauksia</string>
+  <string name="reject_via_sms_summary">Muokkaa pikavastauksia</string>
   <string name="reject_via_sms_title">Pikavastaukset</string>
   <string name="remove">Poista</string>
   <string name="remove_sip_account">Poista tili</string>
@@ -1006,9 +1006,9 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="respond_via_sms_canned_response_4">En voi nyt jutella. Mitä asiaa?</string>
   <string name="respond_via_sms_cannot_empty">Reject messages can not be empty</string>
   <string name="respond_via_sms_confirmation_format">Viesti lähetetty henkilölle %s.</string>
-  <string name="respond_via_sms_edittext_dialog_title">Nopea vastaus</string>
+  <string name="respond_via_sms_edittext_dialog_title">Pikavastaus</string>
   <string name="respond_via_sms_menu_reset_default_activity">Palauta oletukset</string>
-  <string name="respond_via_sms_setting_summary">Muokkaa nopeita vastauksia</string>
+  <string name="respond_via_sms_setting_summary">Muokkaa pikavastauksia</string>
   <string name="respond_via_sms_setting_title">Pikavastaukset</string>
   <string name="response_error">Odottamaton vastaus verkosta.</string>
   <string name="restaurants_disable">Ravintolat pois käytöstä</string>
