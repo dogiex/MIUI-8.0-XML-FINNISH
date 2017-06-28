@@ -180,6 +180,6 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="user_define_mode">Nimi</string>
   <string name="vip_feedback">Vip Palaute</string>
   <string name="vip_feedback_apply">Lähetä Vip Palaute</string>
-  <string name="vip_feedback_apply_msg">Ota yhteyttä qiufeng@xiaomi.com lähettääksesi Vip Palautetta</string>
+  <string name="vip_feedback_apply_msg">Ota yhteyttä vip-feedback-system@xiaomi.com lähettääksesi Vip Palautetta</string>
   <string name="vip_feedback_enable">Ota automaattinen Vip Palaute käyttöön</string>
 </resources>

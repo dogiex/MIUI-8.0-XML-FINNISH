@@ -133,7 +133,7 @@
   <string name="find_device_unknown_error">Laitteen tilan saanti epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>
-  <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumerolle enintään kolme Mi Tiliä. Tilejä ei voi lisätä.</string>
+  <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeroita enintään kolmelle Mi Tilille. Tilejä ei voi lisätä.</string>
   <string name="get_phone_verifycode_exceed_limit">Liian monta vahvistuskoodia on lähetetty tälle numerolle. Odota 24 tuntia ja yritä uudelleen.</string>
   <string name="guest_account_label">Mi Vierastili</string>
   <string name="input_email_address_notice">Käytämme tätä sähköpostia tilisi vahvistamiseen</string>
