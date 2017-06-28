@@ -1224,11 +1224,8 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voicemail">Vastaaja</string>
   <string name="voicemail_abbreviated">Vast.:</string>
   <string name="voicemail_default">Operaattorisi</string>
-  <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">Ääni</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Värinä</string>
-  <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-  <string name="voicemail_notification_vibrate_when_default">Ei koskaan</string>
   <string name="voicemail_notification_vibrate_when_title">Värinä</string>
   <string name="voicemail_number_not_set">&lt;Ei asetettu&gt;</string>
   <string name="voicemail_provider">Palveluntarjoaja</string>
@@ -1238,7 +1235,6 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voicemail_settings_number_label">Puhelinvastaajan numero</string>
   <string name="voicemail_settings_number_title">Puhelinvastaajan numero</string>
   <string name="voicemail_settings_with_label">Puhelinvastaaja (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Visuaalinen puhelinvastaaja</string>
   <string name="voip_setting">VoIP asetukset</string>
   <string name="volte_provision_notification_activate">Aktivoi</string>
@@ -1250,7 +1246,6 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="wait_prompt_str">"Lähetäänkö seuraavat äänet?
 "</string>
   <string name="wifi_calling">Wi-Fi-puhelut</string>
-  <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wild_prompt_str">Muuta jokerimerkiksi</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="xdivert_summary">CFNRc asetukset</string>

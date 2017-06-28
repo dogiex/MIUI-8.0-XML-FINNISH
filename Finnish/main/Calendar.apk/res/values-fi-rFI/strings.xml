@@ -34,6 +34,7 @@
   <string name="add_anniversary">Lisää vuosipäivä</string>
   <string name="add_countdown">Lisää laskenta</string>
   <string name="add_event">Lisää tapahtuma</string>
+  <string name="agenda_month_empty_hint">Ei tapahtumia tänään</string>
   <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
   <string name="agenda_today">TÄNÄÄN, %1$s</string>
   <string name="agenda_tomorrow">HUOMENNA, %1$s</string>
@@ -76,6 +77,7 @@
   <string name="calculate_result">Tulos</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Päivitä</string>
+  <string name="refreshing_hint">Päivitetään</string>
   <string name="can_not_create_long_event">Tapahtuman nimi on liian pitkä</string>
   <string name="can_not_modify_allday_event">Koko päivän tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_event">Tapahtumaa ei voida muokata</string>
@@ -307,6 +309,7 @@
   <string name="limit_tomorrow">明天</string>
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
+  <string name="load_more_hint">Päivitä %1$d tapahtumat</string>
   <string name="loading">Ladataan…</string>
   <string name="loan_event_title">贷款账单</string>
   <string name="local_calendar_display_name">Paikallinen kalenteri</string>
@@ -349,6 +352,7 @@
   <string name="new_event_dialog_option">Uusi tapahtuma</string>
   <string name="no_calendars_found">Ennen kuin voit lisätä tapahtuman, sinun on lisättävä laitteeseen vähintään yksi kalenteritili ja otettava kalenteri näkyviin. Lisää tili koskettamalla Lisää tili (jos olet jo lisännyt tilin, odota synkronoinnin valmistumista ja yritä uudelleen). Tai kosketa Peruuta ja varmista, että vähintään yksi kalenteri on näkyvissä.</string>
   <string name="no_contact_birthday_hint">Ei tuotavia syntymäpäiviä</string>
+  <string name="no_events_hint">Ei tapahtumia</string>
   <string name="no_network">"Verkkoon ei saatu yhteyttä.
 Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="no_network_btn">Yritä uudestaan</string>
@@ -414,6 +418,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_week_start_day_dialog">Viikko alkaa päivänä</string>
   <string name="preferences_week_start_day_title">Viikko alkaa päivänä</string>
   <string name="provided_ad">赞助商提供</string>
+  <string name="pull_to_refresh_hint">Vedä päivittääksesi %1$d tapahtumat</string>
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">订阅中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>

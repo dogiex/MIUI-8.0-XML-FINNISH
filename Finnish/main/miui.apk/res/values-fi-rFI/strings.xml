@@ -412,6 +412,7 @@
   <string name="heavenly_stems_yi">乙</string>
   <string name="hybrid_provider">%1$s tarjoama</string>
   <string name="im">IM</string>
+  <string name="immersion_button_close_description">Sulje</string>
   <string name="instruction">Ohjeet</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">ap.</string>
@@ -475,6 +476,7 @@
   <string name="saturday">Lauantai</string>
   <string name="saturday_short">Lauan.</string>
   <string name="saturday_shortest">La</string>
+  <string name="search_input_description">Hae</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_item">Valitse kohteet</string>
   <string name="send">Lähetä</string>

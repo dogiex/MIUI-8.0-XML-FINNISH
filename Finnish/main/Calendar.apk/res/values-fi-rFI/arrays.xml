@@ -59,16 +59,16 @@
         <item>2 päivää ennen</item>
         <item>1 viikkoa ennen</item>
     </string-array>
-	<string-array name="preferences_week_start_day_labels">
-        <item>Maan oletus</item>
-        <item>Lauantai</item>
-        <item>Sunnuntai</item>
-        <item>Maanantai</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Aina</item>
         <item>Vain äänettömällä</item>
         <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Maan oletus</item>
+        <item>Lauantai</item>
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 tuntia ennen</item>

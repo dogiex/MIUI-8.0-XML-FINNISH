@@ -299,7 +299,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_edit_adandon_button_text">Hylkää</string>
   <string name="auto_task_edit_choose_condition_title">Valitse ehto</string>
   <string name="auto_task_edit_choose_new_operation">Lisää toiminto</string>
-  <string name="auto_task_edit_choose_operation_title">Valitse toiminto</string>
+  <string name="auto_task_edit_choose_operation_title">Valitse tehtävä</string>
   <string name="auto_task_edit_condition_summary">Esimerkiksi, \"Klo 23:00\"</string>
   <string name="auto_task_edit_condition_title">Lisää ehto</string>
   <string name="auto_task_edit_my_custom_task">Nimi</string>
@@ -319,11 +319,12 @@ mikäli unohdat sen"</string>
   <string name="auto_task_notify_task_cancel_do">Peruuta toiminto</string>
   <string name="auto_task_notify_task_canceled_summary">Voit soittaa ja vastaanottaa puheluita</string>
   <string name="auto_task_notify_task_canceled_summary2">Näyttää siltä, että olet nyt pelaamassa peliä.</string>
-  <string name="auto_task_notify_task_canceled_summary3">Toinen tila peruutti toiminnon</string>
-  <string name="auto_task_notify_task_canceled_summary4">Ensimmäinen tila peruutti toiminnon</string>
-  <string name="auto_task_notify_task_canceled_title">Toiminto peruutettu</string>
-  <string name="auto_task_notify_task_continue_do">Aloita toiminto</string>
-  <string name="auto_task_notify_task_count_down">Automatisoitu toiminto aloitetaan 5 sekunnin kuluttua</string>
+  <string name="auto_task_notify_task_canceled_summary3">Toinen tila peruutti tehtävän</string>
+  <string name="auto_task_notify_task_canceled_summary4">Ensimmäinen tila peruutti tehtävän</string>
+  <string name="auto_task_notify_task_canceled_title">Tehtävä peruutettu</string>
+  <string name="auto_task_notify_task_continue_do">Aloita tehtävä</string>
+  <string name="auto_task_notify_task_count_down">Automatisoitu tehtävä aloitetaan 5 sekunnin kuluttua</string>
+  <string name="auto_task_notify_task_exit_task">Poistu tehtävästä</string>
   <string name="auto_task_operation_airplane_mode">Lentokone-tila</string>
   <string name="auto_task_operation_auto_brightness">Automaattinen kirkkaus</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1375,12 +1376,12 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
   <string name="power_center_title">Virta</string>
+  <string name="power_consume_hardware_total_format">Laitteisto: %s</string>
   <string name="power_consume_other">Muu</string>
   <string name="power_consume_rank_hardware">Laitteisto</string>
   <string name="power_consume_rank_software">Sovellukset</string>
   <string name="power_consume_rank_title">Akun käyttö</string>
-  <string name="power_consume_total_hardware">Laitteisto: %s</string>
-  <string name="power_consume_total_software">Sovellukset: %s</string>
+  <string name="power_consume_software_total_format">Sovellukset: %s</string>
   <string name="power_customize_giveup_change">Hylätäänkö muutokset?</string>
   <string name="power_dialog_cancel">Peruuta</string>
   <string name="power_dialog_ok">OK</string>
@@ -1885,7 +1886,6 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_garbage_clean">Vapauta tilaa tyhjentämällä välimuisti</string>
   <string name="summary_garbage_lib">Käytä viimeisimpiä virustunnisteita poistaaksesi vakoilu- ja mainosohjelmat, ja muut ei halutut roskat</string>
   <string name="summary_install_virus">Tarkista sovellukset viruksilta ennen asentamista</string>
-  <string name="summary_live_talk_purchase">Säästä 70% puhelinlaskustasi</string>
   <string name="summary_mifi_insurance">Hanki vuoden vaihtotakuu, joka kattaa myös laitteistovauriot</string>
   <string name="summary_miui_update">Päivitys saatavilla: %s.</string>
   <string name="summary_mms">Estä tekstiviesti spämmi automaattisesti</string>
@@ -2058,7 +2058,6 @@ Tässä ohjeet:
   <string name="title_install_virus_no">Asennuksen monitorointi ei käytössä</string>
   <string name="title_install_virus_yes">Asennuksen monitorointi käytössä</string>
   <string name="title_limit_traffic_per_day">Päiväkohtainen tiedonsiirtoraja</string>
-  <string name="title_live_talk_purchase">Ota Top-up paketti käyttöön</string>
   <string name="title_mifi_insurance">Laajennettu takuu</string>
   <string name="title_miui_update">Päivitys saatavilla</string>
   <string name="title_mms_no">Viestin suodatin ei käytössä</string>

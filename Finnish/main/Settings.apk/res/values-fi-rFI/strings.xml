@@ -1407,12 +1407,7 @@ Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot.
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä PIN-koodin ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään herätykset eivät toimi). 
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
-  <string name="enforce_read_external_confirm_message">"Jos USB-tallennustila on suojattu, sovellusten on pyydettävä lupa ulkoisen tallennustilan käyttämiseen.
-
-Jotkin sovellukset toimivat vasta, kun kehittäjät päivittävät ne."</string>
-  <string name="enforce_read_external_confirm_title">Suojataanko USB-tallennustila?</string>
-  <string name="enforce_read_external_summary">Sovellusten on pyydettävä lupa USB-tallennustilan lukemiseen</string>
-  <string name="enforce_read_external_title">Suojaa USB-tallennustila</string>
+  <string name="encryption_progress_summary">Salataan, älä käynnistä laitettasi uudelleen.</string>
   <string name="enhanced_4g_lte_mode_summary">Paranna puheluiden ja viestinnän laatua käyttämällä LTE-tiedonsiirtoa (suositus)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE -tila</string>
   <string name="enter_password">Käynnistä Android kirjoittamalla salasana</string>
@@ -2342,9 +2337,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_hifi_title">Hi-Fi ääni</string>
   <string name="music_mi_effect_summary">Käytä Mi Äänen Parantajaa, kun käytät kaiuttimia</string>
   <string name="music_mi_effect_title">Mi Äänen Parantaja</string>
-  <string name="music_notification_headset_custom">Hylkää</string>
-  <string name="music_notification_headset_info">Näytä asetukset napauttamalla.</string>
-  <string name="music_notification_headset_settings">Kuulokkeet yhdistetty</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="music_unsupport_effect_summary">USB-kuulokkeet ei ole tuettu</string>
   <string name="musicfx_title">Musiikkitehosteet</string>
@@ -2518,6 +2510,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="owner_info_settings_status">%1$d/%2$d</string>
   <string name="owner_info_settings_summary">Ei mitään</string>
   <string name="owner_info_settings_title">Omistajan tiedot Lukitusnäytöllä</string>
+  <string name="owner_space">Ensimmäinen tila</string>
   <string name="packages_subtitle">Sisältyvät paketit</string>
   <string name="page_layout_1">Sunnuntai, 16 Elokuu</string>
   <string name="page_layout_10">Asetukset</string>
@@ -3521,7 +3514,8 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sim_lock_settings">SIM-kortin lukitusasetukset</string>
   <string name="sim_lock_settings_category">Ota SIM-kortin lukitus käyttöön</string>
   <string name="sim_lock_settings_title">SIM-kortin lukitus</string>
-  <string name="sim_management_title">Matkapuhelinverkot</string>
+  <string name="sim_management_title">SIM-kortit &amp; matkapuhelinverkot</string>
+  <string name="sim_management_title_cr_kolbi">SIM-kortit &amp; matkapuhelinverkot</string>
   <string name="sim_multi_sims_summary">Valitse SIM-kortti, jota haluat käyttää mobiilitiedonsiirtoon.</string>
   <string name="sim_multi_sims_title">SIM-kortteja löytyi useita</string>
   <string name="sim_name_hint">Anna SIM-kortin nimi</string>

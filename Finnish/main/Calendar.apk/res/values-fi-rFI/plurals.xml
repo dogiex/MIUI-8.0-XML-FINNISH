@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
-    </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
-    </plurals>
-    <plurals name="Nminutes">
-        <item quantity="other">%d minuuttia ennen</item>
-        <item quantity="one">%d minuutti ennen</item>
-    </plurals>
-    <plurals name="Nhours">
-        <item quantity="other">%d tuntia ennen</item>
-        <item quantity="one">%d tunti ennen</item>
-    </plurals>
-    <plurals name="Ndays">
-        <item quantity="other">%d päivää ennen</item>
-        <item quantity="one">%d päivä ennen</item>
-    </plurals>
-    <plurals name="weekN">
-        <item quantity="other">VIIKKO %d</item>
-    </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">%1$d päivän kuluttua klo %2$s</item>
+        <item quantity="one">%1$d päivän kuluttua klo %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d päivää sitten klo %2$s</item>
         <item quantity="one">%1$d päivä sitten klo %2$s</item>
-    </plurals>
-    <plurals name="Ndays_after_at">
-        <item quantity="other">%1$d päivän kuluttua klo %2$s</item>
-        <item quantity="one">%1$d päivän kuluttua klo %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d viikkoa ennen</item>
@@ -51,22 +24,6 @@
         <item quantity="other">%1$s-vuotta vanha</item>
         <item quantity="one">%1$s-vuotta vanha</item>
     </plurals>
-    <plurals name="repeat_interval_frequency_day_multiple">
-        <item quantity="other">%1$d päivää</item>
-        <item quantity="one">%1$d päivä</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_week_multiple">
-        <item quantity="other">%1$d viikkoa</item>
-        <item quantity="one">%1$d viikko</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_month_multiple">
-        <item quantity="other">%1$d kuukautta</item>
-        <item quantity="one">%1$d kuukausi</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_year_multiple">
-        <item quantity="other">%1$d vuotta</item>
-        <item quantity="one">%1$d vuosi</item>
-    </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">%1$s vuotta</item>
         <item quantity="one">%1$s vuosi</item>
@@ -78,10 +35,6 @@
     <plurals name="countdown_day">
         <item quantity="other">%1$s päivää jäljellä</item>
         <item quantity="one">%1$s päivä jäljellä</item>
-    </plurals>
-    <plurals name="work_days">
-        <item quantity="other">%d työpäivää</item>
-        <item quantity="one">%d työpäivä</item>
     </plurals>
     <plurals name="date_calculate_direction_forward">
         <item quantity="other">%1$d päivää sitten</item>
@@ -98,5 +51,52 @@
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d päivän jälkeen</item>
         <item quantity="one">%1$d päivän jälkeen</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d päivää</item>
+        <item quantity="one">%1$d päivä</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d viikkoa</item>
+        <item quantity="one">%1$d viikko</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d kuukautta</item>
+        <item quantity="one">%1$d kuukausi</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d vuotta</item>
+        <item quantity="one">%1$d vuosi</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d työpäivää</item>
+        <item quantity="one">%d työpäivä</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuuttia ennen</item>
+        <item quantity="one">%d minuutti ennen</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">VIIKKO %d</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d tuntia ennen</item>
+        <item quantity="one">%d tunti ennen</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d päivää ennen</item>
+        <item quantity="one">%d päivä ennen</item>
     </plurals>
 </resources>

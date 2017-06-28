@@ -36,8 +36,6 @@
   <string name="apk_title_alipay_plugin">支付宝插件</string>
   <string name="app_description_content">Puhdistaja löytää laitteellasi olevat roskat ja vapauttaa tallennustilaa. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="app_description_title">Tietoja Puhdistajasta</string>
-  <string name="app_install_tips_go_to">Avaa</string>
-  <string name="app_install_tips_install_success">%1$s asennus valmis</string>
   <string name="app_name">JunkEngine</string>
   <string name="app_usage_never">Harvoin käytetty</string>
   <string name="app_usage_recently">Käytetty äskettäin</string>
@@ -252,7 +250,7 @@
   <string name="hints_video_download">Ladatut videot</string>
   <string name="hot">Suosittu</string>
   <string name="hot_today">Suosittu tänään</string>
-  <string name="information_setting">Uutis-syötteen asetukset</string>
+  <string name="information_setting">Suositukset</string>
   <string name="install_sucess">%s asennettiin onnistuneesti</string>
   <string name="installed">Asennettu</string>
   <string name="installing">Asennetaan</string>
@@ -332,7 +330,7 @@
   <string name="label_image_list_none">Ei mikään</string>
   <string name="label_preserve_the_best_image">Tallenna tarkimmat kuvat</string>
   <string name="last_check_canceled">Edellinen skannaus peruutettiin</string>
-  <string name="load_only_under_wlan">Lataa uutiset Wi-Fi:n ollessa käytössä</string>
+  <string name="load_only_under_wlan">Lataa vain Wi-Fi:llä</string>
   <string name="location_not_found">Tiedostoa ei löytynyt</string>
   <string name="login_immediately">Kirjaudu sisään</string>
   <string name="long_click_dialog_summary">Paina pitkään lisätäksesi poikkeuksiin.</string>
@@ -437,7 +435,7 @@
   <string name="privacy_search_desc">Hakuhistoria</string>
   <string name="privacy_search_type">Google Haku</string>
   <string name="promotion">Mainos</string>
-  <string name="recommend_news">Suositellut lähteet</string>
+  <string name="recommend_news">Vastaanota suosituksia</string>
   <string name="recommend_the_following">Tee seuraavat toiminnot, jotta saat laitteestasi kaiken irti</string>
   <string name="recommended">Suosittua</string>
   <string name="remain_item_name_n7p"/>

@@ -947,10 +947,13 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="preference_import_export">Tuo/Vie</string>
   <string name="preference_import_export_title">Tuo/Vie yhteystietoja</string>
   <string name="preference_key_trash_bin_title">Palauta yhteystietoja</string>
+  <string name="preference_other">Muu</string>
   <string name="preference_others">Muut</string>
   <string name="preference_phone">Puhelin</string>
   <string name="preference_phone_more_title">Puheluasetukset</string>
   <string name="preference_remove_duplicate">Yhdistä yhteystietojen kaksoiskappaleet</string>
+  <string name="preference_show_yellowpage_tab_description">Sulje Hakemistot välilehti, Hakemistot ominaisuus ei toimi normaalisti</string>
+  <string name="preference_show_yellowpage_tab_title">Näytä Hakemistot välilehti</string>
   <string name="preference_simple_mode_description">Näytä kuvat ja muut tiedot yhteystietojen luettelonäkymässä</string>
   <string name="preference_simple_mode_title">Näytä kuvat ja muut tiedot</string>
   <string name="preference_smart_group_company_summary">Ryhmitä yrityksen mukaan</string>

@@ -207,7 +207,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
   <string name="micloud_find_device_finish">Valmis</string>
   <string name="micloud_find_device_guide_button">Ota laitteen etsintä käyttöön</string>
-  <string name="micloud_find_device_guide_content">Kun vaihdat SIM-korttia, viesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
+  <string name="micloud_find_device_guide_content">Lähetäve tekstiviesti saatetaan tarvita tämän palvelun aktivoimiseksi. Operaattorisi veloittaa sinua tästä viestistä. Kun vaihdat SIM-korttia, viesti lähetetään automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi.</string>
   <string name="micloud_find_device_guide_fail_reopen">Ota laitteen etsintä käyttöön Mi Pilvessä</string>
   <string name="micloud_find_device_guide_fail_sub_net">Tarkista verkkoyhteys ja yritä uudelleen.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Yhteyden aikakatkaisu. Yritä uudelleen myöhemmin.</string>
@@ -222,7 +222,7 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat suosittelee ottamaan laitteen etsinnän käyttöön</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suosittelee ottamaan laitteen etsinnän käyttöön</string>
   <string name="micloud_find_device_guide_progress">Laitteen etsintää otetaan käyttöön…</string>
-  <string name="micloud_find_device_guide_title">Kirjaudu sisään tiliin %s paikantaaksesi, lukitaksesi tai palauttaaksesi laitteesi oletusasetuksille.</string>
+  <string name="micloud_find_device_guide_title">Kirjaudu sisään tilille %s paikantaaksesi, lukitaksesi tai palauttaaksesi laitteesi oletusasetuksille.</string>
   <string name="micloud_find_device_open_fail">Laitteen etsinnän ottaminen käyttöön epäonnistui</string>
   <string name="micloud_find_device_opened">Laitteen etsintä on käytössä</string>
   <string name="micloud_find_device_opened_content">Löydä laitteesi täältä %s</string>
