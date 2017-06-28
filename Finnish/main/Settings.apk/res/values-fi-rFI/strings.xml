@@ -2287,6 +2287,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="mtp_ptp_mode_summary">MTP- tai PTP-toiminto on käytössä</string>
   <string name="multi_touch_points_category_title">Moni-kosketuspisteet</string>
   <string name="multi_touch_points_preference">Tämä asetus tulee voimaan uudelleenkäynnistämisen jälkeen</string>
+  <string name="music_app_unavailable">Riippuen musiikkisovelluksesta varmista, että se on käytettävissä</string>
   <string name="music_audio_effect_optimize">Ääniasetukset</string>
   <string name="music_audio_effect_optimize_summary">Dirac, kuulokkeet ja muut ääniasetukset</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, kuulokkeet ja muut ääniasetukset</string>

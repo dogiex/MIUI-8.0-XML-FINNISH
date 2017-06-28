@@ -35,6 +35,7 @@
   <string name="low_battery_title">Akku vähissä</string>
   <string name="low_battery_warning">Akku on vähissä. Nauhoittaminen lopetettiin ja video tallennettiin.</string>
   <string name="low_memory">Sinulla on vähemmän kuin 200 Mt tallennustilaa käytettävissä. Voit nauhoittaa vielä enintään 5 minuuttia.</string>
+  <string name="low_memory_dior">Sinulla on vähemmän kuin 500 Mt tallennustilaa käytettävissä. Voit nauhoittaa vielä enintään 12 minuuttia.</string>
   <string name="low_memory_title">Tallennustilaa ei ole riittävästi</string>
   <string name="low_momery_warning">Tallennustilaa ei ole riittävästi. Nauhoittaminen lopetettiin ja video tallennettiin.</string>
   <string name="memory_not_allowed">Tallennustilaa ei ole riittävästi. Vapauta tallennustilaa nauhoittaaksesi.</string>

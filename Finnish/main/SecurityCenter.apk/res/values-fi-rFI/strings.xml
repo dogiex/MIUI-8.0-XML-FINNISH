@@ -18,7 +18,7 @@
   <string name="STRANGER_BLOCK">Muukalaisen estolista</string>
   <string name="Setting_lock">Asetukset</string>
   <string name="Settings_title_anti_spam">Estolistan asetukset</string>
-  <string name="Settings_title_anti_virus">Virustorjunnan asetukset</string>
+  <string name="Settings_title_anti_virus">Tietoturvaskannauksen asetukset</string>
   <string name="Settings_title_garbage_cleanup">Puhdistajan asetukset</string>
   <string name="Settings_title_network_assistants">Datakäytön asetukset</string>
   <string name="Settings_title_power_center">Akun asetukset</string>
@@ -43,7 +43,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="action_button_text_80_100">Optimoi</string>
   <string name="action_source_sms_title">Estetyt tekstiviestit</string>
   <string name="activity_title_antispam">Estolista</string>
-  <string name="activity_title_antivirus">Virustarkistus</string>
+  <string name="activity_title_antivirus">Tietoturvatarkistus</string>
   <string name="activity_title_apps_manager">Sovellukset</string>
   <string name="activity_title_auto_start_manager">Käynnistys</string>
   <string name="activity_title_create_shortcut">Hallitse pikakuvakkeita</string>
@@ -637,7 +637,7 @@ mikäli unohdat sen"</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_paysafety_scan">Lopetetaanko maksamisen tietoturvan tarkistus?</string>
-  <string name="dialog_msg_stop_virus_scan">Lopetetaanko virusten skannaus?</string>
+  <string name="dialog_msg_stop_virus_scan">Lopetetaanko tietoturvatarkistus?</string>
   <string name="dialog_remobe_luckymoney_cancle">Vanha</string>
   <string name="dialog_remobe_luckymoney_ok">Uusi</string>
   <string name="dialog_remove_luckymoney">Voit käyttää uutta sisäänrakennettua punaisen kirjekuoren avustajaa, tai jatka asennetun version käyttämistä. Kumpaa sinä suosit?</string>
@@ -646,7 +646,7 @@ mikäli unohdat sen"</string>
   <string name="dialog_title_attention">Huomio</string>
   <string name="dialog_title_auto_start_declare">Tietoa käynnistyksestä</string>
   <string name="dialog_title_stop_paysafety_scan">Pysäytä</string>
-  <string name="dialog_title_stop_virus_scan">Pysäytä virus skannaus</string>
+  <string name="dialog_title_stop_virus_scan">Pysäytä tietoturvatarkistus</string>
   <string name="disable_air_mode">Poista Lentokone-tila ensin käytöstä</string>
   <string name="dlg_add_blacklist">Estetäänkö tämä numero?</string>
   <string name="dlg_add_blacklist_title">Lisää estolistalle</string>
@@ -802,6 +802,9 @@ mikäli unohdat sen"</string>
   <string name="handle_text_cache">Välimuisti</string>
   <string name="handle_text_memory">Muisti</string>
   <string name="handle_text_system">Järjestelmä</string>
+  <string name="handle_title_network">Wi-Fi Turvallisuus</string>
+  <string name="handle_title_pay_env">Maksuympäristö</string>
+  <string name="handle_title_privacy">Yksityisyyden Turvallisuus</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Apua</string>
   <string name="hide_mode_app_background_setting_text">Sovelluskohtainen virransäästö</string>
@@ -812,11 +815,20 @@ mikäli unohdat sen"</string>
   <string name="hints_auto_start_warning_info">Jos rajoitat sovelluksien käynnistymisiä, jotkut sovellukset ja palvelut eivät saa ilmoituksia.</string>
   <string name="hints_cleanning_done">Skannattiin onnistuneesti</string>
   <string name="hints_cleanning_text">Puhdistetaan…</string>
-  <string name="hints_handle_item_text_risk">%d</string>
+  <string name="hints_handle_item_text_risk">Vaara</string>
   <string name="hints_handle_item_text_safe">Turvallinen</string>
-  <string name="hints_handle_item_text_virus">%d</string>
+  <string name="hints_handle_item_text_virus">Vaara</string>
   <string name="hints_input_roaming_daily_limit">Syötä tiedonsiirtoraja</string>
   <string name="hints_last_virus_scan_none">Skannausta ei suoritettu koskaan</string>
+  <string name="hints_last_virus_scan_risk">Skannattu %d päivää sitten: Epäilyttävä</string>
+  <string name="hints_last_virus_scan_safe">Skannattu %d päivää sitten: Turvallinen</string>
+  <string name="hints_last_virus_scan_today_risk">Skannattu tänään: Epäilyttävä</string>
+  <string name="hints_last_virus_scan_today_safe">Skannattu tänään: Turvallinen</string>
+  <string name="hints_last_virus_scan_today_virus">Skannattu tänään: Vaarallinen</string>
+  <string name="hints_last_virus_scan_virus">Skannattu %d päivää sitten: Vaarallinen</string>
+  <string name="hints_last_virus_scan_yesterday_risk">Skannattu eilen: Epäilyttävä</string>
+  <string name="hints_last_virus_scan_yesterday_safe">Skannattu eilen: Turvallinen</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Skannattu eilen: Vaarallinen</string>
   <string name="hints_loading_text">Ladataan…</string>
   <string name="hints_need_quick_clean">Etsi ja poista vaaralliset tiedostot</string>
   <string name="hints_need_quick_scan">Suositellaan nopeaa skannausta</string>
@@ -827,7 +839,9 @@ mikäli unohdat sen"</string>
   <string name="hints_risk_app_list_item_summary">sovellus</string>
   <string name="hints_risk_descx_title">Kuvaus:</string>
   <string name="hints_risk_name_title">Riski:</string>
+  <string name="hints_scan_danger_result">Riski löytyi, korjaa nyt</string>
   <string name="hints_scan_progress">Valmiina: %d</string>
+  <string name="hints_scan_result_no_finish">Skannaus ei ole valmis. Käynnistä uudelleen napauttamalla.</string>
   <string name="hints_scan_result_phone_safe">Kaikki näyttää hyvältä</string>
   <string name="hints_scan_result_risk">Riskejä havaittu</string>
   <string name="hints_scan_result_safe">Turvallinen</string>
@@ -1111,7 +1125,7 @@ vastausta"</string>
   <string name="menu_restore">Palauta postilaatikkoon</string>
   <string name="menu_sms">Lähetä viesti</string>
   <string name="menu_text_antispam">Estolista</string>
-  <string name="menu_text_antivirus">Virustarkistus</string>
+  <string name="menu_text_antivirus">Tietoturvatarkistus</string>
   <string name="menu_text_garbage_cleanup">Puhdistaja</string>
   <string name="menu_text_garbage_cleanup_danger">%s yli</string>
   <string name="menu_text_license_manager">Käyttöoikeudet</string>
@@ -1588,13 +1602,11 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="resource_usb_install">Asenna USB:n kautta</string>
   <string name="result_autoscan_header">Maksujen seuranta</string>
   <string name="result_autoscan_info">Seuraa automaattisesti järjestelmän ympäristöä, kun maksusovellus käynnistetään</string>
-  <string name="result_sign_header">Löytyi %d ei-virallista sovellusta</string>
   <string name="result_sms_header">Viestintäriskejä havaittu</string>
   <string name="result_sms_info_antispam">Ota Estolista käyttöön suojataksesi laitettasi ilkeiltä URL-osoitteilta</string>
   <string name="result_sms_info_auth">Rajoita kolmannen osapuolen sovelluksia pääsemästä vahvistuskoodeihin.</string>
   <string name="result_sms_title_antispam">Uhattu ilkeillä tekstiviesti URL-osoitteilla</string>
   <string name="result_sms_title_auth">Taloudellisen tekstiviestivuodon vaara on olemassa</string>
-  <string name="result_virus_header">Löytyi %d virusta ja turvatonta sovellusta</string>
   <string name="result_wifi_header">Wi-Fi riskejä havaittu</string>
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Sallitaanko mobiilidatan roaming?</string>
@@ -1866,6 +1878,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="suffix_virus_count_bottom">yhteensä</string>
   <string name="suffix_virus_count_top">riskejä</string>
   <string name="suggest_app_tolock">Suositukset</string>
+  <string name="suggest_scan_again">On suositeltavaa tehdä täydellinen tarkistus turvallisuuden varmistamiseksi.</string>
   <string name="summary_app_lock_disable">Suojaa tietosi Sovelluslukolla</string>
   <string name="summary_auto_update">MIUI valitsee sopivimman ajan ladata ja asentaa päivitykset.</string>
   <string name="summary_cleaner_cloudscan">Lähetä ja vertaa kansioiden nimiä verkkotunnisteisiin</string>
@@ -2220,6 +2233,7 @@ Tap to top up your balance."</string>
   <string name="user_define_title">Lisää sääntöjä</string>
   <string name="virus_ad_icon_text">Mainos</string>
   <string name="virus_already_update">Virustunnisteet on ajan tasalla</string>
+  <string name="virus_auto_update_engine">Automaattinen Päivitys： %s</string>
   <string name="virus_dp_update_title">Virustunnisteiden päivitys</string>
   <string name="virus_scan">Virustarkistus</string>
   <string name="virus_scan_process_pre">%</string>

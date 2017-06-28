@@ -22,9 +22,29 @@
         <item quantity="other">%1$s henkilöä</item>
         <item quantity="one">1 henkilö</item>
     </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d vastaanottajaa</item>
+        <item quantity="one">%d vastaanottaja</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">Lähetettiin %1$s viestiä</item>
+        <item quantity="one">Lähetettiin %1$s viesti</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">%d yhteystiedolle ei voitu lähettää</item>
+        <item quantity="one">%d yhteystiedolle ei voitu lähettää</item>
+    </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Poistetaanko %1$s viestiä?</item>
         <item quantity="one">Poistetaanko %1$s viesti?</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d ajastettua viestiä ei ole lähetetty</item>
+        <item quantity="one">%d ajastettua viestiä ei ole lähetetty</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d viestiä)</item>
+        <item quantity="one">(%d viesti)</item>
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d viestiä</item>

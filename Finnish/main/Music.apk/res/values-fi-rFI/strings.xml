@@ -117,7 +117,6 @@
   <string name="choose_stream_quality">Valitse suoratoiston laatu</string>
   <string name="click_modify">Muokkaa sanoja napauttamalla.</string>
   <string name="click_to_shuffle">Sekoita soittolista koskettamalla</string>
-  <string name="click_to_view_new_local_audios">Näytä tiedot napauttamalla.</string>
   <string name="close_music_time">"Aikaa jäljellä: "</string>
   <string name="cloud_empty_local_empty_button">Laitteessa ei ole kappaleita</string>
   <string name="cloud_empty_message">Mi Pilvessä ei ole kappaleita</string>
@@ -586,8 +585,6 @@
   <string name="notification_download_failed">Lataaminen epäonnistui</string>
   <string name="notification_download_failed_more">%1$d kohteen lataaminen epäonnistui</string>
   <string name="notification_download_success_more">%1$d ladattu</string>
-  <string name="notification_favorite_summary">Näytä ilmoituksia uusista julkaisuista ja hiteistä</string>
-  <string name="notification_favorite_title">Suosikki artistien ilmoitukset</string>
   <string name="notification_need_wifi_for_size">Latauskoko vaatii Wi-Fi-yhteyden.</string>
   <string name="notification_play_summary">Näytä nykyinen ja seuraava kappale, näytä laulun sanat Kotinäytöllä</string>
   <string name="notification_play_title">Ilmoitusalueen widgetti</string>
@@ -603,7 +600,6 @@
   <string name="online_favor">Suositut</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Tämän soittolistan kaikki ladatut kappaleet poistetaan sisäiseltä tallennustilalta.</string>
-  <string name="online_music_enabled_subtitle">Suoratoista suosikkikappaleesi napauttamalla.</string>
   <string name="online_music_enabled_summary">Kuuntele ja lataa suosikkikappaleitasi. Katso top-listan kappaleet ja valmiita soittolistoja mihin ikinä menetkin!</string>
   <string name="online_music_enabled_title">Ilmainen suoratoisto on täällä</string>
   <string name="online_my">Minun</string>
@@ -794,7 +790,6 @@
   <string name="song_not_find">Tämä kappale ei ole käytettävissä.</string>
   <string name="song_offline">Anteeksi, tämä kappale ei ole enää käytettävissä.</string>
   <string name="song_unit">kappaletta</string>
-  <string name="sort_by_language">Kieli</string>
   <string name="sort_by_name">Nimi</string>
   <string name="sort_by_time">Päiväys</string>
   <string name="source_from">Lähde: %1$s</string>

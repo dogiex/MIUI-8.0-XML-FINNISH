@@ -73,15 +73,11 @@
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d kappaletta lähetetään</item>
-        <item quantity="one">1 kappale lähetetään</item>
+        <item quantity="one">%d kappale lähetetään</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">%d kappaletta</item>
-        <item quantity="one">1 kappale</item>
-    </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d kappaletta lisätty</item>
-        <item quantity="one">%d kappale lisätty</item>
+        <item quantity="one">%d kappale</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d kohdetta valittu</item>

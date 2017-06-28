@@ -113,6 +113,14 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="few">%1$d katselukertaa</item>
         <item quantity="many">%1$d katselukertaa</item>
     </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Löydettiin %d virusta ja ei-turvallista sovellusta</item>
+        <item quantity="one">Löydettiin yksi sovellus, jossa virus</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Löydettiin %d ei-virallista sovellusta</item>
+        <item quantity="one">Löydettiin yksi ei-virallinen sovellus</item>
+    </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">1 kohde</item>
