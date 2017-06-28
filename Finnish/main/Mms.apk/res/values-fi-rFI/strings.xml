@@ -365,7 +365,7 @@
   <string name="phrase_confirm_delete_message">Tämä vastaus poistetaan.</string>
   <string name="phrase_empty">Ei vastauksia</string>
   <string name="phrase_from">Lähettäjä %1s</string>
-  <string name="phrase_list_title">Nopeat vastaukset</string>
+  <string name="phrase_list_title">Pikavastaukset</string>
   <string name="pick_too_many_recipients">Liian monta vastaanottajaa</string>
   <string name="play">Toista</string>
   <string name="playing_failed">Ei voida toistaa</string>

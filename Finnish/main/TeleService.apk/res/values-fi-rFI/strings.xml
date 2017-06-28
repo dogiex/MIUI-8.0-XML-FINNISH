@@ -831,7 +831,7 @@ Yritä uudelleen tai pyydä lisäohjeita asiakaspalvelusta."</string>
   <string name="path_missed_call_notify_times_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Vastaamatta jääneiden puheluiden muistutus</string>
   <string name="path_preference_dial_pad_touch_tone_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Numeronvalinnan näppäinäänet</string>
   <string name="path_preference_telocation_title">Järjestelmäsovellukset/Puhelin/Sijainti</string>
-  <string name="path_reject_via_sms">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Nopeat vastaukset</string>
+  <string name="path_reject_via_sms">Järjestelmäsovellukset/Puhelin/Lisäasetukset/Pikavastaukset</string>
   <string name="path_sip_settings">Järjestelmäsovellukset/Puhelin/Lisäasetukset/SIP-asetukset</string>
   <string name="path_t9_indexing_method_title">Järjestelmäsovellukset/Puhelin/Lisäasetukset/T9 search input</string>
   <string name="path_telocation_auto_country_code">Järjestelmäsovellukset/Puhelin/Sijainti/Lisää maakoodi</string>
@@ -982,9 +982,9 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="registration_status_registering">Rekisteröidään…</string>
   <string name="registration_status_server_unreachable">Tilin rekisteröinti epäonnistui: tarkista palvelimen nimi.</string>
   <string name="registration_status_still_trying">Yritetään edelleen…</string>
-  <string name="reject_via_sms">Nopeat vastaukset</string>
+  <string name="reject_via_sms">Pikavastaukset</string>
   <string name="reject_via_sms_summary">Muokkaa nopeita vastauksia</string>
-  <string name="reject_via_sms_title">Nopeat vastaukset</string>
+  <string name="reject_via_sms_title">Pikavastaukset</string>
   <string name="remove">Poista</string>
   <string name="remove_sip_account">Poista tili</string>
   <string name="removing_account">Tiliä poistetaan…</string>
@@ -1009,7 +1009,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="respond_via_sms_edittext_dialog_title">Nopea vastaus</string>
   <string name="respond_via_sms_menu_reset_default_activity">Palauta oletukset</string>
   <string name="respond_via_sms_setting_summary">Muokkaa nopeita vastauksia</string>
-  <string name="respond_via_sms_setting_title">Nopeat vastaukset</string>
+  <string name="respond_via_sms_setting_title">Pikavastaukset</string>
   <string name="response_error">Odottamaton vastaus verkosta.</string>
   <string name="restaurants_disable">Ravintolat pois käytöstä</string>
   <string name="restaurants_enable">Ravintolat käytössä</string>
