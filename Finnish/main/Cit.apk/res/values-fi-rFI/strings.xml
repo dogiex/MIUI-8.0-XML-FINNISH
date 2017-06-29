@@ -160,9 +160,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
-  <string name="cit_audio_spk_cal_valueF0">F0:</string>
-  <string name="cit_audio_spk_cal_valueRe">Re:</string>
-  <string name="cit_audio_spk_cal_valueT">Temp:</string>
   <string name="cit_audio_spk_type">"Audio speaker vendor: "</string>
   <string name="cit_audio_spk_usetime">"Audio speaker use time: "</string>
   <string name="cit_aux_camera_action">Zoom</string>
@@ -692,13 +689,11 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="frr_far_test_finger">测试手指</string>
   <string name="frr_far_test_finished">测试完成</string>
   <string name="frr_filter">拒真率阈值设置(忽略图片质量、有效面积过低的拒真次数)</string>
-  <string name="frr_filter_value">过滤后拒真率：</string>
   <string name="frr_img_area_filter">面积小于：</string>
   <string name="frr_img_quality_filter">质量小于：</string>
   <string name="frr_not_living">非活体</string>
   <string name="frr_not_matched">不匹配</string>
   <string name="frr_total_count">FRTC(False Reject Total Count):</string>
-  <string name="frr_value">拒真率：</string>
   <string name="fw_cfg_reset">恢复默认固件和配置</string>
   <string name="fw_version">固件版本:</string>
   <string name="get_base_finger">Extract Image:get base finger</string>
@@ -1066,10 +1061,6 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="used">已使用</string>
   <string name="valid_area">有效面积:</string>
   <string name="valid_range">有效输入范围为：</string>
-  <string name="value_far_test_threshold_default">小于 0.002%</string>
-  <string name="value_frr_test_threshold_default">小于 %1</string>
-  <string name="value_test_strategy_far">使用除当前测试手指外所有录入手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配成功，则认为发生一次FAR（即认假）</string>
-  <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
   <string name="vendor_akerr">凯尔</string>
   <string name="vendor_ct">CT</string>
   <string name="vendor_holitech">合力泰</string>
