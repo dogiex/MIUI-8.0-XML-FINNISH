@@ -798,10 +798,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Abidjan</item>
         <item>Accra</item>
         <item>Addis Ababa</item>
-        <item>Algiers</item>
+        <item>Alger</item>
         <item>Blantyre</item>
         <item>Brazzaville</item>
-        <item>Cairo</item>
+        <item>Kairo</item>
         <item>Casablanca</item>
         <item>Conakry</item>
         <item>Dakar</item>
@@ -812,7 +812,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Harare</item>
         <item>Johannesburg</item>
         <item>Kampala</item>
-        <item>Khartoum</item>
+        <item>Khartum</item>
         <item>Kigali</item>
         <item>Kinshasa</item>
         <item>Lagos</item>
@@ -833,7 +833,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Buenos Aires</item>
         <item>Cancun</item>
         <item>Caracas</item>
-        <item>Cayman Islands</item>
+        <item>Caymansaaret</item>
         <item>Chicago</item>
         <item>Costa Rica</item>
         <item>Curaçao</item>
@@ -872,7 +872,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Nassau</item>
         <item>New York</item>
         <item>Beulah</item>
-        <item>New Salem</item>
+        <item>Uusi Salem</item>
         <item>Panama</item>
         <item>Phoenix</item>
         <item>Port of Spain</item>
@@ -888,19 +888,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Toronto</item>
         <item>Vancouver</item>
         <item>Winnipeg</item>
-        <item>South Pole</item>
+        <item>Etälänapa</item>
         <item>Longyearbyen</item>
         <item>Almaty</item>
         <item>Amman</item>
         <item>Anadyr</item>
         <item>Aqtau</item>
-        <item>Baghdad</item>
+        <item>Bagdad</item>
         <item>Bahrain</item>
         <item>Baku</item>
         <item>Bangkok</item>
         <item>Beirut</item>
-        <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Kalkutta</item>
+        <item>Damaskos</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
@@ -914,87 +914,87 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Kathmandu</item>
         <item>Kuala Lumpur</item>
         <item>Kuwait</item>
-        <item>Macau</item>
+        <item>Macao</item>
         <item>Manila</item>
         <item>Muscat</item>
         <item>Phnom Penh</item>
-        <item>Pyongyang</item>
+        <item>Pjongjang</item>
         <item>Qatar</item>
         <item>Rangoon</item>
-        <item>Riyadh</item>
-        <item>Seoul</item>
+        <item>Riad</item>
+        <item>Soul</item>
         <item>Shanghai</item>
         <item>Singapore</item>
         <item>Taipei</item>
-        <item>Tehran</item>
+        <item>Teheran</item>
         <item>Tel Aviv</item>
-        <item>Tokyo</item>
+        <item>Tokio</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary Islands</item>
-        <item>Cape Verde</item>
+        <item>Kanarian saaret</item>
+        <item>Kap Verde</item>
         <item>Reykjavik</item>
         <item>Adelaide</item>
         <item>Brisbane</item>
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Uusi Etelä-Wales</item>
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
         <item>Victoria</item>
         <item>Newfoundland</item>
         <item>Saskatchewan</item>
-        <item>Easter Island</item>
+        <item>Pääsiäissaari</item>
         <item>Amsterdam</item>
         <item>Andorra</item>
-        <item>Athens</item>
+        <item>Ateena</item>
         <item>Belfast</item>
         <item>Belgrade</item>
-        <item>Berlin</item>
+        <item>Berliini</item>
         <item>Bratislava</item>
-        <item>Brussels</item>
-        <item>Bucharest</item>
+        <item>Bryssel</item>
+        <item>Bukarest</item>
         <item>Budapest</item>
         <item>Chisinau</item>
-        <item>Copenhagen</item>
+        <item>Kööpenhamina</item>
         <item>Dublin</item>
         <item>Gibraltar</item>
         <item>Helsinki</item>
-        <item>Isle of Man</item>
+        <item>Mansaari</item>
         <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
-        <item>Luxembourg</item>
+        <item>Lissabon</item>
+        <item>Lontoo</item>
+        <item>Luxemburg</item>
         <item>Madrid</item>
         <item>Malta</item>
         <item>Minsk</item>
         <item>Monaco</item>
-        <item>Moscow</item>
+        <item>Moskova</item>
         <item>Oslo</item>
-        <item>Paris</item>
-        <item>Prague</item>
-        <item>Riga</item>
-        <item>Rome</item>
+        <item>Pariisi</item>
+        <item>Praha</item>
+        <item>Riika</item>
+        <item>Rooma</item>
         <item>San Marino</item>
         <item>Sarajevo</item>
         <item>Simferopol</item>
         <item>Skopje</item>
         <item>Sofia</item>
-        <item>Stockholm</item>
-        <item>Tallinn</item>
-        <item>Vatican City</item>
-        <item>Vienna</item>
-        <item>Vilnius</item>
-        <item>Warsaw</item>
+        <item>Tukholma</item>
+        <item>Tallinna</item>
+        <item>Vatikaanivaltio</item>
+        <item>Wien</item>
+        <item>Vilna</item>
+        <item>Varsova</item>
         <item>Zagreb</item>
         <item>Zurich</item>
         <item>Antananarivo</item>
-        <item>Maldives</item>
+        <item>Malediivit</item>
         <item>Mauritius</item>
         <item>Auckland</item>
-        <item>Fiji</item>
+        <item>Fidži</item>
         <item>Guam</item>
         <item>Honolulu</item>
         <item>Kiritimati</item>
@@ -1041,21 +1041,21 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Mountain View</item>
         <item>Reno</item>
         <item>Doha</item>
-        <item>Beijing</item>
+        <item>Peking</item>
         <item>Mumbai</item>
         <item>Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
-        <item>"Sana'a"</item>
+        <item>Sanaa</item>
         <item>Barcelona</item>
         <item>Munich</item>
-        <item>Milan</item>
+        <item>Milano</item>
         <item>Frankfurt</item>
         <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
-        <item>Brasília</item>
-        <item>Cape Town</item>
+        <item>Brasilia</item>
+        <item>Kapkaupunki</item>
         <item>Islamabad</item>
         <item>Rio de Janeiro</item>
         <item>Ann Arbor</item>
@@ -1073,308 +1073,17 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Chihuahua</item>
         <item>Gurgaon</item>
         <item>Manchester</item>
-        <item>Kyiv</item>
-        <item>St. Petersburg</item>
-        <item>Kraków</item>
+        <item>Kiova</item>
+        <item>Pietari</item>
+        <item>Krakova</item>
         <item>Wroclaw</item>
-        <item>Hamburg</item>
+        <item>Hampuri</item>
         <item>Oulu</item>
         <item>Haifa</item>
         <item>San Juan</item>
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-    </string-array>
-    <string-array name="city_timezone">
-        <item>Afrikka/Abidjan</item>
-        <item>Afrikka/Accra</item>
-        <item>Afrikka/Addis_Ababa</item>
-        <item>Afrikka/Algiers</item>
-        <item>Afrikka/Blantyre</item>
-        <item>Afrikka/Brazzaville</item>
-        <item>Afrikka/Cairo</item>
-        <item>Afrikka/Casablanca</item>
-        <item>Afrikka/Conakry</item>
-        <item>Afrikka/Dakar</item>
-        <item>Afrikka/Dar_es_Salaam</item>
-        <item>Afrikka/Djibouti</item>
-        <item>Afrikka/Freetown</item>
-        <item>Afrikka/Gaborone</item>
-        <item>Afrikka/Harare</item>
-        <item>Afrikka/Johannesburg</item>
-        <item>Afrikka/Kampala</item>
-        <item>Afrikka/Khartoum</item>
-        <item>Afrikka/Kigali</item>
-        <item>Afrikka/Kinshasa</item>
-        <item>Afrikka/Lagos</item>
-        <item>Afrikka/Maseru</item>
-        <item>Afrikka/Mogadishu</item>
-        <item>Afrikka/Nairobi</item>
-        <item>Afrikka/Sao_Tome</item>
-        <item>Afrikka/Timbuktu</item>
-        <item>Afrikka/Tripoli</item>
-        <item>Afrikka/Tunis</item>
-        <item>Amerikka/Anchorage</item>
-        <item>Amerikka/Argentina/Mendoza</item>
-        <item>Amerikka/Aruba</item>
-        <item>Amerikka/Asuncion</item>
-        <item>Amerikka/Barbados</item>
-        <item>Amerikka/Belize</item>
-        <item>Amerikka/Bogota</item>
-        <item>Amerikka/Buenos_Aires</item>
-        <item>Amerikka/Cancun</item>
-        <item>Amerikka/Caracas</item>
-        <item>Amerikka/Cayman</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/Costa_Rica</item>
-        <item>Amerikka/Curacao</item>
-        <item>Amerikka/Dawson_Creek</item>
-        <item>Amerikka/Denver</item>
-        <item>Amerikka/Detroit</item>
-        <item>Amerikka/Dominica</item>
-        <item>Amerikka/Edmonton</item>
-        <item>Amerikka/El_Salvador</item>
-        <item>Amerikka/Fortaleza</item>
-        <item>Amerikka/Grand_Turk</item>
-        <item>Amerikka/Grenada</item>
-        <item>Amerikka/Guatemala</item>
-        <item>Amerikka/Guyana</item>
-        <item>Amerikka/Halifax</item>
-        <item>Amerikka/Havana</item>
-        <item>Amerikka/Indiana/Indianapolis</item>
-        <item>Amerikka/Indiana/Knox</item>
-        <item>Amerikka/Indiana/Petersburg</item>
-        <item>Amerikka/Indiana/Tell_City</item>
-        <item>Amerikka/Indiana/Vevay</item>
-        <item>Amerikka/Indiana/Vincennes</item>
-        <item>Amerikka/Indiana/Winamac</item>
-        <item>Amerikka/Jamaica</item>
-        <item>Amerikka/La_Paz</item>
-        <item>Amerikka/Lima</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Louisville</item>
-        <item>Amerikka/Managua</item>
-        <item>Amerikka/Martinique</item>
-        <item>Amerikka/Metlakatla</item>
-        <item>Amerikka/Mexico_City</item>
-        <item>Amerikka/Monterrey</item>
-        <item>Amerikka/Montevideo</item>
-        <item>Amerikka/Montreal</item>
-        <item>Amerikka/Nassau</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/North_Dakota/Beulah</item>
-        <item>Amerikka/North_Dakota/New_Salem</item>
-        <item>Amerikka/Panama</item>
-        <item>Amerikka/Phoenix</item>
-        <item>Amerikka/Port_of_Spain</item>
-        <item>Amerikka/Port-au-Prince</item>
-        <item>Amerikka/Puerto_Rico</item>
-        <item>Amerikka/Santo_Domingo</item>
-        <item>Amerikka/Sao_Paulo</item>
-        <item>Amerikka/St_Johns</item>
-        <item>Amerikka/St_Kitts</item>
-        <item>Amerikka/St_Lucia</item>
-        <item>Amerikka/St_Thomas</item>
-        <item>Amerikka/Tijuana</item>
-        <item>Amerikka/Toronto</item>
-        <item>Amerikka/Vancouver</item>
-        <item>Amerikka/Winnipeg</item>
-        <item>Antarktis/South_Pole</item>
-        <item>Arktinen/Longyearbyen</item>
-        <item>Aasia/Almaty</item>
-        <item>Aasia/Amman</item>
-        <item>Aasia/Anadyr</item>
-        <item>Aasia/Aqtau</item>
-        <item>Aasia/Baghdad</item>
-        <item>Aasia/Bahrain</item>
-        <item>Aasia/Baku</item>
-        <item>Aasia/Bangkok</item>
-        <item>Aasia/Beirut</item>
-        <item>Aasia/Calcutta</item>
-        <item>Aasia/Damascus</item>
-        <item>Aasia/Dhaka</item>
-        <item>Aasia/Dubai</item>
-        <item>Aasia/Gaza</item>
-        <item>Aasia/Hebron</item>
-        <item>Aasia/Ho_Chi_Minh</item>
-        <item>Aasia/Hong_Kong</item>
-        <item>Aasia/Jakarta</item>
-        <item>Aasia/Jerusalem</item>
-        <item>Aasia/Kabul</item>
-        <item>Aasia/Karachi</item>
-        <item>Aasia/Kathmandu</item>
-        <item>Aasia/Kuala_Lumpur</item>
-        <item>Aasia/Kuwait</item>
-        <item>Aasia/Macau</item>
-        <item>Aasia/Manila</item>
-        <item>Aasia/Muscat</item>
-        <item>Aasia/Phnom_Penh</item>
-        <item>Aasia/Pyongyang</item>
-        <item>Aasia/Qatar</item>
-        <item>Aasia/Rangoon</item>
-        <item>Aasia/Riyadh</item>
-        <item>Aasia/Seoul</item>
-        <item>Aasia/Shanghai</item>
-        <item>Aasia/Singapore</item>
-        <item>Aasia/Taipei</item>
-        <item>Aasia/Tehran</item>
-        <item>Aasia/Tel_Aviv</item>
-        <item>Aasia/Tokyo</item>
-        <item>Aasia/Ulaanbaatar</item>
-        <item>Atlantti/Bermuda</item>
-        <item>Atlantti/Canary</item>
-        <item>Atlantti/Cape_Verde</item>
-        <item>Atlantti/Reykjavik</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Canberra</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Melbourne</item>
-        <item>Australia/NSW</item>
-        <item>Australia/Perth</item>
-        <item>Australia/Queensland</item>
-        <item>Australia/Sydney</item>
-        <item>Australia/Victoria</item>
-        <item>Kanada/Newfoundland</item>
-        <item>Kanada/Saskatchewan</item>
-        <item>Chile/EasterIsland</item>
-        <item>Eurooppa/Amsterdam</item>
-        <item>Eurooppa/Andorra</item>
-        <item>Eurooppa/Athens</item>
-        <item>Eurooppa/Belfast</item>
-        <item>Eurooppa/Belgrade</item>
-        <item>Eurooppa/Berlin</item>
-        <item>Eurooppa/Bratislava</item>
-        <item>Eurooppa/Brussels</item>
-        <item>Eurooppa/Bucharest</item>
-        <item>Eurooppa/Budapest</item>
-        <item>Eurooppa/Chisinau</item>
-        <item>Eurooppa/Copenhagen</item>
-        <item>Eurooppa/Dublin</item>
-        <item>Eurooppa/Gibraltar</item>
-        <item>Eurooppa/Helsinki</item>
-        <item>Eurooppa/Isle_of_Man</item>
-        <item>Eurooppa/Istanbul</item>
-        <item>Eurooppa/Lisbon</item>
-        <item>Eurooppa/London</item>
-        <item>Eurooppa/Luxembourg</item>
-        <item>Eurooppa/Madrid</item>
-        <item>Eurooppa/Malta</item>
-        <item>Eurooppa/Minsk</item>
-        <item>Eurooppa/Monaco</item>
-        <item>Eurooppa/Moscow</item>
-        <item>Eurooppa/Oslo</item>
-        <item>Eurooppa/Paris</item>
-        <item>Eurooppa/Prague</item>
-        <item>Eurooppa/Riga</item>
-        <item>Eurooppa/Rome</item>
-        <item>Eurooppa/San_Marino</item>
-        <item>Eurooppa/Sarajevo</item>
-        <item>Eurooppa/Simferopol</item>
-        <item>Eurooppa/Skopje</item>
-        <item>Eurooppa/Sofia</item>
-        <item>Eurooppa/Stockholm</item>
-        <item>Eurooppa/Tallinn</item>
-        <item>Eurooppa/Vatican</item>
-        <item>Eurooppa/Vienna</item>
-        <item>Eurooppa/Vilnius</item>
-        <item>Eurooppa/Warsaw</item>
-        <item>Eurooppa/Zagreb</item>
-        <item>Eurooppa/Zurich</item>
-        <item>Intian/Antananarivo</item>
-        <item>Intian/Maldives</item>
-        <item>Intian/Mauritius</item>
-        <item>Tyynenmeren/Auckland</item>
-        <item>Tyynenmeren/Fiji</item>
-        <item>Tyynenmeren/Guam</item>
-        <item>Tyynenmeren/Honolulu</item>
-        <item>Tyynenmeren/Kiritimati</item>
-        <item>Tyynenmeren/Noumea</item>
-        <item>Tyynenmeren/Samoa</item>
-        <item>Tyynenmeren/Tahiti</item>
-        <item>Amerikka/Antigua</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Denver</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Denver</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Denver</item>
-        <item>MST</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Chicago</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Aasia/Riyadh</item>
-        <item>Aasia/Shanghai</item>
-        <item>Aasia/Kolkata</item>
-        <item>Aasia/Kolkata</item>
-        <item>Aasia/Tokyo</item>
-        <item>Aasia/Karachi</item>
-        <item>Aasia/Riyadh</item>
-        <item>Eurooppa/Madrid</item>
-        <item>Eurooppa/Berlin</item>
-        <item>Eurooppa/Rome</item>
-        <item>Eurooppa/Berlin</item>
-        <item>Aasia/Bangkok</item>
-        <item>Eurooppa/Istanbul</item>
-        <item>Aasia/Kolkata</item>
-        <item>Amerikka/Sao_Paulo</item>
-        <item>Afrikka/Johannesburg</item>
-        <item>Aasia/Karachi</item>
-        <item>Amerikka/Sao_Paulo</item>
-        <item>Amerikka/Detroit</item>
-        <item>Amerikka/Denver</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Los_Angeles</item>
-        <item>Amerikka/Chicago</item>
-        <item>Aasia/Shanghai</item>
-        <item>Aasia/Kolkata</item>
-        <item>Amerikka/New_York</item>
-        <item>Amerikka/Sao_Paulo</item>
-        <item>Amerikka/Santiago</item>
-        <item>Afrikka/Monrovia</item>
-        <item>Aasia/Colombo</item>
-        <item>Amerikka/Chihuahua</item>
-        <item>Aasia/Kolkata</item>
-        <item>Eurooppa/London</item>
-        <item>Eurooppa/Bucharest</item>
-        <item>Eurooppa/Moscow</item>
-        <item>Eurooppa/Warsaw</item>
-        <item>Eurooppa/Warsaw</item>
-        <item>Eurooppa/Berlin</item>
-        <item>Eurooppa/Bucharest</item>
-        <item>Aasia/Jerusalem</item>
-        <item>Amerikka/Puerto Rico</item>
-        <item>Amerikka/Tegucigalpa</item>
-        <item>Amerikka/Paramaribo</item>
-        <item>Amerikka/Panama</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Joka päivä</item>
