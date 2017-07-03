@@ -87,7 +87,7 @@
   <string name="fourgrid_hint_text">Kiitos, kun käytät MIUI:n kehittäjäversiota! Kerro meille, mitä pidät ja auta meitä tekemään MIUI:sta parempi.</string>
   <string name="fourgrid_no_notificaiont">Älä näytä tilapalkissa</string>
   <string name="fourgrid_notificaiont">Näytä tilapalkissa</string>
-  <string name="get_auto">Käytä mobiiliverkkoa tai Wi-Fiä</string>
+  <string name="get_auto">Käytä mobiiliverkkoa tai Wi-Fi:ä</string>
   <string name="get_current">Hae nykyinen</string>
   <string name="get_update_error">Päivitystietoa ei voi noutaa</string>
   <string name="go_on_download">Lataa</string>
@@ -171,7 +171,7 @@
   <string name="previous">Edellinen</string>
   <string name="progress_title_checking">Tarkistetaan päivityksiä…</string>
   <string name="provision_activate_device">Aktivoidaan laitetta…</string>
-  <string name="provision_check_sim">Havaitse SIM-kortti</string>
+  <string name="provision_check_sim">Tarkista SIM-kortti</string>
   <string name="provision_connect_wifi">Yhdistä Wi-Fi-verkkoon</string>
   <string name="provision_have_sim">SIM-kortti asetettu</string>
   <string name="provision_no_network_extra">Yhdistä Wi-Fi-verkkoon tai aseta SIM-korttisi ja käytä mobiilidataa aktivoidaksesi laitteesi. Et voi aktivoida laitettasi ilman verkkoon yhdistämistä.</string>
@@ -204,7 +204,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_network_msg">Yhdistä Wi-Fi-verkkoon ladataksesi päivityksen.</string>
   <string name="set_network_root_msg">Saadaksesi root käyttöoikeuden, yhdistä Wi-Fi-verkkoon.</string>
   <string name="set_network_title">Yhdistä Wi-Fi-verkkoon</string>
-  <string name="set_only_wifi">Käytä vain Wi-Fiä</string>
+  <string name="set_only_wifi">Käytä vain Wi-Fi:ä</string>
   <string name="share">Jaa</string>
   <string name="share_qq">Julkaise kohteessa Tencent Weibo</string>
   <string name="share_sina">Julkaise kohteessa Sina Weibo</string>
