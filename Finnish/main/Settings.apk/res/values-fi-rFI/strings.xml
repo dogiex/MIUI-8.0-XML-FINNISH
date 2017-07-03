@@ -2718,10 +2718,13 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="priority_storage_settings_summary">Jos SD-korttia ei tunnisteta, tiedostosi tallennetaan laitteesi sisäiseen tallennustilaan automaattisesti.</string>
   <string name="priority_storage_summary">Valitse minne tiedostot tallennetaan</string>
   <string name="priority_storage_title">Tallennustilan asetukset</string>
+  <string name="privacy_close_dlg_button_ok">Poista käytöstä</string>
+  <string name="privacy_close_dlg_msg">Kun Yksityisyydensuojan salasana ei ole käytössä, käyttämäsi kohteet ei ole enää suojattuna.</string>
+  <string name="privacy_close_dlg_title">Huomio</string>
   <string name="privacy_delete_space_dlg_message">Vaihtaaksesi Toisen tilan salasanasi, sinun pitää poistaa nykyinen Toinen tila ja luoda uusi.</string>
   <string name="privacy_dlg_button_cancel">Peruuta</string>
-  <string name="privacy_factory_reset_dlg_button_text">Varmuuskopioi tiedot</string>
-  <string name="privacy_factory_reset_dlg_message">Varmuuskopioi tietosi paikallisesti ja suorita sen jälkeen tehdasasetusten palautus. Sen jälkeen voit vaihtaa salasanasi.</string>
+  <string name="privacy_factory_reset_dlg_button_text">Palauta</string>
+  <string name="privacy_factory_reset_dlg_message">Jos unohdat salasanasi, sinun täytyy suorittaa tehdasasetusten palauttaminen asettaaksesi uuden salasanan.</string>
   <string name="privacy_factory_reset_dlg_title">Varmuuskopioi tietosi</string>
   <string name="privacy_childmode">Lapsi-tila</string>
   <string name="privacy_file">Tiedostot</string>
@@ -2759,6 +2762,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="privacy_password_settings_titles_elder_mode">Yksityisyydensuojan salasana suojaa sinun kuvat, tiedostot ja muistiinpanot.</string>
   <string name="privacy_password_settings_titles_second_space">Yksityisyydensuojan salasana suojaa sinun viestit, kuvat, tiedostot, muistiinpanot ja sovellukset.</string>
   <string name="privacy_password_title">Yksityisyydensuojan salasana</string>
+  <string name="privacy_password_toggle_summary">Vaadi salasanaa jokaisella kerralla, kun yksityisiä kohteita käytetään.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">Voit myös käyttää sormenjälkeäsi Yksityisyydensuojan salasanana.</string>
   <string name="privacy_password_use_finger_dialog_open">Asetukset</string>

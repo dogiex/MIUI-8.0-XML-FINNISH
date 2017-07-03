@@ -72,6 +72,7 @@
   <string name="legal_workday_invalidate_message">(Tieto vanhentunut. Päivitä Asetuksissa)</string>
   <string name="legal_workday_message">" (Herätys on pois käytöstä pyhäpäivinä)"</string>
   <string name="life_post_setting">Aamuraportti</string>
+  <string name="life_post_setting_FBE_remind">Järjestelmärajoituksen vuoksi aamuraportin säätiedot eivät ehkä näy oikein uudelleenkäynnistyksen jälkeen</string>
   <string name="life_post_setting_open_subtitle">Vastaanota säätiedot herätyksen sulkemisen jälkeen jos kello on välillä 04:00-09:30</string>
   <string name="life_post_setting_open_title">Vastaanota aamuraportteja</string>
   <string name="life_post_setting_wake_up_list_title">Heräämisen historia</string>

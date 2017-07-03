@@ -79,6 +79,7 @@
   <string name="album_videos_name">Videot</string>
   <string name="alert_secret_album_enter">Selvä</string>
   <string name="alert_secret_album_message">Pyyhkäise alaspäin Albumit-välilehdellä nähdäksesi piilotetun albumin.</string>
+  <string name="alert_secret_album_message_lower_case"> pyyhkäise alaspäin Albumit-välilehdellä nähdäksesi piilotetun albumin.</string>
   <string name="alert_secret_album_title">Kuinka näät piilotetun albumin</string>
   <string name="all_faces">Kuvat, joissa on tämä henkilö</string>
   <string name="all_items_synced">Kaikki albumit on varmuuskopioitu Mi Pilveen</string>
@@ -157,6 +158,9 @@
   <string name="backup_pause_title">Varmuuskopioi %s kuluttua</string>
   <string name="backup_pending">Varmuuskopioidaan automaattisesti</string>
   <string name="backup_stop">Lopeta varmuuskopiointi</string>
+  <string name="backup_sync_dialog_confirm">Ota käyttöön</string>
+  <string name="backup_sync_dialog_tips">Ota Mi Pilven synkronointi käyttöön vaihtaaksesi varmuuskopioinnin asetuksia.</string>
+  <string name="backup_sync_dialog_title">Synkronointi on pois päältä</string>
   <string name="backup_sync_error_btn_text">Yritä uudelleen</string>
   <string name="backup_sync_error_desc">Mi Pilveen ei saada yhteyttä</string>
   <string name="backup_sync_error_title">Kohteita ei voitu synkronoida</string>
@@ -601,7 +605,6 @@
   <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
   <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Hetket</string>
   <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
-  <string name="comma_separator">,</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Aloittaaksesi katselun, lopeta ensin tämän videon lataaminen. Lataus jatkuu, kun Wi-Fi on käytettävissä.</string>
   <string name="confirm_download_video_title">Lataa video</string>
@@ -717,7 +720,7 @@
   <string name="exit">Poistu</string>
   <string name="exit_share">Poistu albumista</string>
   <string name="exit_share_failed">Poistuminen epäonnistui %1$s</string>
-  <string name="exit_share_in_process">Poistutaan…</string>
+  <string name="exit_share_in_process">Poistutaan albumista \"%s\"…</string>
   <string name="exit_share_successfully">Poistuttiin %1$s</string>
   <string name="exit_video_play">Poistu</string>
   <string name="expand_people">Näytä lisää henkilöitä</string>

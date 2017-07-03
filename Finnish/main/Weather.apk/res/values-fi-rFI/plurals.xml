@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s Päivän ennustus</item>
+        <item quantity="one">%1$s Päivän ennustus</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">minuutti sitten</item>
@@ -15,5 +19,9 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">Selkeä</item>
         <item quantity="one">Selkeä</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s sekuntia palautteen jälkeen</item>
+        <item quantity="one">%1$s sekuntia palautteen jälkeen</item>
     </plurals>
 </resources>

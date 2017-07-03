@@ -80,7 +80,6 @@
   <string name="common_loading_text">Odota hetki…</string>
   <string name="connect_fail">Verkkoyhteys on epänormaali. Yritä myöhemmin uudelleen.</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
-  <string name="daily_forcast_drawer_on_top">%1$s päivän ennustus</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -104,7 +103,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="feedback_light_rain">Kevyt sade</string>
   <string name="feedback_overcast">Pilvinen</string>
   <string name="feedback_result_fail_no_choice">Valitse nykyinen sääolosuhde</string>
-  <string name="feedback_result_interval_time_too_short">%1$s sekuntia palautteen jälkeen</string>
   <string name="feedback_result_success">Lähetettiin onnistuneesti, kiitos palautteestasi.</string>
   <string name="feedback_sand">Hiekkaa</string>
   <string name="feedback_sunny">Aurinkoinen</string>

@@ -34,12 +34,8 @@
         <item quantity="other">%1$d henkilöä ladannut</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d näyttökertaa</item>
-        <item quantity="zero">%1$d näyttökertaa</item>
-        <item quantity="one">%1$d näyttökertaa</item>
-        <item quantity="two">%1$d näyttökertaa</item>
-        <item quantity="few">%1$d näyttökertaa</item>
-        <item quantity="many">%1$d näyttökertaa</item>
+        <item quantity="other">%1$s näyttökertaa</item>
+        <item quantity="one">%1$s näyttökertaa</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d ryhmää</item>
