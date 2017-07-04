@@ -58,13 +58,16 @@
   <string name="can_not_call_oneself">Tähän numeroon ei voi soittaa</string>
   <string name="can_not_use">Ei voi käyttää</string>
   <string name="cancel">Peruuta</string>
+  <string name="card_title_answering">Vastataan puheluun</string>
+  <string name="card_title_answering_fail">Puheluun ei voitu vastata, yritä uudelleen.</string>
   <string name="card_title_call_ended">"Puhelu päättyi "</string>
   <string name="card_title_conf_call">Konferenssipuhelu</string>
   <string name="card_title_dialing">Soitetaan</string>
   <string name="card_title_hanging_up">"Katkaistaan "</string>
+  <string name="card_title_hanging_up_fail">Puhelua ei voitu katkaista, yritä uudelleen.</string>
   <string name="card_title_hanging_up_restart">Puhelua ei voi katkaista. Käynnistä laitteesi uudelleen.</string>
   <string name="card_title_hanging_up_weak_signal">Heikko matkapuhelinverkon signaali. Katkaistaan puhelu</string>
-  <string name="card_title_in_call">Puhelun aikana</string>
+  <string name="card_title_in_call">Puhelussa</string>
   <string name="card_title_in_call_short">Puhelu</string>
   <string name="card_title_in_video">Video </string>
   <string name="card_title_incoming_call">Uusi puhelu</string>
