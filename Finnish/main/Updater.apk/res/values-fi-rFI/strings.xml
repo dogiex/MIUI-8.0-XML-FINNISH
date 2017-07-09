@@ -171,7 +171,7 @@
   <string name="previous">Edellinen</string>
   <string name="progress_title_checking">Tarkistetaan päivityksiä…</string>
   <string name="provision_activate_device">Aktivoidaan laitetta…</string>
-  <string name="provision_check_sim">Tarkista SIM-kortti</string>
+  <string name="provision_check_sim">Havaitse SIM-kortti</string>
   <string name="provision_connect_wifi">Yhdistä Wi-Fi-verkkoon</string>
   <string name="provision_have_sim">SIM-kortti asetettu</string>
   <string name="provision_no_network_extra">Yhdistä Wi-Fi-verkkoon tai aseta SIM-korttisi ja käytä mobiilidataa aktivoidaksesi laitteesi. Et voi aktivoida laitettasi ilman verkkoon yhdistämistä.</string>
