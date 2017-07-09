@@ -86,10 +86,6 @@
   <string name="confirm_unbind">Katkaistaanko yhteys tähän tiliin?</string>
   <string name="confirm_unbundled_phone_dialog_message">Puhelinnumero %1$s on liitetty Mi Tilin %2$s kanssa. Se ei ole enää liitettynä Mi Tilin %3$s kanssa jos jatkat. Jatketaanko?</string>
   <string name="continue_action">Jatka</string>
-  <string name="cta_declaration_agree_and_continue">Hyväksy</string>
-  <string name="cta_declaration_exit">Poistu</string>
-  <string name="cta_declaration_message">Kirjautuaksesi Mi Tilillesi, sinun täytyy olla yhteydessä internettiin. Sijaintipalvelut ja synkronointi Mi Pilven kanssa otetaan käyttöön. Varmuuskopioidaksesi tiedostoja, tämä sovellus tarvitsee pääsyn yhteystietoihisi, viesteihisi, puheluhistoriaasi ja nauhoituksiisi. Emme käytä tietoja markkinointitarkoituksiin emmekä jaa niitä kolmansille osapuolille. Mi tilille kirjautumisen jälkeen Mi VIP ja Mi palvelut yhdistävät internettiin.</string>
-  <string name="cta_declaration_title">Käyttöehdot</string>
   <string name="current_location_title">Nykyinen sijainti</string>
   <string name="delete_action">Poista</string>
   <string name="delete_app">Poista sovellus</string>

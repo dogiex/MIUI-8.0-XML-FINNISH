@@ -385,6 +385,7 @@
   <string name="pref_other_title">Lisäasetukset</string>
   <string name="pref_show_blocked_messages_summary">Näytä estetyt tekstiviestit keskustelulistalla</string>
   <string name="pref_show_list_avatar_summary">Näytä profiilikuvat ja muut tiedot luettelonäkymässä</string>
+  <string name="pref_show_photo_word_summary">Aseta kuva automaattisesti yhteystiedoille, jossa ei ole vielä kuvaa</string>
   <string name="pref_show_sms_template_entry_summary">Tunnista kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_in_summary">Tunnista automaattisesti kertakäyttösalasanat tekstiviesteistä</string>
   <string name="pref_show_sms_template_summary">Kopioi ja täyty automaattisesti vahvistuskoodit</string>
@@ -603,6 +604,7 @@
   <string name="title_hide_verification_code">Piilota salasanaviestit lukitusnäytöltä automaattisesti</string>
   <string name="title_show_blocked_messages">Näytä estetyt tekstiviestit</string>
   <string name="title_show_list_avatar">Näytä profiilikuvat</string>
+  <string name="title_show_photo_word">Aseta yhteystiedoille kuvat</string>
   <string name="title_show_sms_template">Tarkista tekstiviesti vahvistuskoodeista</string>
   <string name="title_show_sms_template_in">Tarkista tekstiviesti salasanoista</string>
   <string name="title_timed_message_dialog">Aseta ajastettu viesti</string>

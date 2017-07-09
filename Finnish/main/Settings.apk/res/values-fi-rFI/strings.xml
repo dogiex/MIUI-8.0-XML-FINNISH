@@ -844,7 +844,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="clear_failed_dlg_title">Tyhjennä tiedot</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
   <string name="close_gesture">Sulje käyttäen elettä</string>
-  <string name="close_install_and_connect">Ei kiitos</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
@@ -903,7 +902,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="confirm_erase">Poista</string>
   <string name="confirm_fingerprint_icon_content_description">Jatka sormenjäljen avulla.</string>
   <string name="confirm_fingerprint_msg">Aseta sormesi tunnistimelle</string>
-  <string name="confirm_install_and_connect">Asenna &amp; yhdistä</string>
   <string name="confirm_new_backup_pw_prompt">Anna varmuuskopioinnin uusi salasana uudelleen</string>
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
@@ -1220,8 +1218,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disable_service_message">Kosketa OK, niin %1$s poistetaan käytöstä.</string>
   <string name="disable_service_title">Pysäytetäänkö %1$s?</string>
   <string name="disable_text">Poista käytöstä</string>
-  <string name="disable_wifi_master_key_service">Poista käytöstä</string>
-  <string name="disable_wifi_master_key_service_first">Poista käytöstä</string>
   <string name="disabled">Ei käytössä</string>
   <string name="disabled_because_no_backup_security">Käytä asettamalla ensin näytön lukitus</string>
   <string name="disconnect">katkaise yhteys</string>
@@ -1372,8 +1368,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="enable_webview_multiprocess">Multiprosessinen WebView</string>
   <string name="enable_webview_multiprocess_desc">Suorita WebView renderöijät erikseen</string>
   <string name="enable_wifi_display">Langaton näyttö</string>
-  <string name="enable_wifi_master_key_service">Ota Wi-Fi Master Key käyttöön</string>
-  <string name="enable_wifi_master_key_service_first">Ota käyttöön</string>
   <string name="enalbe_identify_iPhone">Tukiaseman tunnistus</string>
   <string name="encrypt_dont_require_password">Ei kiitos</string>
   <string name="encrypt_dont_require_pattern">Ei kiitos</string>
@@ -1719,7 +1713,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="install_all_warning">Puhelimesi ja henkilötiedot ovat alttiimpia tuntemattomista lähteistä tulevien sovelluksien kautta tapahtuville hyökkäyksille. Hyväksyt, että olet itse vastuussa mahdollisista puhelimelle aiheutuvista vahingoista tai tietojen menetyksestä, joka voi johtua näiden sovelluksien käytöstä.</string>
   <string name="install_applications">Tuntemattomat lähteet</string>
   <string name="install_applications_title">Salli kaikki lähteet</string>
-  <string name="install_master_key_and_connect">Voit yhdistää tähän verkkoon käyttämällä Wi-Fi Master Key:tä. Asennetaanko tämä työkalu?</string>
   <string name="install_no_market_app_summary">Salli tuntemattomista lähteistä tulevien sovelluksien asentaminen.</string>
   <string name="install_no_market_app_title">Tuntemattomat lähteet</string>
   <string name="install_preinstall_app">Ladataan sovelluksia…</string>
@@ -3475,8 +3468,6 @@ Näytön kiinnityksen käyttö:
   <string name="show_touches">Näytä kosketukset</string>
   <string name="show_touches_summary">Näytä kosketukset visuaalisesti</string>
   <string name="show_user_info_on_lockscreen_label">Näytä käyttäjän tiedot Lukitusnäytöllä</string>
-  <string name="show_wifi_master_key_summary">Yhdistä jaettuihin Wi-Fi-verkkoihin käyttämällä Wi-Fi Master Key:tä</string>
-  <string name="show_wifi_master_key_title">Havaitse jaetut Wi-Fi-verkot</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">Etsi-laite toiminnon sammuttaminen epäonnistui. Varmista, että sinulla on internet-yhteys.</string>
   <string name="shut_down_find_device_network_failure_title">Verkkoon yhdistäminen epäonnistui</string>
@@ -4010,7 +4001,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="uninstall_protected_dlg_msg">Järjestelmäsovelluksien poistaminen saattaa estää joitakin MIUI:n osia toimimasta oikein. Poistetaanko siitä huolimatta?</string>
   <string name="uninstall_protected_dlg_title">Järjestelmäsovelluksien poistaminen</string>
   <string name="uninstall_text">Poista</string>
-  <string name="uninstall_wifi_master_key">Poista Wi-Fi Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Vastaavat kloonatut sovellukset poistetaan sovellustietojen mukana.</string>
   <string name="uninstall_xspace_app_dlg_msg">Kloonatun sovelluksen poistaminen poistaa myös kaikki sovellustiedot.</string>
   <string name="uninstall_xspace_app_dlg_title">Poistetaanko kloonattu sovellus?</string>
@@ -4138,7 +4128,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
   <string name="use_this_wlan">Käytä tätä Wi-Fi-yhteyttä</string>
-  <string name="use_wifi_master_key_summary">Yhdistä käyttämällä Wi-Fi Master Key:tä</string>
   <string name="user_account_title">Käytettävä tili</string>
   <string name="user_add_max_count">Voit lisätä korkeintaan %1$d käyttäjää.</string>
   <string name="user_add_on_lockscreen_menu">Lisää käyttäjiä</string>
@@ -4523,12 +4512,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_ip_settings_menu_cancel">Peruuta</string>
   <string name="wifi_ip_settings_menu_save">Tallenna</string>
   <string name="wifi_limit_optimizations_summary">Rajoita Wi-Fin akun käyttöä</string>
-  <string name="wifi_master_key_dialog_content_master_key">Wi-Fi Master Key</string>
-  <string name="wifi_master_key_dialog_content_password">Salasana</string>
-  <string name="wifi_master_key_dialog_title">Yhdistä käyttäen</string>
-  <string name="wifi_master_key_name">Wi-Fi Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">Wi-Fi Master Key on ilmainen palvelu, joka tarjoaa jaettujen Wi-Fi-verkkojen salasanoja. Wi-Fi Master Key ei jaa verkkosi salasanoja. Voit myös %1$s.</string>
-  <string name="wifi_master_key_service_dialog_title">Jaetut Wi-Fi-verkot</string>
   <string name="wifi_menu_advanced">Lisäasetukset</string>
   <string name="wifi_menu_connect">Yhdistä verkkoon</string>
   <string name="wifi_menu_forget">Unohda verkko</string>
