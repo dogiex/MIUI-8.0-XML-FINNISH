@@ -182,6 +182,7 @@
   <string name="empty_title_residual">Jälkiä ei löytynyt</string>
   <string name="empty_title_video">Ei poistettavia videoita​</string>
   <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Alustetaan...</string>
   <string name="engine_tm">Tencent</string>
   <string name="file">Tiedostot</string>
   <string name="file_not_found">Tiedostoa ei löytynyt</string>

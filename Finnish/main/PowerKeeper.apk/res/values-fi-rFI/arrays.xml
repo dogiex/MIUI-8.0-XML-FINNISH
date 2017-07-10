@@ -75,7 +75,15 @@
         <item>Wake Up</item>
     </string-array>
     <string-array name="invisible_app_groups">
-        <item>selected</item>
-        <item>unselected</item>
+        <item>valittu</item>
+        <item>ei valittu</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Oletus lämmönhallintatila</item>
+        <item>Suorituskyky ensin -tila</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>The current temperature control mode, the temperature of experience is preferred</item>
+        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
     </string-array>
 </resources>

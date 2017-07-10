@@ -60,6 +60,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d sovellusta löytyi</item>
         <item quantity="one">%d sovellus löytyi</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">%d sovellusta ei toimi kunnolla ja kuluttaa akkua</item>
+        <item quantity="one">%d sovellus ei toimi kunnolla ja kuluttaa akkua</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d päivää "</item>
         <item quantity="one">"%d päivä "</item>
@@ -92,17 +96,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Löytyi %d akkuongelmaa, korjaa ne</item>
         <item quantity="one">Löytyi %d akkuongelma, korjaa se</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d kohdetta voidaan optimoida</item>
-        <item quantity="one">%d kohde voidaan optimoida</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Latauskertoja %1$d</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Latauskertoja %1$d</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Latauskertoja %1$d</item>
     </plurals>
     <plurals name="view_num">
@@ -125,10 +122,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">1 kohde</item>
     </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s maksuriskiä</item>
-        <item quantity="one">%s maksuriski</item>
-    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s maksusovellusta on suojattu</item>
         <item quantity="one">%s maksusovellus on suojattu</item>
@@ -140,10 +133,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s sovellusta ei ole suojattu</item>
         <item quantity="one">%s sovellus ei ole suojattu</item>
-    </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">Löytyi: %d maksuriskejä</item>
-        <item quantity="one">Löytyi: %d maksuriski</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d turvallista kohdetta</item>
@@ -201,18 +190,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d troijalaista,</item>
         <item quantity="one">%d troijalainen,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d riskiä</item>
-        <item quantity="one">%d riski</item>
-    </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ riskiä löytyi, korjaa nyt</item>
-        <item quantity="one">%d riski löytyi, korjaa nyt</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">Kaikki näyttää hyvältä</item>
-        <item quantity="one">Kaikki näyttää hyvältä</item>
-    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Vaarallisia sovelluksia: %d</item>
         <item quantity="one">Vaarallinen sovellus: %d</item>
@@ -220,10 +197,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="white_list_trojan_header">
         <item quantity="other">Troijalaisia: %d</item>
         <item quantity="one">Troijalainen: %d</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d sovellusta sisältää yksityisyysriskejä</item>
-        <item quantity="one">%d sovellus sisältää yksityisyysriskejä</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Odota %d sekuntia ja yritä uudelleen. "</item>
@@ -262,34 +235,6 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Lisättiin %d peliä</item>
         <item quantity="one">Lisättiin %d peli</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Päivityksiä on saatavilla %d sovellukselle</item>
-        <item quantity="one">Päivitys on saatavilla sovellukselle %d</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">Käytti yhteystietoja %d kertaa</item>
-        <item quantity="one">Käytti yhteystietoja %d kerran</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">Soitti %d puhelua</item>
-        <item quantity="one">Soitti %d puhelun</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">Lähetti %d tekstiviestiä</item>
-        <item quantity="one">Lähetti %d tekstiviestin</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">Luki tekstiviestejä %d kertaa</item>
-        <item quantity="one">Luki tekstiviestejä %d kerran</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">Luki puheluhistoriaa %d kertaa</item>
-        <item quantity="one">Luki puheluhistoriaa %d kerran</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Käytti %d kertaa</item>
-        <item quantity="one">Käytti %d kerran</item>
-    </plurals>
     <plurals name="app_manager_permission_manager_summary">
         <item quantity="other">Sallittu %d käyttöoikeutta</item>
         <item quantity="one">Sallittu %d käyttöoikeus</item>
@@ -307,15 +252,15 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="one">Estettiin %d kerran</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">Ei ole käytetty %d päivään</item>
-        <item quantity="one">Ei ole käytetty %d päivään</item>
+        <item quantity="other">Käytettiin %d päivää sitten</item>
+        <item quantity="one">Käytettiin %d päivä sitten</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">Ei ole käytetty %d kuukauteen</item>
-        <item quantity="one">Ei ole käytetty %d kuukauteen</item>
+        <item quantity="other">Käytettiin %d kuukautta sitten</item>
+        <item quantity="one">Käytettiin %d kuukausi sitten</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">Ei ole käytetty %d vuoteen</item>
-        <item quantity="one">Ei ole käytetty %d vuoteen</item>
+        <item quantity="other">Käytettiin %d vuotta sitten</item>
+        <item quantity="one">Käytettiin %d vuosi sitten</item>
     </plurals>
 </resources>

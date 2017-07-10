@@ -1593,9 +1593,10 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="got_it">Selvä</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiiin</string>
   <string name="handy_mode">Yhden käden-tila</string>
+  <string name="handy_mode_enable">Yhden käden-tila</string>
   <string name="handy_mode_enter_ask">Kysy ennen kuin siirrytään Yhden käden-tilaan</string>
   <string name="handy_mode_size">Näytön koko</string>
-  <string name="handy_mode_tips">Pyyhkäise Koti-painikkeelta vasemmalle tai oikealla muuttaaksesi näytön kokoa.</string>
+  <string name="handy_mode_tips">Pyyhkäise Kotipainikkeelta vasemmalle tai oikealla muuttaaksesi näytön kokoa.</string>
   <string name="haptic_feedback_enable_title">Käytä värinää kosketettaessa</string>
   <string name="haptic_feedback_level">Värinä</string>
   <string name="hardkeyboard_category">Fyysisen näppäimistön asetukset</string>
@@ -3335,6 +3336,7 @@ Näytön kiinnityksen käyttö:
   <string name="security_encryption_is_used">Päällä</string>
   <string name="security_encryption_progress_dialog_close">Puretaan salausta…</string>
   <string name="security_encryption_progress_dialog_open">Salataan…</string>
+  <string name="security_encryption_rejected_via_home_manager">Tämä ominaisuus ei ole tuettu demoversiossa.</string>
   <string name="security_encryption_title">Salaa laite käyttämällä Lukitusnäytön salasanaa</string>
   <string name="security_keyguard_category_name">Lukitusnäyttö</string>
   <string name="security_password_category_name">Näytön lukitus</string>

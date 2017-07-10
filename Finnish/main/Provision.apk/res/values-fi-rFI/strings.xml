@@ -34,8 +34,8 @@
   <string name="next">Seuraava</string>
   <string name="next_fingerprint">Seuraava</string>
   <string name="other_settings">Lisäasetukset</string>
-  <string name="other_settings_auto_update">Päivitä automaattisesti</string>
-  <string name="other_settings_auto_update_summary">MIUI valitsee parhaan ajan päivityksen lataamiseen ja asentamiseen.</string>
+  <string name="other_settings_auto_update">Asenna automaattisesti</string>
+  <string name="other_settings_auto_update_summary">MIUI valitsee parhaan hetken päivityksien asentamiselle.</string>
   <string name="other_settings_location">Sijainti</string>
   <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi.</string>
   <string name="other_settings_mifg_online_content">Taustakuvan Karuselli</string>

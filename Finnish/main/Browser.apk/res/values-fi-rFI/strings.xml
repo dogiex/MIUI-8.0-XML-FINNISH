@@ -101,6 +101,7 @@
   <string name="block_ads_choice_continue">Jatka</string>
   <string name="block_ads_message">Haluatko estää viestit tältä sivustolta?</string>
   <string name="block_ads_title">Sisältö saattaa sisältää mainoksia</string>
+  <string name="bookmark">Kirjanmerkit</string>
   <string name="bookmark_add_to">Lisää</string>
   <string name="bookmark_btn_select_all">Valitse kaikki</string>
   <string name="bookmark_btn_select_none">Tyhjennä valinnat</string>
@@ -332,7 +333,7 @@
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Lisätty Kotinäytölle</string>
   <string name="hint">Vihje</string>
-  <string name="history_saved_webpage">Tallennetut sivut</string>
+  <string name="history">Historia</string>
   <string name="home_description">Koti</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Poista</string>
@@ -470,7 +471,6 @@ Poistutaanko tältä sivulta?"</string>
   <string name="navigationbar_rightbutton_actiontext_search">Etsi</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Löydettiin läheltä Wi-Fi Hotspot. Yritetäänkö yhdistää?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi-verkko on käytettävissä</string>
-  <string name="new_folder_name_lable">Ryhmän nimi</string>
   <string name="next_button_label">Seuraava</string>
   <string name="no_app_open_document">Tälle toiminnolle ei löytynyt soveltuvaa sovellusta</string>
   <string name="no_matches">Ei osumia</string>
@@ -720,6 +720,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
   <string name="skip_button_label">Ohita</string>
   <string name="skip_current_version">Ohita tämä versio</string>
+  <string name="snapshot">Paikallinen</string>
   <string name="snapshot_failed">Sivua ei voitu tallentaa.</string>
   <string name="snapshot_successed">Sivu tallennettiin onnistuneesti</string>
   <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
@@ -873,8 +874,6 @@ Poistutaanko tältä sivulta?"</string>
   <string name="voice_title_please">Aloita puhuminen…</string>
   <string name="voice_title_speech_again">Puhetta ei ymmärretty</string>
   <string name="weather_location_confirm_message">Poistamalla tämän ominaisuuden käytöstä voi vaikuttaa käyttökokemukseen.</string>
-  <string name="webpage_bookmark_title">Kirjanmerkit</string>
-  <string name="webpage_history_title">Historia</string>
   <string name="webpage_title">Kirjanmerkit &amp; Historia</string>
   <string name="webview_find_on_page">Etsi sivulta</string>
   <string name="webviewchromium_private_browsing_warning">Tämä toiminto ei ole tuettu tässä Android versiossa.</string>

@@ -728,7 +728,7 @@ Syy: %s"</string>
   <string name="missing_name">(Ei nimeä)</string>
   <string name="missing_required_permission">Olet poistanut käytöstä tarvittavan käyttöoikeuden.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
-  <string name="more_call_logs">Lisää puhelunauhoituksia löytyy osoitteesta i.mi.com</string>
+  <string name="more_call_logs">Kuuntele kaikkia puhelunauhoituksiasi osoitteessa i.mi.com</string>
   <string name="move_and_resize">Siirrä ja skaalaa</string>
   <string name="multi_number_menu_call">Puhelu</string>
   <string name="multi_number_menu_delete">Poista</string>
@@ -846,13 +846,14 @@ Lisätäksesi yhteystietoja suosikkeihin:
   <string name="openDialKeyboard">Numeronäppäimistö</string>
   <string name="open_contact">Tarkastele yhteystietoa</string>
   <string name="open_dial_pad_description">Avaa numeronvalinta</string>
+  <string name="option_delete_batch_contacts">Poista useita</string>
   <string name="option_delete_contact">Poista</string>
   <string name="option_delete_group">Poista</string>
   <string name="option_edit_contact">Muokkaa</string>
   <string name="option_not_in_group">Poista</string>
   <string name="option_not_star">Poista suosikeista</string>
   <string name="option_rename_group">Nimeä uudelleen</string>
-  <string name="option_send_to_desktop">Lähetä Koti-näytölle</string>
+  <string name="option_send_to_desktop">Lähetä Kotinäytölle</string>
   <string name="option_send_to_others">Lähetä edelleen</string>
   <string name="option_view_contact">Näytä</string>
   <string name="option_view_group">Näytä</string>

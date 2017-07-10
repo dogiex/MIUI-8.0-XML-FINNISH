@@ -28,29 +28,11 @@
         <item>Tänään Wi-Fi</item>
         <item>Tässä kuussa Wi-Fi</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Eilen (data)</item>
-        <item>Tänään (data)</item>
-        <item>Tässä kuussa (data)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 sekuntia</item>
-        <item>4 sekuntia</item>
-        <item>5 sekuntia</item>
-        <item>6 sekuntia</item>
-        <item>7 sekuntia</item>
-        <item>8 sekuntia</item>
-        <item>9 sekuntia</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Mobiilidatan käyttö "</item>
         <item>"Wi-Fi käyttö "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Mobiilidatan käyttö "</item>
-        <item>"Wi-Fi käyttö "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
         <item>"Mobiilidatan käyttö "</item>
         <item>"Wi-Fi käyttö "</item>
     </string-array>
@@ -68,23 +50,25 @@
         <item>Kun laite on lukittu tai sovelluksesta poistutaan</item>
         <item>Kun laite on lukittu tai yhden minuutin jälkeen, kun poistutaan sovelluksesta</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Lisää poikkeuksiin</item>
-    </string-array>
     <string-array name="sort_type">
-        <item>Lajittele nimen mukaan</item>
-        <item>Lajittele koon mukaan</item>
+        <item>Tila</item>
+        <item>Sovelluksen nimi</item>
+        <item>Käyttötiheys</item>
+        <item>Käytetty tallennustila</item>
+        <item>Datan käyttö</item>
+        <item>Akun käyttö</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Lajittele tilan mukaan</item>
+        <item>Lajittele sovelluksen nimen mukaan</item>
+        <item>Lajittele käyttötiheyden mukaan</item>
+        <item>Lajittele käytetyn tallennustilan mukaan</item>
+        <item>Lajittele datan käytön mukaan</item>
+        <item>Lajittele akun käytön mukaan</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Datan Käyttö</item>
         <item>Puhelimen saldo</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>1 minuutin jälkeen</item>
-        <item>5 minuutin jälkeen</item>
-        <item>10 minuutin jälkeen</item>
-        <item>30 minuutin jälkeen</item>
-        <item>Ei koskaan</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Kerran</item>
