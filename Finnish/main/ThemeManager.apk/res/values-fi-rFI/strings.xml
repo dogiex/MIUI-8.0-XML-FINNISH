@@ -376,7 +376,7 @@
   <string name="theme_favorite_delete_success">Poistettiin suosikeista</string>
   <string name="theme_favorite_list_empty">Yhtään suosikkiteemaa ei ole vielä.</string>
   <string name="theme_favorite_waiting">Odota hetki…</string>
-  <string name="theme_fresh_man_notifaction">Uusia teema saatavilla</string>
+  <string name="theme_fresh_man_notifaction">Uusia teemoja saatavilla</string>
   <string name="theme_immediately_apply_tip">Asetetaanko teeman päivitys nyt?</string>
   <string name="theme_import_from_sdcard">Tuo</string>
   <string name="theme_is_external_priority_storage">Tallenna SD-kortille</string>

@@ -10,7 +10,7 @@
   <string name="apps_and_data_item_desc">Sovellukset ja tiedot</string>
   <string name="auto_backup">Ajoita rutiinimainen varmuuskopio</string>
   <string name="auto_backup_all_user_apps">Kaikki sovellukset</string>
-  <string name="auto_backup_choose">Varmuuskopioi asiat</string>
+  <string name="auto_backup_choose">Varmuuskopioitavat asiat</string>
   <string name="auto_backup_choose_empty">Ei varmuuskopioita.</string>
   <string name="auto_backup_choose_title">Valitse asiat, jotka varmuuskopioidaan</string>
   <string name="auto_backup_date">Päivät</string>
@@ -36,8 +36,8 @@
   <string name="backup_hint">Pidä laitteesi päällä</string>
   <string name="backup_hint_onpad">Pidä laitteesi päällä</string>
   <string name="backup_is_running">Varmuuskopioidaan laitetta</string>
-  <string name="backup_items_app_tailer">" sovellusdatan tiedostoa"</string>
-  <string name="backup_items_sysdata_tailer">" järjestelmädatan tiedostoa"</string>
+  <string name="backup_items_app_tailer">" sovellusdatan tiedostoa "</string>
+  <string name="backup_items_sysdata_tailer">" järjestelmädatan tiedostoa "</string>
   <string name="backup_new">Uusi:</string>
   <string name="backup_progress">Varmuuskopioidaan…</string>
   <string name="backup_report">Katso tiedot</string>
@@ -110,7 +110,7 @@
   <string name="feature_title_account">Mi Tili</string>
   <string name="feature_title_antispam">Estolista</string>
   <string name="feature_title_call_log">Puheluhistoria</string>
-  <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_mms">Multimediaviestit</string>
   <string name="file_uploading">Lähetetään…</string>
   <string name="files_backup_info">Kaikki tiedostot SD-muistikortilla (mukaanlukien kuvat, musiikit, videot, sovelluksien tiedot, jne.)</string>
   <string name="findlost_contact">Palauta yhteystiedot</string>
@@ -124,7 +124,7 @@ http://www.miliao.com
 2.Mene Mi Talk Asetuksiin ja valitse ”Varmuuskopioi yhteystiedot Mi Tilille”"</string>
   <string name="import_from_xiaomi_account_hint2">Jos sinulla on jo varmuuskopio, paina Seuraava.</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä Mi Talk -sovellusta varmuuskopioidaksesi yhteystiedot laitteistasi.</string>
-  <string name="local_app_name">Varmuuskopiot</string>
+  <string name="local_app_name">Varmuuskopiointi</string>
   <string name="local_backup_window_title">Paikallisen varmuuskopion tiedot</string>
   <string name="local_home_title">Varmuuskopioi paikallisesti</string>
   <string name="local_no_backup">Ei varmuuskopioita.</string>
@@ -148,7 +148,7 @@ http://www.miliao.com
   <string name="new_backup">Varmuuskopioi</string>
   <string name="no_encrypt_password">Ei salasanaa</string>
   <string name="no_network">Verkkoon ei saada yhteyttä</string>
-  <string name="note_title">Muistiinpanot</string>
+  <string name="note_title">Muistiot</string>
   <string name="nothing_searched">Ei tuloksia.</string>
   <string name="notif_backup_complete_title">Varmuuskopioitu onnistuneesti</string>
   <string name="notif_backup_content">Varmuuskopioidaan käyttäjän tietoja</string>
@@ -220,7 +220,7 @@ http://www.miliao.com
   <string name="summary_err_backup_no_network">Verkkoon ei saada yhteyttä</string>
   <string name="summary_err_restore_encrypting">Palauttaminen ei onnistunut. Varmista, että varmuuskopio tehtiin sinun Mi tilillä.</string>
   <string name="summary_err_restore_no_network">Verkkoon ei saada yhteyttä</string>
-  <string name="system_backup">Varmuuskopioi</string>
+  <string name="system_backup">Varmuuskopiointi</string>
   <string name="system_backup_info">Järjestelmän asetukset ja Kotinäytön asettelu</string>
   <string name="task_backup_cancel_progress">Lopetetaan…</string>
   <string name="task_backup_finished_local">"Varmuuskopioitu "</string>

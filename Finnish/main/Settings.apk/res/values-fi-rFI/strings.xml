@@ -208,7 +208,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="apn_settings_not_available">Tämä käyttäjä ei voi käyttää APN-asetuksia</string>
   <string name="apn_type">APN-tyyppi</string>
   <string name="apn_user">Käyttäjätunnus</string>
-  <string name="app_backup">Varmuuskopioi</string>
+  <string name="app_backup">Varmuuskopiointi</string>
   <string name="app_data_usage">Sovelluksen tiedonsiirto</string>
   <string name="app_disable_dlg_positive">Poista sovellus käytöstä</string>
   <string name="app_disable_dlg_text">Jos poistat sovelluksen käytöstä, muut sovellukset eivät välttämättä enää toimi oikein.</string>
@@ -1594,7 +1594,6 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiiin</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
-  <string name="handy_mode_enter_ask">Kysy ennen kuin siirrytään Yhden käden-tilaan</string>
   <string name="handy_mode_size">Näytön koko</string>
   <string name="handy_mode_tips">Pyyhkäise Kotipainikkeelta vasemmalle tai oikealla muuttaaksesi näytön kokoa.</string>
   <string name="haptic_feedback_enable_title">Käytä värinää kosketettaessa</string>

@@ -82,7 +82,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_error_common_summary">Järjestelmävirhe. Yritä myöhemmin uudelleen.</string>
   <string name="mibi_error_deduct">Automaattista Maksuprotokollaa ei voitu aktivoida</string>
   <string name="mibi_error_expired_summary">Tilauksesi on vanhentunut</string>
-  <string name="mibi_error_frozen_service_num">400-100-2234</string>
+  <string name="mibi_error_frozen_service_num">400-100-3399</string>
   <string name="mibi_error_frozen_service_time">Maanantaista Sunnuntaihin</string>
   <string name="mibi_error_frozen_summary">"Tilisi on jäädytetty.
 Ota yhteyttä Xiaomin asiakaspalveluun."</string>
@@ -237,7 +237,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_progress_voucher_creating">Topping up Mi Krediitti kortti…</string>
   <string name="mibi_progress_warning_check_with_contact">"Maksu ei näy tililläsi vielä.
 Tarkistamme sen uudelleen kahden työpäivän sisällä.
-Asiakaspalvelu: 400-100-5678"</string>
+Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_progress_warning_waiting">Maksu ei näy tililläsi vielä.</string>
   <string name="mibi_prompt_info_button_hint">Huomio(%d)</string>
   <string name="mibi_prompt_info_button_text">OK</string>

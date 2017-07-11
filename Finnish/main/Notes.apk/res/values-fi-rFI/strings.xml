@@ -119,6 +119,8 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Nopea poistaminen</string>
   <string name="recover_notes_hint">Tapahtui virhe, mene i.mi.com palauttaaksesi muistiot.</string>
   <string name="redo">Tee uudelleen</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Tämä muistio on liian suuri jaettavaksi.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Odota, kunnes muistio on ladannut ja yritä uudelleen.</string>
   <string name="rename_folder_dialog_tile">Nimeä kansio uudelleen</string>
   <string name="root_folder_name">Nopeat muistiot</string>
   <string name="search">Muistio</string>

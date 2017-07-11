@@ -44,10 +44,9 @@
   <string name="album_already_exists_msg">Albumi \"%s\" on jo olemassa</string>
   <string name="album_already_forced_top">On jo ylimpänä</string>
   <string name="album_camera_name">Kamera</string>
-  <string name="album_detail_clear_local_page_empty">Poistettavia varmuuskopioituja kuvia tai videoita ei ole</string>
   <string name="album_detail_page_empty">Ei kuvia tai videoita</string>
   <string name="album_faces_name">Henkilöt</string>
-  <string name="album_from_format">Sovelluksesta %s</string>
+  <string name="album_from_format">Paikasta %s</string>
   <string name="album_jump_failed">Odota kunnes albumit ovat synkronoitu Mi Pilven kanssa ja yritä uudelleen</string>
   <string name="album_member">Albumin jäsenet %s</string>
   <string name="album_name">Albumin nimi</string>
@@ -134,8 +133,9 @@
   <string name="backup_cloud_space_low_btn_text">Hanki lisää</string>
   <string name="backup_cloud_space_low_desc">%1$s Mi Pilvessä | Käytettävissä %2$s</string>
   <string name="backup_cloud_space_low_title">Mi Pilven tallennustilaa ei ole tarpeeksi</string>
-  <string name="backup_cta_not_allow">Verkkoon yhdistäminen epäonnistui</string>
   <string name="backup_cta_not_allow_btn_text">Salli</string>
+  <string name="backup_cta_not_allow_desc">Hyväksy automaattinen varmuuskopiointi</string>
+  <string name="backup_cta_not_allow_title">Verkkoa ei voi käyttää</string>
   <string name="backup_detail_page_empty">Kuvia tai videoita ei odota varmuuskopiointia</string>
   <string name="backup_detail_page_title">Mi Pilven varmuuskopiot</string>
   <string name="backup_device_space_low_btn_text">Tyhjennä</string>
@@ -146,7 +146,7 @@
   <string name="backup_immediately">Varmuuskopioi</string>
   <string name="backup_need_sync_desc">Jatka varmuuskopiointia napauttamalla</string>
   <string name="backup_need_sync_title">Varmuuskopiointi pysäytettiin</string>
-  <string name="backup_no_network_btn_text">Verkkoasetukset</string>
+  <string name="backup_no_network_btn_text">Asetukset</string>
   <string name="backup_no_network_desc">Yhdistä verkkoon jatkaaksesi kohteiden varmuuskopiointia</string>
   <string name="backup_no_network_title">Mi Pilveen ei saada yhteyttä</string>
   <string name="backup_no_wifi_btn_text">Käytä dataa</string>
@@ -573,7 +573,6 @@
   <string name="cityname_97">Haidong Prefecture</string>
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
-  <string name="clear_local_photo_direction">Jos poistat kuvia tai videoita laitteeltasi, ne ovat silti käytettävissä Mi Pilvessä</string>
   <string name="click_download_gif">Lataa GIF napauttamalla</string>
   <string name="click_top_right">Napauta tätä kuvaketta</string>
   <string name="cloud_camera_display_name">Kameran kuvat</string>
@@ -584,6 +583,7 @@
   <string name="cloud_guide_welcome_title">Mi Pilvi</string>
   <string name="cloud_screenshots_display_name">Kuvakaappaukset</string>
   <string name="cloud_settings">Gallerian varmuuskopiot</string>
+  <string name="cloud_storage_extend">Laajenna pilven tallennustilaa</string>
   <string name="cloud_storage_ok_append_desc">Käytettävissä %s</string>
   <string name="cloud_storage_ok_desc">Mi Pilven tallennustila %s</string>
   <string name="cloud_storage_ok_title">Mi Pilvessä on tarpeeksi tallennustilaa</string>
@@ -598,7 +598,7 @@
   <string name="cloudfolder_cannot_start_with">"Albumin nimi ei voi alkaa merkillä '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Albumin nimi ei voi sisältää merkkiä '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Syötä albumin nimi</string>
-  <string name="cloudfolder_name_reserved">Albumin nimi on varattu name</string>
+  <string name="cloudfolder_name_reserved">Albumin nimi on varattu</string>
   <string name="collaps_people">Piilota</string>
   <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
   <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
@@ -667,7 +667,6 @@
   <string name="delete_third_party_photo">Poistetaanko tämä kuva?</string>
   <string name="delete_third_party_video">Poistetaanko tämä video?</string>
   <string name="delete_to_trash_tips">Näet viimeaikaisesti poistetut kuvat paikasta Asetukset &gt; Roskakori</string>
-  <string name="delete_unsynced">Poista kohteet, joita ei ole varmuuskopioitu</string>
   <string name="deny">Hylkää</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -782,7 +781,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galleria tarvitsee pääsyn 
 %s
- toimiakseen normaalisti, mene Käyttöoikeuksiin napauttamalla Aseta."</string>
+ toimiakseen normaalisti, mene Käyttöoikeuksiin napauttamalla \"Aseta\"."</string>
   <string name="grant_permission_title">Salli pääsy</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: %1$s</string>
   <string name="have_known">Selvä</string>
@@ -908,12 +907,10 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="operation_delete">Poista</string>
   <string name="operation_detail">Tiedot</string>
   <string name="operation_disable_auto_upload">Poista Mi Pilven synkronointi käytöstä</string>
-  <string name="operation_do_delete_local_thumnail">Poista laitteesta</string>
   <string name="operation_download">Lataa alkuperäinen (%s)</string>
   <string name="operation_edit">Muokkaa</string>
   <string name="operation_edit_video">Muokkaa</string>
   <string name="operation_enable_auto_upload">Ota Mi Pilven synkronointi käyttöön</string>
-  <string name="operation_enter_delete_local">Poista varmuuskopioidut kuvat ja videot laitteesta</string>
   <string name="operation_failed">Operaatiota ei voitu suorittaa loppuun</string>
   <string name="operation_force_top">Kiinnitä</string>
   <string name="operation_hide">Piilota</string>
@@ -1000,7 +997,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="relation_text_maternal_grandmother">Äidinäiti</string>
   <string name="relation_text_mother">Äiti</string>
   <string name="relation_with_you">Valitse suhde</string>
-  <string name="release_space_finish_format">Vapautettiin %s paikallista tallennustilaa</string>
   <string name="remind_face_recommend_confirm">Vahvista</string>
   <string name="remove_from_album_message">Tätä kuvaa ei enää näytetä täällä</string>
   <string name="remove_from_album_title">Poista tästä albumista</string>
@@ -1026,7 +1022,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="reset">Nollaa</string>
   <string name="retry_to_create_album">Yritä uudelleen</string>
   <string name="retry_to_request_qr_code">Yritä uudelleen</string>
-  <string name="return_from_clear_local_file_fragment_toast">Optimoidut kuvat säilytetään laitteessa. Lataa alkuperäinen kuva Mi Pilvestä napauttamalla.</string>
   <string name="revert">Palauta</string>
   <string name="runtime_permission_ungranted">Galleria suljettiin, vaadittuja käyttöoikeuksia ei ole</string>
   <string name="same_name_album_exist_and_toast">"Saman niminen albumi on jo olemassa. Luotiin '%s' sen sijaan."</string>
