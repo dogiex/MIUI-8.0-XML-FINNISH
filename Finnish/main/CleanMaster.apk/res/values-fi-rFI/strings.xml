@@ -196,7 +196,7 @@
   <string name="grabage_rank_title">Puhdistettu tänään</string>
   <string name="header_optimizer">Käyttäessäsi tätä toimintoa, hyväksyt %s.</string>
   <string name="hint_clean_select_similar_image">Poistetaan kaksoiskappaleet…</string>
-  <string name="hints_ad_header_left">Mainostiedostot</string>
+  <string name="hints_ad_header_left">Vanhentuneet tiedostot</string>
   <string name="hints_apk_header_left">Paketit</string>
   <string name="hints_apk_version">Versio %s</string>
   <string name="hints_app_uninstall_residual">Puhdistetaanko poistettujen sovelluksien jälkeenjätetyt tiedostot?</string>
