@@ -395,7 +395,7 @@
   <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_auth_password_wrong">Salasana saattaa olla väärin</string>
-  <string name="wifi_connected_no_internet">Yhdistetty, ei internettiä</string>
+  <string name="wifi_connected_no_internet">Yhdistetty, ei internetiä</string>
   <string name="wifi_disabled_generic">Ei käytössä</string>
   <string name="wifi_disabled_network_failure">IP Määritys Epäonnistui</string>
   <string name="wifi_disabled_password_failure">Todennusongelma</string>

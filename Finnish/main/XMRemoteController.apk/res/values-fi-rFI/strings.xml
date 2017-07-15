@@ -249,7 +249,7 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="devicetype8">A/V vastaanotin</string>
   <string name="diagnose">Kokeile kaukosäädintä</string>
   <string name="diagnosis_intro">Kokeile verkkoa yhteysongelmien varalta</string>
-  <string name="dialog_install_assistant_content">Asenna Mi Screen cast saadaksesi kaiken hyödyn irti Mi TV ja Mi Box laitteistasiInstall</string>
+  <string name="dialog_install_assistant_content">Asenna Mi Screen cast saadaksesi kaiken hyödyn irti Mi TV ja Mi Box laitteistasi</string>
   <string name="dining_room">Ruokailutila</string>
   <string name="download_assistant">Näytön suoratoisto</string>
   <string name="download_path_fail">Lataaminen epäonnistui. Tarkista laitteesi SD-kortti tai USB-asema.</string>
@@ -711,7 +711,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="no_ir_support">IR laitteita ei löytynyt</string>
   <string name="no_location">无位置信息</string>
   <string name="no_milink_device">没有发现小米电视/盒子，请稍后再试</string>
-  <string name="no_network">· Ooet yhteydessä internettiin</string>
+  <string name="no_network">· Ooet yhteydessä internetiin</string>
   <string name="no_program">Täällä ei ole sisältöä</string>
   <string name="no_qq">Asenna QQ ensin</string>
   <string name="no_save_brand_service">Lisää tämä kaukosäädin uudelleen</string>
@@ -916,7 +916,7 @@ Aktivoidaksesi tilisi, seuraa linkkiä,
   <string name="press_to_continue_match">Jatka napauttamalla</string>
   <string name="press_to_match">Parita napauttamalla</string>
   <string name="prev_remote">Edellinen kaukosäädin</string>
-  <string name="privacy_content">Lue Xiaomi:n &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Tietosuojakäytäntö&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Käyttöehdot&lt;/a&gt; ennen Mi Kaukosäätimen käyttämistä. Pääsy internettiin ja sijaintipalveluihin vaaditaan, jotta sovellus toimii normaalisti.</string>
+  <string name="privacy_content">Lue Xiaomi:n &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Tietosuojakäytäntö&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Käyttöehdot&lt;/a&gt; ennen Mi Kaukosäätimen käyttämistä. Pääsy internetiin ja sijaintipalveluihin vaaditaan, jotta sovellus toimii normaalisti.</string>
   <string name="privacy_nohit">Älä näytä uudelleen</string>
   <string name="privacy_title">Käyttöehdot</string>
   <string name="program_booking_book_filter_book_status">预约状态</string>

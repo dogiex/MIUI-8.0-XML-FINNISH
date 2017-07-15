@@ -337,8 +337,8 @@
   <string name="mx_type_guide">Mi Viestillä voit lähettää viestejä toisille MIUI:n käyttäjille ilman lisäkustannuksia</string>
   <string name="need_download">Synkronoidaan…</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Älyviestit sallii sinun lähettää ilmaiseksi viestejä ja ääntä, tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy ottaa Keltaiset sivut käyttöön ja yhdistää internettiin käyttääksesi tätä palvelua.</string>
-  <string name="networking_allow_desc_without_mx">Älyviestit sallii sinun tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy ottaa Keltaiset sivut käyttöön ja yhdistää internettiin käyttääksesi tätä palvelua.</string>
+  <string name="networking_allow_desc">Älyviestit sallii sinun lähettää ilmaiseksi viestejä ja ääntä, tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy ottaa Keltaiset sivut käyttöön ja yhdistää internetiin käyttääksesi tätä palvelua.</string>
+  <string name="networking_allow_desc_without_mx">Älyviestit sallii sinun tunnistaa tuntemattomat numerot, suodattaa roskaviestit jne. Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Sinun täytyy ottaa Keltaiset sivut käyttöön ja yhdistää internetiin käyttääksesi tätä palvelua.</string>
   <string name="networking_allow_title">Huomio</string>
   <string name="new_message">Kirjoita</string>
   <string name="new_message_arrived">Sinulla on uusi viesti</string>

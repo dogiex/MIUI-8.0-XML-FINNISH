@@ -25,7 +25,7 @@
   <string name="repayment_title">Takaisinmaksu</string>
   <string name="repayment_way">Takaisinmaksun tapa</string>
   <string name="sent_label">"Lähetetty: "</string>
-  <string name="smart_messages_network_allow_message">Mi Viesti tarvitsee yhteyden internettiin, jotta sen palvelut toimivat normaalisti. Sallitaanko nyt?</string>
+  <string name="smart_messages_network_allow_message">Mi Viesti tarvitsee yhteyden internetiin, jotta sen palvelut toimivat normaalisti. Sallitaanko nyt?</string>
   <string name="smart_messages_network_allow_title">Internet-yhteys vaaditaan</string>
   <string name="sms_card_partner_label">"Tekstiviesti-kortin kumppani: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>

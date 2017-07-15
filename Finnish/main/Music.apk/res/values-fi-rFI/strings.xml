@@ -68,7 +68,7 @@
   <string name="asset_sync_alert_not_now">Ei nyt</string>
   <string name="asset_sync_network_data_alert_message">Käyttämällä mobiilidataa varmuuskopiointiin saattaa lisätä mobiilidatamaksuja. Varmuuskopioidaanko siitä huolimatta?</string>
   <string name="asset_sync_network_data_alert_title">Käytät mobiilidataa</string>
-  <string name="asset_sync_network_unavailable_alert_message">Varmuuskopioi kappaleita yhdistämällä internettiin</string>
+  <string name="asset_sync_network_unavailable_alert_message">Varmuuskopioi kappaleita yhdistämällä internetiin</string>
   <string name="asset_sync_network_unavailable_alert_title">Verkkoon yhdistäminen epäonnistui</string>
   <string name="asset_sync_power_alert_message">Varmuuskopioi kappaleita yhdistämällä laturi.</string>
   <string name="asset_sync_power_alert_title">Akku vähissä</string>

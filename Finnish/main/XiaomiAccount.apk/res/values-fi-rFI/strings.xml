@@ -161,9 +161,9 @@
   <string name="no_response_retry">Ei vastausta, yritä uudelleen.</string>
   <string name="no_sim_card_or_unactivated">SIM-kortti ei ole asennettu tai aktivoitu</string>
   <string name="nobind">Ei yhdistettynä</string>
-  <string name="notify_network_restricted_content_bg_network">Mi Tilin pääsy internettiin on rajoitettu. Salli napauttamalla.</string>
+  <string name="notify_network_restricted_content_bg_network">Mi Tilin pääsy internetiin on rajoitettu. Salli napauttamalla.</string>
   <string name="notify_network_restricted_content_hidden_state">Mi Tilin taustatyöskentely on rajoitettu. Salli napauttamalla.</string>
-  <string name="notify_network_restricted_content_mobile_network">Mi Tilin pääsy internettiin on rajoitettu. Salli napauttamalla.</string>
+  <string name="notify_network_restricted_content_mobile_network">Mi Tilin pääsy internetiin on rajoitettu. Salli napauttamalla.</string>
   <string name="notify_network_restricted_title">Mi Tili ei saa yhteyttä verkkoon</string>
   <string name="oauth_get_scopes_failed">Tilitietojen haku epäonnistui</string>
   <string name="oauth_getting_scopes">Todennetaan tiliä…</string>

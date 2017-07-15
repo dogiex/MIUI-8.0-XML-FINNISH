@@ -316,7 +316,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="status_bar_safepay_safe">Maksuympäristo on turvallinen.</string>
   <string name="status_bar_safepay_scanning">Tunnistetaan maksuympäristöä...</string>
   <string name="status_bar_safepay_unknown">Maksujen turvallisuus on tuntematon.</string>
-  <string name="status_bar_settings_airplane">Lentokone-tila</string>
+  <string name="status_bar_settings_airplane">Lentokonetila</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Ei internet-yhteyttä</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi yhdistetty</string>

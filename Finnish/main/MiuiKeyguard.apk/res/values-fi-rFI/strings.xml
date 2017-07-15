@@ -34,7 +34,7 @@
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi siirtyä Tilojen välillä</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
   <string name="input_password_hint_text">Syötä salasana</string>
-  <string name="input_pattern_hint_text">Piirrä lukituksen poistokuviosi</string>
+  <string name="input_pattern_hint_text">Piirrä lukituksenpoistokuviosi</string>
   <string name="input_pin_code">Syötä PIN-koodi</string>
   <string name="input_puk_code">Syötä PUK-koodi</string>
   <string name="invalid_confirm_pin_hint">PIN-koodit eivät täsmää</string>

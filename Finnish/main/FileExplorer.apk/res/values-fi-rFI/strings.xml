@@ -138,7 +138,7 @@
   <string name="data_consumption_checkbox_hint">Älä näytä uudelleen</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">Tämä sovellus tarvitsee internet-yhteyden Wi-Fi kautta toimiakseen normaalisti.</string>
-  <string name="data_consumption_message1">Laitteen pitää olla yhdistettynä internettiin nähdäkseen suositut tarrat ja videot.</string>
+  <string name="data_consumption_message1">Laitteen pitää olla yhdistettynä internetiin nähdäkseen suositut tarrat ja videot.</string>
   <string name="data_consumption_title">Internet-yhteys</string>
   <string name="decompress_cancel">Peruuta</string>
   <string name="decompress_confirm">Pura</string>

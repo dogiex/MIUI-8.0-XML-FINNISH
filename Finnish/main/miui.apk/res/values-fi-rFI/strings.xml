@@ -487,7 +487,7 @@
   <string name="send_sms_for_sync_title">Datan käyttövaroitus</string>
   <string name="sim_changed_reactivate_int_notice">Lähtevä kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun uudelleenaktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sim_changed_reactivate_notice">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun uudelleenaktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
-  <string name="sim_in_airplane_mode">Poista lentokone-tila käytöstä.</string>
+  <string name="sim_in_airplane_mode">Poista Lentokonetila käytöstä.</string>
   <string name="sim_locked">SIM-kortti on lukittu.</string>
   <string name="sim_not_ready">SIM-kortti on käytössä. Yritä myöhemmin uudelleen.</string>
   <string name="sim_unavailable">SIM-kortti ei ole käytettävissä.</string>

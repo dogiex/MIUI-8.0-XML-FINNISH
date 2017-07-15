@@ -37,7 +37,7 @@
   <string name="cannot_connect_camera_twice">Kameraan ei saada vieläkään yhteyttä. Kokeile käynnistää laite uudelleen.</string>
   <string name="cannot_connect_camera_volte_call">Videopuhelu on käynnissä, yritä myöhemmin uudelleen.</string>
   <string name="cannot_move_warning_message">Otetaan kuvaa, pidä laite vakaana</string>
-  <string name="confirm_install_scanner_message">Lukijalla voit skannata QR-koodeja, viivakoodeja ja muuta. Sinun ei tarvitse yhdistää internettiin asentaaksesi sitä.</string>
+  <string name="confirm_install_scanner_message">Lukijalla voit skannata QR-koodeja, viivakoodeja ja muuta. Sinun ei tarvitse yhdistää internetiin asentaaksesi sitä.</string>
   <string name="confirm_install_scanner_title">Asenna Lukija</string>
   <string name="confirm_location_alert">Muista kuvien sijainnit</string>
   <string name="confirm_location_message">Merkkaa kuviin ja videoihin sijainti, missä ne on otettu. Muut sovellukset voivat käyttää tätä tietoa.</string>

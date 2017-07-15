@@ -84,7 +84,7 @@
   <string name="month_report_follow_service_summary">Pysy ajantasalla tietoturvauutisista ja tiedoista seuraamalla MIUI:n Tietoturvasovelluksen virallista tiliä.</string>
   <string name="month_report_follow_service_title">Tietoturvapäivitykset</string>
   <string name="month_report_history_activity_label">Raporttien historia</string>
-  <string name="month_report_network_dialog_description">Sallitaanko tämän sovelluksen yhdistää internettiin hakeakseen raporttien tiedot?</string>
+  <string name="month_report_network_dialog_description">Sallitaanko tämän sovelluksen yhdistää internetiin hakeakseen raporttien tiedot?</string>
   <string name="month_report_network_dialog_positive">Salli</string>
   <string name="month_report_network_dialog_title">Raporttien haku epäonnistui</string>
   <string name="month_report_result_share">Jaa</string>

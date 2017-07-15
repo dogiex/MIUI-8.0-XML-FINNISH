@@ -868,8 +868,8 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="complete_parameters">Kaikki tiedot</string>
   <string name="complete_settings">Yleiset asetukset</string>
   <string name="computing_size">Lasketaan…</string>
-  <string name="condition_airplane_summary">Wi-Fi, Bluetooth ja mobiiliverkko on poistettu käytöstä. Et voi soittaa puheluita tai yhdistää Internettiin.</string>
-  <string name="condition_airplane_title">Lentokone-tila on päällä</string>
+  <string name="condition_airplane_summary">Wi-Fi, Bluetooth ja mobiiliverkko on poistettu käytöstä. Et voi soittaa puheluita tai yhdistää internetiin.</string>
+  <string name="condition_airplane_title">Lentokonetila on päällä</string>
   <string name="condition_battery_summary">Suorituskyky on laskenut. Sijaintipalvelut ja taustalla oleva data on poistettu käytöstä.</string>
   <string name="condition_battery_title">Virransäästö on päällä</string>
   <string name="condition_bg_data_summary">Taustalla oleva data on käytettävissä vain käyttämällä Wi-Fiä. Tämä saattaa vaikuttaa joihinkin sovelluksiin tai palveluihin, kun Wi-Fi ei ole käytettävissä.</string>
@@ -1767,7 +1767,7 @@ Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten ti
   <string name="keyguard_shortcut_summary">Aseta Lukitusnäytön pikavalinnat kahdelle sovellukselle</string>
   <string name="keyguard_shortcut_title">Lukitusnäytön pikavalinnat</string>
   <string name="keywords_accounts">tili</string>
-  <string name="keywords_airplane">Lentokone; Lentokone tila;Lento;Lento tila</string>
+  <string name="keywords_airplane">Lentokone;Lentokonetila;Lento;Lentotila</string>
   <string name="keywords_all_apps">sovellukset lataus järjestelmä</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">sovellusten käyttöoikeuksien suojaus</string>
@@ -2767,10 +2767,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="privacy_settings">Varmuuskopiointi ja palautus</string>
   <string name="privacy_settings_title">Varmuuskopiointi ja palautus</string>
   <string name="private_gallery_need_to_unlock">Salasana vaaditaan:</string>
-  <string name="private_gallery_recording_intro_header">Piirrä lukituksen poistokuvio:</string>
+  <string name="private_gallery_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
   <string name="private_gallery_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>
   <string name="private_sms_need_to_unlock">Salasana vaaditaan:</string>
-  <string name="private_sms_recording_intro_header">Piirrä lukituksen poistokuvio:</string>
+  <string name="private_sms_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
   <string name="private_sms_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>
   <string name="process_dex2oat_label">Sovellusoptimointi</string>
   <string name="process_format">%1$s (%2$d)</string>
@@ -3140,7 +3140,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_accessibility_settings">Esteettömyys</string>
   <string name="search_account_list">Muut tilit</string>
   <string name="search_advanced_settings">Lisäasetukset;Wifi;Wifi asetukset;Wi-Fi asetukset</string>
-  <string name="search_airplane_mode">Lentokone-tila</string>
+  <string name="search_airplane_mode">Lentokonetila</string>
   <string name="search_alarm_sound_title">Hälytyksen oletusääni</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam</string>
   <string name="search_apn_settings">APN;Access Point Names</string>
@@ -3256,7 +3256,7 @@ Näytön kiinnityksen käyttö:
   <string name="search_security_settings">Yksityisyys</string>
   <string name="search_settings">Haku</string>
   <string name="search_settings_summary">Hallinnoi hakuasetuksia ja historiaa</string>
-  <string name="search_silent_mode_title">Äänetön-tila;äänetön;mykistä;mykkä</string>
+  <string name="search_silent_mode_title">Äänetöntila;äänetön;mykistä;mykkä</string>
   <string name="search_sim_management_title">Sim-kortit &amp; matkapuhelinverkot;Mobiilidata;Ulkomaan roaming;Vastaanota MMS;Tukiasemien nimet;Ensisijaisen verkon tyyppi;Matkapuhelinverkot</string>
   <string name="search_sim_status_title">SIM tila;SIM</string>
   <string name="search_slot_status_title">IMEI tiedot</string>
@@ -3473,7 +3473,7 @@ Näytön kiinnityksen käyttö:
   <string name="shut_down_find_device_network_failure_content">Etsi-laite toiminnon sammuttaminen epäonnistui. Varmista, että sinulla on internet-yhteys.</string>
   <string name="shut_down_find_device_network_failure_title">Verkkoon yhdistäminen epäonnistui</string>
   <string name="shuting_down_find_device">Etsi-laite toimintoa sammutetaan…</string>
-  <string name="silent_mode_title">Äänetön-tila</string>
+  <string name="silent_mode_title">Äänetöntila</string>
   <string name="sim_bad_pin">Väärä PIN-koodi</string>
   <string name="sim_call_back_title">Soita takaisin oletus-SIM-kortilla</string>
   <string name="sim_calls_always_use">Käytä kaikille puheluille</string>
@@ -4483,7 +4483,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_empty_list_wifi_on">Haetaan Wi-Fi-verkkoja…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Wi-Fi avustaja</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Vaihda mobiilidataan, kun molemmat Wi-Fi ja mobiilidata on yhdistettynä ja Wi-Fi ei saa yhteyttä internettiin.</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Vaihda mobiilidataan, kun molemmat Wi-Fi ja mobiilidata on yhdistettynä ja Wi-Fi ei saa yhteyttä internetiin.</string>
   <string name="wifi_enable_watchdog_service_summary">Vältä heikkoa yhteyttä</string>
   <string name="wifi_error">Virhe</string>
   <string name="wifi_fail_to_scan">Verkkoja ei voi etsiä.</string>
@@ -4536,7 +4536,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_notify_open_networks_summary">Ilmoita käytettävissä olevista julkisista verkoista</string>
   <string name="wifi_off_airplane_on_cancel">Peruuta</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">Voit ottaa Wi-Fi-yhteyden käsin käyttöön Lentokone-tilassa.</string>
+  <string name="wifi_off_airplane_on_content">Voit ottaa Wi-Fi-yhteyden käsin käyttöön Lentokonetilassa.</string>
   <string name="wifi_off_airplane_on_not_remind">Älä näytä uudelleen</string>
   <string name="wifi_off_airplane_on_title">Huomio</string>
   <string name="wifi_on_time">Wi-Fi-yhteyden käytössäoloaika</string>
@@ -4838,7 +4838,7 @@ Muodosta yhteys eri Wi-Fi-verkkoon koskettamalla Takaisin."</string>
   <string name="zen_mode_miui_silent_category">Salli</string>
   <string name="zen_mode_option_alarms">Vain herätykset</string>
   <string name="zen_mode_option_important_interruptions">Vain tärkeät</string>
-  <string name="zen_mode_option_miui_silent">Äänetön-tila</string>
+  <string name="zen_mode_option_miui_silent">Äänetöntila</string>
   <string name="zen_mode_option_miui_vibrate">Älä Häiritse</string>
   <string name="zen_mode_option_no_interruptions">Täydellinen hiljaisuus</string>
   <string name="zen_mode_phone_calls">Puhelut</string>

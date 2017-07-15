@@ -877,7 +877,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="move_to_other_albums_tip">Mi Pilven synkronointi poistetaan käytöstä jos siirrät tämän albumin muihin albumeihin. Siirretäänkö nyt?</string>
   <string name="must_pick_file">Valitse kuva</string>
   <string name="name_split">, </string>
-  <string name="need_to_turn_on_network">Laite ei ole yhteydessä internettiin</string>
+  <string name="need_to_turn_on_network">Laite ei ole yhteydessä internetiin</string>
   <string name="need_to_turn_on_sync">Ota Mi Pilven synkronointi käyttöön</string>
   <string name="need_to_turn_on_sync_first">Ota Mi Pilven synkronointi ensin käyttöön</string>
   <string name="need_to_turn_on_wlan">Yhdistä ensin Wi-Fi-verkkoon</string>

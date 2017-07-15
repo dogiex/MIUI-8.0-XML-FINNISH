@@ -2,7 +2,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Liian monta käsiteltävää pyyntöä. Yritä myöhemmin uudelleen.</string>
   <string name="ack_record">Hyv. tiedot</string>
-  <string name="airplane_can_not_share">"Lentokone-tila ei voi käyttää Bluetoothia jakamiseen"</string>
+  <string name="airplane_can_not_share">"Lentokonetila ei voi käyttää Bluetoothia jakamiseen"</string>
   <string name="airplane_error_msg">Et voi käyttää Bluetoothia lentokonetilassa.</string>
   <string name="airplane_error_title">Lentokonetila</string>
   <string name="app_name">Bluetooth-jako</string>
@@ -11,7 +11,7 @@
   <string name="auth_notif_title">Käyttökerran avain</string>
   <string name="bluetooth_connecting">Yhdistetään…</string>
   <string name="bluetooth_disconnecting">Katkaistaan…</string>
-  <string name="bluetooth_in_airplane_mode">Lentokone-tilassa</string>
+  <string name="bluetooth_in_airplane_mode">Lentokonetilassa</string>
   <string name="bluetooth_map_settings_app_icon">Sovelluskuvake</string>
   <string name="bluetooth_map_settings_cancel">Peruuta</string>
   <string name="bluetooth_map_settings_count">Paikkoja jäljellä:</string>

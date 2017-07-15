@@ -524,7 +524,7 @@
   <string name="wechat_cache_files">WeChat välimuisti</string>
   <string name="wechat_chat_clean_done">Kaikki näyttää hyvältä</string>
   <string name="wechat_chat_data_type_cache">WeChat välimuisti</string>
-  <string name="wechat_chat_data_type_cache_desc">Voit palauttaa nämä tiedostot, kun yhdistät ensin internettiin.</string>
+  <string name="wechat_chat_data_type_cache_desc">Voit palauttaa nämä tiedostot, kun yhdistät ensin internetiin.</string>
   <string name="wechat_chat_data_type_chat">Keskusteluhistoria</string>
   <string name="wechat_chat_data_type_chat_desc">Et voi palauttaa keskusteluhistoriaa.</string>
   <string name="wechat_chat_data_type_normal">Roskat</string>

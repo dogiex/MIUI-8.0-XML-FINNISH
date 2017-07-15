@@ -133,7 +133,7 @@ Ota yhteyttä Xiaomin asiakaspalveluun."</string>
   <string name="mibi_label_balance">Saldo</string>
   <string name="mibi_label_giftcard">Lahjakortti</string>
   <string name="mibi_label_pay_remain">Maksettava summa: %1$s Mi Krediittiä</string>
-  <string name="mibi_license_message">Olet aikomassa käyttää Mi Krediittejä, jotka on Xiaomi Inc:n tarjoama palvelu. Ennen kuin voit käyttää tätä palvelua, sinun täytyy hyväksyä %1$s mainitut ehdot. Jos hyväksyt %1$s mainitut käyttöehdot, kosketa OK. Sinun täytyy olla yhteydessä internettiin ja sallia laitteen paikannus käyttääksesi Mi Krediittejä.</string>
+  <string name="mibi_license_message">Olet aikomassa käyttää Mi Krediittejä, jotka on Xiaomi Inc:n tarjoama palvelu. Ennen kuin voit käyttää tätä palvelua, sinun täytyy hyväksyä %1$s mainitut ehdot. Jos hyväksyt %1$s mainitut käyttöehdot, kosketa OK. Sinun täytyy olla yhteydessä internetiin ja sallia laitteen paikannus käyttääksesi Mi Krediittejä.</string>
   <string name="mibi_license_message_span">Mi Krediitin Käyttöehdot</string>
   <string name="mibi_license_title">Käyttöehdot</string>
   <string name="mibi_list_item_bottom_hint">Olet saavuttanut luettelon lopun</string>

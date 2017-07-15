@@ -22,7 +22,7 @@
   <string name="call_folder_name">Puheluiden muistiot</string>
   <string name="cancel_alarm_description">Peruuta hälytys</string>
   <string name="cloud_trash_bin_title">Poista muistiot Mi Pilvestä</string>
-  <string name="cta_reminder">Tämä sovellus tarvitsee yhteyden internettiin varmuuskopioidakseen muistiot Mi Pilveen ja myös pääsyn lukea yhteystietosi merkatakseen muistiot puheluiden aikana.</string>
+  <string name="cta_reminder">Tämä sovellus tarvitsee yhteyden internetiin varmuuskopioidakseen muistiot Mi Pilveen ja myös pääsyn lukea yhteystietosi merkatakseen muistiot puheluiden aikana.</string>
   <string name="db_downgrade_clear_button">Tyhjennä sovellusdata</string>
   <string name="db_downgrade_clear_date_reminder">Vaihtamalla toiseen MIUI versioon vaaditaan Muistion sovellusdatan tyhjentäminen. Ennen kuin teet sen, varmista että olet ottanut varmuuskopion muistiinpanoistasi Mi Pilveen.</string>
   <string name="default_folder_name">Nimeämätön kansio</string>

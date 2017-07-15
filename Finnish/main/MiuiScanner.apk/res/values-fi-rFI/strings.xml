@@ -347,7 +347,7 @@
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
-  <string name="tips_message">Yhdistä internettiin tarkistaaksesi, onko verkkosivu turvallinen.</string>
+  <string name="tips_message">Yhdistä internetiin tarkistaaksesi, onko verkkosivu turvallinen.</string>
   <string name="title">Otsikko:</string>
   <string name="translation_language_chinese">zh</string>
   <string name="translation_language_english">en</string>

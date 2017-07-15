@@ -335,7 +335,7 @@ käyttäen numeroa %s"</string>
   <string name="global_action_settings">Asetukset</string>
   <string name="global_action_silent_mode_off_status">Äänet ovat KÄYTÖSSÄ</string>
   <string name="global_action_silent_mode_on_status">Äänet ovat POISSA KÄYTÖSTÄ</string>
-  <string name="global_action_toggle_silent_mode">Äänetön tila</string>
+  <string name="global_action_toggle_silent_mode">Äänetöntila</string>
   <string name="global_action_voice_assist">Ääniapuri</string>
   <string name="global_actions">Puhelimen asetukset</string>
   <string name="global_actions_airplane_mode_off_status">Lentokonetila on POIS KÄYTÖSTÄ</string>
@@ -1160,7 +1160,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="shutdown_confirm">Puhelin suljetaan.</string>
   <string name="shutdown_confirm_question">Haluatko sammuttaa?</string>
   <string name="shutdown_progress">Suljetaan...</string>
-  <string name="silent_mode">Äänetön tila</string>
+  <string name="silent_mode">Äänetöntila</string>
   <string name="silent_mode_ring">Soittoääni: normaali</string>
   <string name="silent_mode_silent">Soittoääni: mykistetty</string>
   <string name="silent_mode_vibrate">Soittoääni: värinä</string>

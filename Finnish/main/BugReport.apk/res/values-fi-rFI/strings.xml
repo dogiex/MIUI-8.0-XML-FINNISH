@@ -220,7 +220,7 @@
   <string name="network_errortip_timeout">Yhteyden aikakatkaisu, yritä myöhemmin uudestaan</string>
   <string name="network_errortip_unknow">Yritämme korjata sen…</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
-  <string name="network_unavailable_dialog_content">Raporttisi lähetetään, kun sinulla on yhteys internettiin.</string>
+  <string name="network_unavailable_dialog_content">Raporttisi lähetetään, kun sinulla on yhteys internetiin.</string>
   <string name="network_unavailable_dialog_title">Verkkoon ei saada yhteyttä</string>
   <string name="non_system_app_select">Ladatut sovellukset</string>
   <string name="nothing">--</string>

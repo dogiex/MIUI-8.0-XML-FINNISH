@@ -71,7 +71,7 @@
   <string name="dialog_msg_disabled_net">%1$s estettyä latausta nykyisessä verkossa. Mene Tietoturva-sovellukseen napauttamalla Verkkoasetuksia.</string>
   <string name="dialog_msg_recommend">"Et tule näkemään suositeltuja lähteitä pois laittamisen jälkeen. Voit säästää mobiilidataa valitsemalla \"Käytä vain Wi-Fi-yhteyttä\"."</string>
   <string name="dialog_queued_body">Tämä tiedosto on jonossa tulevaa latausta varten, joten se ei ole vielä saatavilla.</string>
-  <string name="dialog_title_disabled_net">Pääsy internettiin</string>
+  <string name="dialog_title_disabled_net">Pääsy internetiin</string>
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto on jonossa</string>
   <string name="dialog_title_recommend">Poista suositellut lähteet käytöstä</string>

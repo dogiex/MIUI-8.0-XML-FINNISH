@@ -100,7 +100,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="antivirus_privacy_dialog_summary">Tämä toiminto salaa ja lähettää laitteesi ID-numeron Avastin, AVL:n ja Tencentin palvelimille (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">näytä Tietosuojakäytäntö</string>
   <string name="antivirus_privacy_dialog_title">Tietosuojakäytäntö</string>
-  <string name="antivirus_sec_network_unavailable">Tietoturvasovellus ei voi päivittää, koska olet rajoittanut internetyhteyttä. Sallitaanko Tietoturvan yhdistää internettiin?</string>
+  <string name="antivirus_sec_network_unavailable">Tietoturvasovellus ei voi päivittää, koska olet rajoittanut internetyhteyttä. Sallitaanko Tietoturvan yhdistää internetiin?</string>
   <string name="antivirus_toast_already_update">Ajantasalla</string>
   <string name="antivirus_toast_network_unavailable">Verkkoon ei saatu yhteyttä</string>
   <string name="antivirus_toast_update_failed">Päivittäminen epäonnistui</string>
@@ -257,7 +257,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_edit_condition_summary">Esimerkiksi, \"Klo 23:00\"</string>
   <string name="auto_task_edit_condition_title">Lisää ehto</string>
   <string name="auto_task_edit_my_custom_task">Nimi</string>
-  <string name="auto_task_edit_operation_summary">Esimerkiksi, \"Ota Lentokone-tila käyttöön\"</string>
+  <string name="auto_task_edit_operation_summary">Esimerkiksi, \"Ota Lentokonetila käyttöön\"</string>
   <string name="auto_task_edit_step1">1.</string>
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nimi</string>
@@ -278,7 +278,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_notify_task_continue_do">Aloita tehtävä</string>
   <string name="auto_task_notify_task_count_down">Automatisoitu tehtävä aloitetaan 5 sekunnin kuluttua</string>
   <string name="auto_task_notify_task_exit_task">Poistu tehtävästä</string>
-  <string name="auto_task_operation_airplane_mode">Lentokone-tila</string>
+  <string name="auto_task_operation_airplane_mode">Lentokonetila</string>
   <string name="auto_task_operation_auto_brightness">Automaattinen kirkkaus</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Näytön kirkkaus</string>
@@ -288,7 +288,7 @@ mikäli unohdat sen"</string>
   <string name="auto_task_operation_memory_clean_lockscreen">Tyhjennä välimuisti</string>
   <string name="auto_task_operation_mobile_data">Mobiilidata</string>
   <string name="auto_task_operation_modify_string">Muokkaa %s</string>
-  <string name="auto_task_operation_mute">Äänetön-tila</string>
+  <string name="auto_task_operation_mute">Äänetöntila</string>
   <string name="auto_task_operation_no_op">Älä valitse tätä toimintoa</string>
   <string name="auto_task_operation_open">Päällä</string>
   <string name="auto_task_operation_open_string">Ota %s käyttöön</string>
@@ -543,7 +543,7 @@ mikäli unohdat sen"</string>
   <string name="dialog_title_attention">Huomio</string>
   <string name="dialog_title_auto_start_declare">Tietoa käynnistyksestä</string>
   <string name="dialog_title_stop_virus_scan">Pysäytä tietoturvatarkistus</string>
-  <string name="disable_air_mode">Poista Lentokone-tila ensin käytöstä</string>
+  <string name="disable_air_mode">Poista Lentokonetila ensin käytöstä</string>
   <string name="dlg_add_blacklist">Estetäänkö tämä numero?</string>
   <string name="dlg_add_blacklist_title">Lisää mustalle listalle</string>
   <string name="dlg_add_keyword">Lisää avainsanoja</string>
@@ -631,13 +631,13 @@ mikäli unohdat sen"</string>
   <string name="firewall_fragment_sys_listempty">Tyhjä</string>
   <string name="firewall_fragment_tab_title_nonsys">Asennettu</string>
   <string name="firewall_fragment_tab_title_sys">Järjestelmä</string>
-  <string name="firewall_mobile_dialog_message">Asennettu sovellus ei voi yhdistää internettiin käyttämällä mobiilidataa, kun tämä kytkin on pois päältä.</string>
+  <string name="firewall_mobile_dialog_message">Asennettu sovellus ei voi yhdistää internetiin käyttämällä mobiilidataa, kun tämä kytkin on pois päältä.</string>
   <string name="firewall_network_allow">Sallittiin %1$s käyttää %2$s yhteyttä</string>
   <string name="firewall_network_restrict_notify_message">Muuta asetuksia napauttamalla.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobiilidata</string>
   <string name="firewall_partial">Salli joidenkin sovelluksien yhdistäminen käyttämällä seuraavaa menetelmää</string>
   <string name="firewall_restrict_all">Rajoita kaikkien sovelluksien yhteyttä käyttämällä seuraavaa menetelmää</string>
-  <string name="firewall_restrict_android_dialog_content">Jotta laitteesi toimii normaalisti, muutama Androidin järjestelmäsovellus on yhteydessä silti internettiin. Nämä sovellukset käyttävät mobiilidatayhteyttäsi ja saattaa lisätä operaattorimaksuja.</string>
+  <string name="firewall_restrict_android_dialog_content">Jotta laitteesi toimii normaalisti, muutama Androidin järjestelmäsovellus on yhteydessä silti internetiin. Nämä sovellukset käyttävät mobiilidatayhteyttäsi ja saattaa lisätä operaattorimaksuja.</string>
   <string name="firewall_restrict_android_dialog_title">Huomio</string>
   <string name="firewall_restrict_data">Rajoita mobiilidatan käyttöä</string>
   <string name="firewall_restrict_notify_title">%s verkkoa ei voi käyttää</string>
@@ -645,7 +645,7 @@ mikäli unohdat sen"</string>
   <string name="firewall_rule_group_title_mobile">Mobiili</string>
   <string name="firewall_rule_group_title_roaming">Ulkomaan roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
-  <string name="firewall_wifi_dialog_message">Asennettu sovellus ei voi yhdistää internettiin käyttämällä Wi-Fi:ä, kun tämä kytkin on pois päältä.</string>
+  <string name="firewall_wifi_dialog_message">Asennettu sovellus ei voi yhdistää internetiin käyttämällä Wi-Fi:ä, kun tämä kytkin on pois päältä.</string>
   <string name="five_percent_total_pkg">%s (5%% kuukausittaisesta datasta)</string>
   <string name="float_window">桌面悬浮窗</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
@@ -1190,7 +1190,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="permission_action_reject">Kiellä</string>
   <string name="permission_close_permission_control_dialog_msg">Kun käyttöoikeuden hallinta ei ole käytössä, sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin.</string>
   <string name="permission_close_permission_control_dialog_title">Poistetaanko käytöstä?</string>
-  <string name="permission_exception_summary">Joillakin sovelluksilla ei ole käyttöoikeutta yhdistää internettiin</string>
+  <string name="permission_exception_summary">Joillakin sovelluksilla ei ole käyttöoikeutta yhdistää internetiin</string>
   <string name="permission_exception_title">Näytä verkon käyttöoikeudet</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin. Voit ottaa tämän ominaisuudet käyttöön Käyttöoikeus asetuksista.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Käyttöoikeuden hallinta</string>
@@ -1668,7 +1668,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_mifi_insurance">Hanki vuoden vaihtotakuu, joka kattaa myös laitteistovauriot</string>
   <string name="summary_miui_update">Päivitys saatavilla: %s.</string>
   <string name="summary_mms">Estä tekstiviesti spämmi automaattisesti</string>
-  <string name="summary_network_switch">Salli Tietoturva sovelluksen yhdistää internettiin</string>
+  <string name="summary_network_switch">Salli Tietoturva sovelluksen yhdistää internetiin</string>
   <string name="summary_never_flow_verify">Operaattorisi ei ole vahvistanut tätä numeroa</string>
   <string name="summary_payment_risk">Näyttää, että maksuympäristä ei ole turvallinen</string>
   <string name="summary_permission">Vältä ei-toivottuja maksuja suojaa henkilökohtaiset tiedot</string>
@@ -1859,7 +1859,7 @@ Tässä ohjeet:
   <string name="toast_keyword_invalid">Virheellinen avainsana</string>
   <string name="toast_lockscreen_glogin_empty_password">Salasana vaaditaan</string>
   <string name="toast_network_eror">Verkkoon ei saada yhteyttä</string>
-  <string name="toast_network_switch">Tämä sovellus voi yhdistää internettiin</string>
+  <string name="toast_network_switch">Tämä sovellus voi yhdistää internetiin</string>
   <string name="toast_reject_sms_read_permission_success">Asetettu onnistuneesti</string>
   <string name="toast_removed_from_virus_white_list">Poistettiin poikkeuksista. Kohde skannataan seuraavalla kerralla.</string>
   <string name="toast_root_apply_accept">Root oikeus sallittiin sovellukselle %s</string>
