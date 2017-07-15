@@ -243,6 +243,7 @@
   <string name="error_cannot_connect_camera">Kameraan ei saada yhteyttä</string>
   <string name="error_day_limit">Liian monta yrityskertaa yhden päivän aikana</string>
   <string name="error_empty_result">Tuloksia ei löytynyt</string>
+  <string name="error_get_image">Virhe kuvan noutamisessa</string>
   <string name="error_hour_limit">Liian monta yrityskertaa yhden tunnin aikana</string>
   <string name="error_image_error">Tätä kuvaa ei tunnisteta</string>
   <string name="error_invalid_request">Tunnistusvirhe</string>

@@ -137,10 +137,7 @@
   <string name="do_not_ask">Älä näytä uudelleen</string>
   <string name="do_not_support_video_calls_by_remote">Toinen laite ei tue videopuheluita</string>
   <string name="emergency_call_dialog_number_for_display">Hätänumero</string>
-  <string name="fraud_call_answer">Vastaa</string>
-  <string name="fraud_call_decline">Hylkää</string>
-  <string name="fraud_call_waring">Ole varovainen: Kun saat viestejä, jossa käsitellään henkilökohtaisia tietoja, varmista aina yhteystiedon henkilöllisyys joko puhelulla tai videolla ennen vastaamista.</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Puhelun käyttöliittymä</string>
   <string name="incall_call_type_label_sip">Internet-puhelu</string>
   <string name="incall_error_supp_service_conference">Puheluja ei voi yhdistää.</string>
   <string name="incall_error_supp_service_hangup">Puheluja ei voi vapauttaa.</string>
@@ -210,10 +207,6 @@
   <string name="notification_ongoing_call">Puhelu menossa</string>
   <string name="notification_requesting_video_call">Saapuva videopuhelu -pyyntö</string>
   <string name="ok">OK</string>
-  <string name="online_check_provider_info">Tunnistaja %s</string>
-  <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">Aina varmista henkilön henkilöllisyys, joko puhelulla tai videolla, ennen kuin vastaat mihinkään viestiin, jossa käsitellään henkilökohtaisia tietoja.</string>
-  <string name="online_check_warning_type_by_cmb">Spämmi</string>
   <string name="onscreenEndCallText">Lopeta</string>
   <string name="onscreen_add_call_text">Lisää puhelu</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>

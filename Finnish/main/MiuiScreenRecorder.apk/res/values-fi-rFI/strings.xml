@@ -22,6 +22,7 @@
   <string name="error_open_file_failed_no_app_found">Sovellusta ei löytynyt tämän tiedoston avaamista varten</string>
   <string name="frames">Ruudunpäivitysnopeus</string>
   <string name="frames_summary">Korkeampi ruudunpäivitysnopeus vähentää liikkeen epäterävyyttä</string>
+  <string name="frequently_click_toast">Palvelua alustetaan, odota hetki</string>
   <string name="gleam_led_while_recording">Vilkuta LED-valoa nauhoittamisen aikana</string>
   <string name="hint_back">Takaisin</string>
   <string name="hint_home">Koti</string>

@@ -5,6 +5,8 @@
   <string name="action_mode_deselect_all">Poista valinnat</string>
   <string name="action_mode_select_all">Valitse kaikki</string>
   <string name="action_mode_title_empty">Valitse kohteet</string>
+  <string name="actionbar_button_up_description">Takaisin</string>
+  <string name="actionbar_immersion_button_more_description">Lisää</string>
   <string name="activate">Aktivoi</string>
   <string name="activate_fail_notification_title">Uudelleenaktivoi synkronointi</string>
   <string name="activating">Aktivoidaan…</string>
@@ -477,6 +479,7 @@
   <string name="saturday_short">Lauan.</string>
   <string name="saturday_shortest">La</string>
   <string name="search_input_description">Hae</string>
+  <string name="search_mode_button_back_description">Takaisin</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_item">Valitse kohteet</string>
   <string name="send">Lähetä</string>

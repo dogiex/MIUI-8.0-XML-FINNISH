@@ -636,7 +636,6 @@ Yritys tehty: %s."</string>
   <string name="unsupported_media_format">%1$s ei ole tuettu muoto.</string>
   <string name="url_fraud_dangerous_alert">"Verkkosivu johon yrität siirtyä voi olla vaarallinen. Se saattaa vahingoittaa laitettasi ja sen tietoja. Siirrytäänkö siitä huolimatta?
 %s"</string>
-  <string name="url_fraud_insurance">Vakuutuspetos</string>
   <string name="url_fraud_risky_alert">"Verkkosivu johon yrität siirtyä voi olla vaarallinen. Siirrytäänkö siitä huolimatta?
 %s"</string>
   <string name="url_fraud_title">Verkkosivu voi olla väärennös</string>
