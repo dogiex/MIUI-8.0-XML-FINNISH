@@ -252,8 +252,8 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
 1. Käytä eri tiliä.
 2. Siirrä kohteita Ensimmäiseen tilaan."</string>
   <string name="micloud_main_multi_user_error_title">Mi Pilven virhe</string>
-  <string name="micloud_main_network_abnormal">Verkkoon yhdistäminen epäonnistui</string>
-  <string name="micloud_main_network_error">Verkkoon yhdistäminen epäonnistui</string>
+  <string name="micloud_main_network_abnormal">Verkkoon ei voi yhdistää</string>
+  <string name="micloud_main_network_error">Verkkoon ei voi yhdistää</string>
   <string name="micloud_main_query_error_message">Joidenkin palveluiden synkronoinnin valmistumista ei voitu vahvistaa</string>
   <string name="micloud_main_query_error_title">Synkronoinnin etenemisestä ei saatu tietoa</string>
   <string name="micloud_main_set_internet">Verkko</string>
@@ -269,7 +269,7 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_sync_need_charge">Lataa laitteesi</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Yhdistä laturi ja sammuta näyttö synkronoidaksesi</string>
   <string name="micloud_main_sync_now">Synkronoi nyt</string>
-  <string name="micloud_main_sync_on">Synkronointi käytössä</string>
+  <string name="micloud_main_sync_on">Synkronointi päällä</string>
   <string name="micloud_main_sync_on_wifi">Odotetaan Wi-Fi-yhteyttä</string>
   <string name="micloud_main_sync_pause">Synkronointi pysäytetty</string>
   <string name="micloud_main_sync_pending">Odotetaan synkronointia</string>
@@ -277,10 +277,10 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_sync_stop">Synkronointi pysäytetty</string>
   <string name="micloud_main_synced_data_count">%d kohdetta synkronoitu</string>
   <string name="micloud_main_syncing">Synkronoidaan…</string>
-  <string name="micloud_main_title_master_sync_off">Auto-synkronointi ei käytössä</string>
+  <string name="micloud_main_title_master_sync_off">Automaattinen synkronointi on pois päältä</string>
   <string name="micloud_main_title_not_synced">Ei synkronoitu</string>
-  <string name="micloud_main_title_sync_fail">Synkronointi epäonnistui</string>
-  <string name="micloud_main_title_sync_off">Synkronointi ei käytössä</string>
+  <string name="micloud_main_title_sync_fail">Ei voi synkronoida</string>
+  <string name="micloud_main_title_sync_off">Synkronointi pois päältä</string>
   <string name="micloud_main_title_sync_on_wifi">Käytä Wi-Fiä</string>
   <string name="micloud_main_update_space">Hanki lisää tallennustilaa.</string>
   <string name="micloud_main_wlan_sync_data_count">%d kohdetta odottaa synkronointia</string>
@@ -297,9 +297,9 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_member_pay_order_error_toast">Data-virhe</string>
   <string name="micloud_member_refresh_button">Päivitä</string>
   <string name="micloud_member_webload_fail_error_message">Verkkovirhe</string>
-  <string name="micloud_member_webload_fail_toast_4xx">Sivun lataaminen epäonnistui</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Sivua ei voitu ladata</string>
   <string name="micloud_member_webload_fail_toast_5xx">Palvelinvirhe</string>
-  <string name="micloud_more">Lisää tietoa</string>
+  <string name="micloud_more">Lisätietoja</string>
   <string name="micloud_notif_content_battery_low">Akun taso on liian alhainen.</string>
   <string name="micloud_notif_content_clipboard_push">Voit liittää sen mihin tahansa.</string>
   <string name="micloud_notif_content_depend_wifi">Yhdistä Wi-Fi-verkkoon synkronoidaksesi.</string>
@@ -309,13 +309,13 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_notif_content_multi_user_error">Kirjauduit samalla tilillä, kuin Ensimmäisessä tilassa.</string>
   <string name="micloud_notif_content_sync_finish">Tili</string>
   <string name="micloud_notif_content_sync_not_finish">Tiedot</string>
-  <string name="micloud_notif_content_sync_with_off">Synkronoi laitteesi nyt napauttamalla.</string>
-  <string name="micloud_notif_title_battery_low">Mi Pilveen synkronointi epäonnistui</string>
+  <string name="micloud_notif_content_sync_with_off">Napauta synkronoidaksesi laitteesi nyt.</string>
+  <string name="micloud_notif_title_battery_low">Mi Pilveen ei voi synkronoida</string>
   <string name="micloud_notif_title_clipboard_push">Sisältö kopioitiin leikepöydälle</string>
-  <string name="micloud_notif_title_dirty_data">Tietojasi on synkronoimatta</string>
-  <string name="micloud_notif_title_master_depend_wifi">Mi Pilveen ei voida synkronoida</string>
-  <string name="micloud_notif_title_memory_low">Mi Pilveen ei voida synkronoida</string>
-  <string name="micloud_notif_title_multi_user_error">Mi Pilveen ei voida synkronoida</string>
+  <string name="micloud_notif_title_dirty_data">Sinulla on synkronoimattomia kohteita</string>
+  <string name="micloud_notif_title_master_depend_wifi">Mi Pilveen ei voi synkronoida</string>
+  <string name="micloud_notif_title_memory_low">Mi Pilveen ei voi synkronoida</string>
+  <string name="micloud_notif_title_multi_user_error">Mi Pilveen ei voi synkronoida</string>
   <string name="micloud_notif_title_sync_finish">Synkronoitu</string>
   <string name="micloud_notif_title_sync_not_finish">Joitakin kohteita ei ole synkronoitu</string>
   <string name="micloud_notif_title_sync_progress">Synkronoidaan</string>
