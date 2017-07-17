@@ -760,10 +760,10 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Heti</item>
-        <item>30 sekunnin</item>
-        <item>1 minuutin</item>
-        <item>2 minuutin</item>
-        <item>5 minuutin</item>
+        <item>30 sekuntia</item>
+        <item>1 minuutti</item>
+        <item>2 minuuttia</item>
+        <item>5 minuuttia</item>
         <item>Ei koskaan</item>
     </string-array>
     <string-array name="fluency_mode_entries">
