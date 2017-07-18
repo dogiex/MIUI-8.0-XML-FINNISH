@@ -8,6 +8,10 @@
         <item quantity="other">%s sovellusta voi näyttää ilmoituksia</item>
         <item quantity="one">1 sovellus voi näyttää ilmoituksia</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d nappulaa asetettu palkin yläpuolelle on aktiivisia</item>
+        <item quantity="one">1 nappula asetettu palkin yläpuolelle on aktiivinen</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Enää %1$d vaihetta, niin sinusta tulee kehittäjä.</item>
         <item quantity="one">Enää %1$d vaihe, niin sinusta tulee kehittäjä.</item>

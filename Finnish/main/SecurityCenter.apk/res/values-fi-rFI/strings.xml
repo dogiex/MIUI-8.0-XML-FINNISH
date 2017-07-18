@@ -113,6 +113,8 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="apn_exception_title">Tarkista APN määritykset</string>
   <string name="app_check_no_issue">Näyttää siltä, että akkuongelmia ei löytynyt. Siistiä!</string>
   <string name="app_detail">Tiedot</string>
+  <string name="app_error_tip_for_launcher">Laitteesi laitteistokomponentit tai Androidin järjestelmäversio saattaa aiheuttaa yhteensopivuusongelmia, joka aiheuttaa joidenkin sovelluksien oudon käyttäytymisen, jäätymisen tai pakkolopettamisen. Jos kohtaat tällaisia ongelmia, jaa palautteesi sovelluskehittäjien kanssa.</string>
+  <string name="app_error_tip_for_store">Laitteesi laitteistokomponentit tai Androidin järjestelmäversio saattaa aiheuttaa yhteensopivuusongelmia, joka saattaa johtaa siihen, että joidenkin sovelluksien asentaminen epäonnistuu. Jos kohtaat tällaisia ongelmia tai jotkut sovellukset käyttäytyy omituisesti, jäätyilee tai pakkolopetetaan, odota kunnes sovelluskehittäjät ovat korjanneet virheet ja yritä asentaa sovellus uudelleen.</string>
   <string name="app_install_intercept">Estä asennus</string>
   <string name="app_install_tips_go_to">Avaa</string>
   <string name="app_install_tips_install_success">%1$s asennettiin onnistuneesti</string>
@@ -572,8 +574,9 @@ mikäli unohdat sen"</string>
   <string name="dlg_remove_address_whitelist">Poistetaanko tämä sijainti poikkeuksista?</string>
   <string name="dlg_remove_blacklist">Poistetaanko nämä numerot mustalta listalta?</string>
   <string name="dlg_remove_blacklist_ing">Poistetaan…</string>
-  <string name="dlg_remove_blacklist_ok">Poista</string>
-  <string name="dlg_remove_whitelist_content">Poistetaanko nämä numerot poikkeuksista?</string>
+  <string name="dlg_remove_blacklist_title">Poista</string>
+  <string name="dlg_remove_ok">Poista</string>
+  <string name="dlg_remove_whitelist">Poistetaanko nämä numerot poikkeuksista?</string>
   <string name="dlg_remove_whitelist_ing">Poistetaan…</string>
   <string name="dlg_remove_whitelist_title">Poista</string>
   <string name="dlg_title_not_open_stranger_identify">Soittajan ID</string>
@@ -729,7 +732,7 @@ mikäli unohdat sen"</string>
   <string name="item_usb_debug">USB-virheenkorjaus</string>
   <string name="item_virus_lib">Päivitä virustunnisteet automaattisesti</string>
   <string name="keywords_antispam">Estolista;Esto;Musta lista;Älykäs estolista;Petos;Myyjä;Agentit;Puhelun estolista;Viestin estolista;Viestien estolista;Tekstiviestin estolista;mustalista;musta lista;estolista;esto lista;estä yhteystieto;estä yhteystietoja</string>
-  <string name="keywords_antivirus">Virus;Riski;Antivirus;Skannaa</string>
+  <string name="keywords_antivirus">Virus;Riski;Antivirus;Skannaa;Tietoturvatarkistus;Tarkista;Tarkista maksamisen tietoturva;maksamisen tietoturva;turvallinen maksaminen;turvalliset maksut;maksujen turvaaminen;suojaa maksaminen;suojatut maksut;turvallinen alue;maksualue</string>
   <string name="keywords_app_permissions">Käyttöoikeudet;Sijainti;Pääsy yhteystietoihin;Käyttöoikeudet;Sovelluksen käyttöoikeudet</string>
   <string name="keywords_auto_restart">Käynnistys;Käyttöoikeudet;Käynnistä automaattisesti;Automaattikäynnistys;Hallitse käynnistystä;MIUI käynnistys;Sovelluksen käynnistys;käynnistä sovellus automaattisesti;Ketjumainen käynnistys;Ketjuttainen käynnistys;käynnistä</string>
   <string name="keywords_buy_flow">data;mobiilidata;osta dataa;osta mobiilidataa;topup dataa;datapaketti</string>
@@ -737,7 +740,6 @@ mikäli unohdat sen"</string>
   <string name="keywords_networkassistant_1">Data;Liikenne</string>
   <string name="keywords_networkassistant_2">Data;Kalibroi</string>
   <string name="keywords_networkassistant_4">Yhteys;Internet;Testi</string>
-  <string name="keywords_payment_security">Tarkista maksun turvallisuus;maksun turvallisuus;turvallinen maksaminen;turvalliset maksut;maksun turvaaminen;turvaa maksut;turvatut maksut;turvallinen tila;maksutila</string>
   <string name="keywords_powercenter">Säästä akkua;Kuumenee;Ota käyttöön;Poista käytöstä;Akku;Tyhjentyy;Akku;Akkuongelmat;Virta;Vuotaa;Kuumenee;Virransäästö;Virransäästäjä;Virran säästö;Akun säästö</string>
   <string name="keywords_powercenter_powerrank">Akun käyttö</string>
   <string name="keywords_securitycenter">Tietoturva;Tarkista;Skannaa</string>
@@ -1171,7 +1173,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="path_networkassistant_1">Järjestelmäsovellukset/Tietoturva/Datan käyttö</string>
   <string name="path_networkassistant_2">Järjestelmäsovellukset/Tietoturva/Datan käyttö</string>
   <string name="path_networkassistant_4">Järjestelmäsovellukset/Tietoturva/Datan käyttö/Testaa verkko</string>
-  <string name="path_payment_security">Järjestelmäsovellukset/Tietoturva/Maksun turvallisuus</string>
   <string name="path_powercenter">Järjestelmäsovellukset/Tietoturva/Akun käyttö</string>
   <string name="path_powercenter_powerrank">Akku &amp; suorituskyky/Akun käyttö</string>
   <string name="path_securitycenter">Järjestelmäsovellukset/Tietoturva</string>
@@ -1401,7 +1402,6 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="resource_networkassistant_1">Datan käyttö</string>
   <string name="resource_networkassistant_2">Kalibroi datapaketti</string>
   <string name="resource_networkassistant_4">Testaa verkko</string>
-  <string name="resource_payment_security">Maksun turvallisuus</string>
   <string name="resource_powercenter">Akun käyttö</string>
   <string name="resource_powercenter_powerrank">Akku &amp; suorituskyky</string>
   <string name="resource_securitycenter">Tietoturva</string>

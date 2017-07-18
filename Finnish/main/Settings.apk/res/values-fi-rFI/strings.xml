@@ -3482,7 +3482,6 @@ Näytön kiinnityksen käyttö:
   <string name="settings_safetylegal_title">Suojaustiedot</string>
   <string name="settings_shortcut">Asetukset-pikakuvake</string>
   <string name="settings_toggle_position_divider_list">Nappulat palkin yläpuolella on aktiivisia</string>
-  <string name="settings_toggle_position_divider_page">%1$d yläpuolella olevaa nappulaa on aktiivisia</string>
   <string name="setup_fingerprint_enroll_finish_message">Voit avata laitteesi lukituksen koskettamalla sormenjälkianturia.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Voit käyttää sormenjälkeäsi, kun tämä kuvake on näkyvissä.</string>
   <string name="setup_wifi_nfc_tag">Määritä Wi-Fi ja NFC-tagi</string>

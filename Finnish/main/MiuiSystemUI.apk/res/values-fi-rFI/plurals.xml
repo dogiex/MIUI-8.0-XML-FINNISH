@@ -4,9 +4,25 @@
         <item quantity="other">%d viimeaikaista sovellusta</item>
         <item quantity="one">1 viimeaikainen sovellus</item>
     </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Avattiin Viimeaikaiset, käytettävissä olevat sovellukset: %d.</item>
+        <item quantity="one">Avattiin Viimeaikaiset, käytettävissä oleva sovellus: 1.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Avattiin Viimeaikaiset, käytettävissä olevat sovellukset: %d. Pyyhkäise ylös poistaaksesi, pyyhkäise alas lukitaksesi.</item>
+        <item quantity="one">Avattiin Viimeaikaiset, käytettävissä oleva sovellus: 1. Pyyhkäise ylös poistaaksesi, pyyhkäise alas lukitaksesi.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d nappulaa tämän palkin yläpuolella on aktiivisia</item>
+        <item quantity="one">1 nappula tämän palkin yläpuolella on aktiivinen</item>
+    </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Piilotetaanko %d sovelluksien ilmoitukset?</item>
         <item quantity="one">Piilotetaanko tämän sovelluksen ilmoitukset?</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Piilotetaan ilmoitukset %1$s &amp; %2$d muusta sovelluksesta.</item>
+        <item quantity="one">Piilotetaan ilmoitukset %1$s &amp; 1 muusta sovelluksesta.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Selkeä</item>
