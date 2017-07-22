@@ -639,7 +639,6 @@
   <string name="custom_select_title_select_all">Valitse kaikki</string>
   <string name="custom_select_title_select_item">Valitse kohteet</string>
   <string name="debugging_tip">Luodaan virheenkorjaustiedot</string>
-  <string name="default_album_name">Uusi albumi</string>
   <string name="default_relation_name">Uusi ryhmä</string>
   <string name="define_by_user">Oma valinta</string>
   <string name="delete">Poista</string>

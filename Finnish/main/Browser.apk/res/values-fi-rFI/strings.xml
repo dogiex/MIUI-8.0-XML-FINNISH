@@ -419,6 +419,7 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_btn_close">Sulje</string>
   <string name="miuichromium_error_page_btn_refresh">Päivitä</string>
   <string name="miuichromium_error_page_btn_report_issue">Ilmoita ongelmasta</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">Verkkoon ei voitu yhdistää heikon signaalin tai virheellisen verkkomäärityksen takia. Tarkista %s1verkkoasetuksesi%s2 ja yritä uudelleen.</string>
   <string name="miuichromium_error_page_diagnose">Verkkodiagnostiikka</string>
   <string name="miuichromium_error_page_diagnose_banner">Verkkodiagnostiikka</string>
   <string name="miuichromium_error_page_diagnose_certificate">Verkkoprotokollaa ei voitu vahvistaa</string>
@@ -435,9 +436,57 @@ Poistutaanko tältä sivulta?"</string>
   <string name="miuichromium_error_page_network_hijack">Nykyinen verkko ei ole turvallinen</string>
   <string name="miuichromium_error_page_network_off">Ota Wi-Fi tai mobiilidata käyttöön</string>
   <string name="miuichromium_error_page_no_network">Verkkoon ei saada yhteyttä</string>
+  <string name="miuichromium_error_page_problem_access_denied">%s0 käyttö hylättiin</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Tätä sivua ei voi ladata välimuistista</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">Sivua ei voi avata</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">Sivustoa ei tavoiteta</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Yhteys keskeytettiin</string>
+  <string name="miuichromium_error_page_problem_file_not_found">Tiedostoa ei löytynyt</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 kesti liian kauan vastata</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Verkon käyttö on rajallinen</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">Internetiin ei voitu yhdistää</string>
+  <string name="miuichromium_error_page_problem_page_moved">%s0 oleva sivu saattaa olla siirretty tai poistettu</string>
+  <string name="miuichromium_error_page_problem_page_not_found">Tätä sivua ei löytynyt kohteesta %s0</string>
+  <string name="miuichromium_error_page_problem_page_not_working">Tämä sivu ei toimi</string>
+  <string name="miuichromium_error_page_problem_security_error">Tämä sivusto ei voi tarjota turvallista yhteyttä</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 ei tällä hetkellä pysty käsittelemään tätä pyyntöä</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" koska %s0 ei hyväksynyt varmennettasi"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 ei noudata turvallisuusvaatimuksia"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. Käyttö on estetty %s0 toimesta</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 keskeytti yhteyden</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 kieltäytyi yhdistämästä</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Yhteys katkaistiin</string>
+  <string name="miuichromium_error_page_reason_device_slept">" kun laitteesi meni lepotilaan"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" koska %s0 ei lähettänyt yhtään dataa"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. IP-osoite tai portin numero on virheellinen</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" koska %s0 lähetti virheellisen vastauksen"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" koska URL-osoite on virheellinen"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Se saattaa olla siirretty tai poistettu</string>
+  <string name="miuichromium_error_page_reason_name_collision">. Tämä intranetissä olevalla sivustolla on sama URL-osoite, kuin ulkoisella verkkosivulla</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". DNS-osoitetta ei löydetty kohteelle %s0"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" verkon vaihtumisen takia"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Jotakin on vialla proxy-palvelimen kanssa tai proxy-osoite on virheellinen</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 ei ole tällä hetkellä saatavilla</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 ei vastaa liian pitkään aikaan"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" koska %s0 uudelleenohjasi sinut liian monta kertaa"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 käyttää turvatonta porttinumeroa</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 uudelleenohjaa sinua turvattomalla tavalla</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 käyttää protokollaa, jota ei tueta</string>
   <string name="miuichromium_error_page_reload">Päivitä</string>
   <string name="miuichromium_error_page_safe_network">Vikatila</string>
   <string name="miuichromium_error_page_server_error">Liian monta laitetta yrittää yhdistää</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Tarkista laitteellesi asennetun proxy-sovelluksien asetukset.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Tarkista Internetyhteytesi.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiilidata) Palauta %s1APN asetuksesi%s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">Tarkista syöttämäsi URL-osoite.</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Tarkista %s1proxy asetuksesi%s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Tyhjennä välimuisti (%s1Asetukset%s2 - Tyhjennä tiedot).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Tyhjennä välimuisti ja evästeet (%s1Asetukset%s2 - Tyhjennä tiedot, tilisi tiedot saattaa hävitä).</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Päivitä internetiin yhdistämisen jälkeen</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Ota yhteyttä järjestelmänvalvojaasi.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">Tarkista syöttämäsi osoite ja yritä uudelleen oikealla URL-osoitteella.</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Päivitä sen jälkeen, kun olet antanut Selaimelle käyttöoikeuden käyttää internetiä.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Kokeile tätä:</string>
   <string name="miuichromium_error_page_title">Tapahtui virhe</string>
   <string name="miuichromium_error_page_unknown_error">Hupsista, jotain meni mönkään</string>
   <string name="miuichromium_error_page_wlan">Ota Wi-Fi käyttöön</string>
