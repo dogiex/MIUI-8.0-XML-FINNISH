@@ -276,6 +276,7 @@ Aseta laitteet lähekkäin (yleensä taustat vastakkain) ja kosketa näyttöä. 
   <string name="application_lock_name">Sovelluslukko</string>
   <string name="application_manager_section_title">Sovellusasetukset</string>
   <string name="application_permission_manager">Sovellusten käyttöoikeudet</string>
+  <string name="application_permissions">Sovellusten käyttöoikeudet</string>
   <string name="application_restrictions">Sovellusten ja sisällön salliminen</string>
   <string name="application_size_label">Sovellus</string>
   <string name="applications_settings">Asennetut sovellukset</string>
@@ -846,6 +847,10 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="close_gesture">Sulje käyttäen elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
+  <string name="cloud_backup_section_title">Mi Pilven varmuuskopiointi</string>
+  <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
+  <string name="cloud_restore_section_summary">Palauta sovelluksia, Kotinäytön ulkoasu ja järjestelmän asetukset</string>
+  <string name="cloud_restore_section_title">Palauta Mi Pilvestä</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
   <string name="color_black">Musta</string>
   <string name="color_blue">Sininen</string>
@@ -2087,6 +2092,9 @@ Voit asettaa uuden näytön lukituksen molempiin sekä laitteeseesi, että työp
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="lockscreen_remote_input">Jos laite on lukittuna, estä kirjoittamasta vastauksia tai muuta tekstiä ilmoituksissa</string>
+  <string name="login_account_dialog_message">Kirjaudu sisään Mi Tililläsi ja ota Mi Pilven synkronointi käyttöön.</string>
+  <string name="login_account_dialog_title">Kirjaudu sisään Mi Tilillä</string>
+  <string name="login_action">Kirjaudu sisään</string>
   <string name="long_press_volume_down">Paina pitkään Ääni alas-painiketta</string>
   <string name="lte_4g_settings_4gdisable_summary">4G Ei käytössä</string>
   <string name="lte_4g_settings_4genable_summary">4G Käytössä</string>
@@ -2699,7 +2707,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_usage_summary">Mikä on käyttänyt akkua</string>
   <string name="power_usage_summary_title">Akku &amp; suorituskyky</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="ppp_number">ppp_number</string>
+  <string name="pre_installed_application">Esiasennetut sovellukset</string>
   <string name="pref_button_light">Painikkeiden valot</string>
   <string name="pref_button_light_summary">Valaise Valikko-, Koti- ja Takaisin-painikkeet</string>
   <string name="pref_edge_handgrip">Reunan säätimet</string>

@@ -149,7 +149,9 @@
   <string name="mipay">Maksu</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Pankkikortti</string>
+  <string name="mipay_identitiy_no">ei</string>
   <string name="mipay_identity">ID vahvistus</string>
+  <string name="mipay_indentity_done">valmis</string>
   <string name="mipay_others">Muu</string>
   <string name="mipay_transit_card">Matkakortti</string>
   <string name="multi_user_not_show_sync_activity_message_1">Näyttää siltä, että käytät Mi Tiliä Ensimmäisessä tilassa.</string>

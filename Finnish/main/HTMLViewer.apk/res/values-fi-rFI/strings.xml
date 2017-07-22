@@ -12,6 +12,7 @@
   <string name="open_wifi_connect_title">Yhdistetty kohteeseen %1$s</string>
   <string name="permdesc_accessDrm">Sallii sovelluksen käyttää DRM-suojattua sisältöä.</string>
   <string name="policy_name">Protokolla: %s</string>
+  <string name="pre_installed_apps">Esiasennetut sovellukset</string>
   <string name="settings_ad_loading">Odota hetki…</string>
   <string name="settings_ad_loading_unavailable">Tietoja ei voitu ladata.</string>
   <string name="settings_license_activity_loading">Odota hetki…</string>

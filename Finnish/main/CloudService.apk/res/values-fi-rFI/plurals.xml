@@ -56,4 +56,12 @@
         <item quantity="other">%d estolistan merkintää</item>
         <item quantity="one">%d estolistan merkintä</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Jatka synkronointia %d tunnin kuluttua</item>
+        <item quantity="one">Jatka synkronointia %d tunnin kuluttua</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Jatka synkronointia %d minuutin kuluttua</item>
+        <item quantity="one">Jatka synkronointia %d minuutin kuluttua</item>
+    </plurals>
 </resources>

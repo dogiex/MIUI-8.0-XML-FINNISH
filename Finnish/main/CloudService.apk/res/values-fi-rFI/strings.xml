@@ -186,14 +186,13 @@ Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti täm
   <string name="micloud_detail_lastest_with_off">Synkronoitu</string>
   <string name="micloud_detail_need_charge_or_sleep">Yhdistä laturi ja sammuta näyttö synkronoidaksesi</string>
   <string name="micloud_detail_not_sync">%d odottaa synkronointia</string>
+  <string name="micloud_detail_not_syncable">Ei synkronoitavissa</string>
   <string name="micloud_detail_not_synced">Ei synkronoitu</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pause">Synkronointi pysäytetty</string>
   <string name="micloud_detail_pending">Odottaa</string>
   <string name="micloud_detail_preference_sync_items">Kohdetta</string>
   <string name="micloud_detail_query_error">Synkronoinnin edistymisestä ei saatu tietoa</string>
-  <string name="micloud_detail_query_error_detail">Joidenkin palveluiden synkronoinnin valmistumista ei voitu vahvistaa. Voit ottaa yhteyttä kehittäjiin Palaute sovelluksella.</string>
-  <string name="micloud_detail_query_error_title">Synkronoinnin edistymisestä ei saatu tietoa</string>
   <string name="micloud_detail_success">Synkronoitu</string>
   <string name="micloud_detail_sync_now">Synkronoi nyt</string>
   <string name="micloud_detail_syncing">Synkronoidaan</string>
@@ -240,24 +239,33 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_full_influence_title">Kun Mi Pilvesi on täynnä…</string>
   <string name="micloud_main_battery_low">Akun taso on liian alhainen synkronointia varten</string>
   <string name="micloud_main_battery_message">Yhdistä laturi synkronoidaksesi</string>
+  <string name="micloud_main_button_activate">Aktivoi</string>
+  <string name="micloud_main_button_authorize">Valtuuta</string>
+  <string name="micloud_main_button_set_internet">Asetus</string>
   <string name="micloud_main_cancel_sync">Peruuta synkronointi</string>
   <string name="micloud_main_clear_now">Tyhjennä</string>
   <string name="micloud_main_detail">Näytä tiedot</string>
+  <string name="micloud_main_error_activated_fail">Ole hyvä ja aktivoi SIM-kortti.</string>
+  <string name="micloud_main_error_network_disallowed">Ole hyvä ja varmista Internetin käyttöoikeus.</string>
+  <string name="micloud_main_error_permission_limit">Ole hyvä ja valtuuta Mi Pilvelle käyttöoikeus tietokantoihin.</string>
   <string name="micloud_main_last_sync_time">Viimeksi synkronoitu %s</string>
+  <string name="micloud_main_master_sync_on">Synkronointi päällä</string>
   <string name="micloud_main_memory_low_message">Synkronoidaksesi, poista ensin pilvessä olevia kohteita.</string>
   <string name="micloud_main_memory_low_title">Puhelimen sisäinen tallennustila on lähes täynnä</string>
+  <string name="micloud_main_message_master_sync_off">Automaattisen synkronoinnin asetus on ilmoituspalkissa.</string>
   <string name="micloud_main_message_not_synced">%s dataa ei ole synkronoitu</string>
-  <string name="micloud_main_multi_user_error_message">"Kirjauduit sisään samalla tilillä, kuin Ensimmäisessä tilassa, joka johti Mi Pilven virheeseen. Jos tahdot varmuuskopioida tiedostot:
-
-1. Käytä eri tiliä.
-2. Siirrä kohteita Ensimmäiseen tilaan."</string>
+  <string name="micloud_main_multi_user_error_message">"Kirjauduit sisään samalla tilillä, kuin Ensimmäisessä tilassa, joka johti Mi Pilven virheeseen.
+Käytä eri tiliä."</string>
   <string name="micloud_main_multi_user_error_title">Mi Pilven virhe</string>
   <string name="micloud_main_network_abnormal">Verkkoon ei voi yhdistää</string>
   <string name="micloud_main_network_error">Verkkoon ei voi yhdistää</string>
+  <string name="micloud_main_query_again">Kysely</string>
   <string name="micloud_main_query_error_message">Joidenkin palveluiden synkronoinnin valmistumista ei voitu vahvistaa</string>
   <string name="micloud_main_query_error_title">Synkronoinnin etenemisestä ei saatu tietoa</string>
+  <string name="micloud_main_resume_sync_soon">Jatka synkronointia pian</string>
   <string name="micloud_main_set_internet">Verkko</string>
   <string name="micloud_main_space_full">Pilven tallennustila on täynnä</string>
+  <string name="micloud_main_space_full_message">Päivittämällä jäseneksi saat lisää tallennustilaa</string>
   <string name="micloud_main_space_full_title">Tallennustilaa ei ole tarpeeksi, synkronointi pysäytetty</string>
   <string name="micloud_main_space_low">Tallennustila on lähes täynnä</string>
   <string name="micloud_main_stop_sync">Synkronointi pysäytetty</string>
@@ -266,7 +274,6 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_suggest_sync">Kaikkea ei voitu synkronoida</string>
   <string name="micloud_main_sync_exception">Synkronointivirhe</string>
   <string name="micloud_main_sync_init">Haetaan tietoja</string>
-  <string name="micloud_main_sync_need_charge">Lataa laitteesi</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Yhdistä laturi ja sammuta näyttö synkronoidaksesi</string>
   <string name="micloud_main_sync_now">Synkronoi nyt</string>
   <string name="micloud_main_sync_on">Synkronointi päällä</string>
@@ -283,6 +290,11 @@ Korjataksesi asian, voit joko tehdä tilaa uusille poistamalla vanhoja tiedostoj
   <string name="micloud_main_title_sync_off">Synkronointi pois päältä</string>
   <string name="micloud_main_title_sync_on_wifi">Käytä Wi-Fiä</string>
   <string name="micloud_main_update_space">Hanki lisää tallennustilaa.</string>
+  <string name="micloud_main_wait_charge">Odotetaan, että laturi yhdistetään</string>
+  <string name="micloud_main_wait_charge_sleep">Odotetaan, että laturi yhdistetään ja näyttö sammutetaan</string>
+  <string name="micloud_main_wait_wlan">Odotetaan Wi-Fiä</string>
+  <string name="micloud_main_wait_wlan_charge">Odotetaan Wi-Fiä ja laturin yhdistämistä</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Odotetaan Wi-Fiä, laturin yhdistämistä ja näytön sammuttamista</string>
   <string name="micloud_main_wlan_sync_data_count">%d kohdetta odottaa synkronointia</string>
   <string name="micloud_member">Mi Pilven jäsenyys</string>
   <string name="micloud_member_advantage">Hanki lisää tallennustilaa.</string>
