@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_minutes_labels">
-        <item>Ei muistutusta</item>
-        <item>0 minuuttia</item>
-        <item>5 minuuttia</item>
-        <item>10 minuuttia</item>
-        <item>15 minuuttia</item>
-        <item>30 minuuttia</item>
-        <item>1 tunti</item>
-        <item>1 päivä</item>
-        <item>2 päivää</item>
-        <item>1 viikko</item>
+    <string-array name="aquarius_info">
+        <item>vesimies</item>
+        <item>Vesimies</item>
+        <item>20.1. - 18.2.</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>ensimmäinen</item>
-        <item>toinen</item>
-        <item>kolmas</item>
-        <item>neljäs</item>
-        <item>viimeinen</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Ei vastausta</item>
-        <item>Kyllä</item>
-        <item>Ehkä</item>
-        <item>Ei</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Vain tämä tapahtuma</item>
-        <item>Tämä ja tulevat tapahtumat</item>
-        <item>Kaikki tapahtumat</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Tämä ja tulevat tapahtumat</item>
-        <item>Kaikki tapahtumat</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Vain tämä tapahtuma</item>
-        <item>Kaikki toistokerrat</item>
+    <string-array name="aries_info">
+        <item>oinas</item>
+        <item>Oinas</item>
+        <item>21.3. - 19.4.</item>
     </string-array>
     <string-array name="buttons_list">
         <item>Päivä</item>
@@ -44,9 +16,23 @@
         <item>Kuukausi</item>
         <item>Tapahtumat</item>
     </string-array>
-    <string-array name="widget_style_list">
-        <item>Läpinäkyvä</item>
-        <item>Valkoinen tausta</item>
+    <string-array name="cancer_info">
+        <item>rapu</item>
+        <item>Rapu</item>
+        <item>22.6. - 22.7.</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>kauris</item>
+        <item>Kauris</item>
+        <item>22.12. - 19.1.</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Kaikki toistokerrat</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Eteenpäin</item>
+        <item>Taaksepäin</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Tapahtuman alkaessa</item>
@@ -59,6 +45,42 @@
         <item>2 päivää ennen</item>
         <item>1 viikkoa ennen</item>
     </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Tämä ja tulevat tapahtumat</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tämä ja tulevat tapahtumat</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>kaksoset</item>
+        <item>Kaksoset</item>
+        <item>21.5. - 21.6.</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leijona</item>
+        <item>Leijona</item>
+        <item>23.7. - 22.8.</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>vaaka</item>
+        <item>Vaaka</item>
+        <item>23.9. - 23.10.</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ensimmäinen</item>
+        <item>toinen</item>
+        <item>kolmas</item>
+        <item>neljäs</item>
+        <item>viimeinen</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>kalat</item>
+        <item>Kalat</item>
+        <item>19.2. - 20.3.</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Aina</item>
         <item>Vain äänettömällä</item>
@@ -70,24 +92,17 @@
         <item>Sunnuntai</item>
         <item>Maanantai</item>
     </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 tuntia ennen</item>
-        <item>4 tuntia ennen</item>
-        <item>5 tuntia ennen</item>
-        <item>6 tuntia ennen</item>
-        <item>1 päivää ennen</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>päivä</item>
-        <item>viikko</item>
-        <item>kuukausi</item>
-        <item>vuosi</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>päivää</item>
-        <item>viikkoa</item>
-        <item>kuukautta</item>
-        <item>vuotta</item>
+    <string-array name="reminder_minutes_labels">
+        <item>Ei muistutusta</item>
+        <item>0 minuuttia</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>1 päivä</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -122,14 +137,10 @@
         <item>30.</item>
         <item>31.</item>
     </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Ma</item>
-        <item>Ti</item>
-        <item>Ke</item>
-        <item>To</item>
-        <item>Pe</item>
-        <item>La</item>
-        <item>Su</item>
+    <string-array name="repeat_choose_end">
+        <item>Ei koskaan</item>
+        <item>Aika</item>
+        <item>Toistokerta</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Tammi</item>
@@ -157,19 +168,52 @@
         <item>Viikonloppu</item>
         <item>Koko viikko</item>
     </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Ei koskaan</item>
-        <item>Aika</item>
-        <item>Toistokerta</item>
+    <string-array name="repeat_choose_weekday">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
     </string-array>
-	<string-array name="repeat_countdown">
+    <string-array name="repeat_countdown">
         <item>Ei koskaan</item>
         <item>Kuukausittain</item>
         <item>Vuosittain</item>
     </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>Eteenpäin</item>
-        <item>Taaksepäin</item>
+    <string-array name="repeat_frequency_spinner">
+        <item>päivä</item>
+        <item>viikko</item>
+        <item>kuukausi</item>
+        <item>vuosi</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>päivää</item>
+        <item>viikkoa</item>
+        <item>kuukautta</item>
+        <item>vuotta</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Ei vastausta</item>
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>jousimies</item>
+        <item>Jousimies</item>
+        <item>23.11. - 21.12.</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>skorpioni</item>
+        <item>Skorpioni</item>
+        <item>24.10. - 22.11.</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>härkä</item>
+        <item>Härkä</item>
+        <item>20.4. - 20.5.</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshallsaaret</item>
@@ -257,6 +301,18 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 tuntia ennen</item>
+        <item>4 tuntia ennen</item>
+        <item>5 tuntia ennen</item>
+        <item>6 tuntia ennen</item>
+        <item>1 päivä ennen</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>neitsyt</item>
+        <item>Neitsyt</item>
+        <item>23.8. - 22.9.</item>
+    </string-array>
     <string-array name="week_header_name">
         <item>SU</item>
         <item>MA</item>
@@ -265,5 +321,9 @@
         <item>TO</item>
         <item>PE</item>
         <item>LA</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Läpinäkyvä</item>
+        <item>Valkoinen tausta</item>
     </string-array>
 </resources>

@@ -136,30 +136,6 @@
         <item quantity="few">Löytyi %1$d uutta tiedostoa</item>
         <item quantity="many">Löytyi %1$d uutta tiedostoa</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Received %1$d files of App %2$s</item>
-        <item quantity="zero">Received %1$d file of App %2$s</item>
-        <item quantity="one">Received %1$d file of App %2$s</item>
-        <item quantity="two">Received %1$d files of App %2$s</item>
-        <item quantity="few">Received %1$d files of App %2$s</item>
-        <item quantity="many">Received %1$d files of App %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Received %1$d files of WeChat</item>
-        <item quantity="zero">Received %1$d file of WeChat</item>
-        <item quantity="one">Received %1$d file of WeChat</item>
-        <item quantity="two">Received %1$d files of WeChat</item>
-        <item quantity="few">Received %1$d files of WeChat</item>
-        <item quantity="many">Received %1$d files of WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d WeChat videos are about to expire</item>
-        <item quantity="zero">%1$d WeChat videos are about to expire</item>
-        <item quantity="one">%1$d WeChat video is about to expire</item>
-        <item quantity="two">%1$d WeChat videos are about to expire</item>
-        <item quantity="few">%1$d WeChat videos are about to expire</item>
-        <item quantity="many">%1$d WeChat videos are about to expire</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
         <item quantity="zero">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
@@ -167,22 +143,6 @@
         <item quantity="two">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
         <item quantity="few">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
         <item quantity="many">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d new WeChat stickers today</item>
-        <item quantity="zero">%1$d new WeChat sticker today</item>
-        <item quantity="one">%1$d new WeChat sticker today</item>
-        <item quantity="two">%1$d new WeChat stickers today</item>
-        <item quantity="few">%1$d new WeChat stickers today</item>
-        <item quantity="many">%1$d new WeChat stickers today</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Backed up %1$d WeChat videos.</item>
-        <item quantity="zero">Backed up %1$d WeChat videos.</item>
-        <item quantity="one">Backed up %1$d WeChat video.</item>
-        <item quantity="two">Backed up %1$d WeChat videos.</item>
-        <item quantity="few">Backed up %1$d WeChat videos.</item>
-        <item quantity="many">Backed up %1$d WeChat videos.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Löytyi %1$s uutta videota</item>
@@ -267,10 +227,6 @@
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Päivitä asemasi hankkimalla %1$d seuraajaa lisää​</item>
         <item quantity="one">Päivitä asemasi hankkimalla %1$d seuraaja lisää​</item>
-    </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">%1$s tykkäystä</item>
-        <item quantity="one">%1$s tykkäys</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s jalokiveä</item>
