@@ -131,7 +131,7 @@
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
-  <string name="connected_via_wfa">Yhteys muodostettu Wi‑Fi-apurin kautta</string>
+  <string name="connected_via_wfa">Yhteys muodostettu Wi-Fi-apurin kautta</string>
   <string name="content_description_menu_button">Valikko</string>
   <string name="convert_to_fbe_warning">"Muunna dataosio tiedostopohjaiseksi salaukseksi.
  Varoitus! Kaikki tiedot poistetaan.
@@ -384,7 +384,7 @@
   <string name="wifi_remembered">Tallennettu</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_verbose_logging">Käytä Wi-Fin laajennettua lokikirjausta</string>
-  <string name="wifi_verbose_logging_summary">Lisää Wi‑Fin lokikirjaustasoa, näytä SSID RSSI -kohtaisesti Wi‑Fi-valitsimessa.</string>
+  <string name="wifi_verbose_logging_summary">Lisää Wi-Fin lokikirjaustasoa, näytä SSID RSSI -kohtaisesti Wi-Fi-valitsimessa.</string>
   <string name="window_animation_scale_title">Ikkuna</string>
   <string name="yes">Kyllä</string>
 </resources>

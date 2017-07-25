@@ -481,7 +481,7 @@
   <string name="connect_disconnect_vibrate_weak">Kevyt</string>
   <string name="connect_later">Tähän verkkoon ei saa yhteyttä juuri nyt. Yritä myöhemmin uudelleen.</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
-  <string name="connected_via_wfa">Yhteys muodostettu Wi‑Fi-apurin kautta</string>
+  <string name="connected_via_wfa">Yhteys muodostettu Wi-Fi-apurin kautta</string>
   <string name="connection_service_default_label">Oletusyhteyspalvelu</string>
   <string name="contactAddFailed">Yhteystietoa ei voi lisätä SIM-kortille</string>
   <string name="contactAddSuccess">Yhteystieto lisättiin SIM-kortille.</string>
@@ -1664,7 +1664,7 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="wifi_remembered">Tallennettu</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_verbose_logging">Käytä Wi-Fin laajennettua lokikirjausta</string>
-  <string name="wifi_verbose_logging_summary">Lisää Wi‑Fin lokikirjaustasoa, näytä SSID RSSI -kohtaisesti Wi‑Fi-valitsimessa.</string>
+  <string name="wifi_verbose_logging_summary">Lisää Wi-Fin lokikirjaustasoa, näytä SSID RSSI -kohtaisesti Wi-Fi-valitsimessa.</string>
   <string name="wild_prompt_str">Muuta jokerimerkiksi</string>
   <string name="window_animation_scale_title">Ikkuna</string>
   <string name="wrong_password">Syöttämäsi salasana on väärin</string>
