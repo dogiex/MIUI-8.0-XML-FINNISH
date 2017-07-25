@@ -90,8 +90,8 @@
   <string name="conference_caller_info_name">%1$s konferenssipuhelu</string>
   <string name="conference_caller_name_me">Minä</string>
   <string name="conference_callers_exceeded">Henkilöitä ei voi lisätä enempää</string>
-  <string name="contactPhoto">Yhteystiedon kuva</string>
   <string name="contacts_icon_label">Yhteystiedot</string>
+  <string name="default_area_code_setting">Oletus aluekoodi</string>
   <string name="description_image_button_answer">Vastaa pyyhkäisemällä ylös</string>
   <string name="description_image_button_dialpad">Numerovalitsin</string>
   <string name="description_image_button_eight">kahdeksan</string>

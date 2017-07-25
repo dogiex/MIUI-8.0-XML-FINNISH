@@ -20,7 +20,6 @@
   <string name="Noon">Keskipäivä</string>
   <string name="PinMmi">PIN-koodin vaihtaminen</string>
   <string name="PwdMmi">Salasanan vaihto</string>
-  <string name="RestrictedChangedTitle">Rajoitettua oikeutta muutettu</string>
   <string name="RestrictedOnAll">Kaikki ääni-/tiedonsiirto-/tekstiviestipalvelut on estetty.</string>
   <string name="RestrictedOnAllVoice">Kaikki äänipalvelut on estetty.</string>
   <string name="RestrictedOnData">Tiedonsiirtopalvelu on estetty.</string>
@@ -53,15 +52,23 @@
   <string name="activity_resolver_work_profiles_support">%1$s ei tue työprofiilia</string>
   <string name="activitychooserview_choose_application">Valitse sovellus</string>
   <string name="activitychooserview_choose_application_error">%s ei käynnisty</string>
-  <string name="adb_active_notification_message">Sulje USB-vianetsintä koskettamalla.</string>
+  <string name="adb_active_notification_message">Poista USB-vianetsintä käytöstä napauttamalla.</string>
   <string name="adb_active_notification_title">USB-vianetsintä yhdistetty</string>
   <string name="addToDictionary">Lisää sanakirjaan</string>
   <string name="add_account_button_label">Lisää tili</string>
   <string name="add_account_label">Lisää tili</string>
-  <string name="aerr_application">%1$s on pysähtynyt.</string>
-  <string name="aerr_process">Prosessi %1$s on pysähtynyt.</string>
-  <string name="aerr_title"/>
+  <string name="aerr_application">%1$s pysähtyi.</string>
+  <string name="aerr_application_repeated">%1$s pysähtyy toistuvasti.</string>
+  <string name="aerr_close">Sulje</string>
+  <string name="aerr_close_app">Sulje sovellus</string>
+  <string name="aerr_mute">Mykistä laitteen uudelleenkäynnistykseen asti</string>
+  <string name="aerr_process">%1$s pysähtyi.</string>
+  <string name="aerr_process_repeated">%1$s pysähtyy toistuvasti.</string>
+  <string name="aerr_report">Lähetä palautetta</string>
+  <string name="aerr_restart">Avaa sovellus uudelleen</string>
+  <string name="aerr_wait">Odota</string>
   <string name="allow">Salli</string>
+  <string name="allow_button">Salli</string>
   <string name="alwaysUse">Käytä oletuksena tälle toiminnolle.</string>
   <string name="android_preparing_apk">Valmistellaan: %1$s.</string>
   <string name="android_start_title">Android käynnistyy…</string>
@@ -69,22 +76,26 @@
   <string name="android_upgrading_apk">Optimoidaan sovellusta %1$d/%2$d.</string>
   <string name="android_upgrading_complete">Viimeistellään päivitystä.</string>
   <string name="android_upgrading_fstrim">Optimoidaan tallennustilaa.</string>
+  <string name="android_upgrading_notification_body">Kaikki sovellukset eivät ehkä toimi oikein, ennen kuin päivitys on valmis.</string>
+  <string name="android_upgrading_notification_title">Viimeistellään Android-päivitystä…</string>
   <string name="android_upgrading_starting_apps">Käynnistetään sovelluksia.</string>
   <string name="android_upgrading_title">Androidia päivitetään…</string>
-  <string name="anr_activity_application">"%2$s ei vastaa.
-
-Haluatko sulkea sen?"</string>
-  <string name="anr_activity_process">"Toiminto %1$s ei vastaa.
-
-Haluatko sulkea sen?"</string>
-  <string name="anr_application_process">%1$s ei vastaa. Haluatko sulkea sen?</string>
-  <string name="anr_process">"Prosessi %1$s ei vastaa.
-
-Haluatko sulkea sen?"</string>
+  <string name="anr_activity_application">%2$s ei vastaa.</string>
+  <string name="anr_activity_process">%1$s ei vastaa.</string>
+  <string name="anr_application_process">%1$s ei vastaa.</string>
+  <string name="anr_process">Prosessi %1$s ei vastaa.</string>
   <string name="anr_title"/>
+  <string name="app_info">Sovelluksen tiedot</string>
   <string name="app_not_found">Tätä toimintoa käsittelevää sovellusta ei löydy</string>
-  <string name="app_running_notification_text">Hanki lisätietoja tai sulje sovellus koskettamalla.</string>
+  <string name="app_running_notification_text">Hanki lisätietoja tai sulje sovellus napauttamalla.</string>
   <string name="app_running_notification_title">%1$s on käynnissä</string>
+  <string name="app_upgrading_toast">%1$s päivittyy…</string>
+  <string name="audit_safemode_notification">Palauta tehdasasetukset, jotta voit käyttää tätä laitetta rajoituksitta</string>
+  <string name="audit_safemode_notification_details">Lue lisätietoja koskettamalla.</string>
+  <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
+  <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
+  <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
+  <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -92,18 +103,53 @@ Haluatko sulkea sen?"</string>
   <string name="autofill_address_type_same_as_re">sama kuin</string>
   <string name="autofill_address_type_use_my_re">käytä minun</string>
   <string name="autofill_area">Alue</string>
+  <string name="autofill_area_code_notext_re">^\\($</string>
+  <string name="autofill_area_code_re">area.*code|acode|area</string>
+  <string name="autofill_attention_ignored_re">attention|attn</string>
+  <string name="autofill_billing_designator_re">bill</string>
+  <string name="autofill_card_cvc_re">verification|card identification|cvn|security code|cvv code|cvc</string>
+  <string name="autofill_card_ignored_re">^card</string>
+  <string name="autofill_card_number_re">number|card.?#|card.?no|ccnum|nummer|credito|numero|número|numéro|カード番号|Номер.*карты|信用卡号|信用卡号码|信用卡卡號</string>
+  <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
+  <string name="autofill_company_re">company|business|organization|organisation|department|firma|firmenname|empresa|societe|société|ragione.?sociale|会社|название.?компании|单位|公司</string>
+  <string name="autofill_country_code_re">country.*code|ccode|_cc</string>
+  <string name="autofill_country_re">country|location|国|国家</string>
   <string name="autofill_county">Lääni</string>
   <string name="autofill_department">Osasto</string>
   <string name="autofill_district">Piiri</string>
+  <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
   <string name="autofill_emirate">Emiraatti</string>
+  <string name="autofill_expiration_date_re">exp|^/|year|ablaufdatum|gueltig|gültig|yahr|fecha|scadenza|有効期限|validade|Срок действия карты|年|有效期</string>
+  <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|ccmonth|gueltig|gültig|monat|fecha|date.*exp|scadenza|有効期限|validade|Срок действия карты|月</string>
+  <string name="autofill_fax_re">fax|télécopie|telecopie|ファックス|факс|传真|傳真</string>
+  <string name="autofill_first_name_re">irst.*name|initials|fname|first$|vorname|nombre|forename|prénom|prenom|名|nome|Имя</string>
   <string name="autofill_island">Saari</string>
+  <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
+  <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
+  <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
+  <string name="autofill_name_on_card_contextual_re">name</string>
+  <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
+  <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
+  <string name="autofill_name_specific_re">^name|^nom|^nome</string>
   <string name="autofill_parish">Kunta</string>
+  <string name="autofill_phone_extension_re">ext|ramal</string>
+  <string name="autofill_phone_prefix_re">prefix|preselection|ddd</string>
+  <string name="autofill_phone_prefix_separator_re">^-$|^\\)$</string>
+  <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
+  <string name="autofill_phone_suffix_re">suffix</string>
+  <string name="autofill_phone_suffix_separator_re">^-$</string>
   <string name="autofill_postal_code">Postinumero</string>
   <string name="autofill_prefecture">Prefektuuri</string>
   <string name="autofill_province">Provinssi</string>
+  <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
+  <string name="autofill_shipping_designator_re">ship</string>
   <string name="autofill_state">Osavaltio</string>
+  <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
   <string name="autofill_this_form">Aut. täyttö</string>
+  <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
+  <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
   <string name="autofill_zip_code">Postinumero</string>
+  <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl|cp|cdp|cap|郵便番号|codigo|codpos|cep|Почтовый.?Индекс|邮政编码|邮编|郵遞區號</string>
   <string name="back_button_label">Takaisin</string>
   <string name="badPin">Antamasi vanha PIN-koodi on virheellinen.</string>
   <string name="badPuk">Antamasi PUK-koodi on virheellinen.</string>
@@ -113,24 +159,38 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="beforeOneMonthDurationPast">Yli kuukausi sitten</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth-ääni</string>
   <string name="bugreport_message">Toiminto kerää tietoja laitteen tilasta ja lähettää ne sähköpostitse. Virheraportti on valmis lähetettäväksi hetken kuluttua - kiitos kärsivällisyydestäsi.</string>
+  <string name="bugreport_option_full_summary">Valitse tämä, jos laitteesi ei ota komentoja vastaan, jos se toimii hitaasti tai tarvitset kaikkia raportin osioita. Raporttiin ei voi tallentaa lisätietoja tai useampia kuvakaappauksia.</string>
+  <string name="bugreport_option_full_title">Koko raportti</string>
+  <string name="bugreport_option_interactive_summary">Valitse tämä vaihtoehto useimmissa tapauksissa. Voit seurata raportin etenemistä, antaa lisätietoja ongelmasta ja tallentaa kuvakaappauksia. Tämä vaihtoehto saattaa ohittaa joitakin harvoin käytettyjä osioita, joiden käsittely raportissa kestää kauan.</string>
+  <string name="bugreport_option_interactive_title">Interaktiivinen</string>
+  <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Luo virheraportti</string>
   <string name="byteShort">t</string>
   <string name="cancel">Peruuta</string>
   <string name="candidates_style">kandidaatit</string>
+  <string name="capability_desc_canControlMagnification">Hallinnoi näytön zoomaustasoa ja asettelua.</string>
+  <string name="capability_desc_canPerformGestures">Lupa napauttaa, pyyhkäistä, nipistää ja käyttää muita eleitä.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Sovellus voi asentaa ohjelmia tehdäkseen sisällöstään esteettömämmän.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Sisältää henkilökohtaisia tietoja, kuten luottokortin numeroita ja salasanoja.</string>
-  <string name="capability_desc_canRequestTouchExploration">Kosketetut kohteet sanotaan ääneen ja näytöllä voi liikkua eleiden avulla.</string>
+  <string name="capability_desc_canRequestTouchExploration">Kosketetut kohteet sanotaan ääneen, ja ruudulla voi liikkua eleiden avulla.</string>
   <string name="capability_desc_canRetrieveWindowContent">Tarkistaa käyttämäsi ikkunan sisältö.</string>
+  <string name="capability_title_canControlMagnification">Näytön suurentamisen hallinnointi</string>
+  <string name="capability_title_canPerformGestures">Eleiden käyttäminen</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Ottaa verkon paremman esteettömyyden käyttöön</string>
   <string name="capability_title_canRequestFilterKeyEvents">Tarkkailla kirjoittamaasi tekstiä</string>
   <string name="capability_title_canRequestTouchExploration">Ottaa kosketuksella tutkimisen käyttöön</string>
   <string name="capability_title_canRetrieveWindowContent">Noutaa ikkunan sisältöä</string>
-  <string name="capital_off">EI KÄYTÖSSÄ</string>
-  <string name="capital_on">KÄYTÖSSÄ</string>
-  <string name="car_mode_disable_notification_message">Poistu autotilasta koskettamalla tätä.</string>
+  <string name="capital_off">POIS</string>
+  <string name="capital_on">PÄÄLLÄ</string>
+  <string name="car_mode_disable_notification_message">Poistu autotilasta napauttamalla.</string>
   <string name="car_mode_disable_notification_title">Autotila käytössä</string>
+  <string name="carrier_app_dialog_button">LATAA SOVELLUS</string>
+  <string name="carrier_app_dialog_message">Jotta saat uuden SIM-kortin toimimaan oikein, sinun on asennettava ja avattava operaattorisi sovellus.</string>
+  <string name="carrier_app_dialog_not_now">EI NYT</string>
+  <string name="carrier_app_notification_text">Määritä se napauttamalla</string>
+  <string name="carrier_app_notification_title">Uusi SIM-kortti asetettu</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
-  <string name="cfTemplateForwardedTime">{0}: {1} {2} sekunnin kuluttua</string>
+  <string name="cfTemplateForwardedTime">{0}: {1} {2} sekunnin päästä</string>
   <string name="cfTemplateNotForwarded">{0}: ei siirretty</string>
   <string name="cfTemplateRegistered">{0}: ei siirretty</string>
   <string name="cfTemplateRegisteredTime">{0}: ei siirretty</string>
@@ -139,8 +199,74 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="choose_account_label">Valitse tili</string>
   <string name="chooser_wallpaper">Vaihda taustakuvaa</string>
   <string name="clearDefaultHintMsg">Poista oletusasetus kohdassa Järjestelmäasetukset &gt; Sovellukset &gt; Ladattu.</string>
+  <string name="close_button_text">Sulje</string>
+  <string name="common_last_name_prefixes"/>
   <string name="common_name">Yleinen nimi:</string>
+  <string name="common_name_conjunctions"/>
+  <string name="common_name_prefixes"/>
+  <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Ehtojen toimituspalvelu</string>
+  <string name="conference_call">Puhelinneuvottelu</string>
+  <string name="config_activityRecognitionHardwarePackageName">@null</string>
+  <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
+  <string name="config_appsNotReportingCrashes"/>
+  <string name="config_cameraLaunchGestureSensorStringType"/>
+  <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
+  <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
+  <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
+  <string name="config_customAdbPublicKeyConfirmationComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingActivity</string>
+  <string name="config_customAdbPublicKeyConfirmationSecondaryUserComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingSecondaryUserActivity</string>
+  <string name="config_customResolverActivity"/>
+  <string name="config_customVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.ConfirmDialog</string>
+  <string name="config_datause_iface">rmnet0</string>
+  <string name="config_defaultDndAccessPackages">com.android.camera2</string>
+  <string name="config_defaultNetworkScorerPackageName"/>
+  <string name="config_defaultPictureInPictureBounds">0 0 100 100</string>
+  <string name="config_default_dns_server">8.8.8.8</string>
+  <string name="config_demoModeLauncherComponent">com.android.retaildemo/.DemoPlayer</string>
+  <string name="config_deviceProvisioningPackage"/>
+  <string name="config_doubleTouchGestureEnableFile"/>
+  <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
+  <string name="config_dozeDoubleTapSensorType"/>
+  <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
+  <string name="config_emergency_call_number">112</string>
+  <string name="config_ethernet_iface_regex">eth\\d</string>
+  <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
+  <string name="config_forceVoiceInteractionServicePackage"/>
+  <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
+  <string name="config_geofenceProviderPackageName">@null</string>
+  <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
+  <string name="config_iccHotswapPromptForRestartDialogComponent">@null</string>
+  <string name="config_isoImagePath"/>
+  <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
+  <string name="config_mms_user_agent">Android-Mms/2.0</string>
+  <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+  <string name="config_mobile_hotspot_provision_app_no_ui"/>
+  <string name="config_mobile_hotspot_provision_response"/>
+  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
+  <string name="config_networkPolicyNotificationComponent"/>
+  <string name="config_ntpServer">2.android.pool.ntp.org</string>
+  <string name="config_optionalPackageVerifierName">seemp.service</string>
+  <string name="config_packagedKeyboardName"/>
+  <string name="config_persistentDataPackageName">com.google.android.gms</string>
+  <string name="config_radio_access_family"/>
+  <string name="config_rat_2g">2G</string>
+  <string name="config_rat_3g">3G</string>
+  <string name="config_rat_4g">4G</string>
+  <string name="config_rat_unknown"/>
+  <string name="config_tvRemoteServicePackage"/>
+  <string name="config_useragentprofile_url"/>
+  <string name="config_wallpaperCropperPackage">com.android.wallpapercropper</string>
+  <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
+  <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
+  <string name="config_wifi_random_mac_oui">DA-A1-19</string>
+  <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
+  <string name="config_wifi_tether_enable">com.android.settings/.TetherService</string>
+  <string name="config_wimaxManagerClassname"/>
+  <string name="config_wimaxNativeLibLocation"/>
+  <string name="config_wimaxServiceClassname"/>
+  <string name="config_wimaxServiceJarLocation"/>
   <string name="configure_input_methods">Valitse näppäimistöt</string>
   <string name="contentServiceSync">Synkronointi</string>
   <string name="contentServiceSyncNotificationTitle">Synkronointi</string>
@@ -149,12 +275,13 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="continue_to_enable_accessibility">Ota esteettömyystila käyttöön koskettamalla pitkään kahdella sormella.</string>
   <string name="copy">Kopioi</string>
   <string name="copyUrl">Kopioi URL-osoite</string>
+  <string name="country_selection_title">Alueasetus</string>
   <string name="create_contact_using">"Luo yhteystieto
 käyttäen numeroa %s"</string>
   <string name="cut">Leikkaa</string>
-  <string name="data_saver_description">Vähentääksesi datan käyttöä, Datan Säästäjä estää joitakin sovelluksia lähettämästä ja vastaanottamasta dataa taustalla. Tällä hetkellä käyttämäsi sovellus voi käyttää dataa, mutta käyttää sitä harvemmin. Tämä saattaa tarkoittaa esimerkiksi sitä, että katsomasi kuvat näkyvät vasta, kun napautat niitä.</string>
+  <string name="data_saver_description">Data Saver estää joitakin sovelluksia lähettämästä tai vastaanottamasta tietoja taustalla, jotta datan käyttöä voidaan vähentää. Käytössäsi oleva sovellus voi yhä käyttää dataa, mutta se saattaa tehdä niin tavallista harvemmin. Tämä voi tarkoittaa esimerkiksi sitä, että kuva ladataan vasta, kun kosketat sitä.</string>
   <string name="data_saver_enable_button">Ota käyttöön</string>
-  <string name="data_saver_enable_title">Otetaanko Datan Säästäjä käyttöön?</string>
+  <string name="data_saver_enable_title">Otetaanko Data Saver käyttöön?</string>
   <string name="data_usage_3g_limit_snoozed_title">2G-3G-tiedonsiirtoraja ylitetty</string>
   <string name="data_usage_3g_limit_title">2G-3G-tietojen raja saavutettu</string>
   <string name="data_usage_4g_limit_snoozed_title">4G-tiedonsiirtoraja ylitetty</string>
@@ -163,13 +290,13 @@ käyttäen numeroa %s"</string>
   <string name="data_usage_limit_snoozed_body">%s yli asetetun rajan</string>
   <string name="data_usage_mobile_limit_snoozed_title">Mobiilitiedonsiirtoraja ylitetty</string>
   <string name="data_usage_mobile_limit_title">Matkapuhelintietojen raja saavutettu</string>
-  <string name="data_usage_restricted_body">Poista rajoitus koskettamalla.</string>
-  <string name="data_usage_restricted_title">Rajoitettu taustatietojen käyttö</string>
-  <string name="data_usage_warning_body">Näytä käyttö ja aset. koskettam.</string>
-  <string name="data_usage_warning_title">Tiedonsiirtovaroitus</string>
+  <string name="data_usage_restricted_body">Poista rajoitus napauttamalla.</string>
+  <string name="data_usage_restricted_title">Rajoitettu taustadatan käyttö</string>
+  <string name="data_usage_warning_body">Käyttö &amp; asetukset napauttamalla</string>
+  <string name="data_usage_warning_title">Datankäyttövaroitus</string>
   <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi-tiedonsiirtoraja ylitetty</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi-tietojen raja saavutettu</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+  <string name="date_and_time" formatted="false">%-k.%M.%S %-e.%-m.%Y</string>
   <string name="date_picker_decrement_day_button">Vähennä päivien määrää.</string>
   <string name="date_picker_decrement_month_button">Vähennä kuukausien määrää.</string>
   <string name="date_picker_decrement_year_button">Vähennä vuosien määrää.</string>
@@ -184,39 +311,43 @@ käyttäen numeroa %s"</string>
   <string name="date_time_set">Aseta</string>
   <string name="day">päivä</string>
   <string name="days">päivää</string>
+  <string name="db_default_journal_mode">PERSIST</string>
+  <string name="db_default_sync_mode">FULL</string>
+  <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Hylkää</string>
-  <string name="def_wifi_direct_name"/>
-  <string name="def_wifi_wifihotspot_pass"/>
+  <string name="decline_remote_bugreport_action">HYLKÄÄ</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Ääniviesti</string>
+  <string name="defaultVoiceMailAlphaTag">Vastaaja</string>
   <string name="default_audio_route_category_name">Järjestelmä</string>
   <string name="default_audio_route_name">Puhelin</string>
-  <string name="default_audio_route_name_dock_speakers">Dock speakers</string>
+  <string name="default_audio_route_name_dock_speakers">Telineen kaiuttimet</string>
   <string name="default_audio_route_name_headphones">Kuulokkeet</string>
-  <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
-  <string name="default_sms_application">com.android.mms</string>
   <string name="delete">Poista</string>
   <string name="deleteText">Poista</string>
   <string name="deleted_key">%1$s poistettiin</string>
+  <string name="demo_restarting_message">Palautetaan asetuksia…</string>
+  <string name="demo_starting_message">Aloitetaan esittelyä…</string>
+  <string name="demo_user_inactivity_timeout_countdown">Muutokset poistetaan ja esittely aloitetaan uudelleen %1$s sekunnin kuluttua…</string>
+  <string name="demo_user_inactivity_timeout_left_button">Peruuta</string>
+  <string name="demo_user_inactivity_timeout_right_button">Palauta nyt</string>
+  <string name="demo_user_inactivity_timeout_title">Palautetaanko laitteen tehdasasetukset?</string>
   <string name="deny">Kiellä</string>
+  <string name="deny_button">Kiellä</string>
   <string name="description_target_unlock_tablet">"Poista lukitus liu'uttamalla."</string>
   <string name="dial_number_using">"Valitse numero
  %s"</string>
   <string name="dialog_alert_title">Huomio</string>
   <string name="display_manager_built_in_display_name">Yhdysrakenteinen näyttö</string>
-  <string name="display_manager_hdmi_display_name">HDMI-näyttö</string>
+  <string name="display_manager_hdmi_display_name">HDMI-ruutu</string>
   <string name="display_manager_overlay_display_name">Peittokuva # %1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, suojattu</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
-  <string name="dlg_confirm_kill_storage_users_text">Jos otat USB-tallennustilan käyttöön, osa käyttämistäsi sovelluksista pysähtyy eikä ehkä ole käytettävissä, ennen kuin poistat USB-tallennustilan käytöstä.</string>
-  <string name="dlg_confirm_kill_storage_users_title">Ota USB-tallennustila käyttöön</string>
-  <string name="dlg_error_title">USB-toiminto epäonnistui.</string>
   <string name="dlg_ok">OK</string>
   <string name="done_label">Valmis</string>
   <string name="double_tap_toast">Vinkki: lähennä ja loitonna kaksoisnapauttamalla.</string>
   <string name="dump_heap_notification">%1$s ylitti muistirajan.</string>
-  <string name="dump_heap_notification_detail">Keon vedos on kerätty, jaa se koskettamalla.</string>
+  <string name="dump_heap_notification_detail">Keon vedos on kerätty, jaa se napauttamalla.</string>
   <string name="dump_heap_text">Prosessi %1$s on ylittänyt muistirajan (%2$s). Keon vedos on jaettavissa kehittäjän kanssa. Ole varovainen: tämä keon vedos voi sisältää sellaisia henkilötietojasi, joihin sovelluksella on käyttöoikeus.</string>
   <string name="dump_heap_title">Jaetaanko keon vedos?</string>
   <string name="durationDayHour">%1$d päivä %2$d t</string>
@@ -252,6 +383,8 @@ käyttäen numeroa %s"</string>
   <string name="eventTypeBirthday">Syntymäpäivä</string>
   <string name="eventTypeCustom">Oma</string>
   <string name="eventTypeOther">Muu</string>
+  <string name="expand_action_accessibility">Laajenna/tiivistä painikkeella</string>
+  <string name="expand_button_content_description">Laajennuspainike</string>
   <string name="expires_on">Vanhenee:</string>
   <string name="ext_media_badremoval_notification_message">Poista %s käytöstä ennen sen irrottamista estääksesi tietoja katoamasta.</string>
   <string name="ext_media_badremoval_notification_title">%s poistettiin yllättäen</string>
@@ -283,12 +416,13 @@ käyttäen numeroa %s"</string>
   <string name="ext_media_status_unmounted">Poistettu</string>
   <string name="ext_media_status_unsupported">Ei tuetut</string>
   <string name="ext_media_unmount_action">Poista</string>
-  <string name="ext_media_unmountable_notification_message">%s on vioittunut. Korjaa koskettamalla.</string>
+  <string name="ext_media_unmountable_notification_message">%s on viallinen. Korjaa napauttamalla.</string>
   <string name="ext_media_unmountable_notification_title">Vioittunut %s</string>
   <string name="ext_media_unmounting_notification_message">Älä poista.</string>
   <string name="ext_media_unmounting_notification_title">Kohteen %s poisto on kesken…</string>
-  <string name="ext_media_unsupported_notification_message">%s ei ole yhteensopiva laitteen kanssa. Ota se käyttöön tuetussa tilassa koskettamalla.</string>
+  <string name="ext_media_unsupported_notification_message">%s ei ole yhteensopiva tämän laitteen kanssa. Ota se käyttöön tuetussa tilassa napauttamalla.</string>
   <string name="ext_media_unsupported_notification_title">Epäyhteensopiva %s</string>
+  <string name="extract_edit_menu_button">Muokkaa</string>
   <string name="faceunlock_multiple_failures">Face Unlock -yrityksiä tehty suurin sallittu määrä.</string>
   <string name="factory_reset_message">Järjestelmänvalvojasovelluksesta puuttuu osia tai se on vioittunut, eikä sitä voi käyttää. Laitteen tiedot poistetaan. Pyydä ohjeita järjestelmänvalvojaltasi.</string>
   <string name="factory_reset_warning">Laitteen tiedot poistetaan</string>
@@ -297,7 +431,7 @@ käyttäen numeroa %s"</string>
   <string name="factorytest_not_system">FACTORY_TEST-toimintoa tuetaan vain paketeille, jotka on tallennettu kansioon /system/app.</string>
   <string name="factorytest_reboot">Käynnistä uudelleen</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"</string>
+  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Ominaisuuskoodi valmis.</string>
   <string name="fcError">Yhteysongelma tai virheellinen ominaisuuskoodi.</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -328,6 +462,7 @@ käyttäen numeroa %s"</string>
   <string name="gigabyteShort">Gt</string>
   <string name="global_action_assist">Auta</string>
   <string name="global_action_bug_report">Virheraportti</string>
+  <string name="global_action_emergency">Hätäpuhelu</string>
   <string name="global_action_lock">Näytön lukitus</string>
   <string name="global_action_lockdown">Lukitse nyt</string>
   <string name="global_action_power_off">Katkaise virta</string>
@@ -335,7 +470,7 @@ käyttäen numeroa %s"</string>
   <string name="global_action_settings">Asetukset</string>
   <string name="global_action_silent_mode_off_status">Äänet ovat KÄYTÖSSÄ</string>
   <string name="global_action_silent_mode_on_status">Äänet ovat POISSA KÄYTÖSTÄ</string>
-  <string name="global_action_toggle_silent_mode">Äänetöntila</string>
+  <string name="global_action_toggle_silent_mode">Äänetön tila</string>
   <string name="global_action_voice_assist">Ääniapuri</string>
   <string name="global_actions">Puhelimen asetukset</string>
   <string name="global_actions_airplane_mode_off_status">Lentokonetila on POIS KÄYTÖSTÄ</string>
@@ -353,15 +488,12 @@ käyttäen numeroa %s"</string>
   <string name="granularity_label_line">rivi</string>
   <string name="granularity_label_link">linkki</string>
   <string name="granularity_label_word">sana</string>
-  <string name="hardware">Laitteisto</string>
+  <string name="hardware">Näytä virtuaalinen näppäimistö</string>
   <string name="heavy_weight_notification">%1$s käynnissä</string>
-  <string name="heavy_weight_notification_detail">Vaihda sovellukseen koskettamalla tätä</string>
+  <string name="heavy_weight_notification_detail">Vaihda sovellukseen napauttamalla.</string>
   <string name="heavy_weight_switcher_text">Toinen sovellus on jo käynnissä. Sulje kyseinen sovellus, niin voit käynnistää uuden.</string>
   <string name="heavy_weight_switcher_title">Vaihdetaanko sovellusta?</string>
-  <string name="high_definition_tag">%s</string>
   <string name="hour">tunti</string>
-  <string name="hour_ampm" formatted="false">%-l %P</string>
-  <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hour_picker_description">Tuntien ympyränmuotoinen liukusäädin</string>
   <string name="hours">tuntia</string>
   <string name="httpError">Verkkovirhe.</string>
@@ -403,9 +535,11 @@ käyttäen numeroa %s"</string>
   <string name="ime_action_search">Haku</string>
   <string name="ime_action_send">Lähetä</string>
   <string name="imei">IMEI-koodi</string>
-  <string name="immersive_cling_description">Sulje palkki pyyhkäisemällä alas näytön ylälaidasta.</string>
+  <string name="immersive_cling_description">Sulje palkki pyyhkäisemällä alas ruudun ylälaidasta.</string>
   <string name="immersive_cling_positive">Selvä</string>
-  <string name="immersive_cling_title">Koko näytön tilassa</string>
+  <string name="immersive_cling_title">Koko ruudun tilassa</string>
+  <string name="importance_from_person">Tämä on tärkeää siihen liittyvien ihmisten perusteella.</string>
+  <string name="importance_from_user">Voit valita näiden ilmoitusten tärkeyden.</string>
   <string name="inputMethod">Syöttötapa</string>
   <string name="input_method_binding_label">Syöttötapa</string>
   <string name="invalidPin">Anna 4–8-numeroinen PIN-koodi.</string>
@@ -420,6 +554,7 @@ Haluatko varmasti siirtyä pois tältä sivulta?"</string>
   <string name="js_dialog_before_unload_positive_button">Poistu tältä sivulta</string>
   <string name="js_dialog_before_unload_title">Vahvista siirtyminen</string>
   <string name="js_dialog_title">Sivu %s sanoo:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Liitä kuulokkeet kuullaksesi, mitä näppäimiä painat kirjoittaessasi salasanaa.</string>
   <string name="keyboard_password_character_no_headset">Piste.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -457,13 +592,13 @@ Haluatko varmasti siirtyä pois tältä sivulta?"</string>
   <string name="keyguard_password_enter_pin_prompt">Uusi PIN-koodi</string>
   <string name="keyguard_password_enter_puk_code">Anna PUK-koodi ja uusi PIN-koodi</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-koodi</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Kosketa ja anna salasana&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Napauta ja anna salasana.&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">PIN-koodi väärin.</string>
   <string name="kg_enter_confirm_pin_hint">Vahvista haluamasi PIN-koodi</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Piirsit lukituksenpoistokuvion väärin %d kertaa. Jos piirrät kuvion väärin vielä %d kertaa, sinua pyydetään poistamaan puhelimesi lukitus sähköpostitilin avulla.
+  <string name="kg_failed_attempts_almost_at_login">"Piirsit lukituksenpoistokuvion väärin %1$d kertaa. Jos piirrät kuvion väärin vielä %2$d kertaa, sinua pyydetään poistamaan puhelimesi lukitus sähköpostitilin avulla.
 
- Yritä uudelleen %d sekunnin kuluttua."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Puhelimen lukituksen poisto epäonnistui %d kertaa. Jos teet vielä %d epäonnistunutta yritystä, puhelimeen palautetaan tehdasasetukset ja kaikki käyttäjätiedot häviävät.</string>
+ Yritä uudelleen %3$d sekunnin kuluttua."</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Puhelimen lukituksen poisto epäonnistui %1$d kertaa. Jos teet vielä %2$d epäonnistunutta yritystä, puhelimeen palautetaan tehdasasetukset ja kaikki käyttäjätiedot häviävät.</string>
   <string name="kg_failed_attempts_now_wiping">Puhelimen lukituksen poisto epäonnistui %d kertaa. Puhelimeen palautetaan nyt tehdasasetukset.</string>
   <string name="kg_forgot_pattern_button_text">Unohtunut kuvio</string>
   <string name="kg_invalid_confirm_pin_hint">PIN-koodit eivät täsmää</string>
@@ -490,28 +625,29 @@ Käy osoitteessa "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM-kortin lukitusta poistetaan…</string>
   <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Yritä uudelleen %1$d sekunnin kuluttua.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Olet kirjoittanut salasanan väärin %d kertaa. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Olet kirjoittanut salasanan väärin %1$d kertaa. 
 
-Yritä uudelleen %d sekunnin kuluttua."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Olet piirtänyt lukituksenpoistokuvion väärin %d kertaa. 
+Yritä uudelleen %2$d sekunnin kuluttua."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Olet piirtänyt lukituksenpoistokuvion väärin %1$d kertaa. 
 
-Yritä uudelleen %d sekunnin kuluttua."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Olet kirjoittanut PIN-koodin väärin %d kertaa. 
+Yritä uudelleen %2$d sekunnin kuluttua."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Olet kirjoittanut PIN-koodin väärin %1$d kertaa. 
 
-Yritä uudelleen %d sekunnin kuluttua."</string>
+Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="kg_wrong_password">Väärä salasana</string>
   <string name="kg_wrong_pattern">Väärä kuvio</string>
   <string name="kg_wrong_pin">Väärä PIN-koodi</string>
   <string name="kilobyteShort">kt</string>
+  <string name="language_picker_section_all">Kaikki kielet</string>
+  <string name="language_picker_section_suggested">Ehdotukset</string>
+  <string name="language_selection_title">Lisää kieli</string>
   <string name="last_month">Viime kuussa</string>
   <string name="launchBrowserDefault">Käynnistetäänkö selain?</string>
   <string name="launch_warning_original">%1$s käynnistettiin alun perin.</string>
   <string name="launch_warning_replace">%1$s on nyt käynnissä.</string>
   <string name="launch_warning_title">Sovelluksen uud.ohjaus</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading">Ladataan…</string>
-  <string name="locale_codes"/>
-  <string name="locale_replacement"/>
+  <string name="locale_search_menu">Haku</string>
   <string name="lock_pattern_view_aspect">neliö</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
 
@@ -521,7 +657,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
 To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_exit">Näyttö irrotettu</string>
   <string name="lock_to_app_start">Näyttö kiinnitetty</string>
-  <string name="lock_to_app_toast">Poista näytön kiinnitys painamalla Edellinen- ja Viimeisimmät-kohtaa samanaikaisesti pitkään.</string>
+  <string name="lock_to_app_toast">Irrota näyttö koskettamalla Takaisin-painiketta pitkään.</string>
   <string name="lock_to_app_toast_accessible">Poista näytön kiinnitys painamalla Viimeisimmät-kohtaa pitkään.</string>
   <string name="lock_to_app_toast_locked">Sovellus on kiinnitetty. Irrottaminen ei ole sallittua tällä laitteella.</string>
   <string name="lock_to_app_unlock_password">Pyydä salasana ennen irrotusta</string>
@@ -533,12 +669,12 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lockscreen_access_pattern_cleared">Kuvio tyhjennetty</string>
   <string name="lockscreen_access_pattern_detected">Kuvio valmis</string>
   <string name="lockscreen_access_pattern_start">Kuvio aloitettu</string>
-  <string name="lockscreen_carrier_default">Ei palvelua.</string>
+  <string name="lockscreen_carrier_default">Ei yhteyttä</string>
   <string name="lockscreen_emergency_call">Hätäpuhelu</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Puhelimen lukituksen poisto epäonnistui %d kertaa. Jos teet vielä %d epäonnistunutta yritystä, puhelimeen palautetaan tehdasasetukset ja kaikki käyttäjätiedot häviävät.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Piirsit lukituksenpoistokuvion väärin %d kertaa. Jos piirrät kuvion väärin vielä %d kertaa, sinua pyydetään poistamaan puhelimesi lukitus Google-sisäänkirjautumisen avulla.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Puhelimen lukituksen poisto epäonnistui %1$d kertaa. Jos teet vielä %2$d epäonnistunutta yritystä, puhelimeen palautetaan tehdasasetukset ja kaikki käyttäjätiedot häviävät.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Piirsit lukituksenpoistokuvion väärin %1$d kertaa. Jos piirrät kuvion väärin vielä %2$d kertaa, sinua pyydetään poistamaan puhelimesi lukitus Google-sisäänkirjautumisen avulla.
 
- Yritä uudelleen %d sekunnin kuluttua."</string>
+ Yritä uudelleen %3$d sekunnin kuluttua."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Puhelimen lukituksen poisto epäonnistui %d kertaa. Puhelimeen palautetaan nyt tehdasasetukset.</string>
   <string name="lockscreen_forgot_pattern_button_text">Unohditko mallin?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Unohditko käyttäjänimesi tai salasanasi?
@@ -554,7 +690,7 @@ Käy osoitteessa "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Poista lukitus painamalla Valikko-painiketta.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Poista lukitus tai soita hätäpuhelu painamalla Valikko-painiketta.</string>
   <string name="lockscreen_missing_sim_instructions">Aseta SIM-kortti.</string>
-  <string name="lockscreen_missing_sim_instructions_long">SIM-korttia ei löydy tai ei voi lukea. Aseta SIM-kortti.</string>
+  <string name="lockscreen_missing_sim_instructions_long">SIM-korttia ei löydy tai ei voi lukea. Kytke SIM-kortti.</string>
   <string name="lockscreen_missing_sim_message">Puhelimessa ei ole SIM-korttia.</string>
   <string name="lockscreen_missing_sim_message_short">Ei SIM-korttia</string>
   <string name="lockscreen_network_locked_message">Verkko lukittu</string>
@@ -573,16 +709,17 @@ Käy osoitteessa "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-kortin lukitusta poistetaan…</string>
   <string name="lockscreen_sound_off_label">Poista äänet käytöstä</string>
   <string name="lockscreen_sound_on_label">Ääni käytössä</string>
+  <string name="lockscreen_storage_locked">Käytä kaikkia ominaisuuksia avaamalla lukitus.</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Yritä uudelleen %d sekunnin kuluttua.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Olet piirtänyt lukituksenpoistokuvion väärin %d kertaa. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Olet piirtänyt lukituksenpoistokuvion väärin %1$d kertaa. 
 
-Yritä uudelleen %d sekunnin kuluttua."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Olet kirjoittanut salasanan väärin %d kertaa. 
+Yritä uudelleen %2$d sekunnin kuluttua."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Olet kirjoittanut salasanan väärin %1$d kertaa. 
 
-Yritä uudelleen %d sekunnin kuluttua."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Olet kirjoittanut PIN-koodin väärin %d kertaa. 
+Yritä uudelleen %2$d sekunnin kuluttua."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Olet kirjoittanut PIN-koodin väärin %1$d kertaa. 
 
-Yritä uudelleen %d sekunnin kuluttua."</string>
+Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="lockscreen_transport_ffw_description">Kelaa eteen</string>
   <string name="lockscreen_transport_next_description">Seuraava raita</string>
   <string name="lockscreen_transport_pause_description">Tauko</string>
@@ -595,8 +732,9 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="low_internal_storage_view_text_no_boot">Tallennustila ei riitä. Varmista, että vapaata tilaa on 250 Mt, ja käynnistä uudelleen.</string>
   <string name="low_internal_storage_view_title">Tallennustila loppumassa</string>
   <string name="low_memory">Puhelimen tallennustila on täynnä. Vapauta tilaa poistamalla tiedostoja.</string>
-  <string name="managed_profile_label">Työ</string>
+  <string name="managed_profile_label">Siirry työprofiiliin</string>
   <string name="managed_profile_label_badge">%1$s (työ)</string>
+  <string name="maximize_button_text">Suurenna</string>
   <string name="me">Minä</string>
   <string name="media_route_button_content_description">Lähetä</string>
   <string name="media_route_chooser_extended_settings">Asetukset</string>
@@ -710,10 +848,17 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="muted_by">Mykistänyt %1$s</string>
   <string name="needPuk">SIM-korttisi on PUK-lukittu. Poista lukitus antamalla PUK-koodi.</string>
   <string name="needPuk2">Pura SIM-kortin esto antamalla PUK2-koodi.</string>
+  <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Kirjaudu verkkoon</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
+  <string name="network_switch_metered">%1$s otettiin käyttöön</string>
+  <string name="network_switch_metered_detail">%1$s otetaan käyttöön, kun %2$s ei voi muodostaa yhteyttä internetiin. Veloitukset ovat mahdollisia.</string>
+  <string name="network_switch_metered_toast">%1$s poistettiin käytöstä ja %2$s otettiin käyttöön.</string>
+  <string name="network_switch_type_name_unknown">tuntematon verkon tyyppi</string>
   <string name="new_app_action">Käynnistä %1$s</string>
   <string name="new_app_description">Pysäytä vanha sovellus tallentamatta.</string>
+  <string name="new_sms_notification_content">Katso avaamalla tekstiviestisovellus.</string>
+  <string name="new_sms_notification_title">Sinulle on uusia viestejä</string>
   <string name="next_button_label">Seuraava</string>
   <string name="no">Peruuta</string>
   <string name="noApplications">Yksikään sovellus ei voi suorittaa tätä toimintoa.</string>
@@ -722,10 +867,16 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="no_permissions">Lupia ei tarvita</string>
   <string name="no_recent_tasks">Ei viimeaikaisia sovelluksia</string>
   <string name="noon">keskipäivä</string>
+  <string name="notification_header_divider_symbol">•</string>
+  <string name="notification_hidden_by_policy_text">Sisältö on piilotettu käytännön perusteella.</string>
+  <string name="notification_hidden_text">Sisältö piilotettu</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Ilmoituskuuntelija</string>
+  <string name="notification_messaging_title_template">%1$s: %2$s</string>
+  <string name="notification_ranker_binding_label">Ilmoitusten sijoituspalvelu</string>
   <string name="notification_title">Kirjautumisvirhe tilille %1$s</string>
   <string name="notification_work_profile_content_description">Työprofiili</string>
+  <string name="now_string_shortest">nyt</string>
   <string name="number_picker_decrement_button">Vähennä</string>
   <string name="number_picker_increment_button">Lisää</string>
   <string name="number_picker_increment_scroll_action">"Lisää tai vähennä arvoa liu'uttamalla ylös tai alas."</string>
@@ -741,6 +892,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="orgTypeWork">Työ</string>
   <string name="org_name">Organisaatio:</string>
   <string name="org_unit">Organisaatioyksikkö:</string>
+  <string name="other_permissions">muut käyttöluvat</string>
   <string name="owner_name">Omistaja</string>
   <string name="package_deleted_device_owner">Järjestelmänvalvoja on poistanut paketin.</string>
   <string name="package_installed_device_owner">Järjestelmänvalvoja on asentanut paketin.</string>
@@ -750,9 +902,10 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Liitä</string>
+  <string name="paste_as_plain_text">Liitä pelkkänä tekstinä</string>
   <string name="peerTtyModeFull">Toinen käyttäjä vaihtoi TTY-tilaksi TÄYSI</string>
   <string name="peerTtyModeHco">Toinen käyttäjä vaihtoi TTY-tilaksi HCO</string>
-  <string name="peerTtyModeOff">Toinen käyttäjä vaihtoi TTY-tilaksi EI KÄYTÖSSÄ</string>
+  <string name="peerTtyModeOff">Toinen käyttäjä vaihtoi TTY-tilaksi POIS PÄÄLTÄ</string>
   <string name="peerTtyModeVco">Toinen käyttäjä vaihtoi TTY-tilaksi VCO</string>
   <string name="perm_costs_money">tämä voi maksaa</string>
   <string name="permdesc_accessCoarseLocation">Antaa sovelluksen käyttää likimääräistä sijaintiasi. Sijainnin määrittävät sijaintipalvelut verkon sijaintilähteiden kuten radiomastojen ja Wi-Fi-verkkojen avulla. Sijaintipalveluiden täytyy olla käytössä ja laitteesi saatavilla, jotta sovellus voi käyttää niitä. Sovellus voi määrittää tämän luvan avulla likimääräisen sijaintisi.</string>
@@ -796,7 +949,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="permdesc_getPackageSize">Antaa sovelluksen noutaa sen koodin, tietojen ja välimuistin koot.</string>
   <string name="permdesc_getTasks">Antaa sovelluksen noutaa tietoja käynnissä olevista ja äskettäin suoritetuista tehtävistä. Sovellus voi saada tietoja laitteella käytetyistä sovelluksista.</string>
   <string name="permdesc_handoverStatus">Antaa sovelluksen vastaanottaa tietoja nykyisistä Android Beam -siirroista</string>
-  <string name="permdesc_install_shortcut">Antaa sovelluksen lisätä aloitusnäytön pikakuvakkeita ilman käyttäjän toimia.</string>
+  <string name="permdesc_install_shortcut">Antaa sovelluksen lisätä aloitusruudun pikakuvakkeita ilman käyttäjän toimia.</string>
   <string name="permdesc_invokeCarrierSetup">Antaa luvanhaltijan käynnistää palveluntarjoajan määrityssovelluksen. Ei tavallisten sovelluksien käyttöön.</string>
   <string name="permdesc_killBackgroundProcesses">Antaa sovelluksen sulkea muiden sovelluksien taustaprosesseja. Tämä voi sulkea muita sovelluksia.</string>
   <string name="permdesc_manageFingerprint">Sallii sovelluksen käyttää menetelmiä, joilla voidaan lisätä tai poistaa sormenjälkimalleja.</string>
@@ -843,7 +996,7 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="permdesc_subscribedFeedsRead">Antaa sovelluksen saada tietoja tällä hetkellä synkronoitavista syötteistä.</string>
   <string name="permdesc_systemAlertWindow">Antaa sovelluksen piirtää muiden sovelluksien tai niiden käyttöliittymän osien päälle. Luvan saaneet sovellukset voivat häiritä muiden sovelluksien käyttöliittymien käyttöä tai muuttaa muiden sovelluksien osiksi luulemiasi näkymiä.</string>
   <string name="permdesc_transmitIr">Antaa sovelluksen käyttää puhelimen infrapunalähetintä.</string>
-  <string name="permdesc_uninstall_shortcut">Antaa sovelluksen poistaa aloitusnäytön pikakuvakkeita ilman käyttäjän toimia.</string>
+  <string name="permdesc_uninstall_shortcut">Antaa sovelluksen poistaa aloitusruudun pikakuvakkeita ilman käyttäjän toimia.</string>
   <string name="permdesc_useFingerprint">Sallii sovelluksen käyttää sormenjälkilaitteistoa todennukseen.</string>
   <string name="permdesc_use_sip">Sallii sovelluksen soittaa ja vastaanottaa SIP-puheluja.</string>
   <string name="permdesc_vibrate">Antaa sovelluksen hallita värinää.</string>
@@ -873,13 +1026,15 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="permgrouplab_sensors">Kehon anturit</string>
   <string name="permgrouplab_sms">Tekstiviestit</string>
   <string name="permgrouplab_storage">Tallennustila</string>
-  <string name="permission">Käyttöoikeus</string>
+  <string name="permission">Käyttölupa</string>
+  <string name="permission_remember_choice">Muista</string>
   <string name="permission_request_notification_title">Lupa pyydetty</string>
   <string name="permission_request_notification_with_subtitle">"Pyydetään lupaa
 tilille %s."</string>
-  <string name="permlab_accessCoarseLocation">likimääräinen sijainti (verkkopohjainen)</string>
+  <string name="permission_title">Permission</string>
+  <string name="permlab_accessCoarseLocation">käyttää likimääräistä sijaintia (verkkopohjainen)</string>
   <string name="permlab_accessDrmCertificates">DRM-varmenteiden käyttö</string>
-  <string name="permlab_accessFineLocation">tarkka sijainti (GPS- ja verkkopohjainen)</string>
+  <string name="permlab_accessFineLocation">käyttää tarkkaa sijaintia (GPS- ja verkkopohjainen)</string>
   <string name="permlab_accessImsCallService">pikaviestipalvelun puhelukäyttöoikeus</string>
   <string name="permlab_accessLocationExtraCommands">käytä lisää sijainnintarjoajakomentoja</string>
   <string name="permlab_accessNetworkConditions">verkon tilahavaintojen kuunteleminen</string>
@@ -898,7 +1053,7 @@ tilille %s."</string>
   <string name="permlab_bind_incall_service">Vuorovaikutteinen puhelunäyttö</string>
   <string name="permlab_bluetooth">muodosta laitepari Bluetooth-laitteiden kanssa</string>
   <string name="permlab_bluetoothAdmin">käytä Bluetooth-asetuksia</string>
-  <string name="permlab_bodySensors">kehon anturit (kuten sykemittarit)</string>
+  <string name="permlab_bodySensors">käyttää kehon antureita (kuten sykemittareita)</string>
   <string name="permlab_broadcastSticky">lähetä tärkeä lähetys</string>
   <string name="permlab_callPhone">soittaa puhelinnumeroihin suoraan</string>
   <string name="permlab_camera">ota kuvia ja videoita</string>
@@ -906,24 +1061,23 @@ tilille %s."</string>
   <string name="permlab_changeTetherState">internetyhteyden jakamisen muuttaminen</string>
   <string name="permlab_changeWifiMulticastState">anna ottaa vastaan Wi-Fi-ryhmälähetyksiä</string>
   <string name="permlab_changeWifiState">muodosta ja katkaise Wi-Fi-yhteys</string>
-  <string name="permlab_changeWimaxState">Vaihda WiMAX-verkon tilaa</string>
+  <string name="permlab_changeWimaxState">vaihda WiMAX-verkon tilaa</string>
   <string name="permlab_connection_manager">tietoliikenneyhteyksien hallinta</string>
   <string name="permlab_control_incall_experience">mahdollistavat puhelukokemuksen</string>
-  <string name="permlab_createNetworkSockets">internetin käyttäminen</string>
+  <string name="permlab_createNetworkSockets">saada täydet verkon käyttöoikeudet</string>
   <string name="permlab_disableKeyguard">poista näytön lukitus käytöstä</string>
   <string name="permlab_enableCarMode">ota autotila käyttöön</string>
   <string name="permlab_expandStatusBar">laajentaa/tiivistää tilarivin</string>
-  <string name="permlab_flashlight">hallitse taskulamppua</string>
   <string name="permlab_getAccounts">etsi tilejä laitteelta</string>
   <string name="permlab_getPackageSize">sovellusten tallennustilan mittaaminen</string>
   <string name="permlab_getTasks">käynnissä olevien sovellusten noutaminen</string>
-  <string name="permlab_handoverStatus">Vastaanota Android Beam -siirron tilatietoja</string>
+  <string name="permlab_handoverStatus">vastaanottaa Android Beam -siirron tilatietoja</string>
   <string name="permlab_install_shortcut">asenna pikakuvakkeita</string>
   <string name="permlab_invokeCarrierSetup">Palveluntarjoajan määrityssovelluksen käynnistäminen</string>
   <string name="permlab_killBackgroundProcesses">sulje muita sovelluksia</string>
   <string name="permlab_manageFingerprint">sormenjälkilaitteiston hallinnointi</string>
   <string name="permlab_manageNetworkPolicy">verkkokäytännön hallinnointi</string>
-  <string name="permlab_manageProfileAndDeviceOwners">Hallinnoi laitteen ja profiilien omistajia</string>
+  <string name="permlab_manageProfileAndDeviceOwners">hallinnoida laitteen ja profiilien omistajia</string>
   <string name="permlab_modifyAudioSettings">muuta ääniasetuksia</string>
   <string name="permlab_modifyNetworkAccounting">verkon käytön seurannan muokkaaminen</string>
   <string name="permlab_nfc">hallitse Near Field Communication -tunnistusta</string>
@@ -934,7 +1088,7 @@ tilille %s."</string>
   <string name="permlab_readCellBroadcasts">lue tiedotteita</string>
   <string name="permlab_readContacts">lue yhteystietoja</string>
   <string name="permlab_readHistoryBookmarks">lue verkon kirjanmerkkejä ja historiaa</string>
-  <string name="permlab_readInstallSessions">Lue asennusistuntoja</string>
+  <string name="permlab_readInstallSessions">lukea asennusistuntoja</string>
   <string name="permlab_readNetworkUsageHistory">verkonkäyttöhistorian lukeminen</string>
   <string name="permlab_readPhoneState">lue puhelimen tila ja identiteetti</string>
   <string name="permlab_readSms">lue tekstiviestejä (teksti tai multimedia)</string>
@@ -949,8 +1103,8 @@ tilille %s."</string>
   <string name="permlab_register_sim_subscription">rekisteröidä uusia tietoliikenne-SIM-yhteyksiä</string>
   <string name="permlab_removeDrmCertificates">DRM-varmenteiden poistaminen</string>
   <string name="permlab_reorderTasks">käynnissä olevien sovellusten järjesteleminen</string>
-  <string name="permlab_requestInstallPackages">Pyydä pakettien asennusta</string>
-  <string name="permlab_route_media_output">Median reititys</string>
+  <string name="permlab_requestInstallPackages">pyytää asennuspaketteja</string>
+  <string name="permlab_route_media_output">reitittää mediaa</string>
   <string name="permlab_sdcardRead">lue USB-tallennustilan sis.</string>
   <string name="permlab_sdcardWrite">muokkaa tai poista USB:n sis.</string>
   <string name="permlab_sendSms">lähettää ja tarkastella tekstiviestejä</string>
@@ -959,9 +1113,9 @@ tilille %s."</string>
   <string name="permlab_setTimeZone">asettaa aikavyöhykkeen</string>
   <string name="permlab_setWallpaper">aseta taustakuva</string>
   <string name="permlab_setWallpaperHints">säädä taustakuvan kokoa</string>
-  <string name="permlab_sim_communication">SIM-viestintä</string>
+  <string name="permlab_sim_communication">lähettää komentoja SIM-kortille</string>
   <string name="permlab_statusBar">poista tilapalkki käytöstä tai muokkaa tilapalkkia</string>
-  <string name="permlab_statusBarService">tilapalkki</string>
+  <string name="permlab_statusBarService">sijaita tilapalkissa</string>
   <string name="permlab_subscribedFeedsRead">lukea tilattuja syötteitä</string>
   <string name="permlab_systemAlertWindow">piirrä muihin sovelluksiin</string>
   <string name="permlab_transmitIr">infrapunalähetys</string>
@@ -1001,27 +1155,28 @@ tilille %s."</string>
   <string name="phoneTypeWork">Työ</string>
   <string name="phoneTypeWorkMobile">Matkapuhelin (työ)</string>
   <string name="phoneTypeWorkPager">Hakulaite (työ)</string>
+  <string name="pin_target">Kiinnitä</string>
   <string name="policydesc_disableCamera">Estä laitteen kaikkien kameroiden käyttö.</string>
   <string name="policydesc_disableKeyguardFeatures">Estä joidenkin lukitun näytön toimintojen käyttö.</string>
   <string name="policydesc_encryptedStorage">Pakota tallennettujen sovellustietojen salaus.</string>
-  <string name="policydesc_expirePassword">Muuta sitä, miten usein näytönlukituksen salasana, PIN-koodi tai kuvio tulee vaihtaa.</string>
-  <string name="policydesc_forceLock">Hallinnoi, milloin ja miten näyttö lukittuu.</string>
-  <string name="policydesc_limitPassword">Hallinnoi näytön lukituksen salasanoissa ja PIN-koodeissa sallittuja merkkejä ja niiden pituutta.</string>
-  <string name="policydesc_resetPassword">Muuttaa näytön lukituksen</string>
+  <string name="policydesc_expirePassword">Muuta sitä, miten usein ruudun lukituksen salasana, PIN-koodi tai kuvio tulee vaihtaa.</string>
+  <string name="policydesc_forceLock">Hallinnoida, milloin ja miten näyttö lukittuu.</string>
+  <string name="policydesc_limitPassword">Hallinnoi ruudun ruudun lukituksen salasanoissa ja PIN-koodeissa sallittuja merkkejä ja niiden pituutta.</string>
+  <string name="policydesc_resetPassword">Muuttaa näytön lukituksen.</string>
   <string name="policydesc_setGlobalProxy">Aseta laitteen yleinen välityspalvelin käyttöön, kun käytäntö on käytössä. Vain laitteen omistaja voi asettaa yleisen välityspalvelimen.</string>
   <string name="policydesc_watchLogin">Valvoo väärien salasanojen lukumäärää näytön lukituksen poistossa ja lukitsee puhelimen tai poistaa sen kaikki tiedot, jos väärä salasana syötetään liian monta kertaa.</string>
-  <string name="policydesc_watchLogin_secondaryUser">Valvo väärien salasanojen määrää näytön lukitusta avattaessa ja lukitse puhelin tai poista kaikki tämän käyttäjän tiedot, jos salasana kirjoitetaan väärin liian monta kertaa.</string>
+  <string name="policydesc_watchLogin_secondaryUser">Valvo väärien salasanojen määrää ruudun lukitusta avattaessa ja lukitse puhelin tai poista kaikki tämän käyttäjän tiedot, jos salasana kirjoitetaan väärin liian monta kertaa.</string>
   <string name="policydesc_wipeData">Tyhjentää puhelimen tiedot varoituksetta palauttamalla tehdasasetukset.</string>
   <string name="policydesc_wipeData_secondaryUser">Pyyhi tämän käyttäjän tiedot puhelimesta ilman varoitusta.</string>
   <string name="policylab_disableCamera">Poista kamerat käytöstä</string>
   <string name="policylab_disableKeyguardFeatures">Estä lukitun näytön toimintoja</string>
   <string name="policylab_encryptedStorage">Aseta tallennustilan salaus</string>
-  <string name="policylab_expirePassword">Määritä näytön lukituksen salasanan viimeinen voimassaolopäivä</string>
-  <string name="policylab_forceLock">Lukita näyttö</string>
+  <string name="policylab_expirePassword">Määritä ruudun lukituksen salasanan viimeinen voimassaolopäivä</string>
+  <string name="policylab_forceLock">Lukita ruudun</string>
   <string name="policylab_limitPassword">Aseta salasanasäännöt</string>
-  <string name="policylab_resetPassword">Muuta näytön lukitus</string>
+  <string name="policylab_resetPassword">Muuttaa näytön lukituksen</string>
   <string name="policylab_setGlobalProxy">Aseta laitteen yleinen välityspalvelin</string>
-  <string name="policylab_watchLogin">Tarkkaile näytön lukituksen poistoyrityksiä</string>
+  <string name="policylab_watchLogin">Tarkkaile ruudun lukituksen poistoyrityksiä</string>
   <string name="policylab_wipeData">Pyyhkiä kaikki tiedot</string>
   <string name="policylab_wipeData_secondaryUser">Pyyhi käyttäjän tiedot</string>
   <string name="postalTypeCustom">Muokattu</string>
@@ -1036,6 +1191,8 @@ tilille %s."</string>
   <string name="preposition_for_year">vuonna %s</string>
   <string name="print_service_installed_message">Ota käyttöön napauttamalla</string>
   <string name="print_service_installed_title">Palvelu %s asennettu</string>
+  <string name="profile_encrypted_detail">Työprofiili on lukittu.</string>
+  <string name="profile_encrypted_message">Avaa profiili koskettamalla.</string>
   <string name="progress_erasing">Tyhjennetään USB-tallennustilaa...</string>
   <string name="quick_contacts_not_available">Tämän kontaktin katselemiseen ei löydy sovellusta.</string>
   <string name="reason_service_unavailable">Tulostuspalvelu ei ole käytössä</string>
@@ -1051,6 +1208,8 @@ tilille %s."</string>
   <string name="reboot_to_update_reboot">Käynnistetään uudelleen…</string>
   <string name="reboot_to_update_title">Android-järjestelmäpäivitys</string>
   <string name="recent_tasks_title">Viimeisimmät</string>
+  <string name="redo">Toista</string>
+  <string name="region_picker_section_all">Kaikki alueet</string>
   <string name="relationTypeAssistant">Avustaja</string>
   <string name="relationTypeBrother">Veli</string>
   <string name="relationTypeChild">Lapsi</string>
@@ -1070,6 +1229,8 @@ tilille %s."</string>
   <string name="replace">Korvaa...</string>
   <string name="report">Ilmoita</string>
   <string name="reset">Palauta</string>
+  <string name="reset_retail_demo_mode_text">Palauta laite napauttamalla</string>
+  <string name="reset_retail_demo_mode_title">Palautetaanko laitteen tehdasasetukset?</string>
   <string name="restr_pin_confirm_pin">Vahvista uusi PIN-koodi</string>
   <string name="restr_pin_create_pin">Luo uusi PIN-koodi rajoitusten muokkaamista varten</string>
   <string name="restr_pin_enter_admin_pin">Anna järjestelmänvalvojan PIN-koodi</string>
@@ -1081,8 +1242,8 @@ tilille %s."</string>
   <string name="restr_pin_incorrect">Virheellinen</string>
   <string name="restr_pin_try_later">Yritä myöhemmin uudelleen</string>
   <string name="revoke">Peruuta</string>
-  <string name="ringtone_default">Oletus soittoääni</string>
-  <string name="ringtone_default_with_actual">Oletus soittoääni (%1$s)</string>
+  <string name="ringtone_default">Oletussoittoääni</string>
+  <string name="ringtone_default_with_actual">Oletussoittoääni (%1$s)</string>
   <string name="ringtone_picker_title">Soittoäänet</string>
   <string name="ringtone_silent">Ei mitään</string>
   <string name="ringtone_unknown">Tuntematon soittoääni</string>
@@ -1115,6 +1276,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="screen_lock">Näytön lukitus</string>
   <string name="search_go">Haku</string>
   <string name="search_hint">Haku…</string>
+  <string name="search_language_hint">Anna kielen nimi</string>
   <string name="searchview_description_clear">Tyhjennä kysely</string>
   <string name="searchview_description_query">Hakulauseke</string>
   <string name="searchview_description_search">Haku</string>
@@ -1128,8 +1290,8 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="select_day">Valitse kuukausi ja päivä</string>
   <string name="select_hours">Valitse tunnit</string>
   <string name="select_input_method">Vaihda näppäimistö</string>
-  <string name="select_keyboard_layout_notification_message">Kosketa ja valitse näppäimistöasettelu.</string>
-  <string name="select_keyboard_layout_notification_title">Valitse näppäimistöasettelu</string>
+  <string name="select_keyboard_layout_notification_message">Valitse kieli ja asettelu koskettamalla.</string>
+  <string name="select_keyboard_layout_notification_title">Määritä fyysinen näppäimistö</string>
   <string name="select_minutes">Valitse minuutit</string>
   <string name="select_year">Valitse vuosi</string>
   <string name="sendText">Valitse tekstille toiminto</string>
@@ -1154,13 +1316,17 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="sha256_fingerprint">SHA-256-tunnistetiedosto</string>
   <string name="share">Jaa</string>
   <string name="share_action_provider_share_with">Jaa seuraavien kanssa</string>
+  <string name="share_remote_bugreport_action">JAA</string>
+  <string name="share_remote_bugreport_notification_message_finished">Järjestelmänvalvoja pyysi virheraporttia voidakseen auttaa laitteen vianetsinnässä. Sovelluksia ja tietoja voidaan jakaa.</string>
+  <string name="share_remote_bugreport_notification_title">Jaetaanko virheraportti?</string>
   <string name="shareactionprovider_share_with">Jaa seuraavien kanssa:</string>
   <string name="shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
-  <string name="show_ime">Näytä syöttötapa</string>
+  <string name="sharing_remote_bugreport_notification_title">Jaetaan virheraporttia…</string>
+  <string name="show_ime">Pidä näytöllä, kun fyysinen näppäimistö on aktiivinen.</string>
   <string name="shutdown_confirm">Puhelin suljetaan.</string>
   <string name="shutdown_confirm_question">Haluatko sammuttaa?</string>
   <string name="shutdown_progress">Suljetaan...</string>
-  <string name="silent_mode">Äänetöntila</string>
+  <string name="silent_mode">Äänetön tila</string>
   <string name="silent_mode_ring">Soittoääni: normaali</string>
   <string name="silent_mode_silent">Soittoääni: mykistetty</string>
   <string name="silent_mode_vibrate">Soittoääni: värinä</string>
@@ -1203,13 +1369,14 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="stk_cc_ussd_to_dial">USSD-pyyntö muutettiin DIAL-pyynnöksi.</string>
   <string name="stk_cc_ussd_to_ss">USSD-pyyntö muutettiin SS-pyynnöksi.</string>
   <string name="stk_cc_ussd_to_ussd">USSD-pyyntö muutettiin uudeksi USSD-pyynnöksi.</string>
-  <string name="storage_internal">Sisäinen tallennustila</string>
+  <string name="storage_internal">Sisäinen jaettu tallennustila</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_sd_card_label">SD-kortti: %s</string>
   <string name="storage_usb">USB-tallennustila</string>
   <string name="storage_usb_drive">USB-asema</string>
   <string name="storage_usb_drive_label">USB-asema: %s</string>
   <string name="submit">Lähetä</string>
+  <string name="suspended_widget_accessibility">%1$s ei ole käytössä.</string>
   <string name="sync_binding_label">Synkronointi</string>
   <string name="sync_do_nothing">Älä tee mitään</string>
   <string name="sync_really_delete">Poista kohteet</string>
@@ -1218,8 +1385,9 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="sync_undo_deletes">Kumoa poistot</string>
   <string name="system_error_manufacturer">Laitteesi yhdistäminen ei onnistu sisäisen virheen takia. Saat lisätietoja valmistajalta.</string>
   <string name="system_error_wipe_data">Laitteellasi on sisäinen ongelma, joka aiheuttaa epävakautta. Voit korjata tilanteen palauttamalla tehdasasetukset.</string>
+  <string name="taking_remote_bugreport_notification_title">Luodaan virheraporttia…</string>
   <string name="terabyteShort">Tt</string>
-  <string name="tethered_notification_message">Määritä asetukset koskettamalla.</string>
+  <string name="tethered_notification_message">Määritä napauttamalla.</string>
   <string name="tethered_notification_multi_device_message">%1$s yhdistettyä laitetta</string>
   <string name="tethered_notification_no_device_message">Ei yhdistettyä laitetta</string>
   <string name="tethered_notification_one_device_message">%1$s yhdistetty laite</string>
@@ -1238,35 +1406,35 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="toolbar_collapse_description">Kutista</string>
   <string name="turn_off_radio">Poista langaton yhteys käytöstä</string>
   <string name="turn_on_radio">Ota langaton yhteys käyttöön</string>
-  <string name="tutorial_double_tap_to_zoom_message_short">Ohjaa zoomausta napauttamalla kahdesti</string>
+  <string name="tutorial_double_tap_to_zoom_message_short">Hallitse zoomausta napauttamalla kahdesti</string>
+  <string name="undo">Kumoa</string>
   <string name="unknownName">Tuntematon</string>
+  <string name="unpin_target">Irrota</string>
+  <string name="unsupported_display_size_message">%1$s ei tue nykyistä näytön kokoasetusta ja saattaa toimia odottamattomalla tavalla.</string>
+  <string name="unsupported_display_size_show">Näytä aina</string>
   <string name="untitled">&lt;Nimetön&gt;</string>
   <string name="upload_file">Valitse tiedosto</string>
   <string name="usb_accessory_notification_title">Liitetty USB-laitteeseen</string>
   <string name="usb_cd_installer_notification_title">Yhdistetty asentajana</string>
-  <string name="usb_charging_notification_title">USB on lataustilassa</string>
+  <string name="usb_charging_notification_title">Laitetta ladataan USB-yhteyden kautta</string>
   <string name="usb_midi_notification_title">USB on MIDI-tilassa</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Androidin USB-oheislaiteportti</string>
   <string name="usb_midi_peripheral_product_name">USB-oheislaiteportti</string>
+  <string name="usb_mtp_launch_notification_description">Näytä tiedostot koskettamalla</string>
+  <string name="usb_mtp_launch_notification_title">%1$s yhdistetty</string>
   <string name="usb_mtp_notification_title">USB on tiedonsiirtotilassa</string>
-  <string name="usb_notification_message">Lisää vaihtoehtoja koskettamalla</string>
+  <string name="usb_notification_message">Näet lisää vaihtoehtoja napauttamalla.</string>
   <string name="usb_ptp_notification_title">USB on kuvansiirtotilassa</string>
-  <string name="usb_storage_activity_title">USB-massamuisti</string>
-  <string name="usb_storage_button_mount">Ota USB-tallennustila käyttöön</string>
-  <string name="usb_storage_error_message">Ongelma käytettäessä USB-tilaa USB-massamuistina.</string>
-  <string name="usb_storage_message">Olet yhdistänyt laitteesi tietokoneeseen USB-kaapelin kautta. Kosketa alla olevaa painiketta, jos haluat kopioida tiedostoja tietokoneesi ja Androidin USB-tallennustilan välillä.</string>
-  <string name="usb_storage_notification_message">Kopioi tiedostoja tietokoneelle tai tietokoneelta koskettamalla tätä.</string>
-  <string name="usb_storage_notification_title">USB yhdistetty</string>
-  <string name="usb_storage_stop_button_mount">Poista USB-tallennustila käytöstä</string>
-  <string name="usb_storage_stop_error_message">Ongelma USB-tallennustilan sammuttamisessa. Tarkista, että olet poistanut USB-laitteen käytöstä, ja yritä uudelleen.</string>
-  <string name="usb_storage_stop_message">Poista Androidin USB-tallennustila käytöstä tietokoneellasi ennen USB-tallennustilan sammuttamista.</string>
-  <string name="usb_storage_stop_notification_message">Poista USB-tallennustila käytöstä koskettamalla tätä.</string>
-  <string name="usb_storage_stop_notification_title">Poista USB-tallennustila käytöstä</string>
-  <string name="usb_storage_stop_title">USB-tallennustila käytössä</string>
-  <string name="usb_storage_title">USB yhdistetty</string>
+  <string name="usb_supplying_notification_title">Liitetty laite saa virtaa USB-yhteyden kautta</string>
   <string name="use_a_different_app">Käytä toista sovellusta</string>
-  <string name="user_owner_label">Henkilökoht.</string>
+  <string name="user_creation_account_exists">Myönnetäänkö sovellukselle %1$s oikeus luoda käyttäjä tilille %2$s?</string>
+  <string name="user_creation_adding">Myönnetäänkö sovellukselle %1$s oikeus luoda käyttäjä tilille %2$s (tilillä on jo käyttäjä)?</string>
+  <string name="user_encrypted_detail">Käyttäjän tiedot on lukittu.</string>
+  <string name="user_encrypted_message">Avaa napauttamalla.</string>
+  <string name="user_encrypted_title">Toimintorajoitus mahdollinen</string>
+  <string name="user_logging_out_message">%1$s kirjautuu ulos…</string>
+  <string name="user_owner_label">Siirry henkilökohtaiseen profiiliin</string>
   <string name="user_switched">Nykyinen käyttäjä: %1$s.</string>
   <string name="user_switching_message">Vaihdetaan käyttäjään %1$s…</string>
   <string name="validity_period">Voimassa:</string>
@@ -1284,14 +1452,16 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="volume_notification">Ilmoituksen äänenvoimakkuus</string>
   <string name="volume_ringtone">Soittoäänen voimakkuus</string>
   <string name="volume_unknown">Äänenvoimakkuus</string>
-  <string name="vpn_lockdown_config">Kosketa ja tee määritykset</string>
+  <string name="vpn_lockdown_config">Määritä koskettamalla.</string>
   <string name="vpn_lockdown_connected">Yhdistetty aina käytössä olevaan VPN-verkkoon</string>
   <string name="vpn_lockdown_connecting">Yhdistetään aina käytössä olevaan VPN-verkkoon...</string>
+  <string name="vpn_lockdown_disconnected">Aina käytössä olevan VPN:n yhteys on katkaistu</string>
   <string name="vpn_lockdown_error">Aina käytössä oleva VPN: virhe</string>
-  <string name="vpn_text">Voit hallinnoida verkkoa koskettamalla.</string>
-  <string name="vpn_text_long">Yhdistetty: %s. Hallinnoi verkkoa koskettamalla.</string>
+  <string name="vpn_text">Napauta, niin voit hallinnoida verkkoa.</string>
+  <string name="vpn_text_long">Yhdistetty: %s. Hallinnoi verkkoa napauttamalla.</string>
   <string name="vpn_title">VPN on aktivoitu</string>
   <string name="vpn_title_long">%s on aktivoinut VPN-yhteyden</string>
+  <string name="vr_listener_binding_label">Virtuaalitodellisuuden kuuntelija</string>
   <string name="wait">Odota</string>
   <string name="wallpaper_binding_label">Taustakuva</string>
   <string name="webpage_unresponsive">"Sivu ei vastaa.
@@ -1300,31 +1470,40 @@ Haluatko sulkea sen?"</string>
   <string name="websearch">Verkkohaku</string>
   <string name="week">viikko</string>
   <string name="weeks">viikkoa</string>
-  <string name="wfcDataSpnFormat">%s</string>
   <string name="wfcRegErrorTitle">Wi-Fi-puhelut</string>
-  <string name="wfcSpnFormat">%s</string>
   <string name="wfc_mode_cellular_preferred_summary">Matkapuhelinverkko ensisijainen</string>
   <string name="wfc_mode_wifi_only_summary">Vain Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Wi-Fi ensisijainen</string>
   <string name="whichApplication">Tee toiminto käyttäen sovellusta</string>
+  <string name="whichApplicationLabel">Suorita toiminto</string>
   <string name="whichApplicationNamed">Suorita sovelluksella %1$s</string>
   <string name="whichEditApplication">Muokkaa sovelluksessa</string>
+  <string name="whichEditApplicationLabel">Muokkaa</string>
   <string name="whichEditApplicationNamed">Muokkaa sovelluksessa %1$s</string>
-  <string name="whichHomeApplication">Valitse aloitusnäyttösovellus</string>
-  <string name="whichHomeApplicationNamed">Käytä aloitusnäyttönä: %1$s</string>
+  <string name="whichHomeApplication">Valitse aloitusruutusovellus</string>
+  <string name="whichHomeApplicationLabel">Tallenna kuva</string>
+  <string name="whichHomeApplicationNamed">Käytä aloitusruutuna: %1$s</string>
+  <string name="whichImageCaptureApplication">Tallenna kuva sovelluksella</string>
+  <string name="whichImageCaptureApplicationLabel">Tallenna kuva</string>
+  <string name="whichImageCaptureApplicationNamed">Tallenna kuva sovelluksella %1$s</string>
   <string name="whichSendApplication">Jaa sovelluksessa</string>
+  <string name="whichSendApplicationLabel">Jaa</string>
   <string name="whichSendApplicationNamed">Jaa sovelluksessa %1$s</string>
+  <string name="whichSendToApplication">Lähetä sovelluksella</string>
+  <string name="whichSendToApplicationLabel">Lähetä</string>
+  <string name="whichSendToApplicationNamed">Lähetä sovelluksella %1$s</string>
   <string name="whichViewApplication">Avaa sovelluksessa</string>
+  <string name="whichViewApplicationLabel">Avaa</string>
   <string name="whichViewApplicationNamed">Avaa sovelluksessa %1$s</string>
   <string name="wifi_available_sign_in">Kirjaudu Wi-Fi-verkkoon</string>
-  <string name="wifi_calling_off_summary">Pois päältä</string>
+  <string name="wifi_calling_off_summary">Ei käytössä</string>
   <string name="wifi_connect_alert_message">Sovellus %1$s yrittää yhdistää Wi-Fi-verkkoon %2$s.</string>
   <string name="wifi_connect_alert_title">Sallitaanko yhteys?</string>
   <string name="wifi_connect_default_application">Sovellus</string>
   <string name="wifi_no_internet">Wi-Fi ei ole yhteydessä internetiin.</string>
-  <string name="wifi_no_internet_detailed">Näet lisää vaihtoehtoja koskettamalla</string>
+  <string name="wifi_no_internet_detailed">Näytä vaihtoehdot napauttamalla.</string>
   <string name="wifi_p2p_dialog_title">Suora Wi-Fi-yhteys</string>
-  <string name="wifi_p2p_enabled_notification_message">Tarkastele asetuksia koskettamalla</string>
+  <string name="wifi_p2p_enabled_notification_message">Näytä asetukset napauttamalla.</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct on käytössä</string>
   <string name="wifi_p2p_enter_pin_message">Kirjoita pyydetty PIN-koodi:</string>
   <string name="wifi_p2p_failed_message">Suoran Wi-Fi-yhteyden käynnistäminen epäonnistui.</string>
@@ -1335,12 +1514,11 @@ Haluatko sulkea sen?"</string>
   <string name="wifi_p2p_show_pin_message">PIN-koodi:</string>
   <string name="wifi_p2p_to_message">Kohde:</string>
   <string name="wifi_p2p_turnon_message">Käynnistä suora Wi-Fi-yhteys. Wi-Fi-asiakas/-hotspot poistetaan käytöstä.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Wi-Fi-yhteyden muodostaminen epäonnistui</string>
   <string name="wifi_watchdog_network_disabled_detailed">" : huono internetyhteys."</string>
   <string name="wireless_display_route_description">Langaton näyttö</string>
-  <string name="work_mode_off_message">Salli työprofiilin toimia, sisältäen sovellukset, synkronointi taustalla ja niihin liittyvät ominaisuudet.</string>
-  <string name="work_mode_off_title">Työtila on POIS PÄÄLTÄ</string>
+  <string name="work_mode_off_message">Sallii työprofiiliin toiminnan, esimerkiksi sovellukset ja taustasynkronoinnin.</string>
+  <string name="work_mode_off_title">Työtila on pois käytöstä</string>
   <string name="work_mode_turn_on">Ota käyttöön</string>
   <string name="work_profile_deleted">Työprofiili poistettiin</string>
   <string name="work_profile_deleted_description">Työprofiili poistettiin, koska laitteelta puuttuu järjestelmänvalvojasovellus.</string>
@@ -1351,10 +1529,10 @@ Haluatko sulkea sen?"</string>
   <string name="year">vuosi</string>
   <string name="years">vuotta</string>
   <string name="yes">OK</string>
-  <string name="zen_mode_alarm">Seuraavaan %1$s (hälytykseen)</string>
+  <string name="zen_mode_alarm">%1$s asti (seuraava hälytys)</string>
   <string name="zen_mode_default_events_name">Tapahtuma</string>
-  <string name="zen_mode_default_weekends_name">Viikonloppu</string>
-  <string name="zen_mode_default_weeknights_name">Weeknight</string>
+  <string name="zen_mode_default_weekends_name">Viikonloppuna</string>
+  <string name="zen_mode_default_weeknights_name">Arki-iltaisin</string>
   <string name="zen_mode_downtime_feature_name">Vapaalla</string>
   <string name="zen_mode_feature_name">Älä häiritse</string>
   <string name="zen_mode_forever">Kunnes poistat tämän käytöstä</string>
