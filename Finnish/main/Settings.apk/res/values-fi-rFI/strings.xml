@@ -831,6 +831,7 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="choose_assist_title">Valitse avustajasovellus</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="choose_smartcover_type">Valitse kotelon tyyppi</string>
+  <string name="choose_spell_checker">Valitse oikolukija</string>
   <string name="choose_timezone">Valitse aikavyöhyke</string>
   <string name="choose_voice_input_title">Valitse äänisyöte</string>
   <string name="cleaner">Puhdistaja</string>
@@ -1146,6 +1147,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_input_method">Valitse oletusnäppäimistö</string>
   <string name="default_phone_title">Puhelinsovellus</string>
   <string name="default_sound">Oletusääni</string>
+  <string name="default_spell_checker">Oletus oikolukija</string>
   <string name="default_usb_mode">USB-yhteys</string>
   <string name="delete">Poista</string>
   <string name="delete_fingerprint_confirm_msg">Poistetaanko sormenjälki?</string>
@@ -3639,8 +3641,8 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sound_vibrate_settings">Ääni ja värinä</string>
   <string name="spellchecker_language">Kieli</string>
   <string name="spellchecker_quick_settings">Asetukset</string>
-  <string name="spellchecker_security_warning">Tämä oikoluku voi ehkä kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilötiedot, kuten salasanat ja luottokorttien numerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä oikolukua?</string>
-  <string name="spellcheckers_settings_title">Oikeinkirjoituksen tarkistus</string>
+  <string name="spellchecker_security_warning">Tämä oikolukija voi mahdollisesti kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilötiedot, kuten salasanat ja luottokorttien numerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä oikolukijaa?</string>
+  <string name="spellcheckers_settings_title">Oikolukija</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Verkon valvonta</string>
   <string name="ssl_ca_cert_info_message">"Tämän laitteen hallinnoija on:
