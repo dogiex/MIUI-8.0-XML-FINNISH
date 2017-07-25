@@ -59,7 +59,7 @@
   <string name="progress_set_owner">Määritetään laitteen omistajaa…</string>
   <string name="provisioning">Käyttäjien hallintaa suoritetaan</string>
   <string name="provisioning_error_title">Hups!</string>
-  <string name="read_more_delete_profile">&lt;a href="#read_this_link"&gt;Lue t&amp;#228;m&amp;#228;&lt;/a&gt; ennen kuin jatkat.</string>
+  <string name="read_more_delete_profile">&lt;a href="#read_this_link"&gt;Lue tämä&lt;/a&gt; ennen kuin jatkat.</string>
   <string name="set_up">Määritä asetukset</string>
   <string name="setting_up_workspace">Määritetään työprofiilia…</string>
   <string name="setup_device_encryption">Määritä laitteesi. Salaus</string>

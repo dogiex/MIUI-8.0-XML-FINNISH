@@ -75,15 +75,15 @@ Jos laitteella on useita käyttäjiä, tämän pikanäppäimen käyttäminen luk
   <string name="accessibility_power_button_ends_call_prerefence_title">Puhelun katkaisu virtapainikkeella</string>
   <string name="accessibility_screen_magnification_enable">Suurennuseleet</string>
   <string name="accessibility_screen_magnification_short_summary">Lähennä napauttamalla kolme kertaa.</string>
-  <string name="accessibility_screen_magnification_summary">&lt;b&gt;L&amp;#228;henn&amp;#228;&lt;/b&gt;" koskettamalla n&amp;#228;ytt&amp;#246;&amp;#228; sormella nopeasti kolme kertaa.
-"&lt;li&gt;&lt;ul&gt;"Selaa vet&amp;#228;m&amp;#228;ll&amp;#228; kahta tai useampaa sormea.
-"&lt;li&gt;S&amp;#228;&amp;#228;d&amp;#228; zoomia nipist&amp;#228;m&amp;#228;ll&amp;#228; kahta tai useampaa sormea yhteen tai levitt&amp;#228;m&amp;#228;ll&amp;#228; niit&amp;#228; erilleen.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+  <string name="accessibility_screen_magnification_summary">&lt;b&gt;Lähennä&lt;/b&gt;" koskettamalla näytt&amp;#246;ä sormella nopeasti kolme kertaa.
+"&lt;li&gt;&lt;ul&gt;"Selaa vetämällä kahta tai useampaa sormea.
+"&lt;li&gt;Säädä zoomia nipistämällä kahta tai useampaa sormea yhteen tai levittämällä niitä erilleen.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-"&lt;b&gt;L&amp;#228;henn&amp;#228; v&amp;#228;liaikaisesti&lt;/b&gt;" koskettamalla n&amp;#228;ytt&amp;#246;&amp;#228; nopeasti kolme kertaa ja jatkamalla kosketusta pitk&amp;#228;&amp;#228;n kolmannella kerralla.
-"&lt;li&gt;&lt;ul&gt;"Liiku n&amp;#228;yt&amp;#246;ll&amp;#228; vet&amp;#228;m&amp;#228;ll&amp;#228; sormea.
-"&lt;li&gt;Loitonna nostamalla sormi n&amp;#228;yt&amp;#246;lt&amp;#228;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"&lt;b&gt;Lähennä väliaikaisesti&lt;/b&gt;" koskettamalla näytt&amp;#246;ä nopeasti kolme kertaa ja jatkamalla kosketusta pitkään kolmannella kerralla.
+"&lt;li&gt;&lt;ul&gt;"Liiku näyt&amp;#246;llä vetämällä sormea.
+"&lt;li&gt;Loitonna nostamalla sormi näyt&amp;#246;ltä.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-N&amp;#228;ytt&amp;#246;&amp;#246;n tai navigointipalkkiin l&amp;#228;hent&amp;#228;minen ei ole mahdollista."</string>
+Näytt&amp;#246;&amp;#246;n tai navigointipalkkiin lähentäminen ei ole mahdollista."</string>
   <string name="accessibility_screen_magnification_title">Suurennusele</string>
   <string name="accessibility_service_default_description">Ei kuvausta.</string>
   <string name="accessibility_services_title">Palvelut</string>
@@ -2238,17 +2238,17 @@ Olet kirjautunut sisään seuraaviin tileihin:
   <string name="master_clear_apply_title">Huomio</string>
   <string name="master_clear_button_text">Nollaa puhelimen asetukset</string>
   <string name="master_clear_confirm_title">Nollataanko?</string>
-  <string name="master_clear_desc">Tämä poistaa kaikki puhelimesi &lt;b&gt;sis&amp;#228;isen tallennustilan&lt;/b&gt;" tiedot, kuten:
+  <string name="master_clear_desc">Tämä poistaa kaikki puhelimesi &lt;b&gt;sisäisen tallennustilan&lt;/b&gt;" tiedot, kuten:
 
 "&lt;li&gt;Google-tilisi&lt;/li&gt;"
-"&lt;li&gt;J&amp;#228;rjestelm&amp;#228;- ja sovellustiedot ja -asetukset&lt;/li&gt;"
+"&lt;li&gt;Järjestelmä- ja sovellustiedot ja -asetukset&lt;/li&gt;"
 "&lt;li&gt;Ladatut sovellukset&lt;/li&gt;</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Musiikki&lt;/li&gt;"
 "&lt;li&gt;Valokuvat&lt;/li&gt;"
-"&lt;li&gt;Muut k&amp;#228;ytt&amp;#228;j&amp;#228;n tiedot&lt;/li&gt;</string>
+"&lt;li&gt;Muut käyttäjän tiedot&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Jos haluat poistaa musiikin, kuvat ja muut käyttäjän tiedot, "&lt;b&gt;USB-tallennustila&lt;/b&gt; tulee tyhjent&amp;#228;&amp;#228;.</string>
+Jos haluat poistaa musiikin, kuvat ja muut käyttäjän tiedot, "&lt;b&gt;USB-tallennustila&lt;/b&gt; tulee tyhjentää.</string>
   <string name="master_clear_erase_application_progress">Poistetaan sovelluksia…</string>
   <string name="master_clear_failed">Palauttamista ei suoritettu, koska System Clear -palvelu ei ole käytettävissä.</string>
   <string name="master_clear_final_button_text">Poista kaikki</string>
@@ -3097,13 +3097,13 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="reset_app_preferences_button">Nollaa sovellukset</string>
   <string name="reset_app_preferences_desc">"Tämä palauttaa kaikki asetukset seuraaville:
 
- "&lt;li&gt;K&amp;#228;yt&amp;#246;st&amp;#228; poistetut sovellukset&lt;/li&gt;"
- "&lt;li&gt;K&amp;#228;yt&amp;#246;st&amp;#228; poistetut sovellusilmoitukset&lt;/li&gt;"
+ "&lt;li&gt;Käyt&amp;#246;stä poistetut sovellukset&lt;/li&gt;"
+ "&lt;li&gt;Käyt&amp;#246;stä poistetut sovellusilmoitukset&lt;/li&gt;"
  "&lt;li&gt;Toimintojen oletussovellukset&lt;/li&gt;"
  "&lt;li&gt;Sovellusten taustatietorajoitukset&lt;/li&gt;"
  "&lt;li&gt;Kaikki oikeuksien rajoitukset&lt;/li&gt;"
 
- Et menet&amp;#228; mit&amp;#228;&amp;#228;n sovellustietoja."</string>
+ Et menetä mitään sovellustietoja."</string>
   <string name="reset_app_preferences_title">Nollaa sovellusasetukset?</string>
   <string name="reset_legacy_password_settings_preface_text">Sinun täytyy resetoida Lukitusnäytön salasana.</string>
   <string name="reset_network_button_text">Nollaa asetukset</string>
@@ -3558,10 +3558,10 @@ Näytön kiinnittäminen:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Poista</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nimi</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Puhelimen lukituksen avaamisen lisäksi voit käyttää sormenjälkeä ostoksien ja sovelluksien käyttöoikeuksien vahvistamiseen. &lt;annotation id="url"&gt;Lis&amp;#228;tietoja&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Näytön lukituksen avaaminen ei ole käytössä. Saat lisätietoja organisaatiosi järjestelmänvalvojalta. &lt;annotation id="admin_details"&gt;Lis&amp;#228;tietoja&lt;/annotation&gt;"
+  <string name="security_settings_fingerprint_enroll_disclaimer">Puhelimen lukituksen avaamisen lisäksi voit käyttää sormenjälkeä ostoksien ja sovelluksien käyttöoikeuksien vahvistamiseen. &lt;annotation id="url"&gt;Lisätietoja&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Näytön lukituksen avaaminen ei ole käytössä. Saat lisätietoja organisaatiosi järjestelmänvalvojalta. &lt;annotation id="admin_details"&gt;Lisätietoja&lt;/annotation&gt;"
 
-Sormenj&amp;#228;ljell&amp;#228; voi silti hyv&amp;#228;ksy&amp;#228; ostoksia ja vahvistaa sovellusten k&amp;#228;ytt&amp;#246;oikeuksia."&lt;annotation id="url"&gt;Lis&amp;#228;tietoja&lt;/annotation&gt;</string>
+Sormenjäljellä voi silti hyväksyä ostoksia ja vahvistaa sovellusten käytt&amp;#246;oikeuksia."&lt;annotation id="url"&gt;Lisätietoja&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Valmis</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Rekisteröitymistä ei suoritettu loppuun.</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Sormenjäljen rekisteröinti ei onnistunut. Yritä uudelleen tai käytä eri sormea.</string>
@@ -3577,7 +3577,7 @@ Sormenj&amp;#228;ljell&amp;#228; voi silti hyv&amp;#228;ksy&amp;#228; ostoksia j
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Lisää sormenjälki</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">"Avaa puhelimen lukitus, valtuuta ostoksia ja kirjaudu sovelluksiin helposti koskettamalla sormenjälkitunnistinta. Ole varovainen lisätessäsi sormenjälkiä – edellä mainitut toiminnot onnistuvat kaikilla laitteeseen lisätyillä sormenjäljillä.
 
-Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai PIN-koodi. "&lt;annotation id="url"&gt;Lis&amp;#228;tietoja&lt;/annotation&gt;</string>
+Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai PIN-koodi. "&lt;annotation id="url"&gt;Lisätietoja&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Avaa sormenjäljellä</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Nosta sormesi ja kosketa tunnistinta uudelleen.</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Lisää sormenjälkesi kokonaisuudessaan liikuttamalla sormeasi varovasti.</string>
@@ -3951,14 +3951,14 @@ Voit asentaa sovellukset uudelleen myöhemmin, mutta niiden laitteelle tallentam
 Kaikki kohteen ^1 tiedot poistetaan. Suosittelemme, että varmuuskopioit tiedot ensin. 
 
 "&lt;b&gt;Valokuvien ja muiden mediatiedostojen varmuuskopiointi&lt;/b&gt;" 
-Siirr&amp;#228; mediatiedostosi toiseen t&amp;#228;ss&amp;#228; laitteessa olevaan tallennustilaan, tai siirr&amp;#228; ne tietokoneelle USB-johdon avulla. 
+Siirrä mediatiedostosi toiseen tässä laitteessa olevaan tallennustilaan, tai siirrä ne tietokoneelle USB-johdon avulla. 
 
 "&lt;b&gt;Sovellusten varmuuskopiointi&lt;/b&gt;" 
-Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjennet&amp;#228;&amp;#228;n. Jos haluat s&amp;#228;ilytt&amp;#228;&amp;#228; n&amp;#228;m&amp;#228; sovellukset, siirr&amp;#228; ne toiseen t&amp;#228;m&amp;#228;n laitteen tallennustilaan."</string>
+Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjennetään. Jos haluat säilyttää nämä sovellukset, siirrä ne toiseen tämän laitteen tallennustilaan."</string>
   <string name="storage_internal_title">Laitteen tallennustila</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Kun t&amp;#228;m&amp;#228; ^1 poistetaan, siihen tallennetut sovellukset lakkaavat toimimasta eiv&amp;#228;tk&amp;#228; mediatiedostot ole k&amp;#228;ytett&amp;#228;viss&amp;#228; ennen kuin se liitet&amp;#228;&amp;#228;n uudelleen.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Kun tämä ^1 poistetaan, siihen tallennetut sovellukset lakkaavat toimimasta eivätkä mediatiedostot ole käytettävissä ennen kuin se liitetään uudelleen.&lt;/b&gt;" 
 
-^1 on alustettu niin, ett&amp;#228; se toimii vain t&amp;#228;m&amp;#228;n laitteen kanssa."</string>
+^1 on alustettu niin, että se toimii vain tämän laitteen kanssa."</string>
   <string name="storage_label">Tallennustila</string>
   <string name="storage_low_summary">Jotkin järjestelmän toiminnot, kuten synkronointi, eivät välttämättä toimi oikein. Vapauta tilaa poistamalla tai irrottamalla kohteita kuten sovelluksia tai mediasisältöä.</string>
   <string name="storage_low_title">Tallennustila on loppumassa</string>
@@ -3998,11 +3998,11 @@ Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjenn
 
 Alustamisen jälkeen ^1 toimii vain tässä laitteessa. 
 
-"&lt;b&gt;Alustaminen tarkoittaa, ett&amp;#228; ^1 tyhjennet&amp;#228;&amp;#228;n kaikista tiedoista.&lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menet&amp;#228; t&amp;#228;rkeit&amp;#228; tietoja.</string>
+"&lt;b&gt;Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista.&lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_next">Poista tiedot ja alusta</string>
   <string name="storage_wizard_format_confirm_public_body">"^1 on alustettava. 
 
-"&lt;b&gt;Alustaminen tarkoittaa, ett&amp;#228; ^1 tyhjennet&amp;#228;&amp;#228;n kaikista tiedoista. &lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menet&amp;#228; t&amp;#228;rkeit&amp;#228; tietoja.</string>
+"&lt;b&gt;Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista. &lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_public_title">Alusta kannettavana tallennustilana</string>
   <string name="storage_wizard_format_confirm_third_body">The ^1 is being formatted</string>
   <string name="storage_wizard_format_confirm_title">Alusta sisäisenä tallennustilana</string>
@@ -4016,7 +4016,7 @@ Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
   <string name="storage_wizard_migrate_body">"Uusi ^1 on nyt käytettävissä, ja voit siirtää kuvasi, tiedostosi ja jotkin sovellukset siihen. 
 
 Siirto vie noin ^2 ja vapauttaa ^3 sisäistä tallennustilaa. Jotkin sovellukset eivät toimi siirron aikana."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron my&amp;#246;t&amp;#228; ^3 saa ^2 lis&amp;#228;tilaa.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron my&amp;#246;tä ^3 saa ^2 lisätilaa.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Siirrä</string>
   <string name="storage_wizard_migrate_confirm_title">Siirrä tiedot nyt</string>
   <string name="storage_wizard_migrate_details">"Siirron aikana: 
@@ -4094,8 +4094,8 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="sync_now">Synkronoi</string>
   <string name="sync_one_time_sync">"Synkronoi nyt koskettamalla – 
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa k&amp;#228;ytt&amp;#228;m&amp;#228;&amp;#228;n Google Sync -palvelua!&lt;/font&gt;" 
-Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#228;&amp;#228; yhteystietojasi, tapaamisiasi ynn&amp;#228; muita tietoja mist&amp;#228; tahansa."</string>
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa käyttämään Google Sync -palvelua!&lt;/font&gt;" 
+Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystietojasi, tapaamisiasi ynnä muita tietoja mistä tahansa."</string>
   <string name="sync_settings">Synkronoi</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Vain Wi-Fi</string>
@@ -4709,11 +4709,11 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_allow_scan_with_traffic_summary">Salli/estä Wi-Fi-verkkovierailuskannaus liittymässä esiintyvän dataliikenteen perusteella.</string>
   <string name="wifi_and_mobile_skipped_message">"Jos et määritä Wi-Fi-asetuksia
 
-"&lt;li&gt;puhelimesi ei voi muodostaa yhteytt&amp;#228; internetiin&lt;/li&gt;"
+"&lt;li&gt;puhelimesi ei voi muodostaa yhteyttä internetiin&lt;/li&gt;"
 
-"&lt;li&gt;et voi ladata ohjelmistop&amp;#228;ivityksi&amp;#228; ennen kuin muodostat internetyhteyden&lt;/li&gt;"
+"&lt;li&gt;et voi ladata ohjelmistopäivityksiä ennen kuin muodostat internetyhteyden&lt;/li&gt;"
 
-"&lt;li&gt;et voi ottaa laitteen suojausominaisuuksia k&amp;#228;ytt&amp;#246;&amp;#246;n t&amp;#228;ll&amp;#228; hetkell&amp;#228;.&lt;/li&gt;</string>
+"&lt;li&gt;et voi ottaa laitteen suojausominaisuuksia käytt&amp;#246;&amp;#246;n tällä hetkellä.&lt;/li&gt;</string>
   <string name="wifi_ap_band_config">Valitse AP-taajuus</string>
   <string name="wifi_ap_choose_2G">2,4 GHz:n taajuus</string>
   <string name="wifi_ap_choose_5G">5 GHz:n taajuus</string>

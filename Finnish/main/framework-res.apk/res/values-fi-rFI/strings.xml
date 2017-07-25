@@ -207,66 +207,10 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Ehtojen toimituspalvelu</string>
   <string name="conference_call">Puhelinneuvottelu</string>
-  <string name="config_activityRecognitionHardwarePackageName">@null</string>
-  <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
-  <string name="config_appsNotReportingCrashes"/>
-  <string name="config_cameraLaunchGestureSensorStringType"/>
-  <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
-  <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
-  <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
-  <string name="config_customAdbPublicKeyConfirmationComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingActivity</string>
-  <string name="config_customAdbPublicKeyConfirmationSecondaryUserComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingSecondaryUserActivity</string>
-  <string name="config_customResolverActivity"/>
-  <string name="config_customVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.ConfirmDialog</string>
-  <string name="config_datause_iface">rmnet0</string>
-  <string name="config_defaultDndAccessPackages">com.android.camera2</string>
-  <string name="config_defaultNetworkScorerPackageName"/>
-  <string name="config_defaultPictureInPictureBounds">0 0 100 100</string>
-  <string name="config_default_dns_server">8.8.8.8</string>
-  <string name="config_demoModeLauncherComponent">com.android.retaildemo/.DemoPlayer</string>
-  <string name="config_deviceProvisioningPackage"/>
-  <string name="config_doubleTouchGestureEnableFile"/>
-  <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
-  <string name="config_dozeDoubleTapSensorType"/>
-  <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
-  <string name="config_emergency_call_number">112</string>
-  <string name="config_ethernet_iface_regex">eth\\d</string>
-  <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
-  <string name="config_forceVoiceInteractionServicePackage"/>
-  <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
-  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
-  <string name="config_geofenceProviderPackageName">@null</string>
-  <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
-  <string name="config_iccHotswapPromptForRestartDialogComponent">@null</string>
-  <string name="config_isoImagePath"/>
-  <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
-  <string name="config_mms_user_agent">Android-Mms/2.0</string>
-  <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_mobile_hotspot_provision_app_no_ui"/>
-  <string name="config_mobile_hotspot_provision_response"/>
-  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
-  <string name="config_networkPolicyNotificationComponent"/>
-  <string name="config_ntpServer">2.android.pool.ntp.org</string>
-  <string name="config_optionalPackageVerifierName">seemp.service</string>
-  <string name="config_packagedKeyboardName"/>
-  <string name="config_persistentDataPackageName">com.google.android.gms</string>
-  <string name="config_radio_access_family"/>
   <string name="config_rat_2g">2G</string>
   <string name="config_rat_3g">3G</string>
   <string name="config_rat_4g">4G</string>
   <string name="config_rat_unknown"/>
-  <string name="config_tvRemoteServicePackage"/>
-  <string name="config_useragentprofile_url"/>
-  <string name="config_wallpaperCropperPackage">com.android.wallpapercropper</string>
-  <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
-  <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-  <string name="config_wifi_random_mac_oui">DA-A1-19</string>
-  <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
-  <string name="config_wifi_tether_enable">com.android.settings/.TetherService</string>
-  <string name="config_wimaxManagerClassname"/>
-  <string name="config_wimaxNativeLibLocation"/>
-  <string name="config_wimaxServiceClassname"/>
-  <string name="config_wimaxServiceJarLocation"/>
   <string name="configure_input_methods">Valitse näppäimistöt</string>
   <string name="contentServiceSync">Synkronointi</string>
   <string name="contentServiceSyncNotificationTitle">Synkronointi</string>
@@ -311,9 +255,6 @@ käyttäen numeroa %s"</string>
   <string name="date_time_set">Aseta</string>
   <string name="day">päivä</string>
   <string name="days">päivää</string>
-  <string name="db_default_journal_mode">PERSIST</string>
-  <string name="db_default_sync_mode">FULL</string>
-  <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Hylkää</string>
   <string name="decline_remote_bugreport_action">HYLKÄÄ</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -592,7 +533,7 @@ Haluatko varmasti siirtyä pois tältä sivulta?"</string>
   <string name="keyguard_password_enter_pin_prompt">Uusi PIN-koodi</string>
   <string name="keyguard_password_enter_puk_code">Anna PUK-koodi ja uusi PIN-koodi</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-koodi</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Napauta ja anna salasana.&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Napauta ja anna salasana.</string>
   <string name="keyguard_password_wrong_pin_code">PIN-koodi väärin.</string>
   <string name="kg_enter_confirm_pin_hint">Vahvista haluamasi PIN-koodi</string>
   <string name="kg_failed_attempts_almost_at_login">"Piirsit lukituksenpoistokuvion väärin %1$d kertaa. Jos piirrät kuvion väärin vielä %2$d kertaa, sinua pyydetään poistamaan puhelimesi lukitus sähköpostitilin avulla.
@@ -606,7 +547,7 @@ Haluatko varmasti siirtyä pois tältä sivulta?"</string>
   <string name="kg_invalid_sim_pin_hint">Anna 4–8-numeroinen PIN-koodi.</string>
   <string name="kg_invalid_sim_puk_hint">PUK-koodissa tulee olla 8 numeroa.</string>
   <string name="kg_login_account_recovery_hint">"Unohditko käyttäjänimesi tai salasanasi?
-Käy osoitteessa "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Käy osoitteessa "google.com/accounts/recovery.</string>
   <string name="kg_login_checking_password">Tarkistetaan tiliä...</string>
   <string name="kg_login_instructions">Poista lukitus kirjautumalla sisään Google-tililläsi.</string>
   <string name="kg_login_invalid_input">Virheellinen käyttäjänimi tai salasana.</string>
@@ -678,7 +619,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Puhelimen lukituksen poisto epäonnistui %d kertaa. Puhelimeen palautetaan nyt tehdasasetukset.</string>
   <string name="lockscreen_forgot_pattern_button_text">Unohditko mallin?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Unohditko käyttäjänimesi tai salasanasi?
-Käy osoitteessa "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;</string>
+Käy osoitteessa "google.com/accounts/recovery</string>
   <string name="lockscreen_glogin_checking_password">Tarkistetaan...</string>
   <string name="lockscreen_glogin_forgot_pattern">Tilin lukituksen poisto</string>
   <string name="lockscreen_glogin_instructions">Poista lukitus kirjautumalla sisään Google-tililläsi.</string>
@@ -1132,7 +1073,7 @@ tilille %s."</string>
   <string name="permlab_writeSettings">muokkaa järjestelmän asetuksia</string>
   <string name="permlab_writeSyncSettings">ota synkronointi käyttöön tai poista se käytöstä</string>
   <string name="perms_description_app">Palvelun tarjoaa %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;UUTTA: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">UUTTA: </string>
   <string name="petabyteShort">Pt</string>
   <string name="phoneTypeAssistant">Avustaja</string>
   <string name="phoneTypeCallback">Takaisinsoitto</string>
@@ -1341,17 +1282,17 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="sipAddressTypeOther">Muu</string>
   <string name="sipAddressTypeWork">Työ</string>
   <string name="skip_button_label">Ohita</string>
-  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; lähettää suuria määriä tekstiviestejä. Annetaanko tämän sovelluksen jatkaa tekstiviestien lähettämistä?</string>
+  <string name="sms_control_message">%1$s lähettää suuria määriä tekstiviestejä. Annetaanko tämän sovelluksen jatkaa tekstiviestien lähettämistä?</string>
   <string name="sms_control_no">Kiellä</string>
   <string name="sms_control_title">Tekstiviestien lähettäminen</string>
   <string name="sms_control_yes">Salli</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;T&amp;#228;m&amp;#228; aiheuttaa kuluja matkapuhelinliittym&amp;#228;laskuusi.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">Tämä aiheuttaa kuluja matkapuhelinliittymälaskuusi.</string>
   <string name="sms_short_code_confirm_allow">Lähetä</string>
   <string name="sms_short_code_confirm_always_allow">Salli aina</string>
   <string name="sms_short_code_confirm_deny">Peruuta</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; haluaa lähettää viestin osoitteeseen &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message">%1$s haluaa lähettää viestin osoitteeseen %2$s.</string>
   <string name="sms_short_code_confirm_never_allow">Älä koskaan salli</string>
-  <string name="sms_short_code_details">Tämä &lt;b&gt;voi aiheuttaa kuluja&lt;/b&gt; matkapuhelinliittym&amp;#228;laskuusi.</string>
+  <string name="sms_short_code_details">Tämä voi aiheuttaa kuluja matkapuhelinliittymälaskuusi.</string>
   <string name="sms_short_code_remember_choice">Muista valintani</string>
   <string name="sms_short_code_remember_undo_instruction">Muuta kohd. Asetukset &gt; Sovellukset</string>
   <string name="smv_application">Sovellus %1$s (prosessi %2$s) on rikkonut itse käyttöön ottamaansa StrictMode-käytäntöä.</string>
@@ -1412,7 +1353,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="unpin_target">Irrota</string>
   <string name="unsupported_display_size_message">%1$s ei tue nykyistä näytön kokoasetusta ja saattaa toimia odottamattomalla tavalla.</string>
   <string name="unsupported_display_size_show">Näytä aina</string>
-  <string name="untitled">&lt;Nimetön&gt;</string>
+  <string name="untitled">Nimetön</string>
   <string name="upload_file">Valitse tiedosto</string>
   <string name="usb_accessory_notification_title">Liitetty USB-laitteeseen</string>
   <string name="usb_cd_installer_notification_title">Yhdistetty asentajana</string>
