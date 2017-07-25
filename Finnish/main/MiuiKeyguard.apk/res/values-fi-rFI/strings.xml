@@ -90,8 +90,8 @@
  Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Olet yrittänyt avata puhelimen väärin %d kertaa. Puhelin palautetaan nyt tehdasasetuksille.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattu Bluetooth-laitteella</string>
-  <string name="open_camera_hint_text">Avaa Kamera pyyhkäisemällä vasemmalle</string>
-  <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
+  <string name="open_camera_hint_text">Avaa %s pyyhkäisemällä vasemmalle</string>
+  <string name="open_remote_center_hint_text">Avaa %s pyyhkäisemällä oikealle</string>
   <string name="phone_locked_foget_password">Unohtuiko salasana?</string>
   <string name="phone_locked_foget_password_content">"Voit kirjautua sisään osoitteeseen i.mi.com ja käyttää Mi Tiliäsi, jota käytetään tässä laitteessa ja poistaa kaiken tiedon. Tämä poistaa kaikki tähän laitteeseen tallennetut henkilökohtaiset tiedot. Tämän jälkeen voit käynnistää laitteen uudelleen ja palauttaa yhteystiedot, viestit, kuvat ja muut kohteet Mi Pilvestä. 
 
