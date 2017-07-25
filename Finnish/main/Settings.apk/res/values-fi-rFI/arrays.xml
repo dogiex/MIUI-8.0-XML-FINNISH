@@ -32,13 +32,144 @@
         <item>Estetty</item>
         <item>Vältetään huonoa yhteyttä tilapäisesti</item>
     </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Älä tarkista koskaan</item>
+        <item>Tarkista vain DRM-suojattu sisältö</item>
+        <item>Tarkista aina</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Älä koskaan käytä HDCP-tarkistusta</item>
+        <item>Käytä HDCP-tarkistusta vain DRM-suojatulle sisällölle</item>
+        <item>Käytä aina HDCP-tarkistusta</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Ei käytössä</item>
+        <item>64 kt</item>
+        <item>256 kt</item>
+        <item>1 Mt</item>
+        <item>4 Mt</item>
+        <item>16 Mt</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Ei käytössä</item>
+        <item>64 kt</item>
+        <item>256 kt</item>
+        <item>1 Mt</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Ei käytössä</item>
+        <item>64 kt / lokipuskuri</item>
+        <item>256 kt / lokipuskuri</item>
+        <item>1 Mt / lokipuskuri</item>
+        <item>4 Mt / lokipuskuri</item>
+        <item>16 Mt / lokipuskuri</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 1,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 1,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ei mitään</item>
+        <item>480p</item>
+        <item>480p (turvallinen)</item>
+        <item>720p</item>
+        <item>720p (turvallinen)</item>
+        <item>1080p</item>
+        <item>1080p (turvallinen)</item>
+        <item>4K</item>
+        <item>4K (turvallinen)</item>
+        <item>4K (skaalattu)</item>
+        <item>4K (skaalattu, turvallinen)</item>
+        <item>720p, 1080p (kaksoisnäyttö)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ei mitään</item>
+        <item>Logcat</item>
+        <item>Systrace (grafiikka)</item>
+        <item>Kutsu pinoa, jos glGetError tapaht.</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Pois</item>
+        <item>Piirrä ei-suorakulm. leikealue sinisellä</item>
+        <item>Korosta testatut piirtokom. vihreällä</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Pois käytöstä</item>
+        <item>Ruudulla palkkeina</item>
+        <item>Adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Ei käytössä</item>
+        <item>Näytä päällekkäiset alueet</item>
+        <item>Näytä alueet puna-vihersokeille näkyvinä</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Vakioraja</item>
+        <item>Ei taustaprosesseja</item>
+        <item>Enintään 1 prosessia</item>
+        <item>Enintään 2 prosessia</item>
+        <item>Enintään 3 prosessia</item>
+        <item>Enintään 4 prosessia</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Lataaminen</item>
+        <item>MTP (median siirtoprotokolla)</item>
+        <item>PTP (kuvan siirtoprotokolla)</item>
+        <item>RNDIS (USB-ethernet)</item>
+        <item>Äänilähde</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Hyvin hidas</item>
+        <item>Hidas</item>
+        <item>Normaali</item>
+        <item>Nopea</item>
+        <item>Nopeampi</item>
+        <item>Hyvin nopea</item>
+        <item>Nopea</item>
+        <item>Erittäin nopea</item>
+        <item>Nopein</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Voimakas (oletus)</item>
+        <item>Luonnollinen</item>
+        <item>Normaali</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Tehostetut värit</item>
+        <item>Ihmissilmän näkemät luonnolliset värit</item>
+        <item>Digitaaliselle sisällölle parhaiten sopivat värit</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerikka</item>
         <item>Eurooppa</item>
         <item>Afrikka</item>
         <item>Aasia</item>
-        <item>Austraalia</item>
-        <item>Tyyni valtameri</item>
+        <item>Australia</item>
+        <item>Tyynimeri</item>
         <item>Kaikki</item>
     </string-array>
     <string-array name="screen_timeout_entries">
@@ -73,9 +204,9 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>Pieni</item>
-        <item>Normaali</item>
+        <item>Oletus</item>
         <item>Suuri</item>
-        <item>Valtava</item>
+        <item>Suurin</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Hyvin hidas</item>
@@ -121,12 +252,12 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Aina</item>
-        <item>Vain, kun laturi on liitetty</item>
+        <item>Vain, kun laturi on kytketty</item>
         <item>Ei koskaan</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Aina</item>
-        <item>Vain, kun laturi on liitetty</item>
+        <item>Vain, kun laturi on kytketty</item>
         <item>Ei koskaan</item>
     </string-array>
     <string-array name="data_usage_data_range">
@@ -150,7 +281,7 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Ei mitään</item>
+        <item>–</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -263,11 +394,25 @@
         <item>seuraa suuritehoista sijaintia</item>
         <item>hae käyttötilastot</item>
         <item>mykistä mikrofoni / poista mykistys</item>
+        <item>näytä ilmoitus</item>
         <item>lähetä media</item>
         <item>aktivoi VPN</item>
         <item>kirjoita taustakuva</item>
         <item>apurakenne</item>
         <item>apukuvakaappaus</item>
+        <item>tarkastele puhelimen tilaa</item>
+        <item>lisää vastaajaviesti</item>
+        <item>käytä SIP:tä</item>
+        <item>käsittele lähtevä puhelu</item>
+        <item>sormenjälki</item>
+        <item>kehon anturit</item>
+        <item>tarkastele solulähetyksiä</item>
+        <item>käytä imitoitua sijaintia</item>
+        <item>tarkastele tallennustilaa</item>
+        <item>kirjoita tallennustilaan</item>
+        <item>kytke näyttö päälle</item>
+        <item>hae tilit</item>
+        <item>toimi taustalla</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Sijainti</item>
@@ -315,16 +460,41 @@
         <item>Sijainti</item>
         <item>Hae käyttötilastot</item>
         <item>Mykistä mikrofoni / poista mykistys</item>
+        <item>Näytä ilmoitus</item>
         <item>Lähetä media</item>
         <item>Aktivoi VPN</item>
         <item>Kirjoita taustakuva</item>
         <item>Apurakenne</item>
         <item>Apukuvakaappaus</item>
+        <item>Tarkastele puhelimen tilaa</item>
+        <item>Lisää vastaajaviesti</item>
+        <item>Käytä SIP:tä</item>
+        <item>Käsittele lähtevä puhelu</item>
+        <item>Sormenjälki</item>
+        <item>Kehon anturit</item>
+        <item>Tarkastele solulähetyksiä</item>
+        <item>Käytä imitoitua sijaintia</item>
+        <item>Tarkastele tallennustilaa</item>
+        <item>Kirjoita tallennustilaan</item>
+        <item>Kytke näyttö päälle</item>
+        <item>Hae tilit</item>
+        <item>Toimi taustalla</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Lyhyt</item>
         <item>Keskipitkä</item>
         <item>Pitkä</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Oletus</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif, tiivistetty</item>
+        <item>Sans Serif Monospace</item>
+        <item>Serif</item>
+        <item>Serif Monospace</item>
+        <item>Casual</item>
+        <item>Kursiivi</item>
+        <item>Isot kirjaimet</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Hyvin pieni</item>
@@ -355,108 +525,6 @@
         <item>Keltainen sinisellä</item>
         <item>Muokattu</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Pois päältä</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Pois päältä</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Pois päältä</item>
-        <item>64K per lokipuskuri</item>
-        <item>256K per lokipuskuri</item>
-        <item>1M per lokipuskuri</item>
-        <item>4M per lokipuskuri</item>
-        <item>16M per lokipuskuri</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Älä tarkista koskaan</item>
-        <item>Tarkista vain DRM-suojattu sisältö</item>
-        <item>Tarkista aina</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Älä koskaan käytä HDCP-tarkistusta</item>
-        <item>Käytä HDCP-tarkistusta vain DRM-suojatulle sisällölle</item>
-        <item>Käytä aina HDCP-tarkistusta</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animaatio pois käytöstä</item>
-        <item>Animaatioasteikko 0,5-kertainen</item>
-        <item>Animaatioasteikko 1-kertainen</item>
-        <item>Animaatioasteikko 1,5-kertainen</item>
-        <item>Animaatioasteikko 2-kertainen</item>
-        <item>Animaatioasteikko 5-kertainen</item>
-        <item>Animaatioasteikko 10-kertainen</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animaatio pois käytöstä</item>
-        <item>Animaatioasteikko 0,5-kertainen</item>
-        <item>Animaatioasteikko 1-kertainen</item>
-        <item>Animaatioasteikko 0,5-kertainen</item>
-        <item>Animaatioasteikko 2-kertainen</item>
-        <item>Animaatioasteikko 5-kertainen</item>
-        <item>Animaatioasteikko 10-kertainen</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animaatio pois käytöstä</item>
-        <item>Animaatioasteikko 0,5-kertainen</item>
-        <item>Animaatioasteikko 1-kertainen</item>
-        <item>Animaatioasteikko 1,5-kertainen</item>
-        <item>Animaatioasteikko 2-kertainen</item>
-        <item>Animaatioasteikko 5-kertainen</item>
-        <item>Animaatioasteikko 10-kertainen</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Ei mitään</item>
-        <item>480p</item>
-        <item>480p (turvallinen)</item>
-        <item>720p</item>
-        <item>720p (turvallinen)</item>
-        <item>1080p</item>
-        <item>1080p (turvallinen)</item>
-        <item>4K</item>
-        <item>4K (turvallinen)</item>
-        <item>4K (ylöspäin skaalattu)</item>
-        <item>4K (ylöspäin skaalattu, turvallinen)</item>
-        <item>720p, 1080p (kaksi näyttöä)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Ei mitään</item>
-        <item>Logcat</item>
-        <item>Systrace (grafiikka)</item>
-        <item>Kutsu pinoa, jos glGetError tapaht.</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Pois päältä</item>
-        <item>Piirrä ei-suorakulm. leikealue sinisellä</item>
-        <item>Korosta testatut piirtokom. vihreällä</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Pois päältä</item>
-        <item>Näytöllä palkkeina</item>
-        <item>Adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Pois päältä</item>
-        <item>Näytä päällekkäiset alueet</item>
-        <item>Näytä alueet puna-vihersokeille näkyvinä</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Vakioraja</item>
-        <item>Ei taustaprosesseja</item>
-        <item>Enintään 1 prosessia</item>
-        <item>Enintään 2 prosessia</item>
-        <item>Enintään 3 prosessia</item>
-        <item>Enintään 4 prosessia</item>
-    </string-array>
      <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>Esijaettuun avaimeen perustuva L2TP-/IPSec-VPN-verkko</item>
@@ -473,12 +541,17 @@
         <item>Aikaraja</item>
         <item>Epäonnistui</item>
     </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Kysy</item>
+        <item>Älä salli koskaan</item>
+        <item>Salli aina</item>
+    </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Ascended being</item>
-        <item>Human</item>
-        <item>Neanderthal</item>
-        <item>Chimp</item>
-        <item>Monkey</item>
+        <item>Ihminen</item>
+        <item>Neandertalilainen</item>
+        <item>Simpanssi</item>
+        <item>Apina</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normaali</item>
@@ -503,7 +576,7 @@
         <item>Palvelu (käynnissä)</item>
         <item>Palvelu (käynnistyy uudelleen)</item>
         <item>Vastaanottaja</item>
-        <item>Aloitusnäyttö</item>
+        <item>Aloitusruutu</item>
         <item>Viimeinen toiminta</item>
         <item>Välimuistissa (toiminta)</item>
         <item>Välimuistissa (toiminnan suorittaja)</item>
