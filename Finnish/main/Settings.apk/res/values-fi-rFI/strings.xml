@@ -4260,7 +4260,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit k&amp;#228;ytt&amp;#2
   <string name="turn_off_radio">Sammuta radio</string>
   <string name="turn_off_security_lock">Poista lukitus käytöstä</string>
   <string name="turn_on_keyguard_password">Ota Lukitusnäytön salasana käyttöön</string>
-  <string name="turn_on_security_lock">Choose screen lock</string>
   <string name="turn_on_radio">Käynnistä radio</string>
   <string name="turn_on_security_lock">Valitse näytön lukitus</string>
   <string name="under_keyguard">Lukitusnäyttö</string>

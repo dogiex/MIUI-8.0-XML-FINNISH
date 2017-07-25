@@ -208,17 +208,6 @@
         <item>Suuri</item>
         <item>Suurin</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Hyvin hidas</item>
-        <item>Hidas</item>
-        <item>Normaali</item>
-        <item>Nopea</item>
-        <item>Nopeampi</item>
-        <item>Hyvin nopea</item>
-        <item>Nopea</item>
-        <item>Erittäin nopea</item>
-        <item>Nopein</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Hyvin matala</item>
         <item>Matala</item>
