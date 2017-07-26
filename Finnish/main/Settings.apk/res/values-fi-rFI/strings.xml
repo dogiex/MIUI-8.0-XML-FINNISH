@@ -4634,7 +4634,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="voice_search_settings_title">Puhehaku</string>
   <string name="voice_service_preference_section_title">Äänisyötepalvelut</string>
   <string name="volte_provisioned_switch_string">VoLTE Provisioned</string>
-  <string name="volume_alarm_description">hälytykset</string>
+  <string name="volume_alarm_description">Hälytykset</string>
   <string name="volume_alarm_mute">Mykistä hälytykset</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
@@ -5207,7 +5207,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_event_rule_type_name">Tapahtumasääntö</string>
   <string name="zen_mode_add_rule">Lisää sääntö</string>
   <string name="zen_mode_alarm_use">Äänet</string>
-  <string name="zen_mode_alarms">hälytykset</string>
+  <string name="zen_mode_alarms">Hälytykset</string>
   <string name="zen_mode_all_callers">Kaikki soittajat</string>
   <string name="zen_mode_all_messages">Kaikki viestit</string>
   <string name="zen_mode_all_visual_interruptions">Pois käytöstä</string>
@@ -5262,7 +5262,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_mode_rule_type">Säännön tyyppi</string>
   <string name="zen_mode_rule_type_unknown">Tuntematon</string>
   <string name="zen_mode_schedule_alarm_summary">Lopeta päättymisajan tai seuraavan hälytyksen yhteydessä.</string>
-  <string name="zen_mode_schedule_alarm_title">hälytys voi ohittaa päättymisajan</string>
+  <string name="zen_mode_schedule_alarm_title">Hälytys voi ohittaa päättymisajan</string>
   <string name="zen_mode_schedule_rule_days">Päivät</string>
   <string name="zen_mode_schedule_rule_days_all">Joka päivä</string>
   <string name="zen_mode_schedule_rule_days_none">Ei mitään</string>
