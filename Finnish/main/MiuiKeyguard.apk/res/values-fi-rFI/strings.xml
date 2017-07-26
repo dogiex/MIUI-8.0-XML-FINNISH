@@ -71,10 +71,13 @@
   <string name="keyguard_charging_info_tip_text4">Älä käytä laitettasi aktiivisesti lataamisen aikana, jotta vältät ylikuumentumisen.</string>
   <string name="keyguard_charging_info_tip_text5">Akut latautuvat kauemmin, kun ne kuumenevat normaalia enemmän.</string>
   <string name="keyguard_charging_info_tip_text6">Viilennä laite sammuttamalla näyttö ja laittamalla laite pois käsistä.</string>
+  <string name="keyguard_left_bankcard">Mi Pay</string>
+  <string name="keyguard_left_buscard">Matkakortti</string>
+  <string name="keyguard_left_remotecentral">Mi Kaukosäädin</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Pikalataus. Näytä tiedot napauttamalla.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Pikalataus…</string>
   <string name="keyguard_torch_cover_text">Pidä taskulamppu päällä pitämällä Virta-painiketta pohjassa</string>
-  <string name="left_action_default_hint_text">Mi Kaukosäädin</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="lock_wallpaper_enter">Avaa</string>
@@ -90,8 +93,8 @@
  Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Olet yrittänyt avata puhelimen väärin %d kertaa. Puhelin palautetaan nyt tehdasasetuksille.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattu Bluetooth-laitteella</string>
-  <string name="open_camera_hint_text">Avaa %s pyyhkäisemällä vasemmalle</string>
-  <string name="open_remote_center_hint_text">Avaa %s pyyhkäisemällä oikealle</string>
+  <string name="open_camera_hint_text">Avaa Kamera pyyhkäisemällä vasemmalle</string>
+  <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
   <string name="phone_locked_foget_password">Unohtuiko salasana?</string>
   <string name="phone_locked_foget_password_content">"Voit kirjautua sisään osoitteeseen i.mi.com ja käyttää Mi Tiliäsi, jota käytetään tässä laitteessa ja poistaa kaiken tiedon. Tämä poistaa kaikki tähän laitteeseen tallennetut henkilökohtaiset tiedot. Tämän jälkeen voit käynnistää laitteen uudelleen ja palauttaa yhteystiedot, viestit, kuvat ja muut kohteet Mi Pilvestä. 
 

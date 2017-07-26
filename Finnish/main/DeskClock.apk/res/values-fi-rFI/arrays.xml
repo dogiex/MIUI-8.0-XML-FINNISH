@@ -32,14 +32,14 @@
         <item>Ö</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Herätykseen alle minuutti</item>
-        <item>Herätykseen %1$s</item>
-        <item>Herätykseen %2$s</item>
-        <item>Herätykseen %1$s ja %2$s</item>
-        <item>Herätykseen %3$s</item>
-        <item>Herätykseen %1$s ja %3$s</item>
-        <item>Herätykseen %2$s ja %3$s</item>
-        <item>Herätykseen %1$s %2$s ja %3$s</item>
+        <item>hälytykseen alle minuutti</item>
+        <item>hälytykseen %1$s</item>
+        <item>hälytykseen %2$s</item>
+        <item>hälytykseen %1$s ja %2$s</item>
+        <item>hälytykseen %3$s</item>
+        <item>hälytykseen %1$s ja %3$s</item>
+        <item>hälytykseen %2$s ja %3$s</item>
+        <item>hälytykseen %1$s %2$s ja %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Eilen</item>
@@ -61,14 +61,14 @@
         <item>Oma valinta</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Herätykseen on aikaa alle minuutti.</item>
-        <item>Herätykseen on aikaa %1$s.</item>
-        <item>Herätykseen on aikaa %2$s.</item>
-        <item>Herätykseen on aikaa %1$s ja %2$s.</item>
-        <item>Herätykseen on aikaa %3$s.</item>
-        <item>Herätykseen on aikaa %1$s ja %3$s.</item>
-        <item>Herätykseen on aikaa %2$s ja %3$s.</item>
-        <item>Herätykseen on aikaa %1$s %2$s ja %3$s.</item>
+        <item>hälytykseen on aikaa alle minuutti.</item>
+        <item>hälytykseen on aikaa %1$s.</item>
+        <item>hälytykseen on aikaa %2$s.</item>
+        <item>hälytykseen on aikaa %1$s ja %2$s.</item>
+        <item>hälytykseen on aikaa %3$s.</item>
+        <item>hälytykseen on aikaa %1$s ja %3$s.</item>
+        <item>hälytykseen on aikaa %2$s ja %3$s.</item>
+        <item>hälytykseen on aikaa %1$s %2$s ja %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuutti</item>

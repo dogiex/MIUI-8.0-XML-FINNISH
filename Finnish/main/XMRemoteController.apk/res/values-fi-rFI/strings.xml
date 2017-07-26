@@ -25,6 +25,8 @@
   <string name="ac_mode_dry">Kosteuden poisto</string>
   <string name="ac_mode_fan">Tuuletin</string>
   <string name="ac_mode_hot">Lämmitys</string>
+  <string name="ac_power_off">关</string>
+  <string name="ac_power_on">开</string>
   <string name="ac_set_timer_title_text">Valitse aika ja paina ilmastoinnin ajastinpainiketta</string>
   <string name="activity_stb_list_title">Valitse set-top box</string>
   <string name="actor_intro_title_text">Suoratoista</string>
@@ -393,6 +395,7 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="get_data_fail_tips">Dataa ei saatu, yritä uudelleen</string>
   <string name="get_info_failed">Tietoa ei saatu</string>
   <string name="get_location_fail_tip">Sijaintia ei voitu asettaa, valitse kaupunki</string>
+  <string name="goto_weather">查看天气</string>
   <string name="guid_one">· Yhdistä samaan Wi-Fi-verkkoon, jossa kohdelaite on</string>
   <string name="guid_three">· Jotkut ohjaukset ei saata olla käytössä, jos TV tai set-top box ei tue Android-käyttöjärjestelmää</string>
   <string name="guid_two">· Mi TV laitteesi tunnistetaan ja näytetään tällä sivulla</string>
@@ -481,7 +484,7 @@ Kokeile seuraavaa korjataksesi ongelman:
   <string name="loading_share_info_err">加载失败</string>
   <string name="locate_current_place">Etsi nykyinen sijainti</string>
   <string name="location_select">Nimeä laite uudelleen</string>
-  <string name="lock_screen_device_sum">%1$d个</string>
+  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login_directly">Kirjaudu sisään</string>
   <string name="login_done">Kirjauduttiin sisään</string>
@@ -1160,7 +1163,7 @@ suoraan Lukitusnäytöltäsi"</string>
   <string name="switch_login">&lt;u&gt;&amp;#20999;&amp;#25442;&amp;#36134;&amp;#21495;&lt;/u&gt;</string>
   <string name="switch_place">Valitse kaupunki</string>
   <string name="tab_live">Live</string>
-  <string name="tab_store">Mi Home Kauppa</string>
+  <string name="tab_store">Mi Kauppa</string>
   <string name="technical_support">Tekninen tuki</string>
   <string name="temperature">Lämpötila</string>
   <string name="temprature_frame">%1$d ℃</string>

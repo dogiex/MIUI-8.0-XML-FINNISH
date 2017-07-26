@@ -90,6 +90,8 @@
   <string name="incompatible_dialog_message">Tämä teema ei ole täysin yhteensopiva MIUI 8:n kanssa. Jotkut elementit saattavat näkyä väärin.</string>
   <string name="incompatible_dialog_ok">Selvä</string>
   <string name="incompatible_dialog_title">Yhteensopivuusongelmia</string>
+  <string name="internal_online_precust_gorgeous_black_name">upea musta</string>
+  <string name="internal_online_precust_gorgeous_color_name">upea väri</string>
   <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
   <string name="live_wallpaper">Live taustakuva</string>
   <string name="loading">Odota hetki…</string>
@@ -118,7 +120,7 @@
   <string name="no_data">Verkkoon ei saada yhteyttä</string>
   <string name="online_no_network">Verkkoon ei saada yhteyttä</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
-  <string name="present_local_themes">Ladatut</string>
+  <string name="present_local_themes">Resurssini</string>
   <string name="present_online_themes">Hae lisää teemoja ilmaiseksi</string>
   <string name="provision_default_theme_title">Oletus</string>
   <string name="provision_loading_tips">Odota hetki…</string>

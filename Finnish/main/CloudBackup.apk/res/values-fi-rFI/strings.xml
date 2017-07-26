@@ -74,7 +74,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="confirm_restore_title">Palauta</string>
   <string name="customization">Kustomoi</string>
   <string name="date_format">HH:mm:ss d.M.yyyy</string>
-  <string name="deskclock_backup">Herätyskello</string>
+  <string name="deskclock_backup">herätyskello</string>
   <string name="desktop_downloading">Ladataan</string>
   <string name="desktop_installing">Asennetaan</string>
   <string name="desktop_recovering">Palautetaan</string>

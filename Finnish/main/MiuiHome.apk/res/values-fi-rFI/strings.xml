@@ -162,17 +162,22 @@
   <string name="lock_screen_success_message">Lisätty lukitusnäytölle</string>
   <string name="lock_screen_wallpaper">Lukitusnäytön taustakuva</string>
   <string name="menu_add">Lisää</string>
+  <string name="menu_auto_fill">Automaattinen täyttö</string>
   <string name="menu_back_desktop">Takaisin Kotinäytölle</string>
+  <string name="menu_cell_setting">Näytön Asetukset</string>
   <string name="menu_customize">Asetukset</string>
   <string name="menu_edit">Muokkaa Kotinäyttöä</string>
-  <string name="menu_exit_scene">Exit Mi Space</string>
+  <string name="menu_exit_scene">Poistu Mi Space</string>
   <string name="menu_item_add_item">Aseta Kotinäytölle</string>
   <string name="menu_launcher_setting">Käynnistimen asetukset</string>
+  <string name="menu_lock">Lukitusnäyttö</string>
+  <string name="menu_more">Lisää</string>
   <string name="menu_picktheme">Valitse teema</string>
   <string name="menu_reset_scene">Palauta ulkoasu oletusasetuksiin</string>
   <string name="menu_search">Etsi</string>
   <string name="menu_settings">Asetukset</string>
   <string name="menu_sort">Lajittele sovellukset</string>
+  <string name="menu_trans_effect">Siirtymisen tehoste</string>
   <string name="menu_wallpaper">Taustakuva</string>
   <string name="menu_workspace_preview">Esikatsele Kotinäyttö</string>
   <string name="mi_wallpaper">MIUI Teemakauppa</string>
@@ -275,4 +280,5 @@
   <string name="widget_favorite_contacts_style">Muuta kokoa</string>
   <string name="widget_gadget_player">Musiikki</string>
   <string name="widget_global_search">Etsi</string>
+  <string name="widget_quick_function">Pikatoiminto</string>
 </resources>

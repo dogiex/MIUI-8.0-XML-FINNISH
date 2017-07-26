@@ -177,6 +177,7 @@ tai syötä Sovelluslukon salasana"</string>
   <string name="app_manager_powerkeeper_no_bg">Rajoita taustatyöskentelyä</string>
   <string name="app_manager_powerkeeper_no_restrict">Ei rajoituksia</string>
   <string name="app_manager_powerkeeper_restrict_bg">Rajoita taustasovelluksia</string>
+  <string name="app_manager_pref_ads">Suositukset</string>
   <string name="app_manager_rebide_wakepath">Rajoita</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimoi ketjukäynnistys</string>
   <string name="app_manager_reduce_wakepath_summary">Rajoittamalla käynnistystä minimoi ketjukäynnistystä. Rajoitetaanko sovelluksen %s käynnistys?</string>
@@ -769,6 +770,7 @@ mikäli unohdat sen"</string>
   <string name="input_traffic_pkg">Syötä datan käyttö</string>
   <string name="input_used_hint">Syötä datan käyttö</string>
   <string name="input_used_max_hint">Syötä datan käyttö (vähemmän kuin %s)</string>
+  <string name="install">Asenna</string>
   <string name="install_sucess">Asennettiin %s onnistuneesti</string>
   <string name="install_title">Asenna USB:n kautta</string>
   <string name="installing">Asennetaan</string>

@@ -53,12 +53,12 @@
         <item quantity="one">%d sovellus voi lukea ilmoituksia</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Ota vain herätykset käyttöön %1$d minuutiksi %2$s asti.</item>
-        <item quantity="one">Ota vain herätykset käyttöön yhdeksi minuutiksi %2$s asti.</item>
+        <item quantity="other">Ota vain hälytykset käyttöön %1$d minuutiksi %2$s asti.</item>
+        <item quantity="one">Ota vain hälytykset käyttöön yhdeksi minuutiksi %2$s asti.</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Ota vain herätykset käyttöön %1$d yhdeksi tunniksi %2$s asti.</item>
-        <item quantity="one">Ota vain herätykset käyttöön yhdeksi tunniksi %2$s asti.</item>
+        <item quantity="other">Ota vain hälytykset käyttöön %1$d yhdeksi tunniksi %2$s asti.</item>
+        <item quantity="one">Ota vain hälytykset käyttöön yhdeksi tunniksi %2$s asti.</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d käyttöoikeutta myönnetty</item>

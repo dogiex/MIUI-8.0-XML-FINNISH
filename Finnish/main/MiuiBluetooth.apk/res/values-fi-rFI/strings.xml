@@ -18,7 +18,7 @@
   <string name="disconnect">Katkaise yhteys</string>
   <string name="goto_package">Avaa %1$s</string>
   <string name="install_package">Asenna %1$s lisätoimintoja varten</string>
-  <string name="mi_band_vibrate_alarm">Värise kun herätys soi</string>
+  <string name="mi_band_vibrate_alarm">Värise kun hälytys soi</string>
   <string name="mi_band_vibrate_incall">Värise kun soi</string>
   <string name="mi_band_vibrate_incall_in_contacts">Puhelut yhteystiedolta</string>
   <string name="mi_band_vibrate_incall_no_contacts">Puhelut tuntemattomilta numeroilta</string>

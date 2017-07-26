@@ -87,7 +87,7 @@
   <string name="focus_on_dynamic">Follow status</string>
   <string name="go_to_school">To and from work or school</string>
   <string name="greeting_open">Ota päivittäiset tervehdykset käyttöön</string>
-  <string name="greeting_setting_brief">Saa säätiedot ja muistutukset suunnitelluista tapahtumista, herätyksistä, ja syntymäpäivistä joka aamu ja ilta</string>
+  <string name="greeting_setting_brief">Saa säätiedot ja muistutukset suunnitelluista tapahtumista, hälytyksistä, ja syntymäpäivistä joka aamu ja ilta</string>
   <string name="greeting_setting_brief_notice">Voit vaihtaa kaupunkia Sää-sovelluksessa</string>
   <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="greeting_weather_desc_from_to">%1$s-%2$s</string>
