@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">USB-tallennustilaa ei voitu käyttää.</string>
+  <string name="access_sd_fail">SD-korttia ei voi käyttää.</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">Kameranmoduulin valitsija</string>
   <string name="accessibility_camera_picker">Etu- ja takakameran vaihtopainike</string>
@@ -89,7 +89,7 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Asenna</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää NFC:n nyt. Korvataanko tämä ominaisuus?</string>
-  <string name="no_storage">Syötä SD-kortti ennen kameran käyttöä</string>
+  <string name="no_storage">Kameran tallennustila ei ole käytettävissä järjestelmävirheen vuoksi.</string>
   <string name="not_enough_space">Sisäinen tallennustila on täynnä</string>
   <string name="object_track_enable_toast">Valitaksesi objektin, napauta yhtäaikaa kaksi diagonaalista pistettä sen reunoille.</string>
   <string name="pano_dialog_panorama_failed">Panoraaman tallentaminen epäonnistui</string>
@@ -314,7 +314,7 @@ jotta saat selkeämmän kuvan kehosta ja kauniimman muotokuvan"</string>
   <string name="pref_skin_beautify_smooth_title">Sileä</string>
   <string name="pref_video_captrue_ability_title">Kuvan ottaminen nauhoituksen aikana</string>
   <string name="pref_video_focusmode_entry_auto">Napauta</string>
-  <string name="pref_video_focusmode_entry_continuous">CAF</string>
+  <string name="pref_video_focusmode_entry_continuous">Jatkuva automaattinen tarkennus (CAF)</string>
   <string name="pref_video_focusmode_title">Tarkennustila</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>

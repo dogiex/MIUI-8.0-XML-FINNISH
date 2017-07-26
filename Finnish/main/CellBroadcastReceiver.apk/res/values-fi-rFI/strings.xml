@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_reminder_interval_summary"/>
+  <string name="add_channel">Lisää kanava</string>
   <string name="alert_reminder_interval_title">Ilmoitusmuistutus</string>
-  <string name="alert_sound_duration_summary"/>
-  <string name="alert_sound_duration_title">Varoitusäänen kesto</string>
   <string name="app_label">Cell Broadcast -lähetykset</string>
   <string name="button_cancel">Peruuta</string>
   <string name="button_delete">Poista</string>
@@ -11,9 +9,26 @@
   <string name="category_brazil_settings_title">Asetukset, Brasilia</string>
   <string name="category_dev_settings_title">Kehittäjäasetukset</string>
   <string name="category_etws_settings_title">ETWS-asetukset</string>
-  <string name="category_india_settings_title">Asetukset, Intia</string>
+  <string name="category_india_settings_title">Intian asetukset</string>
+  <string name="cb_channel_50_name">Kanava 50</string>
+  <string name="cb_channel_dialog_channel_name">Kanavan nimi (0-10 merkkiä)</string>
+  <string name="cb_channel_dialog_channel_number">Kanavan numero (0-65534)</string>
+  <string name="cb_channel_dialog_channel_state">Ota kanava käyttöön</string>
+  <string name="cb_channel_dialog_edit_channel">Muokkaa kanavaa</string>
+  <string name="cb_default_new_channel_name">Uusi kanava</string>
+  <string name="cb_error_channel_id_exist">Kanavan id on jo olemassa.</string>
+  <string name="cb_error_channel_name">Kanavan nimen pituus ei ole oikein (1-10 merkkiä).</string>
+  <string name="cb_error_channel_num">Ole hyvä ja syötä kanavan numero (0-65534).</string>
+  <string name="cb_menu_add_channel">Lisää kanava</string>
+  <string name="cb_menu_channel_list">Kanavalista</string>
+  <string name="cb_menu_delete">Poista lähetys</string>
+  <string name="cb_menu_edit">Muokkaa</string>
+  <string name="cb_menu_tile">Kanavan toiminta</string>
   <string name="cb_other_message_identifiers">Cell Broadcast</string>
+  <string name="cell_broadcast_setting">Cell Broadcast asetukset</string>
   <string name="cell_broadcast_settings_not_available">Solulähetysasetukset eivät ole käytettävissä tälle käyttäjälle</string>
+  <string name="channel_list">Kanavalista</string>
+  <string name="close_dialog">OK</string>
   <string name="cmas_amber_alert">Lapsikaappaus (AMBER-hälytys)</string>
   <string name="cmas_category_cbrne">Kemiallinen/biologinen/radioaktiivinen/räjähtävä</string>
   <string name="cmas_category_env">Ympäristö</string>
@@ -58,9 +73,14 @@
   <string name="confirm_delete_all_broadcasts">Poista kaikki vastaanotetut lähetysviestit?</string>
   <string name="confirm_delete_broadcast">Poistetaanko tämä lähetys?</string>
   <string name="delivery_time_heading">Vastaanotettu:</string>
+  <string name="disable">Poista käytöstä</string>
+  <string name="done_text">Valmis</string>
   <string name="emergency_alert_settings_title">Hätätilannevaroitusten asetukset</string>
+  <string name="enable">Ota käyttöön</string>
   <string name="enable_alert_speech_summary">Käytä tekstistä puheeksi -toimintoa hätätilannevaroitusviesteissä</string>
   <string name="enable_alert_speech_title">Puhu varoitusilmoitus</string>
+  <string name="enable_alert_tone_summary">Hälytyksen ääni päällä</string>
+  <string name="enable_alert_tone_title">Hälytyksen ääni</string>
   <string name="enable_alert_vibrate_summary">Käytä värinää ilmoituksesta</string>
   <string name="enable_alert_vibrate_title">Värinä</string>
   <string name="enable_channel_50_alerts_summary">Kanavaa 50 käytetään Brasiliassa alueellisiin tietojen päivityksiin</string>
@@ -71,6 +91,8 @@
   <string name="enable_cmas_amber_alerts_title">Näytä lapsikaappaushälytykset</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Näytä äärimmäiset ihmishenkiä ja omaisuutta koskevat hälytykset</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Näytä äärimmäiset uhkat</string>
+  <string name="enable_cmas_presidential_alerts_summary">Näytä aina presidentin hälytykset</string>
+  <string name="enable_cmas_presidential_alerts_title">Näytä presidentin hälytykset</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Näytä vakavat ihmishenkiä ja omaisuutta koskevat hälytykset</string>
   <string name="enable_cmas_severe_threat_alerts_title">Näytä vakavat uhkat</string>
   <string name="enable_cmas_test_alerts_summary">Näytä Commercial Mobile Alert Systemin testilähetykset</string>
@@ -79,6 +101,8 @@
   <string name="enable_emergency_alerts_title">Ota ilmoitukset käyttöön</string>
   <string name="enable_etws_test_alerts_summary">Näytä maanjäristys- ja tsunamivaroitusjärjestelmän koelähetykset</string>
   <string name="enable_etws_test_alerts_title">Näytä ETWS-testilähetykset</string>
+  <string name="error_finish_dialog_title">Verkko tai SIM-kortin virhe.</string>
+  <string name="error_updating_title">Puheluasetusvirhe</string>
   <string name="etws_earthquake_and_tsunami_warning">Maanjäristys- ja tsunamivaroitus</string>
   <string name="etws_earthquake_warning">Maanjäristysvaroitus</string>
   <string name="etws_other_emergency_type">Hätätilannevaroitus</string>
@@ -93,8 +117,12 @@
   <string name="notification_multiple">%s lukematonta hälytystä</string>
   <string name="notification_multiple_title">Uusia hälytyksiä</string>
   <string name="pws_other_message_identifiers">Hätätilannevaroitus</string>
+  <string name="reading_settings">Luetaan asetuksia</string>
+  <string name="receive_broad_cast">Vastaanota Cell BroadCast tekstiviestejä</string>
   <string name="show_cmas_opt_out_summary">Näytä kieltäytymisikkuna ensimmäisen CMAS-ilmoituksen jälkeen (muun kuin presidentin ilmoituksen).</string>
   <string name="show_cmas_opt_out_title">Näytä kieltäytymisikkuna</string>
   <string name="sms_cb_settings">Cell Broadcast -asetukset</string>
+  <string name="updating_settings">Päivitetään asetuksia</string>
+  <string name="updating_title">Puheluasetukset</string>
   <string name="view_details_title">Ilmoituksen tiedot</string>
 </resources>

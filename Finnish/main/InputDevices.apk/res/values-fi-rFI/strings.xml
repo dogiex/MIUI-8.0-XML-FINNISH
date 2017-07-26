@@ -13,6 +13,7 @@
   <string name="keyboard_layout_english_us_dvorak_label">englanti (Yhdysvallat), Dvorak</string>
   <string name="keyboard_layout_english_us_intl">englanti (Yhdysvallat), kansainvälinen</string>
   <string name="keyboard_layout_english_us_label">englanti (Yhdysvallat)</string>
+  <string name="keyboard_layout_english_us_workman_label">englanti (Yhdysvallat), Workman</string>
   <string name="keyboard_layout_estonian">viro</string>
   <string name="keyboard_layout_finnish">suomi</string>
   <string name="keyboard_layout_french_ca_label">ranska (Kanada)</string>

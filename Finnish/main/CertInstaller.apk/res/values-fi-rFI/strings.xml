@@ -24,6 +24,8 @@
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
   <string name="one_userkey">yhden käyttäjän näppäin</string>
+  <string name="one_wapi_ascrt">yksi WAPI AS varmenne</string>
+  <string name="one_wapi_usercrt">yksi WAPI käyttäjän varmenne</string>
   <string name="only_primary_user_allowed">Vain tämän laitteen omistaja voi asentaa varmenteita.</string>
   <string name="p12_description">Varmenteet PKCS12-avaintallenteessa.</string>
   <string name="password_empty_error">Kirjoita salasana.</string>
@@ -32,7 +34,6 @@
   <string name="pkcs12_file_password_dialog_title">Hae tallenteesta %s</string>
   <string name="pkcs12_password_dialog_title">Pura varmenne</string>
   <string name="sdcard_not_present">USB-tila ei ole käytettävissä.</string>
-  <string name="storage_error">Varmenteen tallentaminen epäonnistui. Yritä uudelleen koskettamalla OK.</string>
   <string name="unable_to_save_cert">Varmenteen tallentaminen epäonnistui. Tunnuksien tallennus ei ole käytössä tai sitä ei ole käynnistetty oikein.</string>
   <string name="wifi_cancel_label">Peruuta</string>
   <string name="wifi_config_text">"Nimi: %1$s

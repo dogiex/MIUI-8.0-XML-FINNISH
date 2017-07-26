@@ -235,7 +235,7 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Lisättiin %d peliä</item>
         <item quantity="one">Lisättiin %d peli</item>
     </plurals>
-    <plurals name="app_manager_permission_manager_summary">
+    <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Sallittu %d käyttöoikeutta</item>
         <item quantity="one">Sallittu %d käyttöoikeus</item>
     </plurals>

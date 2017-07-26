@@ -3,7 +3,7 @@
   <string name="app_label">Asiakirjat</string>
   <string name="button_copy">Kopioi</string>
   <string name="button_select">Valitse</string>
-  <string name="copy_failure_alert_content">Seuraavia tiedostoja ei kopioitu: %1$s</string>
+  <string name="copy_failure_alert_content">Näitä tiedostoja ei kopioitu: %1$s</string>
   <string name="copy_notification_title">Kopioidaan tiedostoja</string>
   <string name="copy_preparing">Valmistellaan kopiointia…</string>
   <string name="copy_remaining">%s jäljellä</string>
@@ -14,7 +14,7 @@
   <string name="menu_advanced_hide">Piilota sis. tallennust.</string>
   <string name="menu_advanced_show">Näytä sis. tallennustila</string>
   <string name="menu_copy">Kopioi kohteeseen…</string>
-  <string name="menu_create_dir">Luo kansio</string>
+  <string name="menu_create_dir">Uusi kansio</string>
   <string name="menu_delete">Poista</string>
   <string name="menu_file_size_hide">Piilota tiedostokoko</string>
   <string name="menu_file_size_show">Näytä tiedostokoko</string>
@@ -24,11 +24,11 @@
   <string name="menu_save">Tallenna</string>
   <string name="menu_search">Haku</string>
   <string name="menu_select_all">Valitse kaikki</string>
-  <string name="menu_settings">Asetukset</string>
+  <string name="menu_settings">Tallennusasetukset</string>
   <string name="menu_share">Jaa</string>
   <string name="menu_sort">Lajitteluperuste</string>
-  <string name="notification_touch_for_details">Lue lisätietoja koskettamalla</string>
-  <string name="query_error">Asiakirjakysely epäonnistui</string>
+  <string name="notification_touch_for_details">Tarkastele tietoja napauttamalla</string>
+  <string name="query_error">Sisältöä ei juuri nyt voi ladata.</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="root_available_bytes">%1$s vapaana</string>
   <string name="root_recent">Viimeisimmät</string>
@@ -44,5 +44,5 @@
   <string name="title_open">Avaa sijainnista</string>
   <string name="title_save">Tallenna kohteeseen</string>
   <string name="toast_failed_delete">Joitakin asiakirjoja ei voi poistaa</string>
-  <string name="toast_no_application">Tiedostoa ei voi avata</string>
+  <string name="toast_no_application">Tiedoston avaaminen epäonnistui.</string>
 </resources>

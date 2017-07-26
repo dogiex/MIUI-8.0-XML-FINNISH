@@ -15,7 +15,7 @@
   <string name="bluetooth_map_settings_app_icon">Sovelluskuvake</string>
   <string name="bluetooth_map_settings_cancel">Peruuta</string>
   <string name="bluetooth_map_settings_count">Paikkoja jäljellä:</string>
-  <string name="bluetooth_map_settings_intro">Valitse, mitkä tilit haluat jakaa Bluetoothin kautta. Tilien käyttöoikeus pitää silti hyväksyä yhdistettäessä.</string>
+  <string name="bluetooth_map_settings_intro">Valitse tilit, jotka haluat jakaa Bluetoothin kautta. Tilien käyttöoikeus pitää silti hyväksyä yhdistettäessä.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">Tilin valinta epäonnistui. 0 paikkaa jäljellä</string>
   <string name="bluetooth_map_settings_save">Tallenna</string>
   <string name="bluetooth_map_settings_title">Bluetoothin viestinjakoasetukset</string>
@@ -42,7 +42,7 @@
   <string name="bt_toast_5">Lähetetään %1$s tiedostoa vastaanottajalle %2$s</string>
   <string name="bt_toast_6">Tiedoston lähettäminen vastaanottajalle %1$s pysäytetty</string>
   <string name="btopp_live_folder">Bluetooth, vastaanotettu</string>
-  <string name="defaultname">Carkit</string>
+  <string name="defaultname">Autosarja</string>
   <string name="deleteAll_record">Poista kaikki tiedot</string>
   <string name="delete_record">Poista tiedot</string>
   <string name="download_cancel">Lopeta</string>
@@ -67,8 +67,8 @@
   <string name="inbound_history_title">Saapuvat siirrot</string>
   <string name="inbound_noti_title">Bluetooth-jako: Vastaanotetut tiedostot</string>
   <string name="incoming_file_confirm_Notification_caption">Haluatko vastaanottaa tämän tiedoston?</string>
-  <string name="incoming_file_confirm_Notification_content">%1$s on valmis lähettämään %2$s</string>
-  <string name="incoming_file_confirm_Notification_title">Bluetooth-jako: Saapuva tiedosto</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s on valmis lähettämään kohteen %2$s.</string>
+  <string name="incoming_file_confirm_Notification_title">Saapuva tiedosto</string>
   <string name="incoming_file_confirm_cancel">Hylkää</string>
   <string name="incoming_file_confirm_content">Hyväksytäänkö saapuva tiedosto?</string>
   <string name="incoming_file_confirm_ok">Hyväksy</string>

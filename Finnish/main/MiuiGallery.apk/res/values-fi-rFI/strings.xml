@@ -600,11 +600,11 @@
   <string name="cloudfolder_name_cannot_empty">Syötä albumin nimi</string>
   <string name="cloudfolder_name_reserved">Albumin nimi on varattu</string>
   <string name="collaps_people">Piilota</string>
-  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
-  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Hetket</string>
-  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Aloittaaksesi katselun, lopeta ensin tämän videon lataaminen. Lataus jatkuu, kun Wi-Fi on käytettävissä.</string>
   <string name="confirm_download_video_title">Lataa video</string>
@@ -612,8 +612,8 @@
   <string name="confirm_hidden_recommend_group">OK</string>
   <string name="confirm_hidden_recommend_group_message">Kun suositukset ei ole käytössä, voit silti käyttää \"Lisää henkilöitä jotka näyttävät samalta\" vaihtoehtoa</string>
   <string name="confirm_hidden_recommend_group_title">Älä näytä suosituksia</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Yhdistetäänkö tämä albumi %s kanssa? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Yhdistetäänkö nämä albumit %s kanssa? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">Yhdistetäänkö tämä albumi %s kanssa?</string>
+  <string name="confirm_merge_many_face_albums">Yhdistetäänkö nämä albumit %s kanssa?</string>
   <string name="confirm_not_face">Ei osumia</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This person will be moved to \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>

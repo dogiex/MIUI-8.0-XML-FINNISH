@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ad_service">Mainospalvelu</string>
-  <string name="app_label">HTML-katseluohjelma</string>
+  <string name="app_label">HTML-lukija</string>
   <string name="app_name_which_call">Sovellus: %s</string>
   <string name="app_version_which_call">Sovellusversio: %s</string>
   <string name="ime_privacy_policy">Valitse näppäimistö</string>

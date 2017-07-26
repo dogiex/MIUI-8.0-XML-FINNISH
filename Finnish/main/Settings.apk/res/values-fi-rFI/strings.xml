@@ -3259,13 +3259,13 @@ Näytön kiinnittäminen:
   <string name="screen_pinning_unlock_password">Pyydä salasana ennen irrotusta</string>
   <string name="screen_pinning_unlock_pattern">Pyydä lukituksenpoistokuviota ennen irrotusta</string>
   <string name="screen_pinning_unlock_pin">Pyydä PIN ennen irrotusta</string>
-  <string name="screen_resolution_dialog_title">Switch resolution</string>
-  <string name="screen_resolution_high_format">High (%1$s)</string>
+  <string name="screen_resolution_dialog_title">Vaihda resoluutiota</string>
+  <string name="screen_resolution_high_format">Korkea (%1$s)</string>
   <string name="screen_resolution_confirm">Käynnistä uudelleen</string>
   <string name="screen_resolution_summary">Näytön resoluution pienentäminen saattaa lisätä akun kestoa ja järjestelmän suorituskykyä, mutta kuvanlaatu kärsii. Laitteesi pitää käynnistää uudelleen, jotta asetus tulee voimaan.</string>
   <string name="screen_resolution_switch">Vaihda resoluutiota</string>
   <string name="screen_resolution_title">Näytön resoluutio</string>
-  <string name="screen_resolution_ultrahigh_format">Ultrahigh (%1$s)</string>
+  <string name="screen_resolution_ultrahigh_format">Ultrakorkea (%1$s)</string>
   <string name="screen_saturation">Saturaatio</string>
   <string name="screen_timeout">Siirtyminen virransäästöön</string>
   <string name="screen_timeout_summary">Laitteen oltua käyttämättä: %1$s</string>
@@ -4806,7 +4806,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_empty_list_wifi_off">Näet käytössä olevat verkot ottamalla Wi-Fin käyttöön.</string>
   <string name="wifi_empty_list_wifi_on">Haetaan Wi-Fi-verkkoja…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Wi-Fi avustaja</string>
+  <string name="wifi_enable_data_and_wifi_roam">Wi-Fi-apuri</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Vaihda mobiilidataan, kun molemmat Wi-Fi ja mobiilidata on yhdistettynä ja Wi-Fi ei saa yhteyttä internetiin.</string>
   <string name="wifi_enable_hs2_title">Passpoint On</string>
   <string name="wifi_enable_watchdog_service_summary">Vältä heikkoa yhteyttä</string>

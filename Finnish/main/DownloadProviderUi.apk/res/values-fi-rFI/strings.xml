@@ -332,7 +332,7 @@
   <string name="sniff_result_num_prefix">Löydetty</string>
   <string name="sniff_result_num_video_suffix">kohdetta</string>
   <string name="sniff_result_num_website_suffix">nettisivuja</string>
-  <string name="sniff_result_website_intro">Yhteensä &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; kohdetta | Lähde: %2$s</string>
+  <string name="sniff_result_website_intro">Yhteensä %1$d kohdetta | Lähde: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Koko: %1$s</string>
   <string name="sniff_search_install">Asenna</string>
   <string name="sniff_shortcut_cloudconfig_btn">OK</string>

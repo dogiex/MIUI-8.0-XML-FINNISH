@@ -141,7 +141,7 @@
   <string name="clear_adb_keys">Peruuta USB-viankorjauksen valtuutukset</string>
   <string name="click_to_return_multi_window">Napauta palataksesi Moni-Ikkunatilaan</string>
   <string name="connected_via_passpoint">Yhdistetty käyttäen %1$s</string>
-  <string name="connected_via_wfa">Yhdistetty Wi-Fi avustajan avulla</string>
+  <string name="connected_via_wfa">Yhdistetty Wi-Fi-apurin avulla</string>
   <string name="data_usage_disabled_dialog">"Olet saavuttanut määrittämäsi datakaton.
 
 Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</string>
