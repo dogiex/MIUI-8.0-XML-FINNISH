@@ -5,6 +5,8 @@
 
 # MIUI 8 Finnish translation XML strings for xiaomi.eu
 
+[![ghit.me](https://ghit.me/badge.svg?repo=dogiex/MIUI-8.0-XML-FINNISH)](https://ghit.me/repo/dogiex/MIUI-8.0-XML-FINNISH)
+
 ## Tämä projekti on tullut päätökseen, koska MIUI weekly 7.7.20 versio on viimeinen MIUI 8 versio.  
 ## Kaikki MIUI 9 käännösprojektiin liittyvät asiat löydät [täältä](https://github.com/dogiex/MA-XML-9.0-FINNISH). :)
 
