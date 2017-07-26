@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alarm_sound_default">Hälytyksen oletusääni</string>
+  <string name="alarm_sound_default">Herätyksen oletusääni</string>
   <string name="app_label">Median tallennustila</string>
   <string name="artist_label">Artisti</string>
   <string name="notification_sound_default">Ilmoituksen oletusääni</string>

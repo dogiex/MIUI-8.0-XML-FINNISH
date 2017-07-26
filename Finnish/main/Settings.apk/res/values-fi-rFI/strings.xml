@@ -150,8 +150,6 @@ Näytt&amp;#246;&amp;#246;n tai navigointipalkkiin lähentäminen ei ole mahdoll
   <string name="add_fingerprint_success_msg">Lisätty onnistuneesti</string>
   <string name="add_fingerprint_text">Lisää sormenjälki</string>
   <string name="add_fingerprint_toast_text">Aseta sormesi tunnistimelle</string>
-  <string name="add_new">lisää</string>
-  <string name="add_rule">lisää sääntöjä</string>
   <string name="add_virtual_keyboard">Lisää virtuaalinen näppäimistö</string>
   <string name="adding_profile_owner_warning">"Jatkamalla hyväksyt, että järjestelmänvalvoja voi hallinnoida käyttäjää ja tallentaa käyttäjään liittyviä tietoja, kuten henkilökohtaisia tietoja.
 
@@ -176,11 +174,9 @@ Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksia, käyttöoikeuksia, so
   <string name="agps_roaming_dia_title">Käytä A-GPS roaming -tilassa</string>
   <string name="agps_roaming_summary">Käytä mobiilidataa GPS:n kanssa roaming -tilassa</string>
   <string name="airplane_mode">Lentokonetila</string>
-  <string name="alarm_ringtone_title">Hälytyksen oletussoittoääni</string>
+  <string name="alarm_ringtone_title">Herätyksen oletussoittoääni</string>
   <string name="alarm_sound_dialog_title">Valitse hälytyksen oletusääni</string>
   <string name="alarm_sound_title">Hälytyksen oletusääni</string>
-  <string name="alarm_stop">Herätyskellon ääni voi lopettaa äänettömän tilan</string>
-  <string name="alarm_stop_info">Jos hälytys soi ennen, kuin määritetty asetus loppuu, äänetön tila voidaan lopettaa</string>
   <string name="alarm_volume_option_title">Hälytyksen voimakkuus</string>
   <string name="alarm_volume_title">Hälytys</string>
   <string name="all_volume_title">Äänenvoimakkuudet</string>
@@ -193,7 +189,6 @@ Järjestelmänvalvoja voi valvoa ja hallinnoida asetuksia, käyttöoikeuksia, so
   <string name="allow_mock_location_summary">Salli sijaintien imitointi</string>
   <string name="allow_overlay_description">Tämä käyttöoikeus antaa sovelluksen näkyä muiden sovelluksien päällä. Luvan saaneet sovellukset voivat häiritä muiden sovelluksien käyttöliittymien käyttöä tai muuttaa muiden sovelluksien osiksi luulemiasi näkymiä.</string>
   <string name="alpha_build">" | Alpha"</string>
-  <string name="always">Aina</string>
   <string name="always_allow_bind_appwidgets_text">Olet antanut sovellukselle oikeuden luoda widgetejä ja käyttää niiden tietoja.</string>
   <string name="always_running">Aina käynnissä (%s)</string>
   <string name="amber_alerts_summary">Vastaanota tiedotteita kaapatuista lapsista</string>
@@ -332,7 +327,6 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="apps_with_restrictions_header">Rajoitetut sovellukset</string>
   <string name="apps_with_restrictions_settings_button">Laajenna sovelluksen asetuksia</string>
   <string name="ask_compatibility">Kysy käynnistettäessä</string>
-  <string name="ask_for_delete">Oletko varma, että haluat poistaa säännön?</string>
   <string name="assist_access_context_summary">Salli avustajasovelluksen käsitellä näytön sisältöä tekstinä.</string>
   <string name="assist_access_context_title">Käytä näytön tekstiä</string>
   <string name="assist_access_screenshot_summary">Salli avustajasovelluksen käsitellä näytön kuvaa</string>
@@ -372,8 +366,6 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="auto_replace_summary">Korjaa väärin kirjoitetut sanat</string>
   <string name="auto_restore_summary">Varmuuskopioidut asetukset ja tiedot palautetaan, kun sovellus asennetaan uudelleen.</string>
   <string name="auto_restore_title">Automaattinen palautus</string>
-  <string name="auto_rule">ajasta sääntö</string>
-  <string name="auto_silent">Ajastettu Mykistys</string>
   <string name="auto_startup_application_manage">Automaattinen käynnistys</string>
   <string name="auto_startup_count">%d sovellusta on sallittu käynnistymään automaattisesti</string>
   <string name="automatic_brightness">Automaattinen kirkkaus</string>
@@ -613,8 +605,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="bluetooth_enter_passkey_other_device">Saatat joutua syöttämään tämän koodin myös toiseen laitteeseen.</string>
   <string name="bluetooth_enter_pin_other_device">Saatat joutua syöttämään tämän PIN-koodin myös toiseen laitteeseen.</string>
   <string name="bluetooth_error_title"/>
-  <string name="bluetooth_filter_device_display">Näytä kaikki</string>
-  <string name="bluetooth_filter_device_filter">Vain tyypillisiä</string>
   <string name="bluetooth_headset_profile_summary_connected">Yhdistetty puhelimen ääneen</string>
   <string name="bluetooth_headset_profile_summary_use_for">Käytä puhelimen äänille</string>
   <string name="bluetooth_hid_profile_summary_connected">Yhdistetty syöttölaitteeseen</string>
@@ -839,7 +829,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="cancel">Peruuta</string>
   <string name="cancel_action">Peruuta</string>
   <string name="cancel_alert">Hylätäänkö muutokset?</string>
-  <string name="cancel_button">Peruuta</string>
   <string name="cancel_download_buton_text">Peruuta</string>
   <string name="cant_sync_dialog_message">Tämän kohteen synkronointi on tällä hetkellä pois käytöstä. Voit muuttaa asetuksia ottamalla taustatiedot ja automaattisen synkronoinnin väliaikaisesti käyttöön.</string>
   <string name="cant_sync_dialog_title">Manuaalinen synkronointi epäonnistui</string>
@@ -920,8 +909,6 @@ Lähetykseen käytetään vähän virtaa kuluttavia Bluetooth-signaaleja."</stri
   <string name="close_gesture">Sulje käyttäen elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_miui_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta muutokset tulevat voimaan.</string>
-  <string name="close_sdcard_optimization_title">Sulje emuloidun SD-kortin optimointi</string>
-  <string name="close_sdcard_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta tämä muutos tulee voimaan.</string>
   <string name="cloud_backup_section_title">Mi Pilven varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
   <string name="cloud_restore_section_summary">Palauta sovelluksia, Kotinäytön ulkoasu ja järjestelmän asetukset</string>
@@ -1195,7 +1182,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="date_picker_title">Päiväys</string>
   <string name="date_time_24hour">Käytä 24-tuntista kelloa</string>
   <string name="date_time_24hour_title">24 tunnin kello</string>
-  <string name="date_time_auto">Automaattinen päivämäärä ja aika</string>
+  <string name="date_time_auto">Automaattinen päivä ja aika</string>
   <string name="date_time_auto_summaryOff">Käytä verkon määrittämää aikaa</string>
   <string name="date_time_auto_summaryOn">Käytä verkon määrittämää aikaa</string>
   <string name="date_time_set_date">Aseta päivämäärä</string>
@@ -1205,7 +1192,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="date_time_set_timezone">Valitse aikavyöhyke</string>
   <string name="date_time_set_timezone_title">Aikavyöhyke</string>
   <string name="date_time_settings">Päivämäärä &amp; aika</string>
-  <string name="day_of_week">Viikonpäivä</string>
   <string name="debug_app">Valitse vianetsintäsovellus</string>
   <string name="debug_app_not_set">Vianetsintäsovellusta ei ole asetettu</string>
   <string name="debug_app_set">Vianetsintäsovellus: %1$s</string>
@@ -1235,7 +1221,6 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_input_method">Valitse oletusnäppäimistö</string>
   <string name="default_keyboard_layout">Default</string>
   <string name="default_phone_title">Puhelinsovellus</string>
-  <string name="default_rule_name">ajasta sääntö 1</string>
   <string name="default_sound">Oletusääni</string>
   <string name="default_spell_checker">Oletusarvoinen oikoluku</string>
   <string name="default_usb_mode">USB-yhteys</string>
@@ -1244,9 +1229,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="delete_fingerprint_text">Poista sormenjälki</string>
   <string name="delete_legacy_fingerprint">Poista</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Poistetaanko tämä sormenjälki?</string>
-  <string name="delete_rule">poista sääntöjä</string>
   <string name="delete_saved_network">Poista tallennetut verkot</string>
-  <string name="demo_mode">Demo tila</string>
+  <string name="demo_mode">Demo mode</string>
   <string name="deny">Hylkää</string>
   <string name="details_subtitle">Käyttötiedot</string>
   <string name="details_title">Käyttötiedot</string>
@@ -1457,10 +1441,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="edge_mode_photo_summary">Kamera sovelluksen ollessa auki, napauta näytön reunaa aktivoidaksesi kameran sulkijan ja napauta uudelleen ottaaksesi kuvan</string>
   <string name="edge_mode_screenshot">Kuvakaappaus</string>
   <string name="edge_mode_screenshot_summary">Tuplanapauta molempia reunoja ottaaksesi kuvakaappauksen</string>
-  <string name="edge_touch_volume">Säädä äänenvoimakkuutta Reunakosketuksella</string>
-  <string name="edit_rule">muokkaa sääntöjä</string>
-  <string name="edit_rules">muokkaa</string>
-  <string name="eighthours">8 tuntia</string>
+  <string name="edge_touch_volume">Adjust volume on the Edge Touch</string>
   <string name="emergency_info_title">Hätätilannetiedot</string>
   <string name="emergency_tone_alert">Ilmoitus</string>
   <string name="emergency_tone_silent">Äänetön</string>
@@ -1508,19 +1489,19 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="encryption_interstitial_message_password">"Voit parantaa tämän laitteen suojausta vaatimalla salasanan ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset. 
 
 Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot."</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä salasanan ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi). 
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä salasanan ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään herätykset eivät toimi). 
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
   <string name="encryption_interstitial_message_pattern">"Voit parantaa tämän laitteen suojausta vaatimalla kuvion ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset. 
 
 Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot."</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä käyttäjää antamaan kuvion ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi). 
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä käyttäjää antamaan kuvion ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään herätykset eivät toimi). 
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
   <string name="encryption_interstitial_message_pin">"Voit parantaa tämän laitteen suojausta vaatimalla PIN-koodin ennen käynnistystä. Ennen käynnistystä laite ei vastaanota puheluita, viestejä eikä ilmoituksia, mukaan lukien hälytykset. 
 
 Tämä auttaa suojaamaan kadonneen tai varastetun laitteen sisältämät tiedot."</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä PIN-koodin ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään hälytykset eivät toimi). 
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Laitteen lukitus voidaan avata vain sormenjäljen avulla. Tämän lisäksi voit vielä parantaa laitteen suojausta edellyttämällä PIN-koodin ennen laitteen käynnistymistä. Ennen kuin laite käynnistyy, se ei voi vastaanottaa puheluita, viestejä tai ilmoituksia (myöskään herätykset eivät toimi). 
 
 Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</string>
   <string name="encryption_progress_summary">Salataan, älä käynnistä laitettasi uudelleen.</string>
@@ -1614,7 +1595,6 @@ Tämä auttaa suojaamaan kadotettujen tai varastettujen laitteiden tietoja."</st
   <string name="fingerprint_unlock_set_unlock_pin">Sormenjälki ja PIN-koodi</string>
   <string name="fingerprint_usage_category_title">Sormenj. käyttökohde</string>
   <string name="finish_application">Pakota lopetus</string>
-  <string name="finish_button">valmis</string>
   <string name="finish_button_label">Valmis</string>
   <string name="firmware_version">Android-versio</string>
   <string name="floating_window_switch_label">Ota kelluvat ikkunat käyttöön</string>
@@ -1668,7 +1648,6 @@ Näkyvissä ei ollut lainkaan hevosia tai minkäänlaisia muita eläimiä. Miehe
   <string name="forget_privacy_password_summary">Käytä Mi Tiliäsi salasanan palauttamiseen</string>
   <string name="forget_wifi_message">Laitteesi ei enää yhdistä automaattisesti tähän verkkoon.</string>
   <string name="found_new_version">Päivitys saatavilla</string>
-  <string name="fourhours">2 tuntia</string>
   <string name="fp_nav_center_back_to_home_title">Napauta Koti-painiketta palataksesi takaisin Kotinäytölle</string>
   <string name="free_memory">Vapaana</string>
   <string name="free_wifi_agreement_remind_never">Älä näytä uudelleen</string>
@@ -1873,6 +1852,14 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="keyboard_shortcuts_helper">Näppäimistön pikavalintojen auttaja</string>
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikavalinnat</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
+  <string name="keyguard_left_function_chooser_hint_text">Vasen pikavalinta vaihdettu: %s</string>
+  <string name="keyguard_left_function_chooser_title">Sovellus</string>
+  <string name="keyguard_left_function_title">Vasen</string>
+  <string name="keyguard_right_function_chooser_hint_text">Oikea pikavalinta vaihdettu: %s</string>
+  <string name="keyguard_right_function_chooser_title">Sovellus</string>
+  <string name="keyguard_right_function_title">Oikea</string>
+  <string name="keyguard_shortcut_summary">Aseta Lukitusnäytön pikavalinnat kahdelle sovellukselle</string>
+  <string name="keyguard_shortcut_title">Lukitusnäytön pikavalinnat</string>
   <string name="keywords_accounts">tili</string>
   <string name="keywords_airplane">Lentokone;Lentokonetila;Lento;Lentotila</string>
   <string name="keywords_all_apps">sovellukset, lataus, järjestelmä</string>
@@ -2188,9 +2175,9 @@ Voit asettaa uuden näytön lukituksen sekä laitteelle että työprofiilille, m
   <string name="lockpattern_settings_help_how_to_record">Lukituksenpoistokuvion piirtäminen</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Paitsi kun lukitusta pitää avattuna %1$s</string>
   <string name="lockpattern_settings_require_cred_before_startup">Turvallinen käynnistys</string>
-  <string name="lockpattern_settings_require_password_before_startup_summary">Vaadi salasana laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä hälytyksiä.</string>
-  <string name="lockpattern_settings_require_pattern_before_startup_summary">Vaadi kuvio laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä hälytyksiä.</string>
-  <string name="lockpattern_settings_require_pin_before_startup_summary">Vaadi PIN-koodi laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä hälytyksiä.</string>
+  <string name="lockpattern_settings_require_password_before_startup_summary">Vaadi salasana laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä herätyksiä.</string>
+  <string name="lockpattern_settings_require_pattern_before_startup_summary">Vaadi kuvio laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä herätyksiä.</string>
+  <string name="lockpattern_settings_require_pin_before_startup_summary">Vaadi PIN-koodi laitteen käynnistyksen yhteydessä. Kun laite ei ole päällä, se ei voi käyttää puheluja, viestejä, ilmoituksia eikä herätyksiä.</string>
   <string name="lockpattern_settings_title">Lukituksenpoistokuvio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Liian monta virheellistä yritystä. Yritä uudelleen %d sekunnin kuluttua.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Odota %d sekuntia ja yritä uudelleen.</string>
@@ -2368,13 +2355,6 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_allow_vibrate">Värinät</string>
   <string name="miui_data_usage_menu_metered">Mobiili hotspotit</string>
   <string name="miui_experience_optimization">Ota MIUI optimointi käyttöön</string>
-  <string name="miui_lab_feature_off">Pois päältä</string>
-  <string name="miui_lab_feature_on">Päällä</string>
-  <string name="miui_lab_features">MIUI lab ominaisuudet</string>
-  <string name="miui_lab_settings">MIUI lab</string>
-  <string name="miui_lab_slogan">Opi. Tutki. Löydä.</string>
-  <string name="miui_lab_taplus_desc">Pidä pohjassa käynnistääksesi pikavalinnat</string>
-  <string name="miui_lab_taplus_title">Sovellukset</string>
   <string name="miui_screen_config_title">Kotinäytön asetukset</string>
   <string name="mms_breathing_light_color_title">Viestien valon väri</string>
   <string name="mms_breathing_light_freq_title">Viestien valon vilkkumistiheys</string>
@@ -2388,8 +2368,6 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>
-  <string name="mode_disable">ei käytössä</string>
-  <string name="mode_enable">käytössä</string>
   <string name="model_number">Mallinumero</string>
   <string name="modify_instruction_password_settings">Aseta salasana</string>
   <string name="modify_privacy_password">Vaihda salasana</string>
@@ -2643,7 +2621,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="oem_radio_info_label">OEM-kohtaiset tiedot/asetukset</string>
   <string name="oem_unlock_enable">OEM:n lukituksen avaus</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>
-  <string name="ok_rules">valmis</string>
   <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Käynnistetäänkö puhelin?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Puhelimesi käynnistyy uudelleen, jotta Lite-tila poistuu käytöstä.</string>
@@ -2657,7 +2634,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
   <string name="one_userkey">yhden käyttäjän näppäin</string>
-  <string name="onehour">30 minuuttia</string>
   <string name="onekey_migrate">Mi Siirtäjä</string>
   <string name="online_resource_entry">Online resurssit</string>
   <string name="only_one_home_message">Aloitusnäytön asetukset piilotetaan, kunnes asennat toisen aloitusnäyttösovelluksen.</string>
@@ -2669,8 +2645,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_personal_assistant_dialog_desc">Et voi käyttää Älykästä avustajaa ja saada sen päivityksiä. Poistetaanko käytöstä nyt?</string>
   <string name="open_personal_assistant_dialog_title">Poista Älykäs avustaja käytöstä</string>
   <string name="open_personal_assistant_title">Ota Älykäs avustaja käyttöön</string>
-  <string name="open_sdcard_optimization_title">avaa emuloita sd-kortin optimointi</string>
-  <string name="open_sdcard_optimization_warning_message">Laitteesi käynnistyy uudelleen, jotta tämä muutos tulee voimaan.</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
   <string name="open_wifi_connect_title">Yhdistetty verkkoon %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
@@ -3117,8 +3091,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Poista työprofiili</string>
   <string name="repeat">Toista</string>
-  <string name="repeat_call">Toistuvan soittajan muistutus</string>
-  <string name="repeat_call_info">Äänettömässä tilassa, jos sama henkilö soittaa 15 minuutin sisällä kaksi kertaa, sallitaan Ling Ling muistutukset</string>
   <string name="repeat_title">Toista</string>
   <string name="reset_aaid">Nollaa mainosten tunnistaja</string>
   <string name="reset_app_preferences">Nollaa sovellusasetukset</string>
@@ -3188,7 +3160,6 @@ Valitse käyttöjärjestelmäsi:"</string>
 
 Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="rule_name">säännön nimi</string>
   <string name="running_frequency">Toistuvuus</string>
   <string name="running_process_item_removed_user_label">Poistettu käyttäjä</string>
   <string name="running_process_item_user_label">Käyttäjä: %1$s</string>
@@ -3349,11 +3320,6 @@ Näytön kiinnittäminen:
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Muutokset tulevat voimaan, kun USB-kaapeli kytketään uudelleen.</string>
   <string name="sdcard_format">Tyhjennä USB-tila</string>
-  <string name="sdcard_optimization">emuloidun sd-kortin optimointi</string>
-  <string name="sdcard_optimization_cancel">Peruuta</string>
-  <string name="sdcard_optimization_close">Poista käytöstä &amp; käynnistä uudelleen</string>
-  <string name="sdcard_optimization_open">Ota käyttöön</string>
-  <string name="sdcard_optimization_summary">lue ja kirjoita sd-kortille nopeammin</string>
   <string name="sdcard_setting">USB-tallennustila</string>
   <string name="sdcard_settings_available_bytes_label">Tavuja käytettävissä:</string>
   <string name="sdcard_settings_bad_removal_status">USB-tila irrotettiin sen ollessa käytössä!</string>
@@ -3483,7 +3449,7 @@ Näytön kiinnittäminen:
   <string name="search_recents_queries_label">Viimeisimmät haut</string>
   <string name="search_results_label">Tulokset</string>
   <string name="search_results_title">Asetukset</string>
-  <string name="search_ring_volume_option_title">Äänenvoimakkuudet;Äänenvoimakkuus;Soittoääni &amp; ilmoitukset;Soittoääni ja ilmoitukset;Soittoääni;Soittoäänet;Hälytys;hälytys;Musiikki</string>
+  <string name="search_ring_volume_option_title">Äänenvoimakkuudet;Äänenvoimakkuus;Soittoääni &amp; ilmoitukset;Soittoääni ja ilmoitukset;Soittoääni;Soittoäänet;Hälytys;Herätys;Musiikki</string>
   <string name="search_ringtone_title">Puhelimen soittoääni;soittoääni;soittoäänet</string>
   <string name="search_screen_effect">Värit &amp; saturaatio;Värit &amp; kontrasti;värit;värit saturaatio;kontrasti</string>
   <string name="search_screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
@@ -3506,7 +3472,7 @@ Näytön kiinnittäminen:
   <string name="search_sms_delivered_sound_title">Viesti toimitettu</string>
   <string name="search_sms_received_sound_title">Viestien saapumisääni;viestin ääni;vastaanotettu viesti;viestin soittoääni</string>
   <string name="search_sound_effects_enable_title">Kosketusäänet</string>
-  <string name="search_sound_settings">Ääni;Äänenvoimakkuudet;Äänetön tila;hälytys;Musiikki;Värinä;Puhelimen soittoääni;Ilmoituksen oletusääni;Viestien saapumisääni;Viesti toimitettu;Kosketa;Näytön lukitusääni;Ääniasetukset;Vaimenna ääntä</string>
+  <string name="search_sound_settings">Ääni;Äänenvoimakkuudet;Äänetön tila;Herätys;Musiikki;Värinä;Puhelimen soittoääni;Ilmoituksen oletusääni;Viestien saapumisääni;Viesti toimitettu;Kosketa;Näytön lukitusääni;Ääniasetukset;Vaimenna ääntä</string>
   <string name="search_status_bar_settings">Ilmoitukset &amp; tilapalkki;Ilmoitukset;Tilapalkki;Ilmoitusalue</string>
   <string name="search_status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Näytä lukitusnäytöllä</string>
@@ -3735,13 +3701,7 @@ Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai
   <string name="shut_down_find_device_network_failure_content">Etsi-laite toiminnon sammuttaminen epäonnistui. Varmista, että sinulla on internet-yhteys.</string>
   <string name="shut_down_find_device_network_failure_title">Verkkoon yhdistäminen epäonnistui</string>
   <string name="shuting_down_find_device">Etsi-laite toimintoa sammutetaan…</string>
-  <string name="silent_mode">Äänetön tila</string>
-  <string name="silent_mode_title">Äänetön tila</string>
-  <string name="silent_off">Poista käytöstä</string>
-  <string name="silent_settings">Äänetön tila</string>
-  <string name="silent_standard">Äänetön</string>
-  <string name="silent_time">Äänettömän tilan kesto</string>
-  <string name="silent_total">Älä häiritse</string>
+  <string name="silent_mode_title">Äänetöntila</string>
   <string name="sim_bad_pin">Väärä PIN-koodi</string>
   <string name="sim_call_back_title">Soita takaisin oletus-SIM-kortilla</string>
   <string name="sim_calls_always_use">Käytä kaikille puheluille</string>
@@ -3868,10 +3828,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
 
 Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="stable_build">" | Vakaa"</string>
-  <string name="standard">Äänetön</string>
-  <string name="standard_info">Puheluita ja ilmoituksia ei sallita, mutta hälytykset soi</string>
-  <string name="start_silent_mode">Ota Äänetön tila käyttöön</string>
-  <string name="start_vip_mode">Ota VIP tila käyttöön</string>
   <string name="starting_android">Androidia käynnistetään…</string>
   <string name="status_awaiting_tap">Kirjoita napauttamalla tagia…</string>
   <string name="status_awake_time">Käytössäoloaika</string>
@@ -4175,7 +4131,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="tether_devices_management_title">Hallitse laitteita</string>
   <string name="tether_devices_max_number">Yhdistettyjen laitteiden raja</string>
   <string name="tether_settings_disabled">Hotspot ei ole käytössä</string>
-  <string name="tether_settings_disabled_on_data_saver">Data Saver -toiminnon ollessa päällä, et voi jakaa yhteyttä tai käyttää kannettavaa yhteyspistettä</string>
+  <string name="tether_settings_disabled_on_data_saver">Can’t tether or use portable hotspots while Data Saver is on</string>
   <string name="tether_settings_launch_title">Mobile HotSpot</string>
   <string name="tether_settings_title_all">Jaettu yhteys ja kannettava yhteyspiste</string>
   <string name="tether_settings_title_bluetooth">Jaettu Bluetooth-yhteys</string>
@@ -4197,16 +4153,15 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
 1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
 
 2.You configure the hotspot with the WLAN hotspot settings."</string>
-  <string name="tethering_help_dialog_title">Apua</string>
-  <string name="tethering_no_sim_alert_title">Ei SIM-korttia</string>
-  <string name="tethering_no_sim_card_text">Ole hyvä ja asenna SIM-kortti, jotta voit jakaa laitteesi internetyhteyden käyttämällä USB:tä tai luomalla kannettavan Hotspot yhteyspisteen.</string>
+  <string name="tethering_help_dialog_title">Help</string>
+  <string name="tethering_no_sim_alert_title">No SIM Card</string>
+  <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
   <string name="tethering_settings_not_available">Tämä käyttäjä ei voi käyttää yhteyden jakamisasetuksia</string>
-  <string name="tethering_settings_summary">Jaa laitteesi mobiilidatayhteys USB:n tai kannettavan Hotspot yhteyspisteen kautta</string>
+  <string name="tethering_settings_summary">"Share your device's mobile data connection via USB or a Mobile HotSpot"</string>
   <string name="theme_settings_title">Teemat</string>
   <string name="time_picker_title">Aika</string>
   <string name="time_zone_auto_stub">Valitse aikavyöhyke</string>
-  <string name="timed_titlei">ajasta sääntö %d</string>
-  <string name="timer_switch_settings_title">Ajastettu käynnistäminen ja sammuttaminen</string>
+  <string name="timer_switch_settings_title">Scheduled power on and off</string>
   <string name="timezone_settings">Aikavyöhyke</string>
   <string name="title_color_calibration">Värikorjauksen esiasetus</string>
   <string name="title_convert_fbe">Muunnetaan tiedostopohjaiseksi salaukseksi</string>
@@ -4222,8 +4177,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_system_resource">Järjestelmäresurssit</string>
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>
   <string name="toast_need_login">Kirjaudu sisään Mi Tilillesi</string>
-  <string name="total">Älä häiritse</string>
-  <string name="total_info">Mykistää äänet ja poistaa värinän käytöstä kaikille kohteille paitsi Herätyskellolle</string>
   <string name="total_memory">Muistia yhteensä</string>
   <string name="total_size">%s yhteensä</string>
   <string name="total_size_label">Yhteensä</string>
@@ -4239,7 +4192,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="touch_title">Kosketa</string>
   <string name="track_frame_time">Profiilin GPU-hahmonnus</string>
   <string name="trackball_settings">Pallohiiri</string>
-  <string name="trackball_wake_title">Pallohiiri hälytys</string>
+  <string name="trackball_wake_title">Pallohiiri herätys</string>
   <string name="traffic_balance">Älykäs tiedonsiirtostrategia</string>
   <string name="transition_animation_scale_title">Siirtymä</string>
   <string name="translation_contributors_summary"/>
@@ -4309,9 +4262,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_on_keyguard_password">Ota Lukitusnäytön salasana käyttöön</string>
   <string name="turn_on_radio">Käynnistä radio</string>
   <string name="turn_on_security_lock">Valitse näytön lukitus</string>
-  <string name="turn_on_wifi_dialog_text">Wi-Fi poistetaan käytöstä sen ajaksi, kun kannettava yhteyspiste Hotspot on käytössä. Ottaaksesi Wi-Fin takaisin käyttöön, ole hyvä ja poista Hotspot ensin käytöstä.</string>
-  <string name="turn_on_wifi_dialog_title">Ota Wi-Fi käyttöön</string>
-  <string name="twohours">1 tunti</string>
   <string name="under_keyguard">Lukitusnäyttö</string>
   <string name="uninstall_all_users_text">Poista kaikilta käyttäjiltä</string>
   <string name="uninstall_device_admin">Poista sovellus</string>
@@ -4578,8 +4528,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vibrate_input_devices_summary">Ohjaa värinä peliohjaimeen, jos ohjain on kytketty.</string>
   <string name="vibrate_on_touch_title">Kosketusvärinä</string>
   <string name="vibrate_when_ringing_title">Värinä myös puheluille</string>
-  <string name="vip_list">VIP-luettelo</string>
-  <string name="vip_mode_info">Äänettömässä tilassa VIP-luettelossa olevat yhteystiedot voivat soittaa ja lähettää tekstiviestejä, joista saat Ling muistutuksia</string>
   <string name="virtual_keyboard_category">Virtuaalinen näppäimistö</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Luotettava kansainvälinen roamingpalvelu</string>
@@ -4634,8 +4582,8 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="voice_search_settings_title">Puhehaku</string>
   <string name="voice_service_preference_section_title">Äänisyötepalvelut</string>
   <string name="volte_provisioned_switch_string">VoLTE Provisioned</string>
-  <string name="volume_alarm_description">Hälytykset</string>
-  <string name="volume_alarm_mute">Mykistä hälytykset</string>
+  <string name="volume_alarm_description">Herätykset</string>
+  <string name="volume_alarm_mute">Mykistä herätykset</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">Hi-Fi settings</string>
@@ -4851,7 +4799,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_eap_ca_cert">CA-varmenne</string>
   <string name="wifi_eap_domain">Verkkotunnus</string>
   <string name="wifi_eap_identity">Identiteetti</string>
-  <string name="wifi_eap_info_reconnect">Todennus epäonnistui, ole hyvä ja yritä uudelleen!</string>
   <string name="wifi_eap_method">EAP-tapa</string>
   <string name="wifi_eap_sim_simcard">Valitse SIM-kortti</string>
   <string name="wifi_eap_user_cert">Käyttäjävarmenne</string>
@@ -4880,7 +4827,6 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wifi_hotspot_message">%1$s edellyttää kirjautumista online-tilassa ennen verkkoon yhdistämistä.</string>
   <string name="wifi_hotspot_title">Kirjaudutaanko sisään yhteyttä varten?</string>
   <string name="wifi_in_airplane_mode">Lentokonetilassa</string>
-  <string name="wifi_info_reconnect">Salasanavirhe, ole hyvä ja yritä uudelleen!</string>
   <string name="wifi_install_credentials">Asenna varmenteet</string>
   <string name="wifi_ip_address">IP-osoite</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
@@ -5207,7 +5153,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_event_rule_type_name">Tapahtumasääntö</string>
   <string name="zen_mode_add_rule">Lisää sääntö</string>
   <string name="zen_mode_alarm_use">Äänet</string>
-  <string name="zen_mode_alarms">Hälytykset</string>
+  <string name="zen_mode_alarms">Herätykset</string>
   <string name="zen_mode_all_callers">Kaikki soittajat</string>
   <string name="zen_mode_all_messages">Kaikki viestit</string>
   <string name="zen_mode_all_visual_interruptions">Pois käytöstä</string>
@@ -5242,7 +5188,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_mode_messages">Viestit</string>
   <string name="zen_mode_miui_silent_category">Salli</string>
   <string name="zen_mode_no_visual_interruptions">Kun näyttö on päällä tai pois päältä</string>
-  <string name="zen_mode_option_alarms">Vain hälytykset</string>
+  <string name="zen_mode_option_alarms">Vain herätykset</string>
   <string name="zen_mode_option_important_interruptions">Vain tärkeät</string>
   <string name="zen_mode_option_miui_silent">Äänetöntila</string>
   <string name="zen_mode_option_miui_vibrate">Älä Häiritse</string>
@@ -5261,8 +5207,8 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
 %2$s"</string>
   <string name="zen_mode_rule_type">Säännön tyyppi</string>
   <string name="zen_mode_rule_type_unknown">Tuntematon</string>
-  <string name="zen_mode_schedule_alarm_summary">Lopeta päättymisajan tai seuraavan hälytyksen yhteydessä.</string>
-  <string name="zen_mode_schedule_alarm_title">Hälytys voi ohittaa päättymisajan</string>
+  <string name="zen_mode_schedule_alarm_summary">Lopeta päättymisajan tai seuraavan herätyksen yhteydessä.</string>
+  <string name="zen_mode_schedule_alarm_title">Herätys voi ohittaa päättymisajan</string>
   <string name="zen_mode_schedule_rule_days">Päivät</string>
   <string name="zen_mode_schedule_rule_days_all">Joka päivä</string>
   <string name="zen_mode_schedule_rule_days_none">Ei mitään</string>
@@ -5277,8 +5223,8 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_mode_selected_messages">Valitut viestit</string>
   <string name="zen_mode_settings_title">Älä häiritse</string>
   <string name="zen_mode_start_time">Aloitusaika</string>
-  <string name="zen_mode_summary_alarms_only_by_time">Ota vain hälytykset käyttöön kello %1$s asti.</string>
-  <string name="zen_mode_summary_alarms_only_indefinite">Ota vain hälytykset käyttöön toistaiseksi.</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Ota vain herätykset käyttöön kello %1$s asti.</string>
+  <string name="zen_mode_summary_alarms_only_indefinite">Ota vain herätykset käyttöön toistaiseksi.</string>
   <string name="zen_mode_summary_always">Salli keskeytykset aina.</string>
   <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Estä näkyvät häiriötekijät</string>

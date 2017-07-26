@@ -3,7 +3,7 @@
     <string-array name="ble_profile_mi_band">
         <item>Värise kun soi</item>
         <item>Värise kun viesti saapuu</item>
-        <item>Värise kun hälytys soi</item>
+        <item>Värise kun herätys soi</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
         <item>Ota kuva</item>

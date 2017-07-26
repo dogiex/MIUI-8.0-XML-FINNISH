@@ -199,7 +199,7 @@
   <string name="current_version_pad">Tabletti</string>
   <string name="current_version_pc">Pöytäkone</string>
   <string name="current_version_phone">Puhelin</string>
-  <string name="custom_head_card_text">Usko aina, että jotain hienoa tulee tapahtumaan</string>
+  <string name="custom_head_card_text">Elä aina uskossa, että jotain hienoa tulee tapahtumaan</string>
   <string name="custom_head_card_text_incognito">Olet muuttunut näkymättömäksi! Sivut, joita katselet ei näy historiassa.</string>
   <string name="data_traffic_prompt_change">Videoiden katsominen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
   <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>

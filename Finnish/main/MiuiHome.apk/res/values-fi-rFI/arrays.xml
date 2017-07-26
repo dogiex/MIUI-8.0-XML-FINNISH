@@ -51,8 +51,10 @@
         <item>Haze</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Taustakuva</item>
+        <item>Teemat</item>
         <item>Widgetit</item>
-        <item>Asetukset</item>
+        <item>Taustakuva</item>
+        <item>Tehosteet</item>
+        <item>Ulkoasu</item>
     </string-array>
 </resources>

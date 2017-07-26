@@ -1049,7 +1049,7 @@ tilille %s."</string>
   <string name="permlab_sdcardRead">lue USB-tallennustilan sis.</string>
   <string name="permlab_sdcardWrite">muokkaa tai poista USB:n sis.</string>
   <string name="permlab_sendSms">lähettää ja tarkastella tekstiviestejä</string>
-  <string name="permlab_setAlarm">aseta hälytys</string>
+  <string name="permlab_setAlarm">aseta herätys</string>
   <string name="permlab_setInputCalibration">Muuttaa syöttölaitteen kalibrointia.</string>
   <string name="permlab_setTimeZone">asettaa aikavyöhykkeen</string>
   <string name="permlab_setWallpaper">aseta taustakuva</string>

@@ -33,8 +33,8 @@
         <item quantity="one">1 minuutti</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
-        <item quantity="other">Poistetaanko valitut hälytykset?</item>
-        <item quantity="one">Poistetaanko tämä hälytys?</item>
+        <item quantity="other">Poistetaanko valitut herätykset?</item>
+        <item quantity="one">Poistetaanko tämä herätys?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">Poistetaanko valitut aikavyöhykkeet?</item>

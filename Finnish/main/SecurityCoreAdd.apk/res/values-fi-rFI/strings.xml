@@ -222,7 +222,6 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
 siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="start_setting_guide_desc_title">Muutama asia, jotka täytyy asettaa</string>
   <string name="summary_switch_apps_settings">Valitse nykyisessä tilassa käytettävät sovellukset</string>
-  <string name="support_desc">Tietoturvapalvelut tarjoaa Graphite</string>
   <string name="sure_to_use">Vahvista</string>
   <string name="switchDataSummary">Siirrä kohteita tilojen välillä</string>
   <string name="switch_apps_settings">Sovellusasetukset</string>

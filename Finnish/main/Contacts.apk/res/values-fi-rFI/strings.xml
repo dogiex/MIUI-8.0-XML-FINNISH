@@ -519,7 +519,6 @@ Syy: %s"</string>
   <string name="hybrid_network_unavaliable">Verkkoon ei saada yhteyttä</string>
   <string name="hybrid_service_unavailiable">Palvelu ei ole saatavilla</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
-  <string name="hybrid_webpage_not_available">Verkkosivu ei ole saatavilla</string>
   <string name="ic_menu_back">Takaisin</string>
   <string name="ic_menu_done">Valmis</string>
   <string name="imLabelsGroup">IM</string>
