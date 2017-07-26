@@ -840,8 +840,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
         <item>Käynnistetäänkö laite uudelleen, jotta asetukset tulevat voimaan?</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Ei rajaa</item>
     <string-array name="screen_resolution_entries">
-        <item>Ultrahigh (2K)</item>
+        <item>Ultrakorkea (2K)</item>
         <item>Normaali (720p)</item>
     </string-array>
     <string-array name="common_password_business_names">
