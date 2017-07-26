@@ -848,6 +848,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>1</item>
         <item>Ei rajaa</item>
+    </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultrakorkea (2K)</item>
         <item>Normaali (720p)</item>
