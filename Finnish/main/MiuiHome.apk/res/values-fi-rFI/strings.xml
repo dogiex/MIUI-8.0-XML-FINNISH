@@ -170,7 +170,7 @@
   <string name="menu_exit_scene">Poistu Mi Space</string>
   <string name="menu_item_add_item">Aseta Kotinäytölle</string>
   <string name="menu_launcher_setting">Käynnistimen asetukset</string>
-  <string name="menu_lock">Lukitusnäyttö</string>
+  <string name="menu_lock">Lukitse näyttö</string>
   <string name="menu_more">Lisää</string>
   <string name="menu_picktheme">Valitse teema</string>
   <string name="menu_reset_scene">Palauta ulkoasu oletusasetuksiin</string>
