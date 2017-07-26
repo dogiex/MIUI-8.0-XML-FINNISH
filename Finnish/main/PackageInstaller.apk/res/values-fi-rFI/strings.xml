@@ -120,7 +120,6 @@ Sallitaanko tämä nyt ja jatkossa"</string>
   <string name="config_helpIntentExtraKey"/>
   <string name="config_helpIntentNameKey"/>
   <string name="config_helpPackageNameKey"/>
-  <string name="config_helpPackageNameValue"/>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
@@ -475,9 +474,7 @@ Kaikki aikaisemmat käyttäjätiedot tallennetaan."</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
